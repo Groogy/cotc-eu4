@@ -1,0 +1,26 @@
+# Ili
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = mongol
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2120
+1444.6.17 = {
+	monarch = {
+		name = "Dingtri"
+		birth_date = 1393.4.1
+		dynasty = "Glo"
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 2120
+	add_treasury = 0
+	add_prestige = 22
+}

@@ -1,0 +1,41 @@
+# Tynea
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 305
+1404.3.11 = {
+	monarch = {
+		name = "Virdyan"
+		birth_date = 1399.11.11
+		dynasty = "Severnayid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = expansionist_personality
+	add_ruler_personality = greedy_personality
+}
+1422.11.2 = {
+	heir = {
+		name = "Parava"
+		monarch_name = "Parava"
+		dynasty = "Severnayid"
+		birth_date = 1422.11.2
+		death_date = 1502.11.2
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 305
+	add_treasury = 1
+	add_prestige = 52
+}

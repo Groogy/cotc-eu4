@@ -1,0 +1,24 @@
+# Northumberland
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 246
+1442.7.11 = {
+	monarch = {
+		name = "George II"
+		birth_date = 1442.1.4
+		dynasty = "de Umfraville"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 246
+	add_treasury = 48
+	add_prestige = 29
+}

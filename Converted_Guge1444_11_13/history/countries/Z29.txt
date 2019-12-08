@@ -1,0 +1,28 @@
+# Transjurania
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1867
+1428.5.15 = {
+	monarch = {
+		name = "Géraud"
+		birth_date = 1405.11.3
+		dynasty = "de Genève"
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
+}
+1444.11.11 = {
+	capital = 1867
+	add_treasury = 50
+	add_prestige = 250
+	elector = no
+}

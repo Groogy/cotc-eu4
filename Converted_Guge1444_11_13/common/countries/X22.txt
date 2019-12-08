@@ -1,0 +1,156 @@
+# Cherson
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 180 180 90 }
+
+
+
+
+leader_names = {
+
+	"Theodotos" "Eustratios" "Photios" "Garyphallia" "Euphrasia" "Philippa" "Ermenberga" "Iosif" "Theophano" "Serapion" 
+	"Boethios" "Iouliana" "Anthousa" "Eudoxia" "Bardas" "Damiane" "Ioanna" "Theodora" "Theophylaktos" "Ioannes" 
+	"Niketas" "Andreas" "Ioustinianos" "Antipatra" "Michael" "Komitas" "Bartholomaios" "Germanos" "Anthimos" "Neophytos" 
+	"Ioseph" "Demetra" "Iancu" "Alexios" "Manuel" "Dionysia" "Sebastos" "Yilig" "Mänäs" "Tuvan" 
+	"Tarkhan" "Zachariah" "Aaron" "Menahem" "Benjamin" "Sebastianos" "David" "Georgios" "Theodoros" "Damianos" 
+	"Andronikos" "Isaakios" "Katakalon" "Basileios" "Chidukhul" "Achila" "Adrianos" "Alaricos" "Alexandros" "Amalaric" 
+	"Antonios" "Arsenios" "Athanasios" "Athanaricos" "Ataulphus" "Bosporios" "Chindasuinto" "Chintila" "Christopher" "Daniel" 
+	"Evaric" "Ervigius" "Ergica" "Eugenios" "Eustathios" "Frederic" "Gabriel" "Gregoras" "Gregorios" "Hektorios" 
+	"Helias" "Herakleios" "Iakobos" "Ignatios" "Innokentios" "Ioannikios" "Iordanes" "Isaias" "Isidoros" "Ioulianos" 
+	"Ioustinos" "Kallinikos" "Kallistos" "Kyriakos" "Kyrillos" "Laurentios" "Leon" "Leovigild" "Liuva" "Loukas" 
+	"Markos" "Nikolaos" "Pavlos" "Petros" "Philippos" "Radagaisus" "Raphail" "Roderic" "Samuel" "Saurus" 
+	"Sigericos" "Sisebutus" "Sisenando" "Stephanos" "Symeon" "Suintila" "Symmachos" "Theocharistos" "Theodoric" "Theodosios" 
+	"Theodat" "Theudis" "Thomas" "Thorismod" "Tiberius" "Timotheos" "Valerios" "Witteric" "Witiges" "Zacharias" }
+monarch_names = {
+	"Theodotos #1" = 21
+	"Eustratios #0" = 1
+	"Photios #0" = 1
+	"Garyphallia #0" = -1
+	"Euphrasia #0" = -1
+	"Philippa #0" = -1
+	"Ermenberga #0" = -1
+	"Iosif #0" = 1
+	"Theophano #0" = -1
+	"Serapion #0" = 1
+	"Boethios #2" = 21
+	"Iouliana #0" = -1
+	"Anthousa #0" = -1
+	"Eudoxia #0" = -1
+	"Bardas #0" = 1
+	"Damiane #0" = -1
+	"Ioanna #0" = -1
+	"Theodora #1" = -19
+	"Theophylaktos #0" = 1
+	"Ioannes #3" = 18
+	"Niketas #0" = 1
+	"Andreas #0" = 1
+	"Ioustinianos #1" = 21
+	"Antipatra #0" = -1
+	"Michael #1" = 18
+	"Komitas #0" = 1
+	"Bartholomaios #1" = 18
+	"Germanos #0" = 1
+	"Anthimos #1" = 18
+	"Neophytos #0" = 1
+	"Ioseph #1" = 18
+	"Demetra #0" = -1
+	"Iancu #1" = 18
+	"Alexios #4" = 18
+	"Manuel #3" = 18
+	"Dionysia #0" = -1
+	"Sebastos #1" = 0
+	"Yilig #1" = 0
+	"Mänäs #1" = 0
+	"Tuvan #1" = 0
+	"Tarkhan #1" = 0
+	"Zachariah #1" = 0
+	"Aaron #1" = 0
+	"Menahem #1" = 0
+	"Benjamin #1" = 0
+	"Sebastianos #1" = 0
+	"David #1" = 0
+	"Georgios #2" = 0
+	"Theodoros #1" = 0
+	"Damianos #1" = 0
+	"Andronikos #4" = 0
+	"Isaakios #1" = 0
+	"Katakalon #1" = 0
+	"Basileios #1" = 0
+	"Chidukhul #1" = 0
+	"Achila #0" = 0
+	"Adrianos #0" = 0
+	"Alaricos #0" = 0
+	"Alexandros #0" = 0
+	"Amalaric #0" = 0
+	"Antonios #0" = 0
+	"Arsenios #0" = 0
+	"Athanasios #0" = 0
+	"Athanaricos #0" = 0
+	"Ataulphus #0" = 0
+	"Bosporios #0" = 0
+	"Chindasuinto #0" = 0
+	"Chintila #0" = 0
+	"Christopher #0" = 0
+	"Daniel #0" = 0
+	"Evaric #0" = 0
+	"Ervigius #0" = 0
+	"Ergica #0" = 0
+	"Eugenios #0" = 0
+	"Eustathios #0" = 0
+	"Frederic #0" = 0
+	"Gabriel #0" = 0
+	"Gregoras #0" = 0
+	"Gregorios #0" = 0
+	"Hektorios #0" = 0
+	"Helias #0" = 0
+	"Herakleios #0" = 0
+	"Iakobos #0" = 0
+	"Ignatios #0" = 0
+	"Innokentios #0" = 0
+	"Ioannikios #0" = 0
+	"Iordanes #0" = 0
+	"Isaias #0" = 0
+	"Isidoros #0" = 0
+	"Ioulianos #0" = 0
+	"Ioustinos #0" = 0
+	"Kallinikos #0" = 0
+	"Kallistos #0" = 0
+	"Kyriakos #0" = 0
+	"Kyrillos #0" = 0
+	"Laurentios #0" = 0
+	"Leon #0" = 0
+	"Leovigild #0" = 0
+	"Liuva #0" = 0
+	"Loukas #0" = 0
+	"Markos #0" = 0
+	"Nikolaos #0" = 0
+	"Pavlos #0" = 0
+	"Petros #0" = 0
+	"Philippos #0" = 0
+	"Radagaisus #0" = 0
+	"Raphail #0" = 0
+	"Roderic #0" = 0
+	"Samuel #0" = 0
+	"Saurus #0" = 0
+	"Sigericos #0" = 0
+	"Sisebutus #0" = 0
+	"Sisenando #0" = 0
+	"Stephanos #0" = 0
+	"Symeon #0" = 0
+	"Suintila #0" = 0
+	"Symmachos #0" = 0
+	"Theocharistos #0" = 0
+	"Theodoric #0" = 0
+	"Theodosios #0" = 0
+	"Theodat #0" = 0
+	"Theudis #0" = 0
+	"Thomas #0" = 0
+	"Thorismod #0" = 0
+	"Tiberius #0" = 0
+	"Timotheos #0" = 0
+	"Valerios #0" = 0
+	"Witteric #0" = 0
+	"Witiges #0" = 0
+	"Zacharias #0" = 0
+}
+

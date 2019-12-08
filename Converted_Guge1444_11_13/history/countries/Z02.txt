@@ -1,0 +1,27 @@
+# Agder
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4144
+1423.3.8 = {
+	monarch = {
+		name = "Haldor"
+		birth_date = 1421.9.21
+		dynasty = "Kormákur"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = navigator_personality
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 4144
+	add_treasury = 60
+	add_prestige = 90
+}

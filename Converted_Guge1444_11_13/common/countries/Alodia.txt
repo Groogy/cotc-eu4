@@ -1,0 +1,144 @@
+# Alodia
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 128 60 20 }
+
+
+
+
+leader_names = {
+
+	"Ioseph" "Eirota" "Paulos" "Patrikios" "Hakym" "Abebe" "Maria" "Ñojjl" "Ephannê" "Theobronia" 
+	"Dauid" "Kalinikos" "Asabysos" "Gabriel" "Shamumun" "Zakharias" "Raphael" "Eusebius Guryuh" "Esteve" "Georgois" 
+	"Tienossi" "Moise" "Mikael" "Kyriakos" "Israel" "Markos" "Djoel" "Ador" "Guryuh" "Georgios" 
+	"Samson" "Diônisios" "Demissie" "Leon" "Ñouddl" "Lazaros" "Sanda" "Aarôn" "Aberikos" "Abraam" 
+	"Añgelos" "Andreas" "Athanasios" "Balô" "Bartholomaios" "Birêl" "Chael" "Christophoros" "Dimetheos" "Dioskoros" 
+	"Eliezer" "Eionkouda" "Emmanouel" "Enôch" "Epimachos" "Epiphanios" "Gabrielkouda" "Gabrielophorou" "Gennatios" "Geôrgios" 
+	"Hêlias" "Hoase" "Hoassi" "Hoasse" "Iacob" "Ieremias" "Iêsous" "Iêsousinkouda" "Iôannou" "Iôannês" 
+	"Iordanes" "Kollouthos" "Krisanthos" "Kuriakos" "Kurillos" "Leontios" "Makarios" "Mariana" "Mariankouda" "Marianos" 
+	"Marios" "Marturophoros" "Mašanñal" "Maththias" "Mêlênkouda" "Mena" "Menankouda" "Merkourios" "Michaêl" "Michaêlkouda" 
+	"Mouses" "Orna" "Panigiros" "Papasinen" "Papasinkouda" "Petros" "Petrou" "Philotheos" "Philemon" "Prochoros" 
+	"Raphaelkouda" "Senouthios" "Sentiko" "Sergios" "Simeoni" "Soizuros" "Solomôn" "Sotinkouda" "Stephanos" "Stephanou" 
+	"Thadeosi" "Theodôros" "Theodosios" "Theodote" "Thoma" "Tophêna" "Tirsakouni" "Zacharias" "Zosima" }
+monarch_names = {
+	"Ioseph #0" = 1
+	"Eirota #0" = -1
+	"Paulos #0" = 1
+	"Patrikios #1" = 18
+	"Hakym #0" = 1
+	"Abebe #0" = 1
+	"Maria #0" = -1
+	"Ñojjl #0" = -1
+	"Ephannê #0" = -1
+	"Theobronia #0" = -1
+	"Dauid #4" = 18
+	"Kalinikos #1" = 18
+	"Asabysos #1" = 0
+	"Gabriel #2" = 0
+	"Shamumun #1" = 0
+	"Zakharias #1" = 0
+	"Raphael #1" = 0
+	"Eusebius Guryuh #1" = 0
+	"Esteve #1" = 0
+	"Georgois #1" = 0
+	"Tienossi #1" = 0
+	"Moise #1" = 0
+	"Mikael #1" = 0
+	"Kyriakos #1" = 0
+	"Israel #1" = 0
+	"Markos #1" = 0
+	"Djoel #1" = 0
+	"Ador #1" = 0
+	"Guryuh #1" = 0
+	"Georgios #1" = 0
+	"Samson #1" = 0
+	"Diônisios #1" = 0
+	"Demissie #1" = 0
+	"Leon #1" = 0
+	"Ñouddl #1" = -1
+	"Lazaros #1" = 0
+	"Sanda #1" = 0
+	"Aarôn #0" = 0
+	"Aberikos #0" = 0
+	"Abraam #0" = 0
+	"Añgelos #0" = 0
+	"Andreas #0" = 0
+	"Athanasios #0" = 0
+	"Balô #0" = 0
+	"Bartholomaios #0" = 0
+	"Birêl #0" = 0
+	"Chael #0" = 0
+	"Christophoros #0" = 0
+	"Dimetheos #0" = 0
+	"Dioskoros #0" = 0
+	"Eliezer #0" = 0
+	"Eionkouda #0" = 0
+	"Emmanouel #0" = 0
+	"Enôch #0" = 0
+	"Epimachos #0" = 0
+	"Epiphanios #0" = 0
+	"Gabrielkouda #0" = 0
+	"Gabrielophorou #0" = 0
+	"Gennatios #0" = 0
+	"Geôrgios #0" = 0
+	"Hêlias #0" = 0
+	"Hoase #0" = 0
+	"Hoassi #0" = 0
+	"Hoasse #0" = 0
+	"Iacob #0" = 0
+	"Ieremias #0" = 0
+	"Iêsous #0" = 0
+	"Iêsousinkouda #0" = 0
+	"Iôannou #0" = 0
+	"Iôannês #0" = 0
+	"Iordanes #0" = 0
+	"Kollouthos #0" = 0
+	"Krisanthos #0" = 0
+	"Kuriakos #0" = 0
+	"Kurillos #0" = 0
+	"Leontios #0" = 0
+	"Makarios #0" = 0
+	"Mariana #0" = 0
+	"Mariankouda #0" = 0
+	"Marianos #0" = 0
+	"Marios #0" = 0
+	"Marturophoros #0" = 0
+	"Mašanñal #0" = 0
+	"Maththias #0" = 0
+	"Mêlênkouda #0" = 0
+	"Mena #0" = 0
+	"Menankouda #0" = 0
+	"Merkourios #0" = 0
+	"Michaêl #0" = 0
+	"Michaêlkouda #0" = 0
+	"Mouses #0" = 0
+	"Orna #0" = 0
+	"Panigiros #0" = 0
+	"Papasinen #0" = 0
+	"Papasinkouda #0" = 0
+	"Petros #0" = 0
+	"Petrou #0" = 0
+	"Philotheos #0" = 0
+	"Philemon #0" = 0
+	"Prochoros #0" = 0
+	"Raphaelkouda #0" = 0
+	"Senouthios #0" = 0
+	"Sentiko #0" = 0
+	"Sergios #0" = 0
+	"Simeoni #0" = 0
+	"Soizuros #0" = 0
+	"Solomôn #0" = 0
+	"Sotinkouda #0" = 0
+	"Stephanos #0" = 0
+	"Stephanou #0" = 0
+	"Thadeosi #0" = 0
+	"Theodôros #0" = 0
+	"Theodosios #0" = 0
+	"Theodote #0" = 0
+	"Thoma #0" = 0
+	"Tophêna #0" = 0
+	"Tirsakouni #0" = 0
+	"Zacharias #0" = 0
+	"Zosima #0" = 0
+}
+

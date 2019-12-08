@@ -1,0 +1,25 @@
+# Beja
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = portugese
+religion = catholic
+clear_scripted_personalities = yes
+1435.11.17 = {
+	monarch = {
+		name = "Maria II"
+		birth_date = 1410.5.27
+		dynasty = "de Coruña"
+		female = yes
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	add_treasury = 31
+	add_prestige = 85
+}

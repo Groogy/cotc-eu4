@@ -1,0 +1,26 @@
+# Rostov
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 308
+1441.12.29 = {
+	monarch = {
+		name = "Yaropolk II"
+		birth_date = 1401.1.9
+		dynasty = "Zubvich"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 308
+	add_treasury = 22
+	add_prestige = 23
+}

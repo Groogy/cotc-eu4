@@ -1,0 +1,26 @@
+# Aquitaine
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4112
+1436.6.25 = {
+	monarch = {
+		name = "Peranudet"
+		birth_date = 1392.8.6
+		dynasty = "d'Anjou"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 4112
+	add_treasury = 22
+	add_prestige = 385
+}

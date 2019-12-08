@@ -1,0 +1,27 @@
+# Trier
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 80
+1440.1.11 = {
+	monarch = {
+		name = "Gottschalk"
+		birth_date = 1408.6.12
+		dynasty = "von  Trier"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 80
+	add_treasury = 45
+	add_prestige = 6
+	elector = no
+}

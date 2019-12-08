@@ -1,0 +1,28 @@
+# Lisboa
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 227
+1391.11.19 = {
+	monarch = {
+		name = "Constanza"
+		birth_date = 1383.3.1
+		dynasty = "de la Vega"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 227
+	add_treasury = 56
+	add_prestige = 164
+}

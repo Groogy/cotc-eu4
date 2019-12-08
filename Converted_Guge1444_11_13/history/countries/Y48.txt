@@ -1,0 +1,27 @@
+# Milan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 104
+1434.7.9 = {
+	monarch = {
+		name = "Hannibal II"
+		birth_date = 1423.7.18
+		dynasty = "di Tunis"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 104
+	add_treasury = 33
+	add_prestige = 17
+}

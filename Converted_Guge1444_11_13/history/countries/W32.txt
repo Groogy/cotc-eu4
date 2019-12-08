@@ -1,0 +1,26 @@
+# Kursk
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 298
+1444.11.13 = {
+	monarch = {
+		name = "Mitrofan"
+		birth_date = 1419.7.28
+		dynasty = "of Meinier"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 298
+	add_treasury = 30
+	add_prestige = 31
+}

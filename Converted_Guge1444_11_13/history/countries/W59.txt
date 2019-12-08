@@ -1,0 +1,37 @@
+# Inalchi
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 479
+1443.10.28 = {
+	monarch = {
+		name = "Alagh"
+		birth_date = 1386.7.8
+		dynasty = "Inalchi"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = martial_educator_personality
+	heir = {
+		name = "Yeke"
+		monarch_name = "Yeke"
+		dynasty = "Inalchi"
+		birth_date = 1411.4.28
+		death_date = 1491.4.28
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 479
+	add_treasury = 7
+	add_prestige = 87
+}

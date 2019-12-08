@@ -1,0 +1,38 @@
+# Ruthenia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4246
+1433.8.23 = {
+	monarch = {
+		name = "Roman"
+		birth_date = 1422.7.22
+		dynasty = "Rurikid"
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = drunkard_personality
+	heir = {
+		name = "Viacheslav"
+		monarch_name = "Viacheslav II"
+		dynasty = "Rurikid"
+		birth_date = 1398.11.14
+		death_date = 1478.11.14
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 4246
+	add_treasury = 13
+	add_prestige = 1860
+}

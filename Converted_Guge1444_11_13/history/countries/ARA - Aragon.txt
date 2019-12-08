@@ -1,0 +1,26 @@
+# Aragon
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = catalan
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4557
+1437.2.4 = {
+	monarch = {
+		name = "Francesc"
+		birth_date = 1400.10.27
+		dynasty = "de Lauria"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 4557
+	add_treasury = 46
+	add_prestige = 198
+}

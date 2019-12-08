@@ -1,0 +1,40 @@
+# Shekhsar Kanem
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = kanuri
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1158
+1403.1.4 = {
+	monarch = {
+		name = "Sanda"
+		birth_date = 1383.1.2
+		dynasty = "Shekhsar"
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = cruel_personality
+}
+1417.8.16 = {
+	heir = {
+		name = "Modu"
+		monarch_name = "Modu"
+		dynasty = "Shekhsar"
+		birth_date = 1417.8.16
+		death_date = 1497.8.16
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_heir_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 1158
+	add_treasury = 89
+	add_prestige = 104
+}

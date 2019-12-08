@@ -1,0 +1,303 @@
+# Galicia-Volhynia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 50 150 130 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Piast" "Siemowit" "Wolislawa" "Dytryk" "Matylda" "Vanek" "Piotr" "Svatava" "Wszebora" "Mszczuj" 
+	"Mikulás" "Gertruda" "Gerhard" "Nadzieja" "Janislaw" "Vasiliy" "Józef" "Ojír" "Apollonia" "Georg" 
+	"Mikolaj" "Ryksa" "Theodoulos" "Ludmila" "Albert" "Vítek" "Wenzel" "Cenek" "Mateusz" "Judyta" 
+	"Leszek" "Premyslava" "Borzyslaw" "Henryk" "Sambor" "Doman" "Katarzyna" "Vsevolod" "Helene" "Maria" 
+	"Wincenty" "Siemomysl" "Wszemila" "Helena" "Prendota" "Wit" "Janusz" "Bavor" "Zegota" "Rogneda" 
+	"Vasilisa" "Zofia" "Dobieslaw" "Vilém" "Wido" "Eufemia" "Komitas" "Drahoslava" "Danuta" "Stephania" 
+	"Richwara" "Eustachy" "Osterhild" "Grzymislawa" "Przemyslaw" "Pechna" "Dobromila" "Magdalena" "Elzbieta" "Anna" 
+	"Volodar" "Guta" "Eufrozyna" "Swietoslaw" "Drahomíra" "Wielislaw" "Malgorzata" "Yaroslav" "Bozena" "Smiechna" 
+	"Samboja" "Salomea" "Krystyn" "Swanhildis" "Lucja" "Dalimir" "Lestek" "Mieszko" "Swietopolk" "Lambert" 
+	"Adleta" "Wladywoj" "Swietoslawa" "Boleslaw" "Bezprym" "Kazimierz" "Wladyslaw" "Zbigniew" "Adelajda" "Dobroniega" 
+	"Jan" "Olga" "Agnieszka" "Richeza" "Konrad" "Odon" "Berta" "Jaroslaw" "Agnes" "Wierzchoslawa" 
+	"Jadwiga" "Zwinislawa" "Eudoxia" "Anastazja" "Konstancja" "Gertrud" "Bernard" "Beatrycza" "Kunegunda" "Ryksa Elzbieta" 
+	"Waclaw" "Trojden" "Dobrawa" "Hedwig" "Jolanta" "Euphemia" "Gosciwuj" "Borzywoj" "Beata" "Elisabeth" 
+	"Rycheza" "Yuriy" "Maciej" "Ludwik" "Salome" "Malowuj" "Demid" "Goszczon" "Sedzimir" "Miroslaw" 
+	"Wanko" "Stanislawa" "Milobrat" "Spytko" "Juan" "Kinga" "Skarbimir" "Bozydar" "Krzeslaw" "Milena" 
+	"Macko" "Czyrzniech" "Gniewomir" "Lutrud" "Rodislav" "Krystyna" "Bogumil" "Marcin" "Pawel" "Zbyszko" 
+	"Milosz" "Wszebor" "Andreas" "Dobronega" "Roman" "Daniil" "Vladimir" "Rostislav" "Kálmán" "Mstislav" 
+	"András" "Mikhail" "Lev" "Andrei" "Alexandr" "Afanasiy" "Alexei" "Boris" "Briachislav" "Davyd" 
+	"Dmitriy" "Dobrynia" "Fedot" "Feodor" "Gavriil" "Gleb" "Grigoriy" "Iakov" "Igor" "Iliya" 
+	"Ingvar" "Ivan" "Iziaslav" "Kirill" "Konstantin" "Koz'ma" "Matfei" "Mitrofan" "Nikita" "Oleg" 
+	"Pavel" "Putiata" "Radoslav" "Rogvolod" "Ruslan" "Stanislav" "Stepan" "Sudislav" "Svetozar" "Sviatopolk" 
+	"Sviatoslav" "Terentiy" "Trifon" "Vasilko" "Viacheslav" "Vladislav" "Voislav" "Vseslav" "Vyshata" "Vysheslav" 
+	"Yaropolk" "Yefimiy" "Yelisey" "Yemelyan" "Yeremey" "Yevstafiy" }
+monarch_names = {
+	"Piast #0" = 1
+	"Siemowit #0" = 1
+	"Wolislawa #0" = -1
+	"Dytryk #0" = 1
+	"Matylda #0" = -1
+	"Vanek #0" = 1
+	"Piotr #0" = 1
+	"Svatava #0" = -1
+	"Wszebora #0" = -1
+	"Mszczuj #0" = 1
+	"Mikulás #0" = 1
+	"Gertruda #0" = -1
+	"Gerhard #0" = 1
+	"Nadzieja #0" = -1
+	"Janislaw #0" = 1
+	"Vasiliy #1" = 18
+	"Józef #0" = 1
+	"Ojír #0" = 1
+	"Apollonia #0" = -1
+	"Georg #0" = 1
+	"Mikolaj #0" = 1
+	"Ryksa #0" = -1
+	"Theodoulos #0" = 1
+	"Ludmila #0" = -1
+	"Albert #0" = 1
+	"Vítek #0" = 1
+	"Wenzel #0" = 1
+	"Cenek #0" = 1
+	"Mateusz #0" = 1
+	"Judyta #0" = -1
+	"Leszek #0" = 1
+	"Premyslava #0" = -1
+	"Borzyslaw #0" = 1
+	"Henryk #0" = 1
+	"Sambor #0" = 1
+	"Doman #0" = 1
+	"Katarzyna #0" = -1
+	"Vsevolod #1" = 21
+	"Helene #0" = -1
+	"Maria #0" = -1
+	"Wincenty #0" = 1
+	"Siemomysl #0" = 1
+	"Wszemila #0" = -1
+	"Helena #0" = -1
+	"Prendota #0" = 1
+	"Wit #0" = 1
+	"Janusz #0" = 1
+	"Bavor #0" = 1
+	"Zegota #0" = 1
+	"Rogneda #0" = -1
+	"Vasilisa #0" = -1
+	"Zofia #0" = -1
+	"Dobieslaw #0" = 1
+	"Vilém #0" = 1
+	"Wido #0" = 1
+	"Eufemia #0" = -1
+	"Komitas #0" = 1
+	"Drahoslava #0" = -1
+	"Danuta #0" = -1
+	"Stephania #0" = -1
+	"Richwara #0" = -1
+	"Eustachy #0" = 1
+	"Osterhild #0" = -1
+	"Grzymislawa #0" = -1
+	"Przemyslaw #0" = 1
+	"Pechna #0" = -1
+	"Dobromila #0" = -1
+	"Magdalena #0" = -1
+	"Elzbieta #0" = -1
+	"Anna #0" = -1
+	"Volodar #0" = 1
+	"Guta #0" = -1
+	"Eufrozyna #0" = -1
+	"Swietoslaw #0" = 1
+	"Drahomíra #0" = -1
+	"Wielislaw #0" = 1
+	"Malgorzata #0" = -1
+	"Yaroslav #0" = 1
+	"Bozena #0" = -1
+	"Smiechna #0" = -1
+	"Samboja #0" = -1
+	"Salomea #0" = -1
+	"Krystyn #0" = 1
+	"Swanhildis #0" = -1
+	"Lucja #0" = -1
+	"Dalimir #0" = 1
+	"Lestek #0" = 1
+	"Mieszko #0" = 1
+	"Swietopolk #0" = 1
+	"Lambert #0" = 1
+	"Adleta #0" = -1
+	"Wladywoj #0" = 1
+	"Swietoslawa #0" = -1
+	"Boleslaw #1" = 111
+	"Bezprym #0" = 1
+	"Kazimierz #0" = 1
+	"Wladyslaw #0" = 1
+	"Zbigniew #0" = 1
+	"Adelajda #0" = -1
+	"Dobroniega #0" = -1
+	"Jan #0" = 1
+	"Olga #0" = -1
+	"Agnieszka #0" = -1
+	"Richeza #0" = -1
+	"Konrad #0" = 1
+	"Odon #0" = 1
+	"Berta #0" = -1
+	"Jaroslaw #0" = 1
+	"Agnes #0" = -1
+	"Wierzchoslawa #0" = -1
+	"Jadwiga #0" = -1
+	"Zwinislawa #0" = -1
+	"Eudoxia #0" = -1
+	"Anastazja #0" = -1
+	"Konstancja #0" = -1
+	"Gertrud #0" = -1
+	"Bernard #0" = 1
+	"Beatrycza #0" = -1
+	"Kunegunda #0" = -1
+	"Ryksa Elzbieta #0" = -1
+	"Waclaw #0" = 1
+	"Trojden #0" = 1
+	"Dobrawa #0" = -1
+	"Hedwig #0" = -1
+	"Jolanta #0" = -1
+	"Euphemia #0" = -1
+	"Gosciwuj #0" = 1
+	"Borzywoj #0" = 1
+	"Beata #0" = -1
+	"Elisabeth #0" = -1
+	"Rycheza #0" = -1
+	"Yuriy #3" = 21
+	"Maciej #0" = 1
+	"Ludwik #0" = 1
+	"Salome #0" = -1
+	"Malowuj #0" = 1
+	"Demid #0" = 1
+	"Goszczon #0" = 1
+	"Sedzimir #0" = 1
+	"Miroslaw #0" = 1
+	"Wanko #0" = 1
+	"Stanislawa #0" = -1
+	"Milobrat #0" = 1
+	"Spytko #0" = 1
+	"Juan #0" = 1
+	"Kinga #0" = -1
+	"Skarbimir #0" = 1
+	"Bozydar #0" = 1
+	"Krzeslaw #0" = 1
+	"Milena #0" = -1
+	"Macko #0" = 1
+	"Czyrzniech #0" = 1
+	"Gniewomir #0" = 1
+	"Lutrud #0" = -1
+	"Rodislav #0" = 1
+	"Krystyna #0" = -1
+	"Bogumil #0" = 1
+	"Marcin #0" = 1
+	"Pawel #0" = 1
+	"Zbyszko #0" = 1
+	"Milosz #0" = 1
+	"Wszebor #0" = 1
+	"Andreas #0" = 1
+	"Dobronega #0" = -1
+	"Roman #2" = 0
+	"Daniil #1" = 0
+	"Vladimir #2" = 0
+	"Rostislav #1" = 0
+	"Kálmán #1" = 0
+	"Mstislav #1" = 0
+	"András #1" = 0
+	"Mikhail #1" = 0
+	"Lev #1" = 0
+	"Andrei #1" = 0
+	"Alexandr #1" = 0
+	"Afanasiy #0" = 0
+	"Alexei #0" = 0
+	"Boris #0" = 0
+	"Briachislav #0" = 0
+	"Davyd #0" = 0
+	"Dmitriy #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Feodor #0" = 0
+	"Gavriil #0" = 0
+	"Gleb #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Ingvar #0" = 0
+	"Ivan #0" = 0
+	"Iziaslav #0" = 0
+	"Kirill #0" = 0
+	"Konstantin #0" = 0
+	"Koz'ma #0" = 0
+	"Matfei #0" = 0
+	"Mitrofan #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Putiata #0" = 0
+	"Radoslav #0" = 0
+	"Rogvolod #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Stepan #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Vasilko #0" = 0
+	"Viacheslav #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Vseslav #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yaropolk #0" = 0
+	"Yefimiy #0" = 0
+	"Yelisey #0" = 0
+	"Yemelyan #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

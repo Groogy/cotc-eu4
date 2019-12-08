@@ -1,0 +1,183 @@
+# Duklja
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 129 94 13 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Nemanja" "Majka" "Marko" "Karolina" "Dobroslav" "Ivan" "Martin" "Jagoda" "Galeotto" "Miljana" 
+	"Dragoslava" "Jovan" "Serafino" "Aldimir" "Petar" "Nadanje" "Uros" "Vladislav" "Vladin" "Vukan" 
+	"Rastko" "Efimija" "Stefan" "Radoslav" "Djordje" "Kominia" "Predislav" "Dimitrije" "Desa" "Vratislav" 
+	"Brnca" "Dragoslav" "Stanisa" "Ana" "Dragutin" "Uros Milutin" "Konstantin" "Anna" "Jelisaveta" "Uros Decanski" 
+	"Milica" "Theodora" "Uros Dusan" "Nikola" "Chasna" "Vratko" "Irina" "Jelena" "Biljana" "Branimira" 
+	"Milinka" "Teodosije" "Boleslaw" "Dragana" "Vuk" "Duga" "Radica" "Zdenka" "Keratza" "Meki" 
+	"Vojislav" "Veselin" "Cucimir" "Jovan Vladimir" "Mihajlo" "Kocapar" "Vladimir" "Grubesa" "Gradinja" "Asen" 
+	"Berbat" "Blaz" "Boleslav" "Borna" "Branimir" "Budimir" "Kosmin" "Danilo" "Dmitar" "Dragija" 
+	"Dragos" "Gavrilo" "Godimir" "Goran" "Grgur" "Ilija" "Josif" "Josip" "Kasjan" "Krsto" 
+	"Lazar" "Ljudevit" "Luka" "Matija" "Mihailo" "Mihovil" "Milorad" "Milutin" "Mircea" "Miroslav" 
+	"Mislav" "Nenad" "Nikodim" "Ninoslav" "Porin" "Prvoslav" "Ratomir" "Roman" "Serapion" "Sinisa" 
+	"Slavko" "Slobodan" "Trajan" "Visarion" "Vlastimir" "Vukasin" "Vukoman" "Zoran" "Zvonimir" }
+monarch_names = {
+	"Nemanja #1" = 18
+	"Majka #0" = -1
+	"Marko #0" = 1
+	"Karolina #0" = -1
+	"Dobroslav #2" = 24
+	"Ivan #0" = 1
+	"Martin #0" = 1
+	"Jagoda #0" = -1
+	"Galeotto #0" = 1
+	"Miljana #0" = -1
+	"Dragoslava #0" = -1
+	"Jovan #0" = 1
+	"Serafino #0" = 1
+	"Aldimir #0" = 1
+	"Petar #0" = 1
+	"Nadanje #0" = -1
+	"Uros #3" = 24
+	"Vladislav #1" = 24
+	"Vladin #0" = 1
+	"Vukan #1" = 18
+	"Rastko #0" = 1
+	"Efimija #0" = -1
+	"Stefan #0" = 1
+	"Radoslav #1" = 21
+	"Djordje #2" = 21
+	"Kominia #0" = -1
+	"Predislav #0" = 1
+	"Dimitrije #0" = 1
+	"Desa #1" = 18
+	"Vratislav #1" = 21
+	"Brnca #0" = -1
+	"Dragoslav #0" = 1
+	"Stanisa #0" = 1
+	"Ana #0" = -1
+	"Dragutin #1" = 18
+	"Uros Milutin #1" = 18
+	"Konstantin #2" = 18
+	"Anna #0" = -1
+	"Jelisaveta #0" = -1
+	"Uros Decanski #1" = 21
+	"Milica #0" = -1
+	"Theodora #0" = -1
+	"Uros Dusan #1" = 18
+	"Nikola #0" = 1
+	"Chasna #0" = -1
+	"Vratko #1" = 18
+	"Irina #0" = -1
+	"Jelena #0" = -1
+	"Biljana #1" = -22
+	"Branimira #0" = -1
+	"Milinka #0" = -1
+	"Teodosije #0" = 1
+	"Boleslaw #0" = 1
+	"Dragana #0" = -1
+	"Vuk #0" = 1
+	"Duga #0" = -1
+	"Radica #0" = -1
+	"Zdenka #0" = -1
+	"Keratza #0" = -1
+	"Meki #0" = -1
+	"Vojislav #2" = 0
+	"Veselin #1" = 0
+	"Cucimir #1" = 0
+	"Jovan Vladimir #1" = 0
+	"Mihajlo #2" = 0
+	"Kocapar #1" = 0
+	"Vladimir #1" = 0
+	"Grubesa #1" = 0
+	"Gradinja #1" = 0
+	"Asen #0" = 0
+	"Berbat #0" = 0
+	"Blaz #0" = 0
+	"Boleslav #0" = 0
+	"Borna #0" = 0
+	"Branimir #0" = 0
+	"Budimir #0" = 0
+	"Kosmin #0" = 0
+	"Danilo #0" = 0
+	"Dmitar #0" = 0
+	"Dragija #0" = 0
+	"Dragos #0" = 0
+	"Gavrilo #0" = 0
+	"Godimir #0" = 0
+	"Goran #0" = 0
+	"Grgur #0" = 0
+	"Ilija #0" = 0
+	"Josif #0" = 0
+	"Josip #0" = 0
+	"Kasjan #0" = 0
+	"Krsto #0" = 0
+	"Lazar #0" = 0
+	"Ljudevit #0" = 0
+	"Luka #0" = 0
+	"Matija #0" = 0
+	"Mihailo #0" = 0
+	"Mihovil #0" = 0
+	"Milorad #0" = 0
+	"Milutin #0" = 0
+	"Mircea #0" = 0
+	"Miroslav #0" = 0
+	"Mislav #0" = 0
+	"Nenad #0" = 0
+	"Nikodim #0" = 0
+	"Ninoslav #0" = 0
+	"Porin #0" = 0
+	"Prvoslav #0" = 0
+	"Ratomir #0" = 0
+	"Roman #0" = 0
+	"Serapion #0" = 0
+	"Sinisa #0" = 0
+	"Slavko #0" = 0
+	"Slobodan #0" = 0
+	"Trajan #0" = 0
+	"Visarion #0" = 0
+	"Vlastimir #0" = 0
+	"Vukasin #0" = 0
+	"Vukoman #0" = 0
+	"Zoran #0" = 0
+	"Zvonimir #0" = 0
+}
+ship_names = {
+	Raska
+	Bosnia
+	Duklja
+	Zahumlje
+	Travunia
+	Pagania
+	"Stefan Nemanja"
+	"Stefan Prvovencani"
+	"Stefan Dusan"
+	Milutin
+}
+

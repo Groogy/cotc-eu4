@@ -1,0 +1,150 @@
+# Bhakkar
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 200 105 18 }
+
+
+
+
+leader_names = {
+
+	"Nanyadeva" "Sehnaz" "Batuhan" "Poya" "Ilkay" "Shahzadi" "Shahou" "Zarak" "Larmina" "Kaamnoosh" 
+	"Naghma" "Savur" "Kaikaus" "Turgut" "Çaka" "Badeed" "Benesh" "Selçuk" "Asal" "Eyrum" 
+	"Turhan" "Ahmet" "Bahadir" "Farkhondeh" "Bugra" "Azoom" "Söbuk" "Mengucek" "Tura" "Gang Dev" 
+	"Firuze" "Ayten" "Gangadeva" "Narsinhadeva" "Shakrasinhadeva" "Harisinhadeva" "Bhairabendranarayan" "Pratapnarayanroy" "Shivendranarayan" "Parikshitnayaran" 
+	"Hari Singh" "Sibel" "Syamadevi" "Devavati" "Mahendrani" "Sönmez" "Yajnavati" "Bhogishwar" "Mahmud" "Kasim" 
+	"Baybars" "Aytekin" "Saruca" "Bhimsingha" "Amritakala" "Jayanarayan" "Mutlu" "Dhruvadevi" "Feruzuddin" "Darsameen" 
+	"Bozan" "Dogukan" "Çagri" "Dilber" "Hamide" "Nagihan" "Emine" "Songul" "Uluç" "Sevilay" 
+	"Kurboga" "Gunes" "Khafif" "Junah" "Qabajah" "Muhammad" "Demir" "Abdullah" "Abdurrashid" "Abdurrahman" 
+	"Alauddin" "Ali Sher" "Amar" "Arnel" "Asamuddin" "Aziz" "Banhbina" "Bhungar" "Bhungar Rao" "Chanesar" 
+	"Doda" "Dadu Phattu" "Dalu Rai" "Deva Rai" "Fateh Khan" "Genhra" "Hafif" "Hamir" "Ismail" "Kahah" 
+	"Karan" "Khaira" "Khinrah" "Mubarak" "Muhammed-Tur" "Munzir" "Nangar" "Nizamuddin" "Pahtu" "Punhun" 
+	"Raidhan" "Sabar" "Salahuddin" "Sanghar" "Sanjar" "Shahabuddin" "Sikandar" "Sumrah" "Syed" "Tai" 
+	"Tamachi" "Taghlak" "Umar" "Unar" }
+monarch_names = {
+	"Nanyadeva #0" = 1
+	"Sehnaz #0" = -1
+	"Batuhan #0" = 1
+	"Poya #0" = 1
+	"Ilkay #0" = -1
+	"Shahzadi #0" = -1
+	"Shahou #0" = 1
+	"Zarak #0" = 1
+	"Larmina #0" = -1
+	"Kaamnoosh #0" = -1
+	"Naghma #0" = -1
+	"Savur #0" = 1
+	"Kaikaus #0" = 1
+	"Turgut #1" = 24
+	"Çaka #0" = 1
+	"Badeed #0" = 1
+	"Benesh #0" = -1
+	"Selçuk #0" = 1
+	"Asal #0" = -1
+	"Eyrum #0" = -1
+	"Turhan #0" = 1
+	"Ahmet #0" = 1
+	"Bahadir #0" = 1
+	"Farkhondeh #0" = -1
+	"Bugra #0" = 1
+	"Azoom #1" = 21
+	"Söbuk #0" = 1
+	"Mengucek #0" = 1
+	"Tura #0" = -1
+	"Gang Dev #0" = 1
+	"Firuze #0" = -1
+	"Ayten #0" = -1
+	"Gangadeva #0" = 1
+	"Narsinhadeva #0" = 1
+	"Shakrasinhadeva #0" = 1
+	"Harisinhadeva #0" = 1
+	"Bhairabendranarayan #0" = 1
+	"Pratapnarayanroy #0" = 1
+	"Shivendranarayan #0" = 1
+	"Parikshitnayaran #0" = 1
+	"Hari Singh #1" = 18
+	"Sibel #0" = -1
+	"Syamadevi #0" = -1
+	"Devavati #0" = -1
+	"Mahendrani #0" = -1
+	"Sönmez #0" = 1
+	"Yajnavati #0" = -1
+	"Bhogishwar #0" = 1
+	"Mahmud #1" = 18
+	"Kasim #0" = 1
+	"Baybars #0" = 1
+	"Aytekin #0" = 1
+	"Saruca #0" = 1
+	"Bhimsingha #0" = 1
+	"Amritakala #0" = -1
+	"Jayanarayan #0" = 1
+	"Mutlu #0" = -1
+	"Dhruvadevi #0" = -1
+	"Feruzuddin #0" = 1
+	"Darsameen #0" = -1
+	"Bozan #0" = 1
+	"Dogukan #0" = 1
+	"Çagri #0" = 1
+	"Dilber #0" = -1
+	"Hamide #0" = -1
+	"Nagihan #0" = -1
+	"Emine #0" = -1
+	"Songul #0" = -1
+	"Uluç #0" = 1
+	"Sevilay #0" = -1
+	"Kurboga #0" = 1
+	"Gunes #0" = -1
+	"Khafif #1" = 0
+	"Junah #1" = 0
+	"Qabajah #1" = 0
+	"Muhammad #1" = 0
+	"Demir #1" = 0
+	"Abdullah #0" = 0
+	"Abdurrashid #0" = 0
+	"Abdurrahman #0" = 0
+	"Alauddin #0" = 0
+	"Ali Sher #0" = 0
+	"Amar #0" = 0
+	"Arnel #0" = 0
+	"Asamuddin #0" = 0
+	"Aziz #0" = 0
+	"Banhbina #0" = 0
+	"Bhungar #0" = 0
+	"Bhungar Rao #0" = 0
+	"Chanesar #0" = 0
+	"Doda #0" = 0
+	"Dadu Phattu #0" = 0
+	"Dalu Rai #0" = 0
+	"Deva Rai #0" = 0
+	"Fateh Khan #0" = 0
+	"Genhra #0" = 0
+	"Hafif #0" = 0
+	"Hamir #0" = 0
+	"Ismail #0" = 0
+	"Kahah #0" = 0
+	"Karan #0" = 0
+	"Khaira #0" = 0
+	"Khinrah #0" = 0
+	"Mubarak #0" = 0
+	"Muhammed-Tur #0" = 0
+	"Munzir #0" = 0
+	"Nangar #0" = 0
+	"Nizamuddin #0" = 0
+	"Pahtu #0" = 0
+	"Punhun #0" = 0
+	"Raidhan #0" = 0
+	"Sabar #0" = 0
+	"Salahuddin #0" = 0
+	"Sanghar #0" = 0
+	"Sanjar #0" = 0
+	"Shahabuddin #0" = 0
+	"Sikandar #0" = 0
+	"Sumrah #0" = 0
+	"Syed #0" = 0
+	"Tai #0" = 0
+	"Tamachi #0" = 0
+	"Taghlak #0" = 0
+	"Umar #0" = 0
+	"Unar #0" = 0
+}
+

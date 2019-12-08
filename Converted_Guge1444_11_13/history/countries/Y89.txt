@@ -1,0 +1,27 @@
+# Savolax
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 31
+1437.4.2 = {
+	monarch = {
+		name = "Cecilia"
+		birth_date = 1429.2.16
+		dynasty = "Jaakkola"
+		female = yes
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 31
+	add_treasury = 17
+	add_prestige = 16
+}

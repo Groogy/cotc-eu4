@@ -1,0 +1,117 @@
+# Ragusa
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 133 98 17 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Calenda" "Giuco" "Jugno" "Gervasius" "Achille" "Benedetto" "Adriano" "Baldovino" "Leonardus" "Biagio" 
+	"Patrizio" "Lanfranco" "Arrigo" "Anastasio" "Federigo" "Andre" "Andreas" "Bisti" "Blaxius" "Clime" 
+	"Comes" "Domagna" "Gaucoli" "Gauzoli" "Give" "Juliano" "Junius" "Laurenzo" "Loncho" "Lucarus" 
+	"Mare" "Marco" "Maroe" "Marinus" "Matheus" "Michael" "Nale" "Nichiforus" "Nicola" "Pascalis" 
+	"Pasqualis" "Petragna" "Petrus" "Piero" "Perue" "Rassinus" "Rusco" "Stane" "Thoma" "Tuone" 
+	"Vallius" "Vita" }
+monarch_names = {
+	"Calenda #1" = 0
+	"Giuco #1" = 0
+	"Jugno #2" = 0
+	"Gervasius #1" = 0
+	"Achille #1" = 0
+	"Benedetto #1" = 0
+	"Adriano #1" = 0
+	"Baldovino #1" = 0
+	"Leonardus #1" = 0
+	"Biagio #1" = 0
+	"Patrizio #1" = 0
+	"Lanfranco #1" = 0
+	"Arrigo #1" = 0
+	"Anastasio #1" = 0
+	"Federigo #1" = 0
+	"Andre #0" = 0
+	"Andreas #0" = 0
+	"Bisti #0" = 0
+	"Blaxius #0" = 0
+	"Clime #0" = 0
+	"Comes #0" = 0
+	"Domagna #0" = 0
+	"Gaucoli #0" = 0
+	"Gauzoli #0" = 0
+	"Give #0" = 0
+	"Juliano #0" = 0
+	"Junius #0" = 0
+	"Laurenzo #0" = 0
+	"Loncho #0" = 0
+	"Lucarus #0" = 0
+	"Mare #0" = 0
+	"Marco #0" = 0
+	"Maroe #0" = 0
+	"Marinus #0" = 0
+	"Matheus #0" = 0
+	"Michael #0" = 0
+	"Nale #0" = 0
+	"Nichiforus #0" = 0
+	"Nicola #0" = 0
+	"Pascalis #0" = 0
+	"Pasqualis #0" = 0
+	"Petragna #0" = 0
+	"Petrus #0" = 0
+	"Piero #0" = 0
+	"Perue #0" = 0
+	"Rassinus #0" = 0
+	"Rusco #0" = 0
+	"Stane #0" = 0
+	"Thoma #0" = 0
+	"Tuone #0" = 0
+	"Vallius #0" = 0
+	"Vita #0" = 0
+
+
+	"Clara #0" = -1
+	"Livia #0" = -1
+	"Filomena #0" = -1
+	"Ricciarda #0" = -1
+	"Claudia #0" = -1
+}
+ship_names = {
+	Raska
+	Bosnia
+	Duklja
+	Zahumlje
+	Travunia
+	Pagania
+	"Stefan Nemanja"
+	"Stefan Prvovencani"
+	"Stefan Dusan"
+	Milutin
+}
+

@@ -1,0 +1,27 @@
+# Durham
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+religion = catholic
+clear_scripted_personalities = yes
+capital = 246
+1419.3.12 = {
+	monarch = {
+		name = "Kirtipala"
+		birth_date = 1377.1.31
+		dynasty = "of  Durham"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 246
+	add_treasury = 52
+	add_prestige = 100
+}

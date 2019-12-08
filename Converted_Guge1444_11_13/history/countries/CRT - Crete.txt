@@ -1,0 +1,26 @@
+# Krete
+government = republic
+add_government_reform = republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 163
+1438.12.12 = {
+	monarch = {
+		name = "Michelangelo"
+		birth_date = 1418.3.2
+		dynasty = "Dandolo"
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 163
+	add_treasury = 49
+	add_prestige = 177
+}

@@ -1,0 +1,26 @@
+# Cappadocia
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4307
+1438.8.11 = {
+	monarch = {
+		name = "Murad"
+		birth_date = 1386.5.28
+		dynasty = "Sabahid"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 4307
+	add_treasury = 37
+	add_prestige = 286
+}

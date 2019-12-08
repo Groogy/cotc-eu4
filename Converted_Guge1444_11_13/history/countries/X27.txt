@@ -1,0 +1,27 @@
+# Ungvár
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1953
+1435.7.1 = {
+	monarch = {
+		name = "Edit"
+		birth_date = 1414.11.16
+		dynasty = "Csák"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 1953
+	add_treasury = 19
+	add_prestige = 161
+}

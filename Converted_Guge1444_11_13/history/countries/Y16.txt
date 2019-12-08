@@ -1,0 +1,27 @@
+# Pomorye
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = finnish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 313
+1443.11.2 = {
+	monarch = {
+		name = "Erkki"
+		birth_date = 1407.2.28
+		dynasty = "Lalli"
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 313
+	add_treasury = 11
+	add_prestige = 53
+	elector = no
+}

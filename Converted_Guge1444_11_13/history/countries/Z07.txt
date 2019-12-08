@@ -1,0 +1,26 @@
+# Warwick
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+religion = catholic
+clear_scripted_personalities = yes
+capital = 240
+1444.3.5 = {
+	monarch = {
+		name = "Arthur IV"
+		birth_date = 1430.5.18
+		dynasty = "de Bohun"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 240
+	add_treasury = 140
+	add_prestige = 31
+}

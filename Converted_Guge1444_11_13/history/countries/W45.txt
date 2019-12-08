@@ -1,0 +1,26 @@
+# Indiga
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 4257
+1438.2.25 = {
+	monarch = {
+		name = "Kako"
+		birth_date = 1428.8.15
+		dynasty = "Numid"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = lawgiver_personality
+}
+1444.11.11 = {
+	capital = 4257
+	add_treasury = 2
+	add_prestige = 24
+}

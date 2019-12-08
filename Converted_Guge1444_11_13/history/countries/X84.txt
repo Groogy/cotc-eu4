@@ -1,0 +1,26 @@
+# Gurma
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = songhai
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 1142
+1439.9.22 = {
+	monarch = {
+		name = "Aminu"
+		birth_date = 1429.2.26
+		dynasty = "Habe"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 1142
+	add_treasury = 26
+	add_prestige = 9
+}

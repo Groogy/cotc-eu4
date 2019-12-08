@@ -1,0 +1,177 @@
+# Spiš
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 158 17 17 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+
+
+leader_names = {
+
+	"Mstislav" "Bohodar" "Boleslav" "Blahomír" "Blahoslav" "Bohumil" "Bozidar" "Boromír" "Bohuslav" "Budimír" 
+	"Bohuš" "Bratislav" "Budivoj" "Bystrik" "Ctiboh" "Ctibor" "Cestmír" "Dalibor" "Dobromil" "Dobroslav" 
+	"Drahomír" "Drahoslav" "Dušan" "Gorazd" "Horislav" "Hrdoslav" "Hromislav" "Hviezdoslav" "Chrabroš" "Chvalimír" 
+	"Igor" "Ivan" "Jaromil" "Jaromír" "Jaropluk" "Jaroslav" "Kazimír" "Kocel" "Krasomil" "Ladislav" 
+	"Ladomír" "Levoslav" "Lubomír" "Luboš" "Ludomil" "Ludovít" "Krasislav" "Milan" "Miloslav" "Miroslav" 
+	"Miloš" "Miloboj" "Mojmír" "Múdroslav" "Nitrabor" "Oleg" "Ostromír" "Ostrivoj" "Polan" "Pravoslav" 
+	"Predslav" "Prelimír" "Pribina" "Prisnec" "Prokop" "Radislav" "Radomír" "Radoslav" "Radovan" "Raslav" 
+	"Rastislav" "Ruslav" "Siloš" "Slavoj" "Slavomír" "Sokol" "Spitihnev" "Stanislav" "Svatoboj" "Svatopluk" 
+	"Svatoslav" "Svetozár" "Svorad" "Stastko" "Tichomil" "Tichomír" "Tvrdomil" "Vavrinec" "Velemír" "Viacslav" 
+	"Vieroslav" "Vitemir" "Vladan" "Vladimil" "Vladimír" "Vlastibor" "Vlastislav" "Vojmil" "Vojtech" "Vratislav" 
+	"Vratko" "Vyšebor" "Zdravoslav" "Zdravomil" "Zemislav" "Zobor" "Zubrivoj" "Zvonimír" "Zelimír" }
+monarch_names = {
+	"Mstislav #0" = 1
+	"Bohodar #0" = 0
+	"Boleslav #0" = 0
+	"Blahomír #0" = 0
+	"Blahoslav #0" = 0
+	"Bohumil #0" = 0
+	"Bozidar #0" = 0
+	"Boromír #0" = 0
+	"Bohuslav #0" = 0
+	"Budimír #0" = 0
+	"Bohuš #0" = 0
+	"Bratislav #0" = 0
+	"Budivoj #0" = 0
+	"Bystrik #0" = 0
+	"Ctiboh #0" = 0
+	"Ctibor #0" = 0
+	"Cestmír #0" = 0
+	"Dalibor #0" = 0
+	"Dobromil #0" = 0
+	"Dobroslav #0" = 0
+	"Drahomír #0" = 0
+	"Drahoslav #0" = 0
+	"Dušan #0" = 0
+	"Gorazd #0" = 0
+	"Horislav #0" = 0
+	"Hrdoslav #0" = 0
+	"Hromislav #0" = 0
+	"Hviezdoslav #0" = 0
+	"Chrabroš #0" = 0
+	"Chvalimír #0" = 0
+	"Igor #0" = 0
+	"Ivan #0" = 0
+	"Jaromil #0" = 0
+	"Jaromír #0" = 0
+	"Jaropluk #0" = 0
+	"Jaroslav #0" = 0
+	"Kazimír #0" = 0
+	"Kocel #0" = 0
+	"Krasomil #0" = 0
+	"Ladislav #0" = 0
+	"Ladomír #0" = 0
+	"Levoslav #0" = 0
+	"Lubomír #0" = 0
+	"Luboš #0" = 0
+	"Ludomil #0" = 0
+	"Ludovít #0" = 0
+	"Krasislav #0" = 0
+	"Milan #0" = 0
+	"Miloslav #0" = 0
+	"Miroslav #0" = 0
+	"Miloš #0" = 0
+	"Miloboj #0" = 0
+	"Mojmír #0" = 0
+	"Múdroslav #0" = 0
+	"Nitrabor #0" = 0
+	"Oleg #0" = 0
+	"Ostromír #0" = 0
+	"Ostrivoj #0" = 0
+	"Polan #0" = 0
+	"Pravoslav #0" = 0
+	"Predslav #0" = 0
+	"Prelimír #0" = 0
+	"Pribina #0" = 0
+	"Prisnec #0" = 0
+	"Prokop #0" = 0
+	"Radislav #0" = 0
+	"Radomír #0" = 0
+	"Radoslav #0" = 0
+	"Radovan #0" = 0
+	"Raslav #0" = 0
+	"Rastislav #0" = 0
+	"Ruslav #0" = 0
+	"Siloš #0" = 0
+	"Slavoj #0" = 0
+	"Slavomír #0" = 0
+	"Sokol #0" = 0
+	"Spitihnev #0" = 0
+	"Stanislav #0" = 0
+	"Svatoboj #0" = 0
+	"Svatopluk #0" = 0
+	"Svatoslav #0" = 0
+	"Svetozár #0" = 0
+	"Svorad #0" = 0
+	"Stastko #0" = 0
+	"Tichomil #0" = 0
+	"Tichomír #0" = 0
+	"Tvrdomil #0" = 0
+	"Vavrinec #0" = 0
+	"Velemír #0" = 0
+	"Viacslav #0" = 0
+	"Vieroslav #0" = 0
+	"Vitemir #0" = 0
+	"Vladan #0" = 0
+	"Vladimil #0" = 0
+	"Vladimír #0" = 0
+	"Vlastibor #0" = 0
+	"Vlastislav #0" = 0
+	"Vojmil #0" = 0
+	"Vojtech #0" = 0
+	"Vratislav #0" = 0
+	"Vratko #0" = 0
+	"Vyšebor #0" = 0
+	"Zdravoslav #0" = 0
+	"Zdravomil #0" = 0
+	"Zemislav #0" = 0
+	"Zobor #0" = 0
+	"Zubrivoj #0" = 0
+	"Zvonimír #0" = 0
+	"Zelimír #0" = 0
+
+
+	"Dobrohneva #0" = -1
+	"Pravomila #0" = -1
+	"Bozena #0" = -1
+	"Pravdomila #0" = -1
+	"Zivana #0" = -1
+}
+ship_names = {
+	Aranybulla 
+	Arpad
+	Magyar
+	Sigismund
+	"Szent Istvan kiraly"
+	"Hunyadi Matyas"
+	"Karoly Robert"
+	"Nagy Lajos"
+	Laszlo
+	Kalman
+}
+

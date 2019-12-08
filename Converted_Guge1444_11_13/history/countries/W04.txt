@@ -1,0 +1,27 @@
+# Magadha
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 558
+1412.11.7 = {
+	monarch = {
+		name = "Gunduz II"
+		birth_date = 1381.11.6
+		dynasty = "Tolun"
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 558
+	add_treasury = 79
+	add_prestige = 256
+}

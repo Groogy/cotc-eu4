@@ -1,0 +1,27 @@
+# Cephalonia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 142
+1423.9.15 = {
+	monarch = {
+		name = "Battista"
+		birth_date = 1423.4.15
+		dynasty = "Subic"
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 142
+	add_treasury = 50
+	add_prestige = 65
+}

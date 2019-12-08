@@ -1,0 +1,27 @@
+# Ob
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2355
+1431.2.17 = {
+	monarch = {
+		name = "Odchigin"
+		birth_date = 1425.8.5
+		dynasty = "Mödlingid"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2355
+	add_treasury = 0
+	add_prestige = 42
+}

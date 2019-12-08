@@ -1,0 +1,37 @@
+# Milan
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 123
+1441.1.1 = {
+	monarch = {
+		name = "Enzo"
+		birth_date = 1412.6.9
+		dynasty = "Gregando"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Enzo"
+		monarch_name = "Enzo II"
+		dynasty = "Gregando"
+		birth_date = 1434.3.24
+		death_date = 1514.3.24
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = just_personality
+}
+1444.11.11 = {
+	capital = 123
+	add_treasury = 53
+	add_prestige = 141
+}

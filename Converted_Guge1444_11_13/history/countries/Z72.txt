@@ -1,0 +1,28 @@
+# Bern
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 165
+1411.10.5 = {
+	monarch = {
+		name = "Emelrich"
+		birth_date = 1400.8.5
+		dynasty = "von Habsburg"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 165
+	add_treasury = 23
+	add_prestige = 246
+	elector = no
+}

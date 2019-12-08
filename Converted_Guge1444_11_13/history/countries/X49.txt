@@ -1,0 +1,37 @@
+# Bailjar
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 443
+1444.6.2 = {
+	monarch = {
+		name = "Bala II"
+		birth_date = 1415.4.27
+		dynasty = "Bailjar"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Chiledu"
+		monarch_name = "Chiledu"
+		dynasty = "Bailjar"
+		birth_date = 1421.5.27
+		death_date = 1501.5.27
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 443
+	add_treasury = 17
+	add_prestige = 186
+}

@@ -1,0 +1,12 @@
+vassal = {
+	first = HAU
+	second = X83
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = HAU
+	second = X84
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}

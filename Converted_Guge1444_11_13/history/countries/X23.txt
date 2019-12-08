@@ -1,0 +1,38 @@
+# Temes
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 156
+1433.6.10 = {
+	monarch = {
+		name = "Lõrinc"
+		birth_date = 1405.10.10
+		dynasty = "Moncada"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Atenolfo"
+		monarch_name = "Atenolfo"
+		dynasty = "Moncada"
+		birth_date = 1427.7.8
+		death_date = 1507.7.8
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 156
+	add_treasury = 29
+	add_prestige = 21
+}

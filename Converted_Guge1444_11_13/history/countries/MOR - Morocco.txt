@@ -1,0 +1,26 @@
+# Marrakech
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = castillian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 344
+1435.4.25 = {
+	monarch = {
+		name = "Sancho II"
+		birth_date = 1421.1.5
+		dynasty = "de Murcia"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 344
+	add_treasury = 71
+	add_prestige = 141
+}

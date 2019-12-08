@@ -1,0 +1,28 @@
+# Frankfurt
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 83
+1408.8.23 = {
+	monarch = {
+		name = "Udalrich"
+		birth_date = 1382.4.16
+		dynasty = "von  Frankfurt"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = righteous_personality
+}
+1444.11.11 = {
+	capital = 83
+	add_treasury = 19
+	add_prestige = 231
+	elector = no
+}

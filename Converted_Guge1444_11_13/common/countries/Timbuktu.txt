@@ -1,0 +1,220 @@
+# Timbuktu
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 45 90 224 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	african_spearmen
+	mali_tribal_warfare
+	african_hill_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	african_western_franchise_warfare
+}
+
+
+
+leader_names = {
+
+	"Shahada" "Lantana" "Tsaraki" "Hazika" "Faruq" "Adam" "Hadejia" "Jamilah" "Burema" "Habibah" 
+	"Aisha" "Kado" "Batatume" "Kurfuru" "Yukuna" "Dadi" "Kandala" "Nohir" "Yakubu" "Maimuna" 
+	"Talatu" "Adamu" "Diara" "Soumaoro" "Mari-Djata" "Ouali" "Ouati" "Khalifa" "Abubakari" "Sakoura" 
+	"Gao" "Mahamoud" "Musa" "Maghan" "Akoi" "It'ij" "Abdulkareem" "Abasama" "Abdulraham" "Abu" 
+	"Abubakar" "Ado" "Ahmed" "Ahmedu" "Aliyu" "Aminu" "Amir" "Ashakuka" "Atuma" "Bagunda" 
+	"Bako" "Balarabe" "Barau" "Barbushe" "Bashar" "Bashir" "Bawa" "Bawo" "Bayajidda" "Bayero" 
+	"Bello" "Bilal" "Biram" "Burja" "Cikkoku" "Dakauta" "Dallatu" "Danasabe" "Danjuma" "Danladi" 
+	"Danlami" "Daoud" "Daren" "Dauda" "Daura" "Faisal" "Faizu" "Faruk" "Fuad" "Gaddo" 
+	"Gambo" "Gani" "Gijimasu" "Gobir" "Gowon" "Gugwa" "Habib" "Hadi" "Hafiz" "Hammada" 
+	"Hamzah" "Hassan" "Hussain" "Hussein" "Ibrahim" "Idris" "Imam" "Isa" "Ishaku" "Ishaq" 
+	"Ismaila" "Jalil" "Jamal" "Jatau" "Jibril" "Kabe" "Kamil" "Kanajeji" "Kano" "Karbagari" 
+	"Kareem" "Katsina" "Khalifah" "Kisoki" "Korau" "Kukuna" "Kumbari" "Mahdi" "Mahmoud" "Malam" 
+	"Mansur" "Muhsin" "Mustafa" "Nabil" "Nafata" "Naguji" "Nasir" "Nawata" "Nazaki" "Nomau" 
+	"Rahid" "Rano" "Rashidi" "Rumfa" "Said" "Salim" "Sambo" "Sharef" "Shashere" "Shekarau" 
+	"Sidi" "Soyaki" "Suleyman" "Tahir" "Tanimu" "Tanko" "Tsamiya" "Uban" "Umar" "Umaru" 
+	"Usman" "Warisi" "Yahya" "Yaji" "Yakufu" "Yamusa" "Yaqub" "Yero" "Yohance" "Yohanna" 
+	"Yunfa" "Yunusa" "Yusa" "Yusuf" "Zaki" "Zaria" }
+monarch_names = {
+	"Shahada #0" = 1
+	"Lantana #0" = -1
+	"Tsaraki #0" = 1
+	"Hazika #0" = -1
+	"Faruq #0" = 1
+	"Adam #1" = 24
+	"Hadejia #0" = -1
+	"Jamilah #0" = -1
+	"Burema #0" = 1
+	"Habibah #0" = -1
+	"Aisha #0" = -1
+	"Kado #0" = 1
+	"Batatume #0" = -1
+	"Kurfuru #0" = -1
+	"Yukuna #0" = -1
+	"Dadi #0" = 1
+	"Kandala #1" = 18
+	"Nohir #0" = 1
+	"Yakubu #0" = 1
+	"Maimuna #0" = -1
+	"Talatu #0" = -1
+	"Adamu #0" = 1
+	"Diara #1" = 0
+	"Soumaoro #1" = 0
+	"Mari-Djata #1" = 0
+	"Ouali #1" = 0
+	"Ouati #1" = 0
+	"Khalifa #1" = 0
+	"Abubakari #2" = 0
+	"Sakoura #1" = 0
+	"Gao #1" = 0
+	"Mahamoud #1" = 0
+	"Musa #1" = 0
+	"Maghan #1" = 0
+	"Akoi #2" = 0
+	"It'ij #1" = 0
+	"Abdulkareem #1" = 0
+	"Abasama #0" = 0
+	"Abdulraham #0" = 0
+	"Abu #0" = 0
+	"Abubakar #0" = 0
+	"Ado #0" = 0
+	"Ahmed #0" = 0
+	"Ahmedu #0" = 0
+	"Aliyu #0" = 0
+	"Aminu #0" = 0
+	"Amir #0" = 0
+	"Ashakuka #0" = 0
+	"Atuma #0" = 0
+	"Bagunda #0" = 0
+	"Bako #0" = 0
+	"Balarabe #0" = 0
+	"Barau #0" = 0
+	"Barbushe #0" = 0
+	"Bashar #0" = 0
+	"Bashir #0" = 0
+	"Bawa #0" = 0
+	"Bawo #0" = 0
+	"Bayajidda #0" = 0
+	"Bayero #0" = 0
+	"Bello #0" = 0
+	"Bilal #0" = 0
+	"Biram #0" = 0
+	"Burja #0" = 0
+	"Cikkoku #0" = 0
+	"Dakauta #0" = 0
+	"Dallatu #0" = 0
+	"Danasabe #0" = 0
+	"Danjuma #0" = 0
+	"Danladi #0" = 0
+	"Danlami #0" = 0
+	"Daoud #0" = 0
+	"Daren #0" = 0
+	"Dauda #0" = 0
+	"Daura #0" = 0
+	"Faisal #0" = 0
+	"Faizu #0" = 0
+	"Faruk #0" = 0
+	"Fuad #0" = 0
+	"Gaddo #0" = 0
+	"Gambo #0" = 0
+	"Gani #0" = 0
+	"Gijimasu #0" = 0
+	"Gobir #0" = 0
+	"Gowon #0" = 0
+	"Gugwa #0" = 0
+	"Habib #0" = 0
+	"Hadi #0" = 0
+	"Hafiz #0" = 0
+	"Hammada #0" = 0
+	"Hamzah #0" = 0
+	"Hassan #0" = 0
+	"Hussain #0" = 0
+	"Hussein #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Imam #0" = 0
+	"Isa #0" = 0
+	"Ishaku #0" = 0
+	"Ishaq #0" = 0
+	"Ismaila #0" = 0
+	"Jalil #0" = 0
+	"Jamal #0" = 0
+	"Jatau #0" = 0
+	"Jibril #0" = 0
+	"Kabe #0" = 0
+	"Kamil #0" = 0
+	"Kanajeji #0" = 0
+	"Kano #0" = 0
+	"Karbagari #0" = 0
+	"Kareem #0" = 0
+	"Katsina #0" = 0
+	"Khalifah #0" = 0
+	"Kisoki #0" = 0
+	"Korau #0" = 0
+	"Kukuna #0" = 0
+	"Kumbari #0" = 0
+	"Mahdi #0" = 0
+	"Mahmoud #0" = 0
+	"Malam #0" = 0
+	"Mansur #0" = 0
+	"Muhsin #0" = 0
+	"Mustafa #0" = 0
+	"Nabil #0" = 0
+	"Nafata #0" = 0
+	"Naguji #0" = 0
+	"Nasir #0" = 0
+	"Nawata #0" = 0
+	"Nazaki #0" = 0
+	"Nomau #0" = 0
+	"Rahid #0" = 0
+	"Rano #0" = 0
+	"Rashidi #0" = 0
+	"Rumfa #0" = 0
+	"Said #0" = 0
+	"Salim #0" = 0
+	"Sambo #0" = 0
+	"Sharef #0" = 0
+	"Shashere #0" = 0
+	"Shekarau #0" = 0
+	"Sidi #0" = 0
+	"Soyaki #0" = 0
+	"Suleyman #0" = 0
+	"Tahir #0" = 0
+	"Tanimu #0" = 0
+	"Tanko #0" = 0
+	"Tsamiya #0" = 0
+	"Uban #0" = 0
+	"Umar #0" = 0
+	"Umaru #0" = 0
+	"Usman #0" = 0
+	"Warisi #0" = 0
+	"Yahya #0" = 0
+	"Yaji #0" = 0
+	"Yakufu #0" = 0
+	"Yamusa #0" = 0
+	"Yaqub #0" = 0
+	"Yero #0" = 0
+	"Yohance #0" = 0
+	"Yohanna #0" = 0
+	"Yunfa #0" = 0
+	"Yunusa #0" = 0
+	"Yusa #0" = 0
+	"Yusuf #0" = 0
+	"Zaki #0" = 0
+	"Zaria #0" = 0
+}
+ship_names = {
+	Kiringa Timbuktu "Koumbi Saleh" Gao
+	Jenne "Sundiata Keita" "Kankan Musa"
+	"Kouroukan Fouga" "Wali Keita" "Quati Keita"
+	"Khalifa Keita" Sakura
+}
+

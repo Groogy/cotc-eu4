@@ -1,0 +1,27 @@
+# Gurjara Mandala
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = gujarati
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2054
+1422.10.23 = {
+	monarch = {
+		name = "Mursel"
+		birth_date = 1402.6.14
+		dynasty = "Kaytun"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 2054
+	add_treasury = 37
+	add_prestige = 141
+}

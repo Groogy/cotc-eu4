@@ -1,0 +1,25 @@
+# Beshbalik
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = sunni
+clear_scripted_personalities = yes
+1424.10.2 = {
+	monarch = {
+		name = "Señram II"
+		birth_date = 1410.5.5
+		dynasty = "Señramid"
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	add_treasury = 23
+	add_prestige = 104
+}

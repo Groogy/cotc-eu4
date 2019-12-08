@@ -1,0 +1,27 @@
+# Semien
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1227
+1418.8.10 = {
+	monarch = {
+		name = "Pamin"
+		birth_date = 1403.7.24
+		dynasty = "Rametsid"
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 1227
+	add_treasury = 21
+	add_prestige = 114
+}

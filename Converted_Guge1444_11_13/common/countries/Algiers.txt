@@ -1,0 +1,161 @@
+# Alger
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 32 150 43 }
+
+
+
+
+leader_names = {
+
+	"Suniefredo" "Constanza" "Lavinia" "Brunisenda" "Francesc" "Guifré" "Zenobia" "Gausfred" "Marquesa" "Rinaldo" 
+	"Sibila" "Manfredo" "Felip" "Ermessenda" "Pere" "Niphon" "Maria" "Bernat" "Jofré" "Elionor" 
+	"Toda" "Ferran" "Valeria" "Beatriu" "Alamanda" "Giuseppa" "Ponç" "Joan" "Antonia" "Ermenisinda" 
+	"Wifredo" "Miron" "Sisenanda" "Oliba" "Riculfo" "Radulfo" "Winidilda" "Suneario" "Borrell" "Ramon-Borrell" 
+	"Adelaida" "Berenguer-Ramon" "Riquilda" "Guislabert" "Pere-Ramon" "Ramon-Berenguer" "Arnau" "Agnès" "Udalard" "Sança" 
+	"Ermenerda" "Ximena" "Berenguer" "Almodis" "Berenguera" "Raimond-Berenguié" "Mahalta" "Dolça" "Estefania" "Alfons" 
+	"Constança" "Sanç" "Nunó" "Garcenda" "Beatritz" "Isabel" "Jaume" "Aliénor" "Margarida" "Violant" 
+	"Ruggiero" "Frederic" "Saura" "Sancho" "Teresa" "Blanca" "Federigo" "Giovanni" "Beatrice" "Alfonso" 
+	"Pietro" "Pagan" "Giacopo" "Luigi" "Eufemia" "Aldobrandino" "Guillelma" "Joana" "Esclaramunda" "Eleonora" 
+	"Violante" "Nicolesa" "Isabella" "Landone" "Guglielmo" "Giovanna" "Lazzarino" "Bonifazio" "Vinciguerra" "Clara" 
+	"Gueraua" "Giuditta" "Gugliemo" "Raineri" "Nestore" "Ramon" "Artau" "Simona" "Elisenda" "Thanca" 
+	"Umberto" "Guisla" "Marulla" "Francesca" "Gombau" "Elena" "Basillike" "Micaela" "Agapito" "Amalia" 
+	"Aflah" "Bernat-Guillem" "Dalmau" "Ermengol" "Gerard" "Guerau" "Guillem" "Guillem-Ramon" "Hug" "Ott" 
+	"Ponç-Hug" "Ramon-Folc" "Roger" "Sunyer" }
+monarch_names = {
+	"Suniefredo #0" = 1
+	"Constanza #0" = -1
+	"Lavinia #0" = -1
+	"Brunisenda #0" = -1
+	"Francesc #0" = 1
+	"Guifré #1" = 18
+	"Zenobia #0" = -1
+	"Gausfred #0" = 1
+	"Marquesa #0" = -1
+	"Rinaldo #0" = 1
+	"Sibila #0" = -1
+	"Manfredo #0" = 1
+	"Felip #0" = 1
+	"Ermessenda #0" = -1
+	"Pere #0" = 1
+	"Niphon #0" = 1
+	"Maria #1" = -31
+	"Bernat #0" = 1
+	"Jofré #0" = 1
+	"Elionor #0" = -1
+	"Toda #0" = -1
+	"Ferran #2" = 54
+	"Valeria #0" = -1
+	"Beatriu #0" = -1
+	"Alamanda #0" = -1
+	"Giuseppa #0" = -1
+	"Ponç #0" = 1
+	"Joan #0" = 1
+	"Antonia #0" = -1
+	"Ermenisinda #0" = -1
+	"Wifredo #0" = 1
+	"Miron #0" = 1
+	"Sisenanda #0" = -1
+	"Oliba #0" = 1
+	"Riculfo #0" = 1
+	"Radulfo #0" = 1
+	"Winidilda #0" = -1
+	"Suneario #0" = 1
+	"Borrell #0" = 1
+	"Ramon-Borrell #0" = 1
+	"Adelaida #0" = -1
+	"Berenguer-Ramon #0" = 1
+	"Riquilda #0" = -1
+	"Guislabert #0" = 1
+	"Pere-Ramon #0" = 1
+	"Ramon-Berenguer #0" = 1
+	"Arnau #0" = 1
+	"Agnès #0" = -1
+	"Udalard #0" = 1
+	"Sança #0" = -1
+	"Ermenerda #0" = -1
+	"Ximena #0" = -1
+	"Berenguer #0" = 1
+	"Almodis #0" = -1
+	"Berenguera #0" = -1
+	"Raimond-Berenguié #0" = 1
+	"Mahalta #0" = -1
+	"Dolça #0" = -1
+	"Estefania #0" = -1
+	"Alfons #0" = 1
+	"Constança #0" = -1
+	"Sanç #0" = 1
+	"Nunó #0" = 1
+	"Garcenda #0" = -1
+	"Beatritz #0" = -1
+	"Isabel #0" = -1
+	"Jaume #1" = 42
+	"Aliénor #0" = -1
+	"Margarida #0" = -1
+	"Violant #0" = -1
+	"Ruggiero #0" = 1
+	"Frederic #0" = 1
+	"Saura #0" = -1
+	"Sancho #0" = 1
+	"Teresa #0" = -1
+	"Blanca #0" = -1
+	"Federigo #0" = 1
+	"Giovanni #0" = 1
+	"Beatrice #0" = -1
+	"Alfonso #0" = 1
+	"Pietro #0" = 1
+	"Pagan #0" = 1
+	"Giacopo #0" = 1
+	"Luigi #0" = 1
+	"Eufemia #0" = -1
+	"Aldobrandino #0" = 1
+	"Guillelma #0" = -1
+	"Joana #0" = -1
+	"Esclaramunda #0" = -1
+	"Eleonora #0" = -1
+	"Violante #0" = -1
+	"Nicolesa #0" = -1
+	"Isabella #0" = -1
+	"Landone #0" = 1
+	"Guglielmo #0" = 1
+	"Giovanna #0" = -1
+	"Lazzarino #0" = 1
+	"Bonifazio #0" = 1
+	"Vinciguerra #0" = 1
+	"Clara #0" = -1
+	"Gueraua #0" = -1
+	"Giuditta #0" = -1
+	"Gugliemo #0" = 1
+	"Raineri #0" = 1
+	"Nestore #0" = 1
+	"Ramon #0" = 1
+	"Artau #0" = 1
+	"Simona #0" = -1
+	"Elisenda #0" = -1
+	"Thanca #0" = -1
+	"Umberto #0" = 1
+	"Guisla #0" = -1
+	"Marulla #0" = -1
+	"Francesca #0" = -1
+	"Gombau #0" = 1
+	"Elena #0" = -1
+	"Basillike #0" = -1
+	"Micaela #0" = -1
+	"Agapito #0" = 1
+	"Amalia #0" = -1
+	"Aflah #1" = 0
+	"Bernat-Guillem #0" = 0
+	"Dalmau #0" = 0
+	"Ermengol #0" = 0
+	"Gerard #0" = 0
+	"Guerau #0" = 0
+	"Guillem #0" = 0
+	"Guillem-Ramon #0" = 0
+	"Hug #0" = 0
+	"Ott #0" = 0
+	"Ponç-Hug #0" = 0
+	"Ramon-Folc #0" = 0
+	"Roger #0" = 0
+	"Sunyer #0" = 0
+}
+

@@ -1,0 +1,166 @@
+# Vidin
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 122 103 58 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Shishman" "Dan" "Dana" "Jerolim" "Filipa" "Borislava" "Mihail" "Iskra" "Soimir" "Yordanka" 
+	"Radu" "Ljutomisl" "Slavac" "Penka" "Kalojan" "Emiliya" "Svetislav" "Grubana" "Stracimir" "Ivanka" 
+	"German" "Tomislav" "Maya" "Bilyana" "Trpimir" "Iva" "Yana" "Raina" "Dionisii" "Hranimir" 
+	"Ioakim" "Todorka" "Bertalan" "Keratsa" "Belaur" "Liudovik" "Snezhana" "Ivan-Komnin" "Ivan Aleksandr" "Ivan Stefan" 
+	"Srazimir" "Dragshan" "Bogna" "Bogoris" "Elena" "Zhivka" "Ivan" "Dragutin" "Ivana" "Kera Tamara" 
+	"Silviya" "Yoanan" "Evtimii" "Lilyana" "Hristina" "Balin" "Desislava" "Kocelj" "Vojnomir" "Bisera" 
+	"Bogdana" "Dragoman" "Prijezda" "Bernardin" "Elisaveta" "Miroslav" "Gergana" "Asparukh" "Urus" "Umor" 
+	"Uturgur" "Dilyarek" "Vladimir" "Michael" "Georgi" "Ioannes" "Alexios" "Kaloyan" "Boril" "Koloman" 
+	"Micho" "Konstandin" "Aleksii" "Bozidar" "Braslav" "Dominik" "Drzislav" "Frujin" "Grgur" "Kozma" 
+	"Kresimir" "Kulin" "Ljubomir" "Marko" "Mikica" "Momchil" "Nikola" "Ognen" "Petar" "Radislav" 
+	"Sava" "Sermon" "Vasilii" "Viseslav" "Vladislav" "Zdeslav" }
+monarch_names = {
+	"Shishman #2" = 27
+	"Dan #0" = 1
+	"Dana #0" = -1
+	"Jerolim #0" = 1
+	"Filipa #0" = -1
+	"Borislava #0" = -1
+	"Mihail #2" = 39
+	"Iskra #0" = -1
+	"Soimir #0" = 1
+	"Yordanka #0" = -1
+	"Radu #0" = 1
+	"Ljutomisl #0" = 1
+	"Slavac #0" = 1
+	"Penka #0" = -1
+	"Kalojan #0" = 1
+	"Emiliya #0" = -1
+	"Svetislav #2" = 24
+	"Grubana #0" = -1
+	"Stracimir #0" = 1
+	"Ivanka #0" = -1
+	"German #0" = 1
+	"Tomislav #0" = 1
+	"Maya #0" = -1
+	"Bilyana #0" = -1
+	"Trpimir #0" = 1
+	"Iva #0" = -1
+	"Yana #0" = -1
+	"Raina #0" = -1
+	"Dionisii #1" = 18
+	"Hranimir #0" = 1
+	"Ioakim #0" = 1
+	"Todorka #0" = -1
+	"Bertalan #0" = 1
+	"Keratsa #0" = -1
+	"Belaur #0" = 1
+	"Liudovik #1" = 18
+	"Snezhana #0" = -1
+	"Ivan-Komnin #0" = 1
+	"Ivan Aleksandr #0" = 1
+	"Ivan Stefan #1" = 18
+	"Srazimir #0" = 1
+	"Dragshan #1" = 21
+	"Bogna #0" = -1
+	"Bogoris #0" = 1
+	"Elena #0" = -1
+	"Zhivka #0" = -1
+	"Ivan #1" = 24
+	"Dragutin #0" = 1
+	"Ivana #0" = -1
+	"Kera Tamara #0" = -1
+	"Silviya #0" = -1
+	"Yoanan #0" = -1
+	"Evtimii #2" = 24
+	"Lilyana #0" = -1
+	"Hristina #0" = -1
+	"Balin #0" = 1
+	"Desislava #0" = -1
+	"Kocelj #0" = 1
+	"Vojnomir #0" = 1
+	"Bisera #0" = -1
+	"Bogdana #0" = -1
+	"Dragoman #0" = 1
+	"Prijezda #0" = 1
+	"Bernardin #0" = 1
+	"Elisaveta #0" = -1
+	"Miroslav #0" = 1
+	"Gergana #0" = -1
+	"Asparukh #1" = 0
+	"Urus #1" = 0
+	"Umor #1" = 0
+	"Uturgur #1" = 0
+	"Dilyarek #1" = 0
+	"Vladimir #1" = 0
+	"Michael #4" = 0
+	"Georgi #1" = 0
+	"Ioannes #2" = 0
+	"Alexios #1" = 0
+	"Kaloyan #1" = 0
+	"Boril #1" = 0
+	"Koloman #2" = 0
+	"Micho #1" = 0
+	"Konstandin #1" = 0
+	"Aleksii #0" = 0
+	"Bozidar #0" = 0
+	"Braslav #0" = 0
+	"Dominik #0" = 0
+	"Drzislav #0" = 0
+	"Frujin #0" = 0
+	"Grgur #0" = 0
+	"Kozma #0" = 0
+	"Kresimir #0" = 0
+	"Kulin #0" = 0
+	"Ljubomir #0" = 0
+	"Marko #0" = 0
+	"Mikica #0" = 0
+	"Momchil #0" = 0
+	"Nikola #0" = 0
+	"Ognen #0" = 0
+	"Petar #0" = 0
+	"Radislav #0" = 0
+	"Sava #0" = 0
+	"Sermon #0" = 0
+	"Vasilii #0" = 0
+	"Viseslav #0" = 0
+	"Vladislav #0" = 0
+	"Zdeslav #0" = 0
+}
+ship_names = {
+	Alhtpolo
+	Kiten Kraymorie
+	Lozenets
+	Promorsko
+	Rezovo
+	Sarafovo Sinemorets Sozopol
+	Varara
+}
+

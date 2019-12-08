@@ -1,0 +1,26 @@
+# Minsk
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4544
+1439.7.15 = {
+	monarch = {
+		name = "Vasiliy"
+		birth_date = 1416.9.16
+		dynasty = "Gediminaitis"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 4544
+	add_treasury = 5
+	add_prestige = 153
+}

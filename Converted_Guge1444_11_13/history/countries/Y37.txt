@@ -1,0 +1,39 @@
+# Aragon
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = catalan
+religion = catholic
+clear_scripted_personalities = yes
+capital = 213
+1436.12.13 = {
+	monarch = {
+		name = "Berenguer II"
+		birth_date = 1411.5.16
+		dynasty = "d'Urgell"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = greedy_personality
+}
+1439.7.15 = {
+	heir = {
+		name = "Berenguer"
+		monarch_name = "Berenguer III"
+		dynasty = "d'Urgell"
+		birth_date = 1439.7.15
+		death_date = 1519.7.15
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 213
+	add_treasury = 88
+	add_prestige = 182
+}

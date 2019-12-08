@@ -1,0 +1,26 @@
+# Halab
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4297
+1440.12.3 = {
+	monarch = {
+		name = "Muaddam"
+		birth_date = 1418.8.20
+		dynasty = "Fazilid"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 4297
+	add_treasury = 19
+	add_prestige = 37
+}

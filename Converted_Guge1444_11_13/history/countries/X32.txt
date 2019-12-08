@@ -1,0 +1,27 @@
+# Edessa
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 377
+1422.1.15 = {
+	monarch = {
+		name = "Amir II"
+		birth_date = 1407.7.20
+		dynasty = "Ismailid"
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 377
+	add_treasury = 41
+	add_prestige = 138
+}

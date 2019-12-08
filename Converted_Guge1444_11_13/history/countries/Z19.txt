@@ -1,0 +1,40 @@
+# Upper Lorraine
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 189
+1418.10.11 = {
+	monarch = {
+		name = "Sigismund"
+		birth_date = 1382.1.14
+		dynasty = "Chatenois"
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1419.9.24 = {
+	heir = {
+		name = "Sigismund"
+		monarch_name = "Sigismund II"
+		dynasty = "Chatenois"
+		birth_date = 1419.9.24
+		death_date = 1499.9.24
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 189
+	add_treasury = 91
+	add_prestige = 436
+	elector = no
+}

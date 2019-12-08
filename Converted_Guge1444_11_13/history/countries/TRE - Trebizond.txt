@@ -1,0 +1,27 @@
+# Trebizond
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 330
+1421.5.18 = {
+	monarch = {
+		name = "Saltuk"
+		birth_date = 1402.8.4
+		dynasty = "Elbistan"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 330
+	add_treasury = 34
+	add_prestige = 131
+}

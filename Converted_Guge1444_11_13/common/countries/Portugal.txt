@@ -1,0 +1,211 @@
+# Portugal
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 57 159 100 }
+historical_idea_groups = {
+	exploration_ideas
+	trade_ideas
+	religious_ideas
+	expansion_ideas
+	naval_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Amédée" "Ordoño" "Anderquina" "Alfonso" "Tello" "Toda" "Nuño" "María" "Gil" "Judith" 
+	"Konstantia" "Felipe" "Stéphanie" "Enrique" "Sancha" "Constanza" "Blanca" "Gauthier" "Géraud" "Luis" 
+	"Pelayo" "Mélisande" "Jimena" "Étiennette" "Pedro" "Juana" "Gontroda" "Rodrigo" "Sancho" "Teresa" 
+	"Martín" "Léonard" "Milia" "Aldonza" "Vela" "Geoffroy" "Beatriz" "Gonzalo" "Guy" "Foulques" 
+	"Anschaire" "Adalberto" "Anscario" "Amedeo" "Berengario" "Umberto" "Dado" "Rozela Susanna" "Guiberto" "Arduino" 
+	"Ardoino" "Ottone" "Othon-Guillaume" "Ardicino" "Mathilde" "Gerberga" "Agnes" "Berta" "Renaud" "Guntilda" 
+	"Eudes" "Robert" "Sibylle" "Guillaume" "Eriprando" "Ermentrude" "Amadeo" "Hugues" "Berthe" "Étienne" 
+	"Raymond" "Gisèle" "Sybille" "Callistus" "Clemence" "Gisele" "García" "Ramón" "Fernando" "Urraca" 
+	"Estefanía" "Béatrix" "Leonor" "Mafalda" "Lope" "Berenguela" "Juan" "Simón" "Dulce" "Diego" 
+	"Alix" "Isabel" "Jean" "Elisabeth" "Fadrique" "Jaime" "Alonso" "Othon" "Violante" "Blanche" 
+	"Jeanne" "Agnès" "Adelinde" "Valeran" "Federigo" "Othenin" "Humbert" "Inés" "Fruela" "Lanzelotto" 
+	"Henriette" "Arnoul" "Marguerite" "Tristan" "Ogier" "Aldéric" "Guillaumette" "Yolande" "Henri" "Marthe" 
+	"Amaury" "Davide" "Antoinette" "Salvador" "Raymonde" "Péronelle" "Bermudo" "Suero" "Afonso" "Dinis" 
+	"Maria" "Álvar" "Álvaro" "Gómez" "Guillén" "Guillermo" "Gutierre" "Manrique" "Munio" "Oveco" 
+	"Ramiro" }
+monarch_names = {
+	"Amédée #0" = 1
+	"Ordoño #1" = 24
+	"Anderquina #0" = -1
+	"Alfonso #1" = 66
+	"Tello #0" = 1
+	"Toda #0" = -1
+	"Nuño #0" = 1
+	"María #0" = -1
+	"Gil #0" = 1
+	"Judith #0" = -1
+	"Konstantia #0" = -1
+	"Felipe #0" = 1
+	"Stéphanie #0" = -1
+	"Enrique #0" = 1
+	"Sancha #0" = -1
+	"Constanza #0" = -1
+	"Blanca #0" = -1
+	"Gauthier #0" = 1
+	"Géraud #0" = 1
+	"Luis #0" = 1
+	"Pelayo #0" = 1
+	"Mélisande #0" = -1
+	"Jimena #0" = -1
+	"Étiennette #0" = -1
+	"Pedro #0" = 1
+	"Juana #0" = -1
+	"Gontroda #0" = -1
+	"Rodrigo #0" = 1
+	"Sancho #2" = 51
+	"Teresa #0" = -1
+	"Martín #0" = 1
+	"Léonard #0" = 1
+	"Milia #0" = -1
+	"Aldonza #1" = -28
+	"Vela #0" = 1
+	"Geoffroy #0" = 1
+	"Beatriz #0" = -1
+	"Gonzalo #0" = 1
+	"Guy #0" = 1
+	"Foulques #0" = 1
+	"Anschaire #0" = 1
+	"Adalberto #0" = 1
+	"Anscario #0" = 1
+	"Amedeo #0" = 1
+	"Berengario #0" = 1
+	"Umberto #0" = 1
+	"Dado #0" = 1
+	"Rozela Susanna #0" = -1
+	"Guiberto #0" = 1
+	"Arduino #0" = 1
+	"Ardoino #0" = 1
+	"Ottone #0" = 1
+	"Othon-Guillaume #0" = 1
+	"Ardicino #0" = 1
+	"Mathilde #0" = -1
+	"Gerberga #0" = -1
+	"Agnes #0" = -1
+	"Berta #0" = -1
+	"Renaud #0" = 1
+	"Guntilda #0" = -1
+	"Eudes #0" = 1
+	"Robert #0" = 1
+	"Sibylle #0" = -1
+	"Guillaume #0" = 1
+	"Eriprando #0" = 1
+	"Ermentrude #0" = -1
+	"Amadeo #0" = 1
+	"Hugues #0" = 1
+	"Berthe #0" = -1
+	"Étienne #0" = 1
+	"Raymond #0" = 1
+	"Gisèle #0" = -1
+	"Sybille #0" = -1
+	"Callistus #0" = 1
+	"Clemence #0" = -1
+	"Gisele #0" = -1
+	"García #0" = 1
+	"Ramón #0" = 1
+	"Fernando #0" = 1
+	"Urraca #0" = -1
+	"Estefanía #0" = -1
+	"Béatrix #0" = -1
+	"Leonor #0" = -1
+	"Mafalda #0" = -1
+	"Lope #0" = 1
+	"Berenguela #0" = -1
+	"Juan #0" = 1
+	"Simón #0" = 1
+	"Dulce #0" = -1
+	"Diego #0" = 1
+	"Alix #0" = -1
+	"Isabel #0" = -1
+	"Jean #0" = 1
+	"Elisabeth #0" = -1
+	"Fadrique #0" = 1
+	"Jaime #0" = 1
+	"Alonso #0" = 1
+	"Othon #0" = 1
+	"Violante #0" = -1
+	"Blanche #0" = -1
+	"Jeanne #0" = -1
+	"Agnès #0" = -1
+	"Adelinde #0" = -1
+	"Valeran #0" = 1
+	"Federigo #0" = 1
+	"Othenin #0" = 1
+	"Humbert #0" = 1
+	"Inés #0" = -1
+	"Fruela #0" = 1
+	"Lanzelotto #0" = 1
+	"Henriette #0" = -1
+	"Arnoul #0" = 1
+	"Marguerite #0" = -1
+	"Tristan #0" = 1
+	"Ogier #0" = 1
+	"Aldéric #0" = 1
+	"Guillaumette #0" = -1
+	"Yolande #0" = -1
+	"Henri #0" = 1
+	"Marthe #0" = -1
+	"Amaury #0" = 1
+	"Davide #0" = 1
+	"Antoinette #0" = -1
+	"Salvador #0" = 1
+	"Raymonde #0" = -1
+	"Péronelle #0" = -1
+	"Bermudo #0" = 1
+	"Suero #1" = 18
+	"Afonso #4" = 0
+	"Dinis #1" = 0
+	"Maria #1" = -1
+	"Álvar #0" = 0
+	"Álvaro #0" = 0
+	"Gómez #0" = 0
+	"Guillén #0" = 0
+	"Guillermo #0" = 0
+	"Gutierre #0" = 0
+	"Manrique #0" = 0
+	"Munio #0" = 0
+	"Oveco #0" = 0
+	"Ramiro #0" = 0
+}
+ship_names = {
+	Anunciada
+	Bérrio "Boa Viagem" "Bom Jesus" "Bom Jesus do Carmo" "Bom Jesus de Marzagão" "Bom Jesus da Vidigueira" Bretão
+	Cambaia Chagas "Correio d'Ásia"
+	El-Rei Enxobregas "Espírito Santo" Estrela
+	"Flor do Mar"
+	Garça
+	"Imaculada Conceição"
+	Jóia
+	"Monte Carvalho"
+	"Nazaré" "Nossa Senhora" "N. Sra. da Aparecida" "N. Sra. da Atalaia" "N. Sra. da Batalha" "N. Sra. da Boa Hora" "N. Sra. da Boa Memória" "N. Sra. da Boa Viagem" "N. Sra. da Candalaria" "N. Sra. da Caridade" "N.Sra. da Conceição" "N. Sra. da Consolação" "N. Sra. da Esperança" "N. Sra. da Glória" "N. Sra. da Graça" "N. Sra. da Guia" "N. Sra. d'Ajuda Lusitana" "N. Sra. da Luz" "N. Sra. da Nazaré" "N. Sra. da Oliveira" "N. Sra. da Palma" "N. Sra. da Penha de França" "N. Sra. da Quietação" "N. Sra. da Salvação" "N. Sra. da Saúde" "N. Sra. da Visitação" "N. Sra. da Vitória" "N. Sra. das Ondas" "N. Sra. das Portas do Céu" "N. Sra. das Relíquias" "N. Sra. de Belém" "N. Sra. de Guadalupe" "N. Sra. do Castelo" "N. Sra. do Livramento" "N. Sra. do Loreto" "N. Sra do Paraíso" "N. Sra. do Pilar" "N. Sra. do Rosário" "N. Sra. dos Prazeres" "N. Sra. dos Ramos"
+	"Princesa do Céu"
+	Raínha "Reis Magos"
+	"Sacramento" "Santa Ana" "Santa Catarina" "Santa Cruz" "Santa Fé" "Santa Helena" "Santa Joana" "Santa Madre de Deus" "S. Maria de Sabóia" "Santo Milagre" "Santiago Maior" "Santíssima Trindade" "Santíssimo Sacramento" "Santo Alberto" "Santo António" "Santo Espírito" "Santo Inácio" "São Bartolomeu" "São Bento" "São Bernardo" "São Carlos" "São Cristovão" "São Domingos" "São Filipe" "São Francisco" "São Francisco de Borja" "São Gabriel" "São Gonçalo" "São João" "São João de Deus" "São Jorge" "S. José" "São Julião" "São Lourenço" "São Lucas" "São Luís" "São Mateus" "São Paulo" "São Pedro" "São Rafael" "São Roque" "São Salvador" "São Tomé" "São Valentim" "S. António de Lisboa" "S. Catarina de Ribamar" "S. Francisco de Assis" "S. Francisco Xavier" "S. João Baptista" "S. João Evangelista" "S. Pedro de Rates" "S. Pedro da Ribeira" "S. Salvador do Mundo" "S. Teresa de Jesus" "S. Tomé da Cantuária"
+	Taforeia Trindade
+	Visitação
+}
+

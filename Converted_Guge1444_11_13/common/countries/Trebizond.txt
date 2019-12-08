@@ -1,0 +1,223 @@
+# Trebizond
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 125 160 30 }
+historical_idea_groups = {
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Toktamis" "Saim" "Esin" "Tunga" "Özlem" "Serife" "Mengucek" "Dundar" "Kurboga" "Tugrul" 
+	"Murad" "Çagri" "Saltuk" "Ridvan" "Çilen" "Huriye" "Gulfem" "Sehnaz" "Tura" "Yunus" 
+	"Firuze" "Çiltanesi" "Mutlu" "Belek" "Tutus" "Ertekin" "Afsin" "Gunduz" "Turgut" "Dilek" 
+	"Basbuga" "Konstantios" "Leon" "Theophilos" "Theodoros" "Konstantinos" "Ioannes" "Andronikos" "Alexios" "Manuel" 
+	"Georgios" "Theodora" "Basileios" "Parthena" "Epiphania" "Tanrivermis" "Baturay" "Çaka" "Ahmet" "Aksonqor" 
+	"Alaeddin" "Ali" "Alkan" "Alp Arslan" "Alp Yurek" "Alptigin" "Artuk" "Ayaz" "Aydin" "Aydogan" 
+	"Aydogdu" "Aytekin" "Böru" "Bulend" "Bahadir" "Balaban" "Batuhan" "Baybars" "Bayezid" "Baytas" 
+	"Berkan" "Berkiyaruk" "Bozan" "Bugra" "Burak" "Cuneyd" "Danismend" "Davud" "Demir" "Dogan" 
+	"Dogukan" "Dukak" "Erdem" "Ertan" "Ertugrul" "Hasan" "Hizir" "Ibrahim" "Ilgazi" "Inal" 
+	"Iskender" "Kaikaus" "Kaikhusraw" "Kaiqobad" "Kara" "Karatay" "Kasim" "Kaya" "Kaytun" "Kemal" 
+	"Kiliç" "Korkut" "Kutalmis" "Kutay" "Kutlug" "Mursel" "Mahmud" "Mehmed" "Meliksah" "Mesud" 
+	"Mustafa" "Orhan" "Osman" "Porsuk" "Rustem" "Ramazan" "Söbuk" "Sökmen" "Sönmez" "Suleyman" 
+	"Saruca" "Savtekin" "Savur" "Sehinsah" "Selçuk" "Selim" "Sencer" "Sinan" "Tekin" "Timurtas" 
+	"Togay" "Togtekin" "Tolun" "Toruntay" "Turhan" "Uluç" "Umur" "Yakut" "Yaman" "Yinal" }
+monarch_names = {
+	"Toktamis #0" = 1
+	"Saim #0" = 1
+	"Esin #0" = -1
+	"Tunga #0" = 1
+	"Özlem #0" = -1
+	"Serife #0" = -1
+	"Mengucek #0" = 1
+	"Dundar #0" = 1
+	"Kurboga #0" = 1
+	"Tugrul #1" = 21
+	"Murad #0" = 1
+	"Çagri #0" = 1
+	"Saltuk #1" = 21
+	"Ridvan #0" = 1
+	"Çilen #0" = -1
+	"Huriye #0" = -1
+	"Gulfem #0" = -1
+	"Sehnaz #0" = -1
+	"Tura #0" = -1
+	"Yunus #0" = 1
+	"Firuze #0" = -1
+	"Çiltanesi #0" = -1
+	"Mutlu #0" = -1
+	"Belek #0" = 1
+	"Tutus #0" = 1
+	"Ertekin #0" = 1
+	"Afsin #0" = 1
+	"Gunduz #0" = -1
+	"Turgut #0" = 1
+	"Dilek #0" = -1
+	"Basbuga #0" = 1
+	"Konstantios #1" = 0
+	"Leon #1" = 0
+	"Theophilos #1" = 0
+	"Theodoros #1" = 0
+	"Konstantinos #2" = 0
+	"Ioannes #3" = 0
+	"Andronikos #5" = 0
+	"Alexios #2" = 0
+	"Manuel #2" = 0
+	"Georgios #1" = 0
+	"Theodora #1" = -1
+	"Basileios #1" = 0
+	"Parthena #1" = -1
+	"Epiphania #1" = -1
+	"Tanrivermis #1" = 0
+	"Baturay #1" = 0
+	"Çaka #0" = 0
+	"Ahmet #0" = 0
+	"Aksonqor #0" = 0
+	"Alaeddin #0" = 0
+	"Ali #0" = 0
+	"Alkan #0" = 0
+	"Alp Arslan #0" = 0
+	"Alp Yurek #0" = 0
+	"Alptigin #0" = 0
+	"Artuk #0" = 0
+	"Ayaz #0" = 0
+	"Aydin #0" = 0
+	"Aydogan #0" = 0
+	"Aydogdu #0" = 0
+	"Aytekin #0" = 0
+	"Böru #0" = 0
+	"Bulend #0" = 0
+	"Bahadir #0" = 0
+	"Balaban #0" = 0
+	"Batuhan #0" = 0
+	"Baybars #0" = 0
+	"Bayezid #0" = 0
+	"Baytas #0" = 0
+	"Berkan #0" = 0
+	"Berkiyaruk #0" = 0
+	"Bozan #0" = 0
+	"Bugra #0" = 0
+	"Burak #0" = 0
+	"Cuneyd #0" = 0
+	"Danismend #0" = 0
+	"Davud #0" = 0
+	"Demir #0" = 0
+	"Dogan #0" = 0
+	"Dogukan #0" = 0
+	"Dukak #0" = 0
+	"Erdem #0" = 0
+	"Ertan #0" = 0
+	"Ertugrul #0" = 0
+	"Hasan #0" = 0
+	"Hizir #0" = 0
+	"Ibrahim #0" = 0
+	"Ilgazi #0" = 0
+	"Inal #0" = 0
+	"Iskender #0" = 0
+	"Kaikaus #0" = 0
+	"Kaikhusraw #0" = 0
+	"Kaiqobad #0" = 0
+	"Kara #0" = 0
+	"Karatay #0" = 0
+	"Kasim #0" = 0
+	"Kaya #0" = 0
+	"Kaytun #0" = 0
+	"Kemal #0" = 0
+	"Kiliç #0" = 0
+	"Korkut #0" = 0
+	"Kutalmis #0" = 0
+	"Kutay #0" = 0
+	"Kutlug #0" = 0
+	"Mursel #0" = 0
+	"Mahmud #0" = 0
+	"Mehmed #0" = 0
+	"Meliksah #0" = 0
+	"Mesud #0" = 0
+	"Mustafa #0" = 0
+	"Orhan #0" = 0
+	"Osman #0" = 0
+	"Porsuk #0" = 0
+	"Rustem #0" = 0
+	"Ramazan #0" = 0
+	"Söbuk #0" = 0
+	"Sökmen #0" = 0
+	"Sönmez #0" = 0
+	"Suleyman #0" = 0
+	"Saruca #0" = 0
+	"Savtekin #0" = 0
+	"Savur #0" = 0
+	"Sehinsah #0" = 0
+	"Selçuk #0" = 0
+	"Selim #0" = 0
+	"Sencer #0" = 0
+	"Sinan #0" = 0
+	"Tekin #0" = 0
+	"Timurtas #0" = 0
+	"Togay #0" = 0
+	"Togtekin #0" = 0
+	"Tolun #0" = 0
+	"Toruntay #0" = 0
+	"Turhan #0" = 0
+	"Uluç #0" = 0
+	"Umur #0" = 0
+	"Yakut #0" = 0
+	"Yaman #0" = 0
+	"Yinal #0" = 0
+}
+ship_names = {
+	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"
+	"Aghios Angelos" "Aghios Eusebios" "Aghios Ioakeim" "Aghios Ioannes" "Aghios Loukas"
+	"Aghios Markos" "Aghios Matthaios" "Aghios Maximos" "Aghios Nikolaos" "Aghios Pavlos"
+	"Aghios Petros" "Aghios Philimon" "Aghios Sergios" "Aghios Stephanos" "Aghios Thimoteos"
+	Aiakos Aineas Akhilleus Amphitrion Aphrodita Apollo Arakhne Ares Asia Athena
+	"Basileous Alexandros" "Basileous Alexeios" "Basileous Andronikos" "Basileous Basileos"
+	"Basileous Demetrios" "Basileous Ioannes" "Basileous Isaak" "Basileous Leon"
+	"Basileous Manuel" "Basileous Michael" "Basileous Rhomaion" "Basileous Romanos"
+	"Basileous Theodoros" "Basileous Theophilos" "Basileisa Theodora" "Basileisa Zoe"
+	Belisarios Byzantion
+	Cassandra Castor "Christos Soter" Chronos
+	Demeter "Despotes Demetrios" "Despotes Moreas" Diana "Drakon Ouranos" Dyonisos
+	Ellade Endymion Eros Europa
+	Gea "Gorgona Poseidonos"
+	Hades Hektor Hephaistos Hera Herakles Hermes Hestia Hydra Hypnos
+	Jason
+	"Kaisar Konstantinos" Konstantinopolis "Konstantinos Dragases"
+	"Liontari Skliros" "Lussa ton Theon" "Lykos Thalasses"
+	Makedonia "Margaritari Aspra" Minos
+	Nestor
+	Odysseos Orestes Okeanasthraustis Ouranos
+	Panselenos Pegasos Perseos "Pontikos Thalasses" Poseidon
+	Rhadamanthys
+	Sebastokrator
+	Thanatos Theseos
+	Zeous
+}
+

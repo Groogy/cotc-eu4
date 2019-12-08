@@ -1,0 +1,37 @@
+# Kolguyev
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 4257
+1441.10.26 = {
+	monarch = {
+		name = "Alik"
+		birth_date = 1399.4.16
+		dynasty = "Tsilmid"
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = kind_hearted_personality
+	heir = {
+		name = "Yavlad"
+		monarch_name = "Yavlad"
+		dynasty = "Tsilmid"
+		birth_date = 1432.7.4
+		death_date = 1512.7.4
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 4257
+	add_treasury = 14
+	add_prestige = 18
+}

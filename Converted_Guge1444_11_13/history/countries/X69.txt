@@ -1,0 +1,40 @@
+# Pil'va
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 1964
+1411.10.9 = {
+	monarch = {
+		name = "Sarin"
+		birth_date = 1391.2.6
+		dynasty = "Severnayid"
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = just_personality
+}
+1420.12.8 = {
+	heir = {
+		name = "Onika"
+		monarch_name = "Onika"
+		dynasty = "Severnayid"
+		birth_date = 1420.12.8
+		death_date = 1500.12.8
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 1964
+	add_treasury = 5
+	add_prestige = 68
+}

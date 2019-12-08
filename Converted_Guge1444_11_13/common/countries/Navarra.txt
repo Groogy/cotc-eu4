@@ -1,0 +1,128 @@
+# Navarra
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 230 198 90 }
+historical_idea_groups = {
+	naval_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Eneko" "Oria" "Aldontza" "Peter" "Henry" "Isabel" "Inés" "Ralph" "Jocelyn" "Catherine" 
+	"Álvar" "Anne" "Alfred" "Richard" "Gómez" "Jordan" "Aines" "María" "John" "Adela" 
+	"Simon" "Cecilia" "Guillén" "Alfonso" "Ramiro" "Isabella" "Aubrey" "Ximeno" "Piarres" "Diego" 
+	"Teresa" "Rodrigo" "Alvar" "Elbira" "Maria" "Joanes" "Alfontso" "Aznar" "Aldonza" "Pelaio" 
+	"Alonso" "Belaskita" "Fronilda" "Mayor" "Tello" "Konstantzia" "Antso" "Belasko" "Bermudo" "Bernart" 
+	"Donato" "Egidio" "Erramun" "Fernando" "Fortun" "Galindo" "Gartzia" "Gilen" "Gontzal" "Herramel" 
+	"Ladron" "Lope" "Luis" "Manrike" "Martín" "Munio" "Nuño" "Obeko" "Ordoño" "Vela" 
+	"Zentulo" }
+monarch_names = {
+	"Eneko #0" = 1
+	"Oria #0" = -1
+	"Aldontza #0" = -1
+	"Peter #0" = 1
+	"Henry #0" = 1
+	"Isabel #0" = -1
+	"Inés #0" = -1
+	"Ralph #0" = 1
+	"Jocelyn #0" = 1
+	"Catherine #0" = -1
+	"Álvar #0" = 1
+	"Anne #0" = -1
+	"Alfred #1" = 21
+	"Richard #0" = 1
+	"Gómez #0" = 1
+	"Jordan #0" = 1
+	"Aines #0" = -1
+	"María #0" = -1
+	"John #1" = 24
+	"Adela #0" = -1
+	"Simon #0" = 1
+	"Cecilia #0" = -1
+	"Guillén #0" = 1
+	"Alfonso #1" = 27
+	"Ramiro #0" = 1
+	"Isabella #0" = -1
+	"Aubrey #1" = 18
+	"Ximeno #1" = 21
+	"Piarres #0" = 1
+	"Diego #0" = 1
+	"Teresa #0" = -1
+	"Rodrigo #0" = 1
+	"Alvar #0" = 1
+	"Elbira #0" = -1
+	"Maria #0" = -1
+	"Joanes #1" = 27
+	"Alfontso #1" = 24
+	"Aznar #0" = 1
+	"Aldonza #0" = -1
+	"Pelaio #0" = 1
+	"Alonso #0" = 1
+	"Belaskita #0" = -1
+	"Fronilda #0" = -1
+	"Mayor #0" = -1
+	"Tello #0" = 1
+	"Konstantzia #0" = -1
+	"Antso #0" = 0
+	"Belasko #0" = 0
+	"Bermudo #0" = 0
+	"Bernart #0" = 0
+	"Donato #0" = 0
+	"Egidio #0" = 0
+	"Erramun #0" = 0
+	"Fernando #0" = 0
+	"Fortun #0" = 0
+	"Galindo #0" = 0
+	"Gartzia #0" = 0
+	"Gilen #0" = 0
+	"Gontzal #0" = 0
+	"Herramel #0" = 0
+	"Ladron #0" = 0
+	"Lope #0" = 0
+	"Luis #0" = 0
+	"Manrike #0" = 0
+	"Martín #0" = 0
+	"Munio #0" = 0
+	"Nuño #0" = 0
+	"Obeko #0" = 0
+	"Ordoño #0" = 0
+	"Vela #0" = 0
+	"Zentulo #0" = 0
+}
+ship_names = {
+	Atlántida "Conde de Evreux" "Conde de Foix" "Conde de Guenduláin" "Conde de Lerín"
+	"Don Jimeno" "Duque de Armagnac" "Duque de Champaña"
+	"El Agramontés" "El Beaomontés" "El Bearnés" "El Cruzado Navarro" "El Montañés" "El Navarro" "El Salvador" "El Trobador" "El Viñador" "Emperador Hispánico" Europa
+	"Mar de Navarra" "Nuestra Sra de Leyre" "Príncipe de Viana"
+	"Reina Juana" "Rey Enrique" "Rey García" "Rey Sancho" "Reyno de Navarra" "Reyno de Pamplona"
+	"San Agustín" "San Andrés" "San Antonio" "San Carlos" "San Enrique" "San Esteban" "San Fermín" "San Francisco" "San Francisco Xabier" "San Gregorio" "San Juan" "San León" "San Miguel Arcángel" "San Raimundo" "San Virila"
+	"Santa Ana" "Santa Catalina" "Santa Juana" "Santa Leonor" "Santísima Trinidad" "Señor de Tudela"
+	Vasconia
+}
+

@@ -1,0 +1,40 @@
+# Syria
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 382
+1423.2.26 = {
+	monarch = {
+		name = "Hammud"
+		birth_date = 1396.11.10
+		dynasty = "Bahri"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = craven_personality
+}
+1423.12.8 = {
+	heir = {
+		name = "Akbar"
+		monarch_name = "Akbar"
+		dynasty = "Bahri"
+		birth_date = 1423.12.8
+		death_date = 1503.12.8
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 382
+	add_treasury = 76
+	add_prestige = 660
+}

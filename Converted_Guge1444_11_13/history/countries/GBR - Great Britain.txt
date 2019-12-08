@@ -1,0 +1,38 @@
+# Britannia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+religion = catholic
+clear_scripted_personalities = yes
+capital = 236
+1443.2.27 = {
+	monarch = {
+		name = "Blanca"
+		birth_date = 1425.11.25
+		dynasty = "FitzBrunisenda"
+		female = yes
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+	heir = {
+		name = "Joanna"
+		monarch_name = "Joanna"
+		dynasty = "FitzBrunisenda"
+		birth_date = 1442.6.25
+		death_date = 1522.6.25
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 236
+	add_treasury = 74
+	add_prestige = 56
+}

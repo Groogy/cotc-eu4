@@ -1,0 +1,38 @@
+# Wadai
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = daju
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 774
+1435.5.20 = {
+	monarch = {
+		name = "Jamne"
+		birth_date = 1412.1.16
+		dynasty = "Bugur"
+		female = yes
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = calm_personality
+	heir = {
+		name = "Dong"
+		monarch_name = "Dong II"
+		dynasty = "Bugur"
+		birth_date = 1427.7.4
+		death_date = 1507.7.4
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 774
+	add_treasury = 22
+	add_prestige = 31
+}

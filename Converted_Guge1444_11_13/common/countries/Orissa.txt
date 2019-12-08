@@ -1,0 +1,170 @@
+# Orissa
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 110 145 40 }
+
+
+
+
+leader_names = {
+
+	"Bahram" "Meliksah" "Nagihan" "Tekin" "Huriye" "Firuze" "Nergis" "Suleyman" "Kemal" "Gunes" 
+	"Ilknur" "Bozan" "Akgul" "Gulsum" "Bozçin" "Ahmet" "Timurtas" "Ertekin" "Tura" "Gulay" 
+	"Ertan" "Gulfem" "Kutay" "Yasar" "Ertugrul" "Esin" "Kiliç" "Mengucek" "Aydogdu" "Hasan" 
+	"Savtekin" "Toktamis" "Zehra" "Danismend" "Umay" "Fatma" "Kaikhusraw" "Lale" "Sehinsah" "Azize" 
+	"Chodaganga" "Kamarnava" "Raghava" "Ragaraja" "Anangabhima" "Rajaraja" "Narasimha" "Bhanudeva" "Çagri" "Çaka" 
+	"Afsin" "Aksonqor" "Alaeddin" "Ali" "Alkan" "Alp Arslan" "Alp Yurek" "Alptigin" "Artuk" "Ayaz" 
+	"Aydin" "Aydogan" "Aytekin" "Böru" "Bulend" "Bahadir" "Balaban" "Basbuga" "Batuhan" "Baturay" 
+	"Baybars" "Bayezid" "Baytas" "Belek" "Berkan" "Berkiyaruk" "Bugra" "Burak" "Cuneyd" "Dundar" 
+	"Davud" "Demir" "Dogan" "Dogukan" "Dukak" "Erdem" "Gunduz" "Hizir" "Ibrahim" "Ilgazi" 
+	"Inal" "Iskender" "Kurboga" "Kaikaus" "Kaiqobad" "Kara" "Karatay" "Kasim" "Kaya" "Kaytun" 
+	"Korkut" "Kutalmis" "Kutlug" "Mursel" "Mahmud" "Mehmed" "Mesud" "Murad" "Mustafa" "Orhan" 
+	"Osman" "Porsuk" "Rustem" "Ramazan" "Ridvan" "Söbuk" "Sökmen" "Sönmez" "Saim" "Saltuk" 
+	"Saruca" "Savur" "Selçuk" "Selim" "Sencer" "Sinan" "Tanrivermis" "Togay" "Togtekin" "Tolun" 
+	"Toruntay" "Tugrul" "Tunga" "Turgut" "Turhan" "Tutus" "Uluç" "Umur" "Yakut" "Yaman" 
+	"Yinal" "Yunus" }
+monarch_names = {
+	"Bahram #1" = 24
+	"Meliksah #0" = 1
+	"Nagihan #0" = -1
+	"Tekin #0" = 1
+	"Huriye #0" = -1
+	"Firuze #0" = -1
+	"Nergis #0" = -1
+	"Suleyman #0" = 1
+	"Kemal #1" = 18
+	"Gunes #0" = -1
+	"Ilknur #0" = -1
+	"Bozan #0" = 1
+	"Akgul #0" = -1
+	"Gulsum #0" = -1
+	"Bozçin #0" = -1
+	"Ahmet #0" = 1
+	"Timurtas #0" = 1
+	"Ertekin #0" = 1
+	"Tura #0" = -1
+	"Gulay #0" = -1
+	"Ertan #0" = 1
+	"Gulfem #0" = -1
+	"Kutay #1" = 21
+	"Yasar #0" = -1
+	"Ertugrul #0" = 1
+	"Esin #0" = -1
+	"Kiliç #0" = 1
+	"Mengucek #0" = 1
+	"Aydogdu #0" = 1
+	"Hasan #0" = 1
+	"Savtekin #1" = 21
+	"Toktamis #1" = 21
+	"Zehra #0" = -1
+	"Danismend #0" = 1
+	"Umay #0" = -1
+	"Fatma #0" = -1
+	"Kaikhusraw #0" = 1
+	"Lale #0" = -1
+	"Sehinsah #0" = 1
+	"Azize #0" = -1
+	"Chodaganga #1" = 0
+	"Kamarnava #1" = 0
+	"Raghava #1" = 0
+	"Ragaraja #1" = 0
+	"Anangabhima #2" = 0
+	"Rajaraja #1" = 0
+	"Narasimha #4" = 0
+	"Bhanudeva #2" = 0
+	"Çagri #0" = 0
+	"Çaka #0" = 0
+	"Afsin #0" = 0
+	"Aksonqor #0" = 0
+	"Alaeddin #0" = 0
+	"Ali #0" = 0
+	"Alkan #0" = 0
+	"Alp Arslan #0" = 0
+	"Alp Yurek #0" = 0
+	"Alptigin #0" = 0
+	"Artuk #0" = 0
+	"Ayaz #0" = 0
+	"Aydin #0" = 0
+	"Aydogan #0" = 0
+	"Aytekin #0" = 0
+	"Böru #0" = 0
+	"Bulend #0" = 0
+	"Bahadir #0" = 0
+	"Balaban #0" = 0
+	"Basbuga #0" = 0
+	"Batuhan #0" = 0
+	"Baturay #0" = 0
+	"Baybars #0" = 0
+	"Bayezid #0" = 0
+	"Baytas #0" = 0
+	"Belek #0" = 0
+	"Berkan #0" = 0
+	"Berkiyaruk #0" = 0
+	"Bugra #0" = 0
+	"Burak #0" = 0
+	"Cuneyd #0" = 0
+	"Dundar #0" = 0
+	"Davud #0" = 0
+	"Demir #0" = 0
+	"Dogan #0" = 0
+	"Dogukan #0" = 0
+	"Dukak #0" = 0
+	"Erdem #0" = 0
+	"Gunduz #0" = 0
+	"Hizir #0" = 0
+	"Ibrahim #0" = 0
+	"Ilgazi #0" = 0
+	"Inal #0" = 0
+	"Iskender #0" = 0
+	"Kurboga #0" = 0
+	"Kaikaus #0" = 0
+	"Kaiqobad #0" = 0
+	"Kara #0" = 0
+	"Karatay #0" = 0
+	"Kasim #0" = 0
+	"Kaya #0" = 0
+	"Kaytun #0" = 0
+	"Korkut #0" = 0
+	"Kutalmis #0" = 0
+	"Kutlug #0" = 0
+	"Mursel #0" = 0
+	"Mahmud #0" = 0
+	"Mehmed #0" = 0
+	"Mesud #0" = 0
+	"Murad #0" = 0
+	"Mustafa #0" = 0
+	"Orhan #0" = 0
+	"Osman #0" = 0
+	"Porsuk #0" = 0
+	"Rustem #0" = 0
+	"Ramazan #0" = 0
+	"Ridvan #0" = 0
+	"Söbuk #0" = 0
+	"Sökmen #0" = 0
+	"Sönmez #0" = 0
+	"Saim #0" = 0
+	"Saltuk #0" = 0
+	"Saruca #0" = 0
+	"Savur #0" = 0
+	"Selçuk #0" = 0
+	"Selim #0" = 0
+	"Sencer #0" = 0
+	"Sinan #0" = 0
+	"Tanrivermis #0" = 0
+	"Togay #0" = 0
+	"Togtekin #0" = 0
+	"Tolun #0" = 0
+	"Toruntay #0" = 0
+	"Tugrul #0" = 0
+	"Tunga #0" = 0
+	"Turgut #0" = 0
+	"Turhan #0" = 0
+	"Tutus #0" = 0
+	"Uluç #0" = 0
+	"Umur #0" = 0
+	"Yakut #0" = 0
+	"Yaman #0" = 0
+	"Yinal #0" = 0
+	"Yunus #0" = 0
+}
+

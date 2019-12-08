@@ -1,0 +1,24 @@
+# Tver
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+capital = 4248
+1443.11.8 = {
+	monarch = {
+		name = "Vyshata"
+		birth_date = 1439.4.19
+		dynasty = "of Mologa"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 4248
+	add_treasury = 19
+	add_prestige = 5
+}

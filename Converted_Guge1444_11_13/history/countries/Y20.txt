@@ -1,0 +1,27 @@
+# Keitele
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = finnish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4123
+1436.8.30 = {
+	monarch = {
+		name = "Albrikt"
+		birth_date = 1416.3.17
+		dynasty = "Djäkn"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 4123
+	add_treasury = 32
+	add_prestige = 14
+	elector = no
+}

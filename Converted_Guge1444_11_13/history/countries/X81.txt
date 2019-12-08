@@ -1,0 +1,26 @@
+# Sijilmasa
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+clear_scripted_personalities = yes
+capital = 346
+1440.2.6 = {
+	monarch = {
+		name = "Berkan"
+		birth_date = 1389.7.9
+		dynasty = "Tudjinid"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 346
+	add_treasury = 22
+	add_prestige = 99
+}

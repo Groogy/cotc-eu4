@@ -1,0 +1,27 @@
+# Duklja
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = serbian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 138
+1420.12.28 = {
+	monarch = {
+		name = "Uros VI"
+		birth_date = 1402.12.7
+		dynasty = "Nemanjic"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 138
+	add_treasury = 19
+	add_prestige = 436
+}

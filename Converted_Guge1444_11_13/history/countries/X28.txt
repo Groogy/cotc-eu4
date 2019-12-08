@@ -1,0 +1,27 @@
+# Bryansk
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2407
+1431.8.27 = {
+	monarch = {
+		name = "Roman II"
+		birth_date = 1425.2.10
+		dynasty = "Rurikid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 2407
+	add_treasury = 37
+	add_prestige = 1863
+}

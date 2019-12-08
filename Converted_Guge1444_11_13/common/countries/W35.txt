@@ -1,0 +1,100 @@
+# Bilma
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 85 180 221 }
+
+
+
+
+leader_names = {
+
+	"Mamane" "Halima" "Shakira" "Abdallah" "Abdulraham" "Abubakar" "Adam" "Ahmed" "Airimi" "Alhaji" 
+	"Alooma" "Amin" "Amr" "Arku" "Arsu" "Baba" "Baram" "Bikorom" "Biri" "Bukar" 
+	"Bulu" "Buyuma" "Dabbalemi" "Dala" "Daoud" "Dugu" "Dunama" "Fune" "Gaji" "Gajideni" 
+	"Galrima" "Gana" "Garbai" "Gazali" "Gazi" "Ghana" "Hume" "Hummay" "Ibrahim" "Idris" 
+	"Kaday" "Kanemi" "Kashim" "Katakarmabe" "Katur" "Kiyari" "Kura" "Kuri" "Kuwaana" "Madu" 
+	"Mahmoud" "Modu" "Mufioma" "Murama" "Musa" "Mustafa" "Nikale" "Osman" "Said" "Salmama" 
+	"Sanda" "Sani" "Sef" "Selma" "Shettima" "Shu" "Suleyman" "Tandja" "Umar" "Waziri" 
+	"Yahya" "Yaqub" "Yusuf" "Zannah" }
+monarch_names = {
+	"Mamane #0" = 1
+	"Halima #0" = -1
+	"Shakira #0" = -1
+	"Abdallah #0" = 0
+	"Abdulraham #0" = 0
+	"Abubakar #0" = 0
+	"Adam #0" = 0
+	"Ahmed #0" = 0
+	"Airimi #0" = 0
+	"Alhaji #0" = 0
+	"Alooma #0" = 0
+	"Amin #0" = 0
+	"Amr #0" = 0
+	"Arku #0" = 0
+	"Arsu #0" = 0
+	"Baba #0" = 0
+	"Baram #0" = 0
+	"Bikorom #0" = 0
+	"Biri #0" = 0
+	"Bukar #0" = 0
+	"Bulu #0" = 0
+	"Buyuma #0" = 0
+	"Dabbalemi #0" = 0
+	"Dala #0" = 0
+	"Daoud #0" = 0
+	"Dugu #0" = 0
+	"Dunama #0" = 0
+	"Fune #0" = 0
+	"Gaji #0" = 0
+	"Gajideni #0" = 0
+	"Galrima #0" = 0
+	"Gana #0" = 0
+	"Garbai #0" = 0
+	"Gazali #0" = 0
+	"Gazi #0" = 0
+	"Ghana #0" = 0
+	"Hume #0" = 0
+	"Hummay #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Kaday #0" = 0
+	"Kanemi #0" = 0
+	"Kashim #0" = 0
+	"Katakarmabe #0" = 0
+	"Katur #0" = 0
+	"Kiyari #0" = 0
+	"Kura #0" = 0
+	"Kuri #0" = 0
+	"Kuwaana #0" = 0
+	"Madu #0" = 0
+	"Mahmoud #0" = 0
+	"Modu #0" = 0
+	"Mufioma #0" = 0
+	"Murama #0" = 0
+	"Musa #0" = 0
+	"Mustafa #0" = 0
+	"Nikale #0" = 0
+	"Osman #0" = 0
+	"Said #0" = 0
+	"Salmama #0" = 0
+	"Sanda #0" = 0
+	"Sani #0" = 0
+	"Sef #0" = 0
+	"Selma #0" = 0
+	"Shettima #0" = 0
+	"Shu #0" = 0
+	"Suleyman #0" = 0
+	"Tandja #0" = 0
+	"Umar #0" = 0
+	"Waziri #0" = 0
+	"Yahya #0" = 0
+	"Yaqub #0" = 0
+	"Yusuf #0" = 0
+	"Zannah #0" = 0
+
+
+	"Mariam #0" = -1
+	"Dikwa #0" = -1
+	"Rashida #0" = -1
+}
+

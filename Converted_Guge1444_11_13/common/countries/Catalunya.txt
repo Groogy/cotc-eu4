@@ -1,0 +1,111 @@
+# Barcelona
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 166 100 72 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+	exploration_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Sanç" "Ott" "Bernat" "Aveline" "Maurice" "Nicholas" "Joan" "Matilda" "Margaret" "Udalard" 
+	"Bera" "Rampon" "Bernard" "Berengar" "Suniefredo" "Guilhelm" "Aldedramn" "Isembard" "Odelric" "Hunifred" 
+	"Wifredo" "Suneario" "Borrell" "Ramon-Borrell" "Berenguer-Ramon" "Ramon-Berenguer" "Alfons" "Pere" "Ferran" "Jaume" 
+	"Dalmau" "Yehudah" "Marianu" "Teresa" "Richard" "Arnau" "Artau" "Berenguer" "Bernat-Guillem" "Ermengol" 
+	"Felip" "Frederic" "Gausfred" "Gerard" "Gombau" "Guerau" "Guifré" "Guillem" "Guillem-Ramon" "Guislabert" 
+	"Hug" "Jofré" "Ponç" "Ponç-Hug" "Ramon" "Ramon-Folc" "Roger" "Sunyer" }
+monarch_names = {
+	"Sanç #0" = 1
+	"Ott #0" = 1
+	"Bernat #0" = 1
+	"Aveline #0" = -1
+	"Maurice #0" = 1
+	"Nicholas #0" = 1
+	"Joan #1" = -19
+	"Matilda #0" = -1
+	"Margaret #1" = -19
+	"Udalard #0" = 1
+	"Bera #1" = 0
+	"Rampon #1" = 0
+	"Bernard #2" = 0
+	"Berengar #1" = 0
+	"Suniefredo #1" = 0
+	"Guilhelm #1" = 0
+	"Aldedramn #1" = 0
+	"Isembard #1" = 0
+	"Odelric #1" = 0
+	"Hunifred #1" = 0
+	"Wifredo #2" = 0
+	"Suneario #1" = 0
+	"Borrell #1" = 0
+	"Ramon-Borrell #1" = 0
+	"Berenguer-Ramon #2" = 0
+	"Ramon-Berenguer #4" = 0
+	"Alfons #2" = 0
+	"Pere #1" = 0
+	"Ferran #1" = 0
+	"Jaume #1" = 0
+	"Dalmau #1" = 0
+	"Yehudah #1" = 0
+	"Marianu #1" = 0
+	"Teresa #1" = -1
+	"Richard #1" = 0
+	"Arnau #0" = 0
+	"Artau #0" = 0
+	"Berenguer #0" = 0
+	"Bernat-Guillem #0" = 0
+	"Ermengol #0" = 0
+	"Felip #0" = 0
+	"Frederic #0" = 0
+	"Gausfred #0" = 0
+	"Gerard #0" = 0
+	"Gombau #0" = 0
+	"Guerau #0" = 0
+	"Guifré #0" = 0
+	"Guillem #0" = 0
+	"Guillem-Ramon #0" = 0
+	"Guislabert #0" = 0
+	"Hug #0" = 0
+	"Jofré #0" = 0
+	"Ponç #0" = 0
+	"Ponç-Hug #0" = 0
+	"Ramon #0" = 0
+	"Ramon-Folc #0" = 0
+	"Roger #0" = 0
+	"Sunyer #0" = 0
+}
+ship_names = {
+	"Blanca Aurora" "Sant Jacob" Flama Lleona Falcó "La Bonaventura" "Sant Antoni" 
+	"Sant Miquel" "Sant Bernat" "Sant Francesc" "Santa Ágata" "Santa Eulàlia" 
+	"Sant Gabriel" "Sant Climent" "Sant Jordi" "La Reial" Trinitat "Santa Creu" 
+	"Santa Maria" "Santa Caterina" "Sant Joan Evangelista" "Santa Bàrbara" 
+	"Sant Pere de Roma" "La Gasela" "Santa Magdalena" "Sant Víctor" Magnana 
+	"Santa Ventura" "Santa Coloma" "Sant Ambrós" "La Garsa"  
+}
+

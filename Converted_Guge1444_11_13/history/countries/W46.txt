@@ -1,0 +1,40 @@
+# Tsilma
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 4257
+1424.4.22 = {
+	monarch = {
+		name = "Ngënoh"
+		birth_date = 1398.3.28
+		dynasty = "Ngën"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1429.9.28 = {
+	heir = {
+		name = "Xëryuchi"
+		monarch_name = "Xëryuchi"
+		dynasty = "Ngën"
+		birth_date = 1429.9.28
+		death_date = 1509.9.28
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 4257
+	add_treasury = 29
+	add_prestige = 4
+}

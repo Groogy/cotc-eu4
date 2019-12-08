@@ -1,0 +1,26 @@
+# Jerusalem
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1855
+1443.3.25 = {
+	monarch = {
+		name = "Wahid II"
+		birth_date = 1420.2.17
+		dynasty = "Moustapha"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1855
+	add_treasury = 14
+	add_prestige = 21
+}

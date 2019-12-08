@@ -1,0 +1,27 @@
+# Brabant
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = dutch
+religion = catholic
+clear_scripted_personalities = yes
+capital = 92
+1443.9.1 = {
+	monarch = {
+		name = "Steyn"
+		birth_date = 1434.2.6
+		dynasty = "Reginar"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 92
+	add_treasury = 3
+	add_prestige = 85
+	elector = no
+}

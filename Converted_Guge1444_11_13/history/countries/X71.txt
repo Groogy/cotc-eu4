@@ -1,0 +1,40 @@
+# Khantia
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khanty
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1780
+1421.9.9 = {
+	monarch = {
+		name = "Daritai"
+		birth_date = 1388.1.8
+		dynasty = "Orid"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = benevolent_personality
+}
+1427.12.15 = {
+	heir = {
+		name = "Odchigin"
+		monarch_name = "Odchigin"
+		dynasty = "Orid"
+		birth_date = 1427.12.15
+		death_date = 1507.12.15
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1780
+	add_treasury = 12
+	add_prestige = 2
+}

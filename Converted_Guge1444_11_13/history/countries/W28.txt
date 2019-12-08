@@ -1,0 +1,38 @@
+# Genoa
+government = republic
+add_government_reform = merchants_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1247
+1429.11.28 = {
+	monarch = {
+		name = "Gabriele"
+		birth_date = 1398.5.10
+		dynasty = "di Gattinara"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = strict_personality
+	heir = {
+		name = "Bruno"
+		monarch_name = "Bruno"
+		dynasty = "di Gattinara"
+		birth_date = 1405.9.10
+		death_date = 1485.9.10
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1247
+	add_treasury = 27
+	add_prestige = 144
+}

@@ -1,0 +1,38 @@
+# Timbuktu
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = hausa
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 1132
+1440.4.28 = {
+	monarch = {
+		name = "Kandala"
+		birth_date = 1436.3.5
+		dynasty = "Habe"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Hadejia"
+		monarch_name = "Hadejia"
+		dynasty = "Habe"
+		birth_date = 1426.4.23
+		death_date = 1506.4.23
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_heir_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 1132
+	add_treasury = 31
+	add_prestige = 13
+}

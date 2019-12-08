@@ -1,0 +1,26 @@
+# Galloway
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 249
+1439.11.2 = {
+	monarch = {
+		name = "Edward II"
+		birth_date = 1397.6.26
+		dynasty = "de Courtenay"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 249
+	add_treasury = 69
+	add_prestige = 129
+}

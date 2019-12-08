@@ -1,0 +1,27 @@
+# Kent
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4371
+1414.7.25 = {
+	monarch = {
+		name = "Henry"
+		birth_date = 1382.1.28
+		dynasty = "de Warren"
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 4371
+	add_treasury = 50
+	add_prestige = 261
+}

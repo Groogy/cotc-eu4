@@ -1,0 +1,90 @@
+# Pokhara
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 195 100 20 }
+
+
+
+
+leader_names = {
+
+	"Arideva" "Shristi" "Jass" "Kusum" "Maya" "Karuna" "Shanta" "Samyukta" "Palisha" "Ngodup" 
+	"Chandra" "Sang" "Kukee" "Ranasura" "Abhaya" "Jayadeva" "Anandadeva" "Jayabhimadeva" "Jayasimha" "Ananta" 
+	"Jayananadadeva" "Jayarudra" "Jayari" "Jayarjuna" "Prajun" "Ram" "Tsamchoe" "Nikkon" "Birsha" "Samita" 
+	"Sarita" "Reshma" "Bishnu" "Kamal" "Sainyukta" "Aashish" "Ankit" "Akash" "Aramudi" "Babu" 
+	"Bhairaja" "Bibhas" "Bibek" "Bikash" "Bishal" "Finjo" "Gagan" "Hem" "Kiran" "Kush" 
+	"Malkit" "Manish" "Manu" "Milan" "Nabin" "Raju" "Ranjan" "Sabin" "Sahil" "Sajit" 
+	"Sanjay" "Sudi" "Sumit" "Sunil" "Suraj" "Tenzin" "Tiray" "Udgam" "Vishal" "Yash" }
+monarch_names = {
+	"Arideva #0" = 1
+	"Shristi #0" = -1
+	"Jass #0" = -1
+	"Kusum #0" = -1
+	"Maya #0" = -1
+	"Karuna #0" = -1
+	"Shanta #0" = 1
+	"Samyukta #0" = -1
+	"Palisha #0" = -1
+	"Ngodup #0" = 1
+	"Chandra #0" = 1
+	"Sang #0" = -1
+	"Kukee #0" = -1
+	"Ranasura #0" = 1
+	"Abhaya #0" = 1
+	"Jayadeva #0" = 1
+	"Anandadeva #0" = 1
+	"Jayabhimadeva #0" = 1
+	"Jayasimha #0" = 1
+	"Ananta #0" = 1
+	"Jayananadadeva #0" = 1
+	"Jayarudra #0" = 1
+	"Jayari #0" = 1
+	"Jayarjuna #0" = 1
+	"Prajun #0" = 1
+	"Ram #0" = 1
+	"Tsamchoe #0" = -1
+	"Nikkon #0" = 1
+	"Birsha #0" = -1
+	"Samita #0" = -1
+	"Sarita #0" = -1
+	"Reshma #0" = -1
+	"Bishnu #0" = -1
+	"Kamal #0" = 1
+	"Sainyukta #0" = -1
+	"Aashish #0" = 0
+	"Ankit #0" = 0
+	"Akash #0" = 0
+	"Aramudi #0" = 0
+	"Babu #0" = 0
+	"Bhairaja #0" = 0
+	"Bibhas #0" = 0
+	"Bibek #0" = 0
+	"Bikash #0" = 0
+	"Bishal #0" = 0
+	"Finjo #0" = 0
+	"Gagan #0" = 0
+	"Hem #0" = 0
+	"Kiran #0" = 0
+	"Kush #0" = 0
+	"Malkit #0" = 0
+	"Manish #0" = 0
+	"Manu #0" = 0
+	"Milan #0" = 0
+	"Nabin #0" = 0
+	"Raju #0" = 0
+	"Ranjan #0" = 0
+	"Sabin #0" = 0
+	"Sahil #0" = 0
+	"Sajit #0" = 0
+	"Sanjay #0" = 0
+	"Sudi #0" = 0
+	"Sumit #0" = 0
+	"Sunil #0" = 0
+	"Suraj #0" = 0
+	"Tenzin #0" = 0
+	"Tiray #0" = 0
+	"Udgam #0" = 0
+	"Vishal #0" = 0
+	"Yash #0" = 0
+}
+

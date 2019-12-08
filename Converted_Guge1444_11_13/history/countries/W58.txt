@@ -1,0 +1,37 @@
+# Dayirid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1075
+1439.9.8 = {
+	monarch = {
+		name = "Chagatai"
+		birth_date = 1401.1.2
+		dynasty = "Dayirid"
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Dayir"
+		monarch_name = "Dayir II"
+		dynasty = "Dayirid"
+		birth_date = 1410.11.13
+		death_date = 1490.11.13
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1075
+	add_treasury = 0
+	add_prestige = 114
+}

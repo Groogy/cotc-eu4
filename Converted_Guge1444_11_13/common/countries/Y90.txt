@@ -1,0 +1,82 @@
+# Bjarmia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 95 50 20 }
+
+
+
+
+leader_names = {
+
+	"Grigorii" "Mikhail" "Vseslava" "Agrafena" "Vyshata" "Veleslava" "Yaroslav" "Gradislava" "Ulita" "Kirill" 
+	"Feodora" "Dobrava" "Liudmila" "Sofia" "Varvara" "Yekaterina" "Auli" "Yaropolk" "Malfrida" "Tatyana" 
+	"Iliya" "Yevdokia" "Praxida" "Prebrana" "Andrei" "Koz'ma" "Agafya" "Ulyana" "Alexei" "Iziaslav" 
+	"Kako" "Samatu" "Sarak" "Hasaba" "Mandak" "Yurak" "Kolik" "Alik" "Kharuchi" "Kat" 
+	"Vesei" "Nabtiko" "Nenyts" "Nga" "Ngënoh" "Noumea" "Num" "Nyalku" "Panay" "Pudak" 
+	"Salinder" "Sirtya" "Somatu" "Syudbya" "Tatva" "Tolik" "Wayngachi" "Xëryuchi" "Yadne" "Yapti" 
+	"Yar" "Yavlad" }
+monarch_names = {
+	"Grigorii #0" = 1
+	"Mikhail #1" = 21
+	"Vseslava #0" = -1
+	"Agrafena #0" = -1
+	"Vyshata #0" = 1
+	"Veleslava #0" = -1
+	"Yaroslav #0" = 1
+	"Gradislava #0" = -1
+	"Ulita #0" = -1
+	"Kirill #0" = 1
+	"Feodora #0" = -1
+	"Dobrava #0" = -1
+	"Liudmila #0" = -1
+	"Sofia #0" = -1
+	"Varvara #0" = -1
+	"Yekaterina #0" = -1
+	"Auli #1" = -19
+	"Yaropolk #0" = 1
+	"Malfrida #0" = -1
+	"Tatyana #0" = -1
+	"Iliya #0" = 1
+	"Yevdokia #0" = -1
+	"Praxida #0" = -1
+	"Prebrana #0" = -1
+	"Andrei #0" = 1
+	"Koz'ma #0" = 1
+	"Agafya #0" = -1
+	"Ulyana #0" = -1
+	"Alexei #0" = 1
+	"Iziaslav #0" = 1
+	"Kako #1" = 0
+	"Samatu #1" = 0
+	"Sarak #1" = 0
+	"Hasaba #1" = 0
+	"Mandak #1" = 0
+	"Yurak #1" = 0
+	"Kolik #2" = 0
+	"Alik #3" = 0
+	"Kharuchi #3" = 0
+	"Kat #1" = -1
+	"Vesei #1" = 0
+	"Nabtiko #0" = 0
+	"Nenyts #0" = 0
+	"Nga #0" = 0
+	"Ngënoh #0" = 0
+	"Noumea #0" = 0
+	"Num #0" = 0
+	"Nyalku #0" = 0
+	"Panay #0" = 0
+	"Pudak #0" = 0
+	"Salinder #0" = 0
+	"Sirtya #0" = 0
+	"Somatu #0" = 0
+	"Syudbya #0" = 0
+	"Tatva #0" = 0
+	"Tolik #0" = 0
+	"Wayngachi #0" = 0
+	"Xëryuchi #0" = 0
+	"Yadne #0" = 0
+	"Yapti #0" = 0
+	"Yar #0" = 0
+	"Yavlad #0" = 0
+}
+

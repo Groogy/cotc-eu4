@@ -1,0 +1,28 @@
+# Bremen
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 54
+1429.12.3 = {
+	monarch = {
+		name = "Rutger"
+		birth_date = 1396.2.19
+		dynasty = "von  Bremen"
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 54
+	add_treasury = 229
+	add_prestige = 21
+	elector = no
+}

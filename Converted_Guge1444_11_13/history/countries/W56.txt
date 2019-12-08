@@ -1,0 +1,38 @@
+# Chigu
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2369
+1432.6.9 = {
+	monarch = {
+		name = "Odchigin"
+		birth_date = 1416.2.6
+		dynasty = "Chigu"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = craven_personality
+	heir = {
+		name = "Todogen"
+		monarch_name = "Todogen"
+		dynasty = "Chigu"
+		birth_date = 1417.9.6
+		death_date = 1497.9.6
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 2369
+	add_treasury = 15
+	add_prestige = 74
+}

@@ -1,0 +1,26 @@
+# Coloneia
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 329
+1439.2.4 = {
+	monarch = {
+		name = "Balaban II"
+		birth_date = 1399.11.11
+		dynasty = "Tigin"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 329
+	add_treasury = 111
+	add_prestige = 91
+}

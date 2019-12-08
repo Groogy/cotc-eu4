@@ -1,0 +1,27 @@
+# Pamir
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = persian
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2073
+1384.6.11 = {
+	monarch = {
+		name = "Trisong"
+		birth_date = 1379.4.25
+		dynasty = "Kyichu"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2073
+	add_treasury = 49
+	add_prestige = 348
+}

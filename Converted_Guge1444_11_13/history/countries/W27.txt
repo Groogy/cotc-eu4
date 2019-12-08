@@ -1,0 +1,37 @@
+# Maragha
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2207
+1437.3.28 = {
+	monarch = {
+		name = "Fath"
+		birth_date = 1398.7.18
+		dynasty = "Hossein"
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = infertile_personality
+	heir = {
+		name = "Keykhosrau"
+		monarch_name = "Keykhosrau"
+		dynasty = "Hossein"
+		birth_date = 1417.8.15
+		death_date = 1497.8.15
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2207
+	add_treasury = 11
+	add_prestige = -11
+}

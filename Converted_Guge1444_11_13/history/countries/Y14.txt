@@ -1,0 +1,28 @@
+# Tavastia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = swedish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 29
+1429.2.24 = {
+	monarch = {
+		name = "Olaf"
+		birth_date = 1410.10.12
+		dynasty = "av Finland"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 29
+	add_treasury = 23
+	add_prestige = -1
+	elector = no
+}

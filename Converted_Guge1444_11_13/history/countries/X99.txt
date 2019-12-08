@@ -1,0 +1,27 @@
+# Varendra
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2045
+1406.3.15 = {
+	monarch = {
+		name = "Baytas"
+		birth_date = 1383.12.27
+		dynasty = "Dogukan"
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2045
+	add_treasury = 276
+	add_prestige = 429
+}

@@ -1,0 +1,27 @@
+# Pleskau
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = danish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 274
+1444.4.17 = {
+	monarch = {
+		name = "Malthe"
+		birth_date = 1435.1.9
+		dynasty = "Botner"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 274
+	add_treasury = 2
+	add_prestige = 50
+	elector = no
+}

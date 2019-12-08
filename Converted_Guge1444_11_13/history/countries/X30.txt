@@ -1,0 +1,27 @@
+# Taizz
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4279
+1425.3.30 = {
+	monarch = {
+		name = "Burhanaddin"
+		birth_date = 1416.11.21
+		dynasty = "Hashimid"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 4279
+	add_treasury = 13
+	add_prestige = 417
+}

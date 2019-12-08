@@ -1,0 +1,37 @@
+# Gilan
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 417
+1442.5.19 = {
+	monarch = {
+		name = "Nawid"
+		birth_date = 1425.9.26
+		dynasty = "Muqannid"
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+	heir = {
+		name = "Fariborz"
+		monarch_name = "Fariborz"
+		dynasty = "Muqannid"
+		birth_date = 1428.2.26
+		death_date = 1508.2.26
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+	add_heir_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 417
+	add_treasury = 27
+	add_prestige = 10
+}

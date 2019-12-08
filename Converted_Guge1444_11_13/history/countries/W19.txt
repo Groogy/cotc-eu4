@@ -1,0 +1,37 @@
+# Turgay
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2359
+1440.2.28 = {
+	monarch = {
+		name = "Ogodei"
+		birth_date = 1403.4.2
+		dynasty = "Baburid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Subetei"
+		monarch_name = "Subetei"
+		dynasty = "Baburid"
+		birth_date = 1429.11.2
+		death_date = 1509.11.2
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2359
+	add_treasury = 3
+	add_prestige = 9
+}

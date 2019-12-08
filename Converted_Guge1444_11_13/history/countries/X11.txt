@@ -1,0 +1,26 @@
+# Vladimir
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 307
+1443.9.10 = {
+	monarch = {
+		name = "Viacheslav"
+		birth_date = 1425.10.13
+		dynasty = "Rurikid"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 307
+	add_treasury = 33
+	add_prestige = 2141
+}

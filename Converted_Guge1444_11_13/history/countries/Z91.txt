@@ -1,0 +1,27 @@
+# Graz
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1863
+1442.2.3 = {
+	monarch = {
+		name = "Walram"
+		birth_date = 1401.3.9
+		dynasty = "von Graz"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 1863
+	add_treasury = 21
+	add_prestige = 93
+	elector = no
+}

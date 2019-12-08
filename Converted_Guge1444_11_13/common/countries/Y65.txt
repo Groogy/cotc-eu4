@@ -1,0 +1,142 @@
+# Gangavadi
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 108 23 29 }
+
+
+
+
+leader_names = {
+
+	"Kulashekara" "Bankideva" "Vijamba" "Terkhen" "Kannama" "Narasimha" "Virupaksha" "Viravijaya" "Thimma" "Pertal" 
+	"Thirumalambike" "Chinnambike" "Gopendraraja" "Bijjama" "Alp Yurek" "Venkatadri" "Bhavanaga" "Chikkayitayi" "Butuga" "Mahadevi" 
+	"Obayamma" "Mandana" "Mustafa" "Shantaladevi" "Permadi" "Lakshmi" "Laxmidevi" "Mahidevi" "Konganivarman" "Madhava" 
+	"Harivarman" "Vishnugopa" "Avinita" "Durvinita" "Mushkara" "Polavira" "Srivikrama" "Bhuvikarma" "Shivamara" "Sripurusha" 
+	"Rachamala" "Ereganga" "Marulaganga" "Neetimarga" "Vikramaditya" "Vinayaditya" "Ereyanga" "Veeraballala" "Vishnuvardhana" "Somesvara" 
+	"Achugi" "Adikavi" "Ahavamalla" "Amoghavarsha" "Anekonda" "Asaga" "Ayanna" "Bhuvikrama" "Bukka" "Chavundaraya" 
+	"Dantidurga" "Dashavarman" "Dhruva" "Durgasimha" "Gangaraja" "Gajankusha" "Gobburi" "Govinda" "Hakka" "Harihara" 
+	"Indra" "Jagadhekamalla" "Jagaraya" "Jagattunga" "Jayasimha" "Jogama" "Kambarasa" "Karka" "Khottiga" "Kiriyasaga" 
+	"Kirtivarman" "Krishna" "Madhura" "Mallikarjuna" "Mallugi" "Mangalesi" "Marasimha" "Narasanayaka" "Nripakama" "Permanadi" 
+	"Praudharaya" "Pulakesi" "Purandaradasa" "Rachamalla" "Ramachandra" "Ramadeva" "Ramaraya" "Sankama" "Satyasraya" "Sharva" 
+	"Singhana" "Sovideva" "Sripadaraya" "Sriranga" "Tailapa" "Tirumalaraya" "Uchita" "Venkatapathi" "Vijayaditya" "Viraballala" 
+	"Yachama" "Yachamanedu" "Achyutadeva" "Krishnadevaraya" "Sadashiva" "Vendakadri" "Viranarasimha" }
+monarch_names = {
+	"Kulashekara #3" = 30
+	"Bankideva #1" = 27
+	"Vijamba #0" = -1
+	"Terkhen #0" = -1
+	"Kannama #0" = 1
+	"Narasimha #5" = 18
+	"Virupaksha #0" = 1
+	"Viravijaya #0" = 1
+	"Thimma #0" = 1
+	"Pertal #0" = -1
+	"Thirumalambike #0" = -1
+	"Chinnambike #0" = -1
+	"Gopendraraja #0" = 1
+	"Bijjama #0" = 1
+	"Alp Yurek #0" = 1
+	"Venkatadri #0" = 1
+	"Bhavanaga #0" = -1
+	"Chikkayitayi #0" = -1
+	"Butuga #1" = 18
+	"Mahadevi #0" = -1
+	"Obayamma #0" = -1
+	"Mandana #0" = -1
+	"Mustafa #0" = 1
+	"Shantaladevi #0" = -1
+	"Permadi #0" = 1
+	"Lakshmi #0" = -1
+	"Laxmidevi #0" = -1
+	"Mahidevi #0" = -1
+	"Konganivarman #1" = 0
+	"Madhava #2" = 0
+	"Harivarman #1" = 0
+	"Vishnugopa #1" = 0
+	"Avinita #1" = 0
+	"Durvinita #1" = 0
+	"Mushkara #1" = 0
+	"Polavira #1" = 0
+	"Srivikrama #1" = 0
+	"Bhuvikarma #1" = 0
+	"Shivamara #2" = 0
+	"Sripurusha #1" = 0
+	"Rachamala #5" = 0
+	"Ereganga #2" = 0
+	"Marulaganga #1" = 0
+	"Neetimarga #1" = 0
+	"Vikramaditya #1" = 0
+	"Vinayaditya #1" = 0
+	"Ereyanga #1" = 0
+	"Veeraballala #3" = 0
+	"Vishnuvardhana #1" = 0
+	"Somesvara #1" = 0
+	"Achugi #0" = 0
+	"Adikavi #0" = 0
+	"Ahavamalla #0" = 0
+	"Amoghavarsha #0" = 0
+	"Anekonda #0" = 0
+	"Asaga #0" = 0
+	"Ayanna #0" = 0
+	"Bhuvikrama #0" = 0
+	"Bukka #0" = 0
+	"Chavundaraya #0" = 0
+	"Dantidurga #0" = 0
+	"Dashavarman #0" = 0
+	"Dhruva #0" = 0
+	"Durgasimha #0" = 0
+	"Gangaraja #0" = 0
+	"Gajankusha #0" = 0
+	"Gobburi #0" = 0
+	"Govinda #0" = 0
+	"Hakka #0" = 0
+	"Harihara #0" = 0
+	"Indra #0" = 0
+	"Jagadhekamalla #0" = 0
+	"Jagaraya #0" = 0
+	"Jagattunga #0" = 0
+	"Jayasimha #0" = 0
+	"Jogama #0" = 0
+	"Kambarasa #0" = 0
+	"Karka #0" = 0
+	"Khottiga #0" = 0
+	"Kiriyasaga #0" = 0
+	"Kirtivarman #0" = 0
+	"Krishna #0" = 0
+	"Madhura #0" = 0
+	"Mallikarjuna #0" = 0
+	"Mallugi #0" = 0
+	"Mangalesi #0" = 0
+	"Marasimha #0" = 0
+	"Narasanayaka #0" = 0
+	"Nripakama #0" = 0
+	"Permanadi #0" = 0
+	"Praudharaya #0" = 0
+	"Pulakesi #0" = 0
+	"Purandaradasa #0" = 0
+	"Rachamalla #0" = 0
+	"Ramachandra #0" = 0
+	"Ramadeva #0" = 0
+	"Ramaraya #0" = 0
+	"Sankama #0" = 0
+	"Satyasraya #0" = 0
+	"Sharva #0" = 0
+	"Singhana #0" = 0
+	"Sovideva #0" = 0
+	"Sripadaraya #0" = 0
+	"Sriranga #0" = 0
+	"Tailapa #0" = 0
+	"Tirumalaraya #0" = 0
+	"Uchita #0" = 0
+	"Venkatapathi #0" = 0
+	"Vijayaditya #0" = 0
+	"Viraballala #0" = 0
+	"Yachama #0" = 0
+	"Yachamanedu #0" = 0
+	"Achyutadeva #0" = 0
+	"Krishnadevaraya #0" = 0
+	"Sadashiva #0" = 0
+	"Vendakadri #0" = 0
+	"Viranarasimha #0" = 0
+}
+

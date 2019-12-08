@@ -1,0 +1,10 @@
+israelite = {
+	ashkenazi = {
+		primary = ISR
+		dynasty_names = { "of Kotola" "of Nikopol" "of Ma'an" "of Avadiyarkoil" "of Berbera" "of Thorn" }
+	}
+	sephardi = {
+		primary = ISR
+		dynasty_names = { "of Kyzyl Arvat" }
+	}
+}

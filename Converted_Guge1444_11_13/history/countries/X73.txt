@@ -1,0 +1,27 @@
+# Yaik
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1966
+1432.8.3 = {
+	monarch = {
+		name = "Ajinai II"
+		birth_date = 1404.9.17
+		dynasty = "Borjigin"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 1966
+	add_treasury = 9
+	add_prestige = 1293
+}

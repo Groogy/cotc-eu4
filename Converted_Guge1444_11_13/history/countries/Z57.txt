@@ -1,0 +1,28 @@
+# Metz
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 188
+1419.6.23 = {
+	monarch = {
+		name = "Ludolf"
+		birth_date = 1394.4.11
+		dynasty = "von  Metz"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 188
+	add_treasury = 103
+	add_prestige = 72
+	elector = no
+}

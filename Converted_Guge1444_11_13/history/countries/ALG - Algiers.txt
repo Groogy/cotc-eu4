@@ -1,0 +1,27 @@
+# Alger
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = catalan
+religion = catholic
+clear_scripted_personalities = yes
+capital = 338
+1401.3.31 = {
+	monarch = {
+		name = "Guifré"
+		birth_date = 1399.7.13
+		dynasty = "de Barcelona"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 338
+	add_treasury = 35
+	add_prestige = 535
+}

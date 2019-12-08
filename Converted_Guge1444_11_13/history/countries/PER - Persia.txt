@@ -1,0 +1,40 @@
+# Persia
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4327
+1387.4.29 = {
+	monarch = {
+		name = "Sina"
+		birth_date = 1386.8.3
+		dynasty = "Muzaffar"
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1413.12.22 = {
+	heir = {
+		name = "Keyghobad"
+		monarch_name = "Keyghobad"
+		dynasty = "Muzaffar"
+		birth_date = 1413.12.22
+		death_date = 1493.12.22
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 4327
+	add_treasury = 136
+	add_prestige = 289
+}

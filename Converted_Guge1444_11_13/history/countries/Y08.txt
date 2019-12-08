@@ -1,0 +1,28 @@
+# Lebus
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2969
+1410.12.8 = {
+	monarch = {
+		name = "Lambert"
+		birth_date = 1399.1.14
+		dynasty = "von Heinsberg"
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 2969
+	add_treasury = 37
+	add_prestige = 115
+	elector = no
+}

@@ -1,0 +1,26 @@
+# Joensuu
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = finnish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4124
+1444.11.13 = {
+	monarch = {
+		name = "Seppo"
+		birth_date = 1419.2.25
+		dynasty = "of Igrim"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 4124
+	add_treasury = 30
+	add_prestige = 30
+}

@@ -1,0 +1,27 @@
+# Mallorca
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = catalan
+religion = catholic
+clear_scripted_personalities = yes
+capital = 333
+1434.6.1 = {
+	monarch = {
+		name = "Roger II"
+		birth_date = 1424.11.5
+		dynasty = "d'Empúries"
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 333
+	add_treasury = 63
+	add_prestige = 57
+}

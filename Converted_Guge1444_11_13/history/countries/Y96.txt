@@ -1,0 +1,27 @@
+# Opsikion
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4312
+1431.8.4 = {
+	monarch = {
+		name = "Spinetto"
+		birth_date = 1408.1.24
+		dynasty = "della Gherardesca"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 4312
+	add_treasury = 46
+	add_prestige = 109
+}

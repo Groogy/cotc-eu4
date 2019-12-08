@@ -1,0 +1,149 @@
+# Burgundy
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 153 67 108 }
+
+
+
+
+leader_names = {
+
+	"Richard" "Clotaire" "Raymond" "Judith" "Herbert" "Hugues" "Amelie" "Yolande" "Mathieu" "Valence" 
+	"Géraud" "Bonne" "Ancel" "François" "Louis" "Antoinette" "Ildégarde" "Mafalda" "Isabeau" "Dreux" 
+	"Theoderic" "Teudoin" "Charles" "Carloman" "Raoul" "Gilbert" "Othon" "Henri" "Othon-Guillaume" "Robert" 
+	"Eudes" "Philippe" "Simon" "Édouard" "Érrard" "Étienne" "Adalbert" "Adémar" "Adrien" "Aimery" 
+	"Alain" "Aldebert" "Aldéric" "Alphonse" "Amaury" "Amédée" "André" "Angelbert" "Antoine" "Archambaud" 
+	"Arnaud" "Arnault" "Arnoul" "Aubry" "Aymar" "Barthélémi" "Baudouin" "Benoît" "Bérenger" "Bernard" 
+	"Bertrand" "Bohemond" "Boson" "Bouchard" "Centule" "Ebbon" "Enguerrand" "Eustache" "Evrard" "Foulques" 
+	"Frédéric" "Gargamel" "Gaucher" "Gaucelin" "Gauthier" "Geoffroy" "Gelduin" "Gilles" "Godefroy" "Guichard" 
+	"Guiges" "Guilhem" "Guillaume" "Guy" "Hélie" "Hamelin" "Hildebert" "Humbert" "Jacques" "Jaufré" 
+	"Jaspert" "Jean" "Josselin" "Jourdain" "Julien" "Léon" "Léonard" "Lothaire" "Loup" "Manassès" 
+	"Maurice" "Nicolas" "Ogier" "Onfroy" "Orson" "Payen" "Pierre" "Raimbaut" "Raynaud" "Renaud" 
+	"Robin" "Roger" "Rorgon" "Rorgues" "Roubaud" "Savary" "Sigismond" "Thibault" "Thiébaut" "Thierry" 
+	"Thomas" "Valeran" "Yves" }
+monarch_names = {
+	"Richard #1" = 18
+	"Clotaire #0" = 1
+	"Raymond #1" = 18
+	"Judith #0" = -1
+	"Herbert #0" = 1
+	"Hugues #7" = 21
+	"Amelie #0" = -1
+	"Yolande #0" = -1
+	"Mathieu #0" = 1
+	"Valence #0" = -1
+	"Géraud #2" = 27
+	"Bonne #0" = -1
+	"Ancel #0" = 1
+	"François #0" = 1
+	"Louis #0" = 1
+	"Antoinette #0" = -1
+	"Ildégarde #0" = -1
+	"Mafalda #0" = -1
+	"Isabeau #0" = -1
+	"Dreux #1" = 0
+	"Theoderic #2" = 0
+	"Teudoin #1" = 0
+	"Charles #1" = 0
+	"Carloman #1" = 0
+	"Raoul #1" = 0
+	"Gilbert #1" = 0
+	"Othon #1" = 0
+	"Henri #1" = 0
+	"Othon-Guillaume #1" = 0
+	"Robert #3" = 0
+	"Eudes #4" = 0
+	"Philippe #1" = 0
+	"Simon #1" = 0
+	"Édouard #0" = 0
+	"Érrard #0" = 0
+	"Étienne #0" = 0
+	"Adalbert #0" = 0
+	"Adémar #0" = 0
+	"Adrien #0" = 0
+	"Aimery #0" = 0
+	"Alain #0" = 0
+	"Aldebert #0" = 0
+	"Aldéric #0" = 0
+	"Alphonse #0" = 0
+	"Amaury #0" = 0
+	"Amédée #0" = 0
+	"André #0" = 0
+	"Angelbert #0" = 0
+	"Antoine #0" = 0
+	"Archambaud #0" = 0
+	"Arnaud #0" = 0
+	"Arnault #0" = 0
+	"Arnoul #0" = 0
+	"Aubry #0" = 0
+	"Aymar #0" = 0
+	"Barthélémi #0" = 0
+	"Baudouin #0" = 0
+	"Benoît #0" = 0
+	"Bérenger #0" = 0
+	"Bernard #0" = 0
+	"Bertrand #0" = 0
+	"Bohemond #0" = 0
+	"Boson #0" = 0
+	"Bouchard #0" = 0
+	"Centule #0" = 0
+	"Ebbon #0" = 0
+	"Enguerrand #0" = 0
+	"Eustache #0" = 0
+	"Evrard #0" = 0
+	"Foulques #0" = 0
+	"Frédéric #0" = 0
+	"Gargamel #0" = 0
+	"Gaucher #0" = 0
+	"Gaucelin #0" = 0
+	"Gauthier #0" = 0
+	"Geoffroy #0" = 0
+	"Gelduin #0" = 0
+	"Gilles #0" = 0
+	"Godefroy #0" = 0
+	"Guichard #0" = 0
+	"Guiges #0" = 0
+	"Guilhem #0" = 0
+	"Guillaume #0" = 0
+	"Guy #0" = 0
+	"Hélie #0" = 0
+	"Hamelin #0" = 0
+	"Hildebert #0" = 0
+	"Humbert #0" = 0
+	"Jacques #0" = 0
+	"Jaufré #0" = 0
+	"Jaspert #0" = 0
+	"Jean #0" = 0
+	"Josselin #0" = 0
+	"Jourdain #0" = 0
+	"Julien #0" = 0
+	"Léon #0" = 0
+	"Léonard #0" = 0
+	"Lothaire #0" = 0
+	"Loup #0" = 0
+	"Manassès #0" = 0
+	"Maurice #0" = 0
+	"Nicolas #0" = 0
+	"Ogier #0" = 0
+	"Onfroy #0" = 0
+	"Orson #0" = 0
+	"Payen #0" = 0
+	"Pierre #0" = 0
+	"Raimbaut #0" = 0
+	"Raynaud #0" = 0
+	"Renaud #0" = 0
+	"Robin #0" = 0
+	"Roger #0" = 0
+	"Rorgon #0" = 0
+	"Rorgues #0" = 0
+	"Roubaud #0" = 0
+	"Savary #0" = 0
+	"Sigismond #0" = 0
+	"Thibault #0" = 0
+	"Thiébaut #0" = 0
+	"Thierry #0" = 0
+	"Thomas #0" = 0
+	"Valeran #0" = 0
+	"Yves #0" = 0
+}
+

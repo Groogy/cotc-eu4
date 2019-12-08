@@ -1,0 +1,24 @@
+# Granada
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+capital = 4546
+1443.9.10 = {
+	monarch = {
+		name = "Sancho II"
+		birth_date = 1439.1.3
+		dynasty = "d'Ivrea"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 4546
+	add_treasury = 38
+	add_prestige = 281
+}

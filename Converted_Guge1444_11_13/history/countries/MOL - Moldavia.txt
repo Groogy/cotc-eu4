@@ -1,0 +1,27 @@
+# Moldavia
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4529
+1429.2.7 = {
+	monarch = {
+		name = "Alchi"
+		birth_date = 1387.3.27
+		dynasty = "Aguchu"
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 4529
+	add_treasury = 28
+	add_prestige = 261
+}

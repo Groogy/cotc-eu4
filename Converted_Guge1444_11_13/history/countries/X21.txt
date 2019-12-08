@@ -1,0 +1,26 @@
+# Oltenia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = romanian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4532
+1440.3.8 = {
+	monarch = {
+		name = "Gedivilas"
+		birth_date = 1403.1.8
+		dynasty = "Jotiai"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 4532
+	add_treasury = 45
+	add_prestige = 61
+}

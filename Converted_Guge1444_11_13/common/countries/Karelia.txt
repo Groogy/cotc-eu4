@@ -1,0 +1,174 @@
+# Karelia
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 155 135 45 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Valteri" "Valdemar" "Åsa" "Håvard" "Fredrik" "Birger" "Klas" "Tuokko" "Thorvald" "Holmfrid" 
+	"Susi" "Sunniva" "Aleta" "Ingjerd" "Sisko" "Eirik" "Cecilia" "Veli" "Ingfrid" "Kristina" 
+	"Tyyni" "Irene" "Sampo" "Olavi" "Lempi" "Henrik" "Aimo" "Titti" "Liekko" "Olaf" 
+	"Maer" "Harald" "Gunnar" "Bengt" "Lemetti" "Ihala" "Väinö" "Kettu" "Tuure" "Kalevi" 
+	"Oiva" "Ahma" "Ensio" "Matti" "Henri" "Johannes" "Kukka" "Alv" "Arne" "Arnfinn" 
+	"Arnkjell" "Arnmod" "Arnvid" "Bård" "Bjørn" "Eigil" "Eilif" "Einar" "Erlend" "Erling" 
+	"Eystein" "Finn" "Grim" "Gudbrand" "Gudleik" "Gudrød" "Guttorm" "Haldor" "Halfdan" "Halkjell" 
+	"Håkon" "Inge" "Ivar" "Jon" "Kåre" "Kolbein" "Lodin" "Magne" "Magnus" "Ogmund" 
+	"Olav" "Ossor" "Pål" "Ragnar" "Ragnvald" "Rolf" "Sigurd" "Skjalg" "Skofte" "Skule" 
+	"Svein" "Sverre" "Torbjørn" "Tord" "Tore" "Torgil" "Tormod" "Torolf" "Torstein" "Trond" 
+	"Tryggve" "Ulv" "Vigleik" "Åle" "Åmund" "Ølver" "Øystein" }
+monarch_names = {
+	"Valteri #0" = 1
+	"Valdemar #0" = 1
+	"Åsa #0" = -1
+	"Håvard #0" = 1
+	"Fredrik #0" = 1
+	"Birger #0" = 1
+	"Klas #0" = 1
+	"Tuokko #0" = 1
+	"Thorvald #0" = 1
+	"Holmfrid #0" = -1
+	"Susi #1" = 24
+	"Sunniva #0" = -1
+	"Aleta #0" = -1
+	"Ingjerd #0" = -1
+	"Sisko #0" = -1
+	"Eirik #0" = 1
+	"Cecilia #0" = -1
+	"Veli #1" = 18
+	"Ingfrid #0" = -1
+	"Kristina #0" = -1
+	"Tyyni #0" = -1
+	"Irene #0" = -1
+	"Sampo #0" = 1
+	"Olavi #0" = 1
+	"Lempi #0" = -1
+	"Henrik #0" = 1
+	"Aimo #0" = 1
+	"Titti #0" = -1
+	"Liekko #0" = -1
+	"Olaf #0" = 1
+	"Maer #0" = -1
+	"Harald #0" = 1
+	"Gunnar #0" = 1
+	"Bengt #1" = 18
+	"Lemetti #2" = 0
+	"Ihala #2" = 0
+	"Väinö #2" = 0
+	"Kettu #2" = 0
+	"Tuure #2" = 0
+	"Kalevi #1" = 0
+	"Oiva #1" = 0
+	"Ahma #1" = 0
+	"Ensio #1" = 0
+	"Matti #1" = 0
+	"Henri #2" = 0
+	"Johannes #1" = 0
+	"Kukka #1" = -1
+	"Alv #0" = 0
+	"Arne #0" = 0
+	"Arnfinn #0" = 0
+	"Arnkjell #0" = 0
+	"Arnmod #0" = 0
+	"Arnvid #0" = 0
+	"Bård #0" = 0
+	"Bjørn #0" = 0
+	"Eigil #0" = 0
+	"Eilif #0" = 0
+	"Einar #0" = 0
+	"Erlend #0" = 0
+	"Erling #0" = 0
+	"Eystein #0" = 0
+	"Finn #0" = 0
+	"Grim #0" = 0
+	"Gudbrand #0" = 0
+	"Gudleik #0" = 0
+	"Gudrød #0" = 0
+	"Guttorm #0" = 0
+	"Haldor #0" = 0
+	"Halfdan #0" = 0
+	"Halkjell #0" = 0
+	"Håkon #0" = 0
+	"Inge #0" = 0
+	"Ivar #0" = 0
+	"Jon #0" = 0
+	"Kåre #0" = 0
+	"Kolbein #0" = 0
+	"Lodin #0" = 0
+	"Magne #0" = 0
+	"Magnus #0" = 0
+	"Ogmund #0" = 0
+	"Olav #0" = 0
+	"Ossor #0" = 0
+	"Pål #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Sigurd #0" = 0
+	"Skjalg #0" = 0
+	"Skofte #0" = 0
+	"Skule #0" = 0
+	"Svein #0" = 0
+	"Sverre #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Tore #0" = 0
+	"Torgil #0" = 0
+	"Tormod #0" = 0
+	"Torolf #0" = 0
+	"Torstein #0" = 0
+	"Trond #0" = 0
+	"Tryggve #0" = 0
+	"Ulv #0" = 0
+	"Vigleik #0" = 0
+	"Åle #0" = 0
+	"Åmund #0" = 0
+	"Ølver #0" = 0
+	"Øystein #0" = 0
+}
+ship_names = {
+	Agricola Aura
+	Borgå "Birger Jarl"
+	Helsingfors Hakkapeliitta
+	Ilmarinen
+	Kullervo Karelen Kymi
+	Lemminkäinen Lapland
+	Nyland
+	Oulu
+	"Per Brahe"
+	Sampo "St. Henrik" Savolax
+	Tavastehus Tavastland
+	Väinämöinen Vasa Viborg Vanda Vuoksi
+	Åbo
+	Österbotten
+}
+

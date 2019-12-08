@@ -1,0 +1,27 @@
+# Halland
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 26
+1439.9.23 = {
+	monarch = {
+		name = "Einar"
+		birth_date = 1415.2.13
+		dynasty = "af Hålbonäs"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 26
+	add_treasury = 20
+	add_prestige = 0
+	elector = no
+}

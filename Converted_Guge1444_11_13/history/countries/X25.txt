@@ -1,0 +1,38 @@
+# Galicia-Volhynia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 279
+1437.3.20 = {
+	monarch = {
+		name = "Vasiliy"
+		birth_date = 1430.10.17
+		dynasty = "Piast"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Rogneda"
+		monarch_name = "Rogneda"
+		dynasty = "Piast"
+		birth_date = 1428.12.17
+		death_date = 1508.12.17
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 279
+	add_treasury = 31
+	add_prestige = 514
+}

@@ -1,0 +1,26 @@
+# Aqtöbe
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 472
+1442.7.16 = {
+	monarch = {
+		name = "Bala II"
+		birth_date = 1429.8.10
+		dynasty = "Aqtöbe"
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 472
+	add_treasury = 15
+	add_prestige = 71
+}

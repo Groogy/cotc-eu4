@@ -1,0 +1,161 @@
+# Flanders
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 255 120 0 }
+
+
+
+
+leader_names = {
+
+	"Guillaume" "Alaïs" "Othon" "Henriette" "Bohemond" "Azalaïs" "Barthélémi" "Madalena" "Raimbaut" "Odette" 
+	"Guy" "Elisabeth" "Mahaut" "Archambaud" "Marguerite" "Mathilde" "Marie" "Agnes" "Jean" "Beatrice" 
+	"Louis" "Robert" "Philippe" "Blanche" "Denise" "Gaucher" "Yolande" "Alain" "Jeanne" "Agnès" 
+	"Geoffroy" "Enric" "Aurengarde" "Belleassez" "Mascarose" "Violent" "Éléonore" "Marta" "Vicenç" "Adelaide" 
+	"Adelinde" "Roding" "Boudewijn" "Arnulf" "Robrecht" "Karl" "William" "Dietrich" "Margaretha" "Baudouin" 
+	"Johanna" "Adriaen" "Albrecht" "Alwin" "Ambroos" "Antoon" "Arnold" "Balderik" "Barend" "Barnaerd" 
+	"Bartolomeus" "Bavo" "Bertold" "Claes" "Claeuwaert" "Daevit" "Damaes" "Diederick" "Dirk" "Douwe" 
+	"Eduard" "Egmund" "Ekbert" "Emmo" "Engelbrecht" "Filips" "Floris" "Folbert" "Frans" "Frederik" 
+	"Gerard" "Gerolt" "Gerulf" "Gerrit" "Gijsbrecht" "Giselbert" "Godfried" "Godschalk" "Gozewijn" "Guij" 
+	"Gwijde" "Hendrik" "Herman" "Hubert" "Hugo" "IJsbrand" "IJsbrecht" "Jacco" "Jacob" "Jan" 
+	"Karel" "Koenraad" "Kristof" "Lambert" "Lodewijk" "Ludewijn" "Lutbert" "Luthard" "Maertijn" "Marquart" 
+	"Niclaes" "Olivier" "Otto" "Otwin" "Onno" "Pieter" "Reinaerd" "Reinoud" "Reginar" "Rodulf" 
+	"Roelof" "Roland" "Rutger" "Sebastiaen" "Sicco" "Simon" "Steven" "Steyn" "Theodolf" "Waelram" 
+	"Walter" "Wicher" "Willem" "Wolfard" }
+monarch_names = {
+	"Guillaume #0" = 1
+	"Alaïs #0" = -1
+	"Othon #1" = 24
+	"Henriette #0" = -1
+	"Bohemond #0" = 1
+	"Azalaïs #0" = -1
+	"Barthélémi #0" = 1
+	"Madalena #0" = -1
+	"Raimbaut #0" = 1
+	"Odette #0" = -1
+	"Guy #1" = 24
+	"Elisabeth #0" = -1
+	"Mahaut #0" = -1
+	"Archambaud #0" = 1
+	"Marguerite #0" = -1
+	"Mathilde #0" = -1
+	"Marie #0" = -1
+	"Agnes #0" = -1
+	"Jean #0" = 1
+	"Beatrice #0" = -1
+	"Louis #4" = 30
+	"Robert #1" = 24
+	"Philippe #1" = 18
+	"Blanche #0" = -1
+	"Denise #0" = -1
+	"Gaucher #0" = 1
+	"Yolande #0" = -1
+	"Alain #0" = 1
+	"Jeanne #0" = -1
+	"Agnès #0" = -1
+	"Geoffroy #0" = 1
+	"Enric #0" = 1
+	"Aurengarde #0" = -1
+	"Belleassez #0" = -1
+	"Mascarose #0" = -1
+	"Violent #0" = -1
+	"Éléonore #0" = -1
+	"Marta #0" = -1
+	"Vicenç #0" = 1
+	"Adelaide #0" = -1
+	"Adelinde #0" = -1
+	"Roding #1" = 0
+	"Boudewijn #8" = 0
+	"Arnulf #3" = 0
+	"Robrecht #2" = 0
+	"Karl #1" = 0
+	"William #1" = 0
+	"Dietrich #1" = 0
+	"Margaretha #2" = -1
+	"Baudouin #1" = 0
+	"Johanna #1" = -1
+	"Adriaen #0" = 0
+	"Albrecht #0" = 0
+	"Alwin #0" = 0
+	"Ambroos #0" = 0
+	"Antoon #0" = 0
+	"Arnold #0" = 0
+	"Balderik #0" = 0
+	"Barend #0" = 0
+	"Barnaerd #0" = 0
+	"Bartolomeus #0" = 0
+	"Bavo #0" = 0
+	"Bertold #0" = 0
+	"Claes #0" = 0
+	"Claeuwaert #0" = 0
+	"Daevit #0" = 0
+	"Damaes #0" = 0
+	"Diederick #0" = 0
+	"Dirk #0" = 0
+	"Douwe #0" = 0
+	"Eduard #0" = 0
+	"Egmund #0" = 0
+	"Ekbert #0" = 0
+	"Emmo #0" = 0
+	"Engelbrecht #0" = 0
+	"Filips #0" = 0
+	"Floris #0" = 0
+	"Folbert #0" = 0
+	"Frans #0" = 0
+	"Frederik #0" = 0
+	"Gerard #0" = 0
+	"Gerolt #0" = 0
+	"Gerulf #0" = 0
+	"Gerrit #0" = 0
+	"Gijsbrecht #0" = 0
+	"Giselbert #0" = 0
+	"Godfried #0" = 0
+	"Godschalk #0" = 0
+	"Gozewijn #0" = 0
+	"Guij #0" = 0
+	"Gwijde #0" = 0
+	"Hendrik #0" = 0
+	"Herman #0" = 0
+	"Hubert #0" = 0
+	"Hugo #0" = 0
+	"IJsbrand #0" = 0
+	"IJsbrecht #0" = 0
+	"Jacco #0" = 0
+	"Jacob #0" = 0
+	"Jan #0" = 0
+	"Karel #0" = 0
+	"Koenraad #0" = 0
+	"Kristof #0" = 0
+	"Lambert #0" = 0
+	"Lodewijk #0" = 0
+	"Ludewijn #0" = 0
+	"Lutbert #0" = 0
+	"Luthard #0" = 0
+	"Maertijn #0" = 0
+	"Marquart #0" = 0
+	"Niclaes #0" = 0
+	"Olivier #0" = 0
+	"Otto #0" = 0
+	"Otwin #0" = 0
+	"Onno #0" = 0
+	"Pieter #0" = 0
+	"Reinaerd #0" = 0
+	"Reinoud #0" = 0
+	"Reginar #0" = 0
+	"Rodulf #0" = 0
+	"Roelof #0" = 0
+	"Roland #0" = 0
+	"Rutger #0" = 0
+	"Sebastiaen #0" = 0
+	"Sicco #0" = 0
+	"Simon #0" = 0
+	"Steven #0" = 0
+	"Steyn #0" = 0
+	"Theodolf #0" = 0
+	"Waelram #0" = 0
+	"Walter #0" = 0
+	"Wicher #0" = 0
+	"Willem #0" = 0
+	"Wolfard #0" = 0
+}
+

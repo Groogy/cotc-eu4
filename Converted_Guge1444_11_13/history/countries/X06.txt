@@ -1,0 +1,27 @@
+# Hulegu
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 475
+1410.4.11 = {
+	monarch = {
+		name = "Hulegu"
+		birth_date = 1377.11.1
+		dynasty = "Hulegu"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 475
+	add_treasury = 14
+	add_prestige = 59
+}

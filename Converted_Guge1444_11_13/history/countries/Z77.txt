@@ -1,0 +1,28 @@
+# Pilsen
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2967
+1427.2.14 = {
+	monarch = {
+		name = "Martin"
+		birth_date = 1399.12.13
+		dynasty = "Reginar"
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2967
+	add_treasury = 54
+	add_prestige = 179
+	elector = no
+}

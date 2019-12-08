@@ -1,0 +1,26 @@
+# Nyitra
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = slovieni
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1772
+1435.6.10 = {
+	monarch = {
+		name = "Lázár"
+		birth_date = 1426.8.2
+		dynasty = "Csák"
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 1772
+	add_treasury = 34
+	add_prestige = 134
+}

@@ -1,0 +1,38 @@
+# Guge
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = buddhism
+clear_scripted_personalities = yes
+1417.4.25 = {
+	monarch = {
+		name = "Rinchen II Gyalpo"
+		birth_date = 1392.3.11
+		dynasty = "Purgyal"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = inspiring_leader_personality
+}
+1423.2.11 = {
+	heir = {
+		name = "Lhanang"
+		monarch_name = "Lhanang"
+		dynasty = "Purgyal"
+		birth_date = 1423.2.11
+		death_date = 1503.2.11
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	add_treasury = 441
+	add_prestige = 619
+}

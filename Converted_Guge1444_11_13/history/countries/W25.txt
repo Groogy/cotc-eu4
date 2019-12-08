@@ -1,0 +1,27 @@
+# Lkhagvasüren
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4221
+1433.8.1 = {
+	monarch = {
+		name = "Yegu"
+		birth_date = 1431.10.9
+		dynasty = "Lkhagvasüren"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 4221
+	add_treasury = 14
+	add_prestige = 82
+}

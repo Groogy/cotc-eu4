@@ -1,0 +1,109 @@
+# Fezzan
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 25 160 150 }
+
+
+
+
+leader_names = {
+
+	"Gajideni" "Bakhita" "Khalila" "Kuri" "Kili" "Cinta" "Aziza" "Yahya" "Katakarmabe" "Abdallah" 
+	"Hiyan" "al-Khattab" "Abdallah ibn al-Khattab al-Hawwari" "Thakiya" "Isma'il" "Musa" "Karakush" "Suleyman" "Bikorom" "Hummay" 
+	"Sanda" "Mustafa" "Abbas" "Abdul" "Abdulraham" "Abubakar" "Adam" "Ahmed" "Airimi" "Alhaji" 
+	"Ali" "Alooma" "Amin" "Amr" "Arku" "Arsu" "Baba" "Baram" "Biri" "Bukar" 
+	"Bulu" "Buyuma" "Dabbalemi" "Dala" "Daoud" "Dugu" "Dunama" "Fune" "Gaji" "Galrima" 
+	"Gana" "Garbai" "Gazali" "Gazi" "Ghana" "Hume" "Ibrahim" "Idris" "Kaday" "Kanemi" 
+	"Kashim" "Katur" "Kiyari" "Kura" "Kuwaana" "Madu" "Mahmoud" "Mamane" "Modu" "Mohammed" 
+	"Mufioma" "Murama" "Nikale" "Osman" "Said" "Salmama" "Sani" "Sef" "Selma" "Shettima" 
+	"Shu" "Tandja" "Umar" "Waziri" "Yaqub" "Yusuf" "Zannah" }
+monarch_names = {
+	"Gajideni #1" = 21
+	"Bakhita #0" = -1
+	"Khalila #0" = -1
+	"Kuri #1" = 18
+	"Kili #0" = -1
+	"Cinta #0" = -1
+	"Aziza #0" = -1
+	"Yahya #0" = 1
+	"Katakarmabe #0" = 1
+	"Abdallah #4" = 0
+	"Hiyan #2" = 0
+	"al-Khattab #1" = 0
+	"Abdallah ibn al-Khattab al-Hawwari #1" = 0
+	"Thakiya #2" = 0
+	"Isma'il #1" = 0
+	"Musa #1" = 0
+	"Karakush #1" = 0
+	"Suleyman #1" = 0
+	"Bikorom #1" = 0
+	"Hummay #1" = 0
+	"Sanda #1" = 0
+	"Mustafa #1" = 0
+	"Abbas #0" = 0
+	"Abdul #0" = 0
+	"Abdulraham #0" = 0
+	"Abubakar #0" = 0
+	"Adam #0" = 0
+	"Ahmed #0" = 0
+	"Airimi #0" = 0
+	"Alhaji #0" = 0
+	"Ali #0" = 0
+	"Alooma #0" = 0
+	"Amin #0" = 0
+	"Amr #0" = 0
+	"Arku #0" = 0
+	"Arsu #0" = 0
+	"Baba #0" = 0
+	"Baram #0" = 0
+	"Biri #0" = 0
+	"Bukar #0" = 0
+	"Bulu #0" = 0
+	"Buyuma #0" = 0
+	"Dabbalemi #0" = 0
+	"Dala #0" = 0
+	"Daoud #0" = 0
+	"Dugu #0" = 0
+	"Dunama #0" = 0
+	"Fune #0" = 0
+	"Gaji #0" = 0
+	"Galrima #0" = 0
+	"Gana #0" = 0
+	"Garbai #0" = 0
+	"Gazali #0" = 0
+	"Gazi #0" = 0
+	"Ghana #0" = 0
+	"Hume #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Kaday #0" = 0
+	"Kanemi #0" = 0
+	"Kashim #0" = 0
+	"Katur #0" = 0
+	"Kiyari #0" = 0
+	"Kura #0" = 0
+	"Kuwaana #0" = 0
+	"Madu #0" = 0
+	"Mahmoud #0" = 0
+	"Mamane #0" = 0
+	"Modu #0" = 0
+	"Mohammed #0" = 0
+	"Mufioma #0" = 0
+	"Murama #0" = 0
+	"Nikale #0" = 0
+	"Osman #0" = 0
+	"Said #0" = 0
+	"Salmama #0" = 0
+	"Sani #0" = 0
+	"Sef #0" = 0
+	"Selma #0" = 0
+	"Shettima #0" = 0
+	"Shu #0" = 0
+	"Tandja #0" = 0
+	"Umar #0" = 0
+	"Waziri #0" = 0
+	"Yaqub #0" = 0
+	"Yusuf #0" = 0
+	"Zannah #0" = 0
+}
+

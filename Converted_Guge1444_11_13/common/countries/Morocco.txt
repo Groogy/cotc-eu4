@@ -1,0 +1,66 @@
+# Marrakech
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 43 150 32 }
+
+
+
+
+leader_names = {
+
+	"Pedro" "Urraca" "Gontroda" "Martín" "Anderquina" "Alfonso" "Constanza" "Sancho" "Berenguela" "Lope" 
+	"Gonzalo" "Bermudo" "Beatriz" "Toda" "Gómez" "Yusuf" "Idris" "Ya'qub" "Amir" "Uthman" 
+	"Alonso" "Álvar" "Álvaro" "Diego" "Enrique" "Fadrique" "Felipe" "Fernando" "Fruela" "García" 
+	"Gil" "Guillén" "Guillermo" "Gutierre" "Juan" "Luis" "Manrique" "Munio" "Nuño" "Ordoño" 
+	"Oveco" "Pelayo" "Ramiro" "Rodrigo" "Salvador" "Suero" "Tello" "Vela" }
+monarch_names = {
+	"Pedro #4" = 27
+	"Urraca #0" = -1
+	"Gontroda #0" = -1
+	"Martín #0" = 1
+	"Anderquina #0" = -1
+	"Alfonso #2" = 18
+	"Constanza #0" = -1
+	"Sancho #2" = 24
+	"Berenguela #0" = -1
+	"Lope #0" = 1
+	"Gonzalo #0" = 1
+	"Bermudo #1" = 18
+	"Beatriz #0" = -1
+	"Toda #0" = -1
+	"Gómez #0" = 1
+	"Yusuf #1" = 0
+	"Idris #1" = 0
+	"Ya'qub #1" = 0
+	"Amir #1" = 0
+	"Uthman #1" = 0
+	"Alonso #0" = 0
+	"Álvar #0" = 0
+	"Álvaro #0" = 0
+	"Diego #0" = 0
+	"Enrique #0" = 0
+	"Fadrique #0" = 0
+	"Felipe #0" = 0
+	"Fernando #0" = 0
+	"Fruela #0" = 0
+	"García #0" = 0
+	"Gil #0" = 0
+	"Guillén #0" = 0
+	"Guillermo #0" = 0
+	"Gutierre #0" = 0
+	"Juan #0" = 0
+	"Luis #0" = 0
+	"Manrique #0" = 0
+	"Munio #0" = 0
+	"Nuño #0" = 0
+	"Ordoño #0" = 0
+	"Oveco #0" = 0
+	"Pelayo #0" = 0
+	"Ramiro #0" = 0
+	"Rodrigo #0" = 0
+	"Salvador #0" = 0
+	"Suero #0" = 0
+	"Tello #0" = 0
+	"Vela #0" = 0
+}
+

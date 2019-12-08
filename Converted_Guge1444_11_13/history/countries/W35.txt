@@ -1,0 +1,28 @@
+# Bilma
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = kanuri
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 2277
+1405.7.10 = {
+	monarch = {
+		name = "Halima"
+		birth_date = 1403.12.3
+		dynasty = "Sayfawa"
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 2277
+	add_treasury = 5
+	add_prestige = 108
+}

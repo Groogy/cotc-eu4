@@ -1,0 +1,27 @@
+# Akhutai
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 718
+1431.10.4 = {
+	monarch = {
+		name = "Megetu"
+		birth_date = 1412.12.22
+		dynasty = "Akhutai"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = -9
+	add_prestige = 205
+}

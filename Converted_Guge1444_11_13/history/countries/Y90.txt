@@ -1,0 +1,37 @@
+# Bjarmia
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1955
+1436.10.7 = {
+	monarch = {
+		name = "Mikhail"
+		birth_date = 1403.5.22
+		dynasty = "Balashov"
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = pious_personality
+	heir = {
+		name = "Yaroslav"
+		monarch_name = "Yaroslav"
+		dynasty = "Balashov"
+		birth_date = 1429.1.27
+		death_date = 1509.1.27
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 1955
+	add_treasury = 9
+	add_prestige = 10
+}

@@ -1,0 +1,26 @@
+# Anjou
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 167
+1443.7.19 = {
+	monarch = {
+		name = "Philippe IV"
+		birth_date = 1412.1.27
+		dynasty = "de Valois"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 167
+	add_treasury = 71
+	add_prestige = 70
+}

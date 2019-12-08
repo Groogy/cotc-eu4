@@ -1,0 +1,27 @@
+# Balkh
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2228
+1432.8.12 = {
+	monarch = {
+		name = "Batuhan"
+		birth_date = 1415.6.5
+		dynasty = "Burakid"
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2228
+	add_treasury = 23
+	add_prestige = 31
+}

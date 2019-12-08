@@ -1,0 +1,28 @@
+# Kholm
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 311
+1428.7.1 = {
+	monarch = {
+		name = "Theodorich"
+		birth_date = 1410.7.18
+		dynasty = "von Kiel"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+	add_ruler_personality = naive_personality
+	add_ruler_personality = lawgiver_personality
+}
+1444.11.11 = {
+	capital = 311
+	add_treasury = 18
+	add_prestige = 58
+	elector = no
+}

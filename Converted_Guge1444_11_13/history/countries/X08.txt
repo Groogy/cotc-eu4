@@ -1,0 +1,26 @@
+# Mönkhbat
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 471
+1436.1.15 = {
+	monarch = {
+		name = "Husun"
+		birth_date = 1386.11.29
+		dynasty = "Mönkhbat"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 471
+	add_treasury = 11
+	add_prestige = 45
+}

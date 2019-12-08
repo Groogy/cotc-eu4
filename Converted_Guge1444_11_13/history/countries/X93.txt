@@ -1,0 +1,27 @@
+# Dahala
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = marathi
+religion = sunni
+clear_scripted_personalities = yes
+capital = 550
+1432.3.19 = {
+	monarch = {
+		name = "Krishnarao"
+		birth_date = 1395.3.6
+		dynasty = "Kiranapurid"
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 550
+	add_treasury = 35
+	add_prestige = 44
+}

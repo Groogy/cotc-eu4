@@ -1,0 +1,40 @@
+# Perm
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 305
+1428.2.23 = {
+	monarch = {
+		name = "Dondy"
+		birth_date = 1403.1.4
+		dynasty = "Dondyid"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1430.3.7 = {
+	heir = {
+		name = "Pakstyan"
+		monarch_name = "Pakstyan"
+		dynasty = "Dondyid"
+		birth_date = 1430.3.7
+		death_date = 1510.3.7
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 305
+	add_treasury = 9
+	add_prestige = 7
+}

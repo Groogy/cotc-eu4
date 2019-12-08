@@ -1,0 +1,28 @@
+# Sardinia and Corsica
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = sardinian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2986
+1423.7.6 = {
+	monarch = {
+		name = "Agnès"
+		birth_date = 1412.10.11
+		dynasty = "d'Anjou"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2986
+	add_treasury = -14
+	add_prestige = 347
+}

@@ -1,0 +1,18 @@
+latin = {
+	italian = {
+		primary = ITA
+		dynasty_names = { "di Monferrato" "Moncada" "Aleramicci" "Aleramo" "d'Este" "d'Ivrea" "de Lauria" "di Gaeta" "Adorno" "Delfino" "Capponi" "Grimaldi" "Dandolo" "della Gherardesca" "della Scala" "Sfondrati" "di Gattinara" "Crivelli" "Faliero" "da Morrone" "Luzzatti" "Parentucelli" "Montefeltro" "di Murta" "Ziani" "Ruffo" "Sforza" "Sturzo" "Togliatti" "Turati" "de Chigi" "di Acerenza" "de Avranches" "de Saluces" "di Genova" "di Orvieto" "di Gallen" "di Lucca" "di Corsica" "di Urbino" "da Carrara" "Cappai de Bas" "di Maggiore" "di Kastrinitsi" "di Kalamata" "di Kandia" "di Gortyn" "di Oreoi" "di Castellengo" "Gregando" "di San Martino" "Montigli" "di Genoa" "di Orvieto" "di Zalivino" "Piras" "di Spalato" "di Padua" "di Como" "di Tunis" "di Tatabánya" "di Carthage" "di San Marco d'Alunzio" "di Roma" "di Pienza" }
+	}
+	roman = {
+		primary = ITA
+		dynasty_names = { }
+	}
+	dalmatian = {
+		primary = ITA
+		dynasty_names = { }
+	}
+	outremer = {
+		primary = KOJ
+		dynasty_names = { }
+	}
+}

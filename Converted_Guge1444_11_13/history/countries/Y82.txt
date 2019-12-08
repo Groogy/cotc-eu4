@@ -1,0 +1,27 @@
+# Esztergom
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 153
+1433.3.15 = {
+	monarch = {
+		name = "Leg II"
+		birth_date = 1412.4.25
+		dynasty = "Gregando"
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+	add_ruler_personality = babbling_buffoon_personality
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 153
+	add_treasury = 63
+	add_prestige = 164
+}

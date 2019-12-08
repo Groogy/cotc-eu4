@@ -1,0 +1,26 @@
+# Tsookhor
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 719
+1438.5.14 = {
+	monarch = {
+		name = "Bughu"
+		birth_date = 1398.6.14
+		dynasty = "Tsookhor"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 719
+	add_treasury = 12
+	add_prestige = 133
+}

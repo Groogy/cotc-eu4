@@ -1,0 +1,28 @@
+# Pomerania
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = pommeranian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1858
+1414.5.12 = {
+	monarch = {
+		name = "Wratislaw IV"
+		birth_date = 1383.2.14
+		dynasty = "Gryfita"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 1858
+	add_treasury = 28
+	add_prestige = 193
+	elector = no
+}

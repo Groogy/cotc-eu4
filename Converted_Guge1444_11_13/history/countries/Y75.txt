@@ -1,0 +1,27 @@
+# Trigarta
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = panjabi
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4511
+1411.8.25 = {
+	monarch = {
+		name = "Selim"
+		birth_date = 1402.7.12
+		dynasty = "Kaiqobadid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 4511
+	add_treasury = 11
+	add_prestige = 184
+}

@@ -1,0 +1,27 @@
+# The Papacy
+government = theocracy
+add_government_reform = papacy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 118
+1429.3.1 = {
+	monarch = {
+		name = "Lucius V"
+		birth_date = 1387.8.4
+		dynasty = "Gregando"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 118
+	add_treasury = 333
+	add_prestige = 396
+}

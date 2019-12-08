@@ -1,0 +1,27 @@
+# Al-Jazira
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 410
+1417.9.22 = {
+	monarch = {
+		name = "Khudu"
+		birth_date = 1413.3.17
+		dynasty = "Jalayar"
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 410
+	add_treasury = 4
+	add_prestige = 338
+}

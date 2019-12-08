@@ -1,0 +1,26 @@
+# Khiva
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 441
+1444.9.18 = {
+	monarch = {
+		name = "Rustem"
+		birth_date = 1434.7.21
+		dynasty = "Mesudid"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 441
+	add_treasury = 0
+	add_prestige = 28
+}

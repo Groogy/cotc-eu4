@@ -1,0 +1,27 @@
+# Lyzha
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 4129
+1434.1.7 = {
+	monarch = {
+		name = "Syudbya"
+		birth_date = 1409.5.7
+		dynasty = "Numid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 4129
+	add_treasury = 38
+	add_prestige = 39
+}

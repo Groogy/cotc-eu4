@@ -1,0 +1,206 @@
+# Balkh
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 171 215 108 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Burak" "Huriye" "Mutlu" "Yeldem" "Ahmet" "Gulbahar" "Batuhan" "Bugra" "Samur" "Mahmud" 
+	"Yildiz" "Böru" "Bozan" "Timurtas" "Umur" "Mansure" "Turhan" "Nur" "Kaikhusraw" "Sirin" 
+	"Esin" "Sehnaz" "Usunbike" "Murad" "Hayat" "Kutalmis" "Kaikaus" "Mala" "Gunduz" "Togha Temur" 
+	"Luqman" "Mateen" "Afshin" "Shehzad" "Tashfeen" "Selçuk" "Aksonqor" "Çagri" "Çaka" "Afsin" 
+	"Alaeddin" "Ali" "Alkan" "Alp Arslan" "Alp Yurek" "Alptigin" "Artuk" "Ayaz" "Aydin" "Aydogan" 
+	"Aydogdu" "Aytekin" "Bulend" "Bahadir" "Balaban" "Basbuga" "Baturay" "Baybars" "Bayezid" "Baytas" 
+	"Belek" "Berkan" "Berkiyaruk" "Cuneyd" "Dundar" "Danismend" "Davud" "Demir" "Dogan" "Dogukan" 
+	"Dukak" "Erdem" "Ertan" "Ertekin" "Ertugrul" "Hasan" "Hizir" "Ibrahim" "Ilgazi" "Inal" 
+	"Iskender" "Kurboga" "Kaiqobad" "Kara" "Karatay" "Kasim" "Kaya" "Kaytun" "Kemal" "Kiliç" 
+	"Korkut" "Kutay" "Kutlug" "Mursel" "Mehmed" "Meliksah" "Mengucek" "Mesud" "Mustafa" "Orhan" 
+	"Osman" "Porsuk" "Rustem" "Ramazan" "Ridvan" "Söbuk" "Sökmen" "Sönmez" "Suleyman" "Saim" 
+	"Saltuk" "Saruca" "Savtekin" "Savur" "Sehinsah" "Selim" "Sencer" "Sinan" "Tanrivermis" "Tekin" 
+	"Togay" "Togtekin" "Toktamis" "Tolun" "Toruntay" "Tugrul" "Tunga" "Turgut" "Tutus" "Uluç" 
+	"Yakut" "Yaman" "Yinal" "Yunus" }
+monarch_names = {
+	"Burak #0" = 1
+	"Huriye #0" = -1
+	"Mutlu #0" = -1
+	"Yeldem #0" = -1
+	"Ahmet #0" = 1
+	"Gulbahar #0" = -1
+	"Batuhan #1" = 18
+	"Bugra #0" = 1
+	"Samur #0" = -1
+	"Mahmud #0" = 1
+	"Yildiz #0" = -1
+	"Böru #0" = 1
+	"Bozan #0" = 1
+	"Timurtas #0" = 1
+	"Umur #0" = 1
+	"Mansure #0" = -1
+	"Turhan #0" = 1
+	"Nur #0" = -1
+	"Kaikhusraw #0" = 1
+	"Sirin #0" = -1
+	"Esin #0" = -1
+	"Sehnaz #0" = -1
+	"Usunbike #0" = -1
+	"Murad #1" = 18
+	"Hayat #0" = -1
+	"Kutalmis #0" = 1
+	"Kaikaus #0" = 1
+	"Mala #0" = -1
+	"Gunduz #0" = -1
+	"Togha Temur #2" = 0
+	"Luqman #1" = 0
+	"Mateen #1" = 0
+	"Afshin #1" = 0
+	"Shehzad #1" = 0
+	"Tashfeen #1" = 0
+	"Selçuk #1" = 0
+	"Aksonqor #1" = 0
+	"Çagri #0" = 0
+	"Çaka #0" = 0
+	"Afsin #0" = 0
+	"Alaeddin #0" = 0
+	"Ali #0" = 0
+	"Alkan #0" = 0
+	"Alp Arslan #0" = 0
+	"Alp Yurek #0" = 0
+	"Alptigin #0" = 0
+	"Artuk #0" = 0
+	"Ayaz #0" = 0
+	"Aydin #0" = 0
+	"Aydogan #0" = 0
+	"Aydogdu #0" = 0
+	"Aytekin #0" = 0
+	"Bulend #0" = 0
+	"Bahadir #0" = 0
+	"Balaban #0" = 0
+	"Basbuga #0" = 0
+	"Baturay #0" = 0
+	"Baybars #0" = 0
+	"Bayezid #0" = 0
+	"Baytas #0" = 0
+	"Belek #0" = 0
+	"Berkan #0" = 0
+	"Berkiyaruk #0" = 0
+	"Cuneyd #0" = 0
+	"Dundar #0" = 0
+	"Danismend #0" = 0
+	"Davud #0" = 0
+	"Demir #0" = 0
+	"Dogan #0" = 0
+	"Dogukan #0" = 0
+	"Dukak #0" = 0
+	"Erdem #0" = 0
+	"Ertan #0" = 0
+	"Ertekin #0" = 0
+	"Ertugrul #0" = 0
+	"Hasan #0" = 0
+	"Hizir #0" = 0
+	"Ibrahim #0" = 0
+	"Ilgazi #0" = 0
+	"Inal #0" = 0
+	"Iskender #0" = 0
+	"Kurboga #0" = 0
+	"Kaiqobad #0" = 0
+	"Kara #0" = 0
+	"Karatay #0" = 0
+	"Kasim #0" = 0
+	"Kaya #0" = 0
+	"Kaytun #0" = 0
+	"Kemal #0" = 0
+	"Kiliç #0" = 0
+	"Korkut #0" = 0
+	"Kutay #0" = 0
+	"Kutlug #0" = 0
+	"Mursel #0" = 0
+	"Mehmed #0" = 0
+	"Meliksah #0" = 0
+	"Mengucek #0" = 0
+	"Mesud #0" = 0
+	"Mustafa #0" = 0
+	"Orhan #0" = 0
+	"Osman #0" = 0
+	"Porsuk #0" = 0
+	"Rustem #0" = 0
+	"Ramazan #0" = 0
+	"Ridvan #0" = 0
+	"Söbuk #0" = 0
+	"Sökmen #0" = 0
+	"Sönmez #0" = 0
+	"Suleyman #0" = 0
+	"Saim #0" = 0
+	"Saltuk #0" = 0
+	"Saruca #0" = 0
+	"Savtekin #0" = 0
+	"Savur #0" = 0
+	"Sehinsah #0" = 0
+	"Selim #0" = 0
+	"Sencer #0" = 0
+	"Sinan #0" = 0
+	"Tanrivermis #0" = 0
+	"Tekin #0" = 0
+	"Togay #0" = 0
+	"Togtekin #0" = 0
+	"Toktamis #0" = 0
+	"Tolun #0" = 0
+	"Toruntay #0" = 0
+	"Tugrul #0" = 0
+	"Tunga #0" = 0
+	"Turgut #0" = 0
+	"Tutus #0" = 0
+	"Uluç #0" = 0
+	"Yakut #0" = 0
+	"Yaman #0" = 0
+	"Yinal #0" = 0
+	"Yunus #0" = 0
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+

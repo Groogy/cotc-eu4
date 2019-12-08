@@ -1,0 +1,153 @@
+# Pleskau
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 151 167 107 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Sigfred" "Christina" "Miroslava" "Johann" "Bodil" "Barbara" "Severin" "Lykke" "Magdalene" "Karin" 
+	"Hjalmar" "Rune" "Erika" "Sigurd" "Erik" "Niels" "Piotr" "Walpurga" "Malthe" "Sigrid" 
+	"Dagmar" "Peder" "Jens" "Ubbe" "Gyda" "Abel" "Anders" "Asger" "Benedikt" "Bjørn" 
+	"Bo" "Christian" "Christoffer" "Edvard" "Einar" "Ernst" "Esben" "Fredrik" "Frode" "Glum" 
+	"Gotfred" "Gregers" "Grim" "Gunnar" "Hårik" "Halfdan" "Halvor" "Hans" "Harald" "Hemming" 
+	"Henrik" "Holger" "Ingolf" "Jørgen" "Jørn" "Jakob" "Joakim" "Karl" "Knud" "Kristian" 
+	"Leif" "Lennart" "Ludvig" "Mads" "Mikkel" "Mogens" "Olav" "Oluf" "Poul" "Pridbjørn" 
+	"Ragnar" "Ragnvald" "Rolf" "Rørik" "Sigtryg" "Sivard" "Steen" "Svend" "Thorvald" "Torben" 
+	"Torbjørn" "Tord" "Torgils" "Ture" "Uffe" "Ulf" "Valdemar" "Valentin" "Vilfred" "Yngvar" }
+monarch_names = {
+	"Sigfred #0" = 1
+	"Christina #0" = -1
+	"Miroslava #0" = -1
+	"Johann #0" = 1
+	"Bodil #0" = -1
+	"Barbara #0" = -1
+	"Severin #0" = 1
+	"Lykke #0" = -1
+	"Magdalene #0" = -1
+	"Karin #0" = -1
+	"Hjalmar #0" = 1
+	"Rune #0" = 1
+	"Erika #0" = -1
+	"Sigurd #0" = 1
+	"Erik #0" = 1
+	"Niels #0" = 1
+	"Piotr #0" = 1
+	"Walpurga #0" = -1
+	"Malthe #0" = 1
+	"Sigrid #0" = -1
+	"Dagmar #0" = -1
+	"Peder #0" = 1
+	"Jens #0" = 1
+	"Ubbe #0" = 1
+	"Gyda #0" = -1
+	"Abel #0" = 0
+	"Anders #0" = 0
+	"Asger #0" = 0
+	"Benedikt #0" = 0
+	"Bjørn #0" = 0
+	"Bo #0" = 0
+	"Christian #0" = 0
+	"Christoffer #0" = 0
+	"Edvard #0" = 0
+	"Einar #0" = 0
+	"Ernst #0" = 0
+	"Esben #0" = 0
+	"Fredrik #0" = 0
+	"Frode #0" = 0
+	"Glum #0" = 0
+	"Gotfred #0" = 0
+	"Gregers #0" = 0
+	"Grim #0" = 0
+	"Gunnar #0" = 0
+	"Hårik #0" = 0
+	"Halfdan #0" = 0
+	"Halvor #0" = 0
+	"Hans #0" = 0
+	"Harald #0" = 0
+	"Hemming #0" = 0
+	"Henrik #0" = 0
+	"Holger #0" = 0
+	"Ingolf #0" = 0
+	"Jørgen #0" = 0
+	"Jørn #0" = 0
+	"Jakob #0" = 0
+	"Joakim #0" = 0
+	"Karl #0" = 0
+	"Knud #0" = 0
+	"Kristian #0" = 0
+	"Leif #0" = 0
+	"Lennart #0" = 0
+	"Ludvig #0" = 0
+	"Mads #0" = 0
+	"Mikkel #0" = 0
+	"Mogens #0" = 0
+	"Olav #0" = 0
+	"Oluf #0" = 0
+	"Poul #0" = 0
+	"Pridbjørn #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Rørik #0" = 0
+	"Sigtryg #0" = 0
+	"Sivard #0" = 0
+	"Steen #0" = 0
+	"Svend #0" = 0
+	"Thorvald #0" = 0
+	"Torben #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Torgils #0" = 0
+	"Ture #0" = 0
+	"Uffe #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Valentin #0" = 0
+	"Vilfred #0" = 0
+	"Yngvar #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

@@ -1,0 +1,27 @@
+# Östergötland
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = swedish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 3
+1432.9.17 = {
+	monarch = {
+		name = "Sverker II"
+		birth_date = 1430.10.26
+		dynasty = "Bielke"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 3
+	add_treasury = 51
+	add_prestige = 62
+}

@@ -1,0 +1,267 @@
+# Mecklenburg
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 55 140 143 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Niklot" "Mechtild" "Viktor" "Hildeburg" "Gyda" "Dietpold" "Luitgard" "Kaspar" "Brunhilde" "Karin" 
+	"Dagmar" "Osterhild" "Gerberga" "Agathe" "Johann" "Helena" "Wigerich" "Simonetto" "Richenza" "Erich" 
+	"Berengar" "Halfdan" "Irmgard" "Ermengard" "Uberto" "Rikissa" "Ruprecht" "Maria" "Wartislaw" "Prislaw" 
+	"Przybyslaw" "Valdemar" "Knud" "Nikolaus" "Heinrich-Borwin" "Dobieslaw" "Heinrich" "Margarethe" "Poppo" "Elisabeth" 
+	"Albrecht" "Mechthild" "Hermann" "Waldemar" "Borwin" "Bernhard" "Hedwig" "Prybko" "Günther" "Mszczuj" 
+	"Anna" "Beatrix" "Lukardis" "Matilde" "Barnim" "Helene" "Sofie" "Sophie" "Agnes" "Frida" 
+	"Adelinde" "Dieter" "Gotthard" "Michael" "Rixa" "Alois" "Helga" "Thomas" "Peder" "Ida" 
+	"Hupold" "Mikkel" "Walram" "Welf" "Winfrida" "Ekkehard" "Benedikt" "Dietwin" "Richara" "Walpurga" 
+	"Boriwoj" "Bretislav" "Swietopelk" "Msciwoj" "Nakon" "Mscislaw" "Pribigniew" "Gryn" "Guthskalco" "Krutoj" 
+	"Henrik" "Kanut" "Zvinike" "Adalbero" "Adalbert" "Adalhard" "Adam" "Ademar" "Adolf" "Alarich" 
+	"Alberich" "Aldrich" "Amadeus" "Amalrich" "Andreas" "Anselm" "Arnold" "Arnulf" "Augustin" "Baldarich" 
+	"Baldewin" "Baldomar" "Baldur" "Berthold" "Burchard" "Christopher" "Dietmar" "Dietrich" "Eberhard" "Eginolf" 
+	"Ehrenfried" "Ekbert" "Emelrich" "Emich" "Emmerich" "Engelbert" "Ernst" "Ferdinand" "Filibert" "Folkhard" 
+	"Folkmar" "Franz" "Friedrich" "Gautselin" "Gebhard" "Georg" "Gerhard" "Gerlach" "Giselbert" "Gottfried" 
+	"Gottschalk" "Gotzelo" "Guntram" "Gunzelin" "Hans" "Hartmann" "Hartwig" "Helferich" "Heribert" "Hesso" 
+	"Hugo" "Humbert" "Jakob" "Jürgen" "Karl" "Karlmann" "Konrad" "Kuno" "Lambert" "Landolf" 
+	"Leopold" "Liudolf" "Liutbert" "Liutbrand" "Liutpold" "Lothar" "Ludolf" "Ludwig" "Lutbert" "Magnus" 
+	"Manegold" "Manfred" "Markward" "Martin" "Matthias" "Meinhard" "Norbert" "Otto" "Peter" "Philipp" 
+	"Radbot" "Reinhard" "Reinhold" "Rudolf" "Rutger" "Siegfried" "Sieghard" "Siegmund" "Sigismund" "Simon" 
+	"Stefan" "Theodorich" "Thietmar" "Udalrich" "Ulrich" "Walther" "Wenzel" "Werner" "Wido" "Wilhelm" 
+	"Wolfgang" "Wolfram" }
+monarch_names = {
+	"Niklot #1" = 21
+	"Mechtild #0" = -1
+	"Viktor #0" = 1
+	"Hildeburg #1" = -19
+	"Gyda #0" = -1
+	"Dietpold #0" = 1
+	"Luitgard #0" = -1
+	"Kaspar #0" = 1
+	"Brunhilde #0" = -1
+	"Karin #0" = -1
+	"Dagmar #0" = -1
+	"Osterhild #0" = -1
+	"Gerberga #0" = -1
+	"Agathe #0" = -1
+	"Johann #1" = 66
+	"Helena #0" = -1
+	"Wigerich #0" = 1
+	"Simonetto #0" = 1
+	"Richenza #0" = -1
+	"Erich #0" = 1
+	"Berengar #0" = 1
+	"Halfdan #0" = 1
+	"Irmgard #0" = -1
+	"Ermengard #0" = -1
+	"Uberto #0" = 1
+	"Rikissa #0" = -1
+	"Ruprecht #0" = 1
+	"Maria #0" = -1
+	"Wartislaw #0" = 1
+	"Prislaw #0" = 1
+	"Przybyslaw #1" = 27
+	"Valdemar #0" = 1
+	"Knud #1" = 18
+	"Nikolaus #0" = 1
+	"Heinrich-Borwin #1" = 24
+	"Dobieslaw #0" = 1
+	"Heinrich #2" = 39
+	"Margarethe #0" = -1
+	"Poppo #0" = 1
+	"Elisabeth #0" = -1
+	"Albrecht #2" = 24
+	"Mechthild #0" = -1
+	"Hermann #1" = 18
+	"Waldemar #0" = 1
+	"Borwin #0" = 1
+	"Bernhard #0" = 1
+	"Hedwig #0" = -1
+	"Prybko #0" = 1
+	"Günther #0" = 1
+	"Mszczuj #0" = 1
+	"Anna #0" = -1
+	"Beatrix #0" = -1
+	"Lukardis #0" = -1
+	"Matilde #0" = -1
+	"Barnim #0" = 1
+	"Helene #0" = -1
+	"Sofie #0" = -1
+	"Sophie #0" = -1
+	"Agnes #0" = -1
+	"Frida #0" = -1
+	"Adelinde #0" = -1
+	"Dieter #0" = 1
+	"Gotthard #2" = 21
+	"Michael #0" = 1
+	"Rixa #0" = -1
+	"Alois #0" = 1
+	"Helga #0" = -1
+	"Thomas #0" = 1
+	"Peder #0" = 1
+	"Ida #0" = -1
+	"Hupold #0" = 1
+	"Mikkel #0" = 1
+	"Walram #0" = 1
+	"Welf #0" = 1
+	"Winfrida #0" = -1
+	"Ekkehard #0" = 1
+	"Benedikt #0" = 1
+	"Dietwin #0" = 1
+	"Richara #0" = -1
+	"Walpurga #0" = -1
+	"Boriwoj #1" = 0
+	"Bretislav #1" = 0
+	"Swietopelk #2" = 0
+	"Msciwoj #2" = 0
+	"Nakon #1" = 0
+	"Mscislaw #1" = 0
+	"Pribigniew #1" = 0
+	"Gryn #1" = 0
+	"Guthskalco #1" = 0
+	"Krutoj #1" = 0
+	"Henrik #1" = 0
+	"Kanut #1" = 0
+	"Zvinike #1" = 0
+	"Adalbero #0" = 0
+	"Adalbert #0" = 0
+	"Adalhard #0" = 0
+	"Adam #0" = 0
+	"Ademar #0" = 0
+	"Adolf #0" = 0
+	"Alarich #0" = 0
+	"Alberich #0" = 0
+	"Aldrich #0" = 0
+	"Amadeus #0" = 0
+	"Amalrich #0" = 0
+	"Andreas #0" = 0
+	"Anselm #0" = 0
+	"Arnold #0" = 0
+	"Arnulf #0" = 0
+	"Augustin #0" = 0
+	"Baldarich #0" = 0
+	"Baldewin #0" = 0
+	"Baldomar #0" = 0
+	"Baldur #0" = 0
+	"Berthold #0" = 0
+	"Burchard #0" = 0
+	"Christopher #0" = 0
+	"Dietmar #0" = 0
+	"Dietrich #0" = 0
+	"Eberhard #0" = 0
+	"Eginolf #0" = 0
+	"Ehrenfried #0" = 0
+	"Ekbert #0" = 0
+	"Emelrich #0" = 0
+	"Emich #0" = 0
+	"Emmerich #0" = 0
+	"Engelbert #0" = 0
+	"Ernst #0" = 0
+	"Ferdinand #0" = 0
+	"Filibert #0" = 0
+	"Folkhard #0" = 0
+	"Folkmar #0" = 0
+	"Franz #0" = 0
+	"Friedrich #0" = 0
+	"Gautselin #0" = 0
+	"Gebhard #0" = 0
+	"Georg #0" = 0
+	"Gerhard #0" = 0
+	"Gerlach #0" = 0
+	"Giselbert #0" = 0
+	"Gottfried #0" = 0
+	"Gottschalk #0" = 0
+	"Gotzelo #0" = 0
+	"Guntram #0" = 0
+	"Gunzelin #0" = 0
+	"Hans #0" = 0
+	"Hartmann #0" = 0
+	"Hartwig #0" = 0
+	"Helferich #0" = 0
+	"Heribert #0" = 0
+	"Hesso #0" = 0
+	"Hugo #0" = 0
+	"Humbert #0" = 0
+	"Jakob #0" = 0
+	"Jürgen #0" = 0
+	"Karl #0" = 0
+	"Karlmann #0" = 0
+	"Konrad #0" = 0
+	"Kuno #0" = 0
+	"Lambert #0" = 0
+	"Landolf #0" = 0
+	"Leopold #0" = 0
+	"Liudolf #0" = 0
+	"Liutbert #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpold #0" = 0
+	"Lothar #0" = 0
+	"Ludolf #0" = 0
+	"Ludwig #0" = 0
+	"Lutbert #0" = 0
+	"Magnus #0" = 0
+	"Manegold #0" = 0
+	"Manfred #0" = 0
+	"Markward #0" = 0
+	"Martin #0" = 0
+	"Matthias #0" = 0
+	"Meinhard #0" = 0
+	"Norbert #0" = 0
+	"Otto #0" = 0
+	"Peter #0" = 0
+	"Philipp #0" = 0
+	"Radbot #0" = 0
+	"Reinhard #0" = 0
+	"Reinhold #0" = 0
+	"Rudolf #0" = 0
+	"Rutger #0" = 0
+	"Siegfried #0" = 0
+	"Sieghard #0" = 0
+	"Siegmund #0" = 0
+	"Sigismund #0" = 0
+	"Simon #0" = 0
+	"Stefan #0" = 0
+	"Theodorich #0" = 0
+	"Thietmar #0" = 0
+	"Udalrich #0" = 0
+	"Ulrich #0" = 0
+	"Walther #0" = 0
+	"Wenzel #0" = 0
+	"Werner #0" = 0
+	"Wido #0" = 0
+	"Wilhelm #0" = 0
+	"Wolfgang #0" = 0
+	"Wolfram #0" = 0
+}
+ship_names = {
+	Pommern "Herzog Kasimir" "Herzog Bogislaw"
+	"Stettin Herzog Barnim" Wismar Rostock
+	Stralsund Greifswald Demmin Anklam "Herzog Otto"
+}
+

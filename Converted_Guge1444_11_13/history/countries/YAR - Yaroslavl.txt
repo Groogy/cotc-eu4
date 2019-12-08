@@ -1,0 +1,26 @@
+# Vologda
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1753
+1441.6.15 = {
+	monarch = {
+		name = "Lev"
+		birth_date = 1381.3.5
+		dynasty = "Demidov"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 1753
+	add_treasury = 17
+	add_prestige = 205
+}

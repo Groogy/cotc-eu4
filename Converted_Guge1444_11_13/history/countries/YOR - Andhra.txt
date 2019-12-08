@@ -1,0 +1,27 @@
+# Andhra
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 543
+1422.12.15 = {
+	monarch = {
+		name = "Kutlug II"
+		birth_date = 1408.10.9
+		dynasty = "Berkan"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 543
+	add_treasury = 27
+	add_prestige = 393
+}

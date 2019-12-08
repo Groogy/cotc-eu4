@@ -1,0 +1,28 @@
+# Pleskau
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 33
+1433.4.6 = {
+	monarch = {
+		name = "Sigurd"
+		birth_date = 1409.7.11
+		dynasty = "Botner"
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 33
+	add_treasury = 4
+	add_prestige = 119
+	elector = no
+}

@@ -1,0 +1,27 @@
+# Khozistan
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = shiite
+clear_scripted_personalities = yes
+capital = 4290
+1400.7.3 = {
+	monarch = {
+		name = "Chilagun"
+		birth_date = 1397.2.1
+		dynasty = "Dayirid"
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 4290
+	add_treasury = 32
+	add_prestige = 395
+}

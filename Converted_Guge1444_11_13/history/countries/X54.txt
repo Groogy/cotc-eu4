@@ -1,0 +1,27 @@
+# Samarra
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = shiite
+clear_scripted_personalities = yes
+capital = 2209
+1431.11.18 = {
+	monarch = {
+		name = "Yesunge"
+		birth_date = 1419.10.8
+		dynasty = "Iturgen"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 2209
+	add_treasury = 136
+	add_prestige = 90
+}

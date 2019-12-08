@@ -1,0 +1,26 @@
+# Anartta
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = gujarati
+religion = sunni
+clear_scripted_personalities = yes
+capital = 503
+1443.11.14 = {
+	monarch = {
+		name = "Sencer"
+		birth_date = 1430.5.28
+		dynasty = "Jadeja"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 503
+	add_treasury = 29
+	add_prestige = 53
+}

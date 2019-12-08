@@ -1,0 +1,22 @@
+germanic = {
+	german = {
+		primary = GER
+		dynasty_names = { "von Habsburg" "von Silesia-Glogau" "von Neuenburg" "von Heinsberg" "von Wittelsbach" "von Oldenburg" "Askanien" "von Puteledorg" "von Zähringen" "von Nassau" "von Jülich" "von Eppstein" "von Lusatia" "Orlamunde" "Wettin" "Ydulfing" "von Otakar" "Weimar" "Welf" "von Ringelheim" "de Luxembourg" "Wullenpund" "Hildemar" "von Dachau" "Meinhardiner" "von Kärnten" "von Eschenloch" "von Baumberg" "von Stolzenberg" "von Hunolstein" "von Falkenstein" "von Sponheim" "von Brunshorn" "von Heinsberg" "von Lövenstein" "von Landau" "von Schwelz" "von Schauenburg" "von Assel" "von Kiel" "von Rostock" "Kaunitz" "von Hohenzollern" "Bach" "Bloch" "von Brabant" "von Leiningen" "von Baden" "von Nordgau" "von Lothringen" "von Sundgau" "von Aargau" "von Bern" "von Breisgau" "von Fürstenberg" "von Calw" "Niklotid" "von Bardewik" "Vorrade" "Warendorp" "von Polheim" "Broyes-Commercy" "von Glurns" "von Waiblingen" "von Zitava" "von Vysehrad" "von Waging" "von Pongau" "von Steyregg" "Schmollinger" "von Wippra" "von Lechsgmünd" "Theotbalding" "von Danzig" "von Dompaire" "von Berg" "von Bremen" "von Lorraine" "von Graz" "von Osnabrück" }
+	}
+	frankish = {
+		primary = FRA
+		dynasty_names = { "de Luxembourg" "de Thouars" "d'Anjou" "de Dampierre" "de Valois" "d'Éolienne" "d'Ibelin" "de Savoie" "de Vaudemont" "de Vendome" "d'Eu" "de Boisrobert" "de Batarnay" "d'Evreux" "Nicolay" "de Mons" "de Hainault" "Matfrieding" "von Franken" "Chatenois" "de Maurienne" "de Blois" "de Gastinois" "de Guincamp" "Capet" "Fergant" "d'Espagne" "de Gramont" "de la Rochefoucauld" "de Serrant" "de Villeneuve" "de Coucy" "de Lomagne" "de Courtenay" "de Châtillon" "de Bourbon" "de Genève" "de Male" "de Cherbourg" "de Coucy" "d'Issoudun" "de Châteauneuf-du-Pape" "de Sarno" "de Leuca" "de Kalavryta" "d'Argentan" "de Vire" "de Montluçon" "de Montreuil" "de Lautrec" "de Châlons" "de Le Puiset" "de Crecy" "de Limisol" "d'Argos" }
+	}
+	suebi = {
+		primary = POR
+		dynasty_names = { }
+	}
+	frisian = {
+		primary = NED
+		dynasty_names = { "Gerulfing" }
+	}
+	old_lombard = {
+		primary = ITA
+		dynast_names = Â§old_lombardÂ§
+	}
+}

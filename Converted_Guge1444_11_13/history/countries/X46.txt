@@ -1,0 +1,26 @@
+# Cilicia
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = armenian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 327
+1437.5.11 = {
+	monarch = {
+		name = "Firuz"
+		birth_date = 1421.4.15
+		dynasty = "Ridwan"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 327
+	add_treasury = 18
+	add_prestige = 56
+}

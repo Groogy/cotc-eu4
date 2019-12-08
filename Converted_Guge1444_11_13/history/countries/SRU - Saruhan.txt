@@ -1,0 +1,38 @@
+# Saruhan
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = shiite
+clear_scripted_personalities = yes
+capital = 151
+1437.12.27 = {
+	monarch = {
+		name = "Ertekin"
+		birth_date = 1409.11.3
+		dynasty = "Saruhan"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = sinner_personality
+}
+1444.2.19 = {
+	heir = {
+		name = "Porsuk"
+		monarch_name = "Porsuk"
+		dynasty = "Saruhan"
+		birth_date = 1444.2.19
+		death_date = 1524.2.19
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 151
+	add_treasury = 94
+	add_prestige = 190
+}

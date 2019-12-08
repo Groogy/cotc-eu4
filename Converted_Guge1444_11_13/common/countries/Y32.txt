@@ -1,0 +1,116 @@
+# Knights of Calatrava
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 230 100 0 }
+
+
+
+
+leader_names = {
+
+	"Giordano" "Raoul" "Bohemond" "Mahaut" "Antoine" "Tiburge" "Arnoul" "Esclarmonde" "Eloisa" "Amédée" 
+	"Pernelle" "Guy" "Alice" "Evrard" "Sigerio" "Pietro" "Ruggero" "Giovanni" "Fulcone" "Giordana" 
+	"Claretta" "Luigia" "Enrico" "Colella" "Carlo" "Giovanna" "Margherita" "Guglielmo" "Giuditta" "Eleonora" 
+	"Sibilla" "Antonia" "Giolio" "Flora" "Antonio" "Luisa" "Fausta" "Benilde" "Francesca" "Anna" 
+	"Adelasia" "Constance" "Jeanette" "Abelina" "Guilhem" "Virginia" "Isabelle" "Simon" "Loup" "Marguerite" 
+	"Éléonore" "Eglantine" "Gartzia" "Fernando" "Martim" "Nuño" "Martín" "Rodrigo" "Gonçalo" "Gómez" 
+	"Pedro" "Juan" "Diego" "García" "Mihály" "Torsten" "Alfonso" "Alonso" "Álvar" "Álvaro" 
+	"Bermudo" "Enrique" "Fadrique" "Felipe" "Fruela" "Gil" "Gonzalo" "Guillén" "Guillermo" "Gutierre" 
+	"Lope" "Luis" "Manrique" "Munio" "Ordoño" "Oveco" "Pelayo" "Ramiro" "Salvador" "Sancho" 
+	"Suero" "Tello" "Vela" }
+monarch_names = {
+	"Giordano #0" = 1
+	"Raoul #0" = 1
+	"Bohemond #1" = 18
+	"Mahaut #0" = -1
+	"Antoine #0" = 1
+	"Tiburge #0" = -1
+	"Arnoul #0" = 1
+	"Esclarmonde #0" = -1
+	"Eloisa #0" = -1
+	"Amédée #0" = 1
+	"Pernelle #0" = -1
+	"Guy #0" = 1
+	"Alice #0" = -1
+	"Evrard #0" = 1
+	"Sigerio #0" = 1
+	"Pietro #0" = 1
+	"Ruggero #0" = 1
+	"Giovanni #0" = 1
+	"Fulcone #0" = 1
+	"Giordana #0" = -1
+	"Claretta #0" = -1
+	"Luigia #0" = -1
+	"Enrico #0" = 1
+	"Colella #0" = -1
+	"Carlo #0" = 1
+	"Giovanna #0" = -1
+	"Margherita #0" = -1
+	"Guglielmo #0" = 1
+	"Giuditta #0" = -1
+	"Eleonora #0" = -1
+	"Sibilla #0" = -1
+	"Antonia #0" = -1
+	"Giolio #0" = 1
+	"Flora #0" = -1
+	"Antonio #0" = 1
+	"Luisa #0" = -1
+	"Fausta #0" = -1
+	"Benilde #0" = -1
+	"Francesca #0" = -1
+	"Anna #0" = -1
+	"Adelasia #0" = -1
+	"Constance #0" = -1
+	"Jeanette #0" = -1
+	"Abelina #0" = -1
+	"Guilhem #0" = 1
+	"Virginia #0" = -1
+	"Isabelle #0" = -1
+	"Simon #0" = 1
+	"Loup #0" = 1
+	"Marguerite #0" = -1
+	"Éléonore #0" = -1
+	"Eglantine #0" = -1
+	"Gartzia #1" = 0
+	"Fernando #2" = 0
+	"Martim #1" = 0
+	"Nuño #1" = 0
+	"Martín #3" = 0
+	"Rodrigo #3" = 0
+	"Gonçalo #1" = 0
+	"Gómez #1" = 0
+	"Pedro #1" = 0
+	"Juan #3" = 0
+	"Diego #1" = 0
+	"García #1" = 0
+	"Mihály #1" = 0
+	"Torsten #1" = 0
+	"Alfonso #0" = 0
+	"Alonso #0" = 0
+	"Álvar #0" = 0
+	"Álvaro #0" = 0
+	"Bermudo #0" = 0
+	"Enrique #0" = 0
+	"Fadrique #0" = 0
+	"Felipe #0" = 0
+	"Fruela #0" = 0
+	"Gil #0" = 0
+	"Gonzalo #0" = 0
+	"Guillén #0" = 0
+	"Guillermo #0" = 0
+	"Gutierre #0" = 0
+	"Lope #0" = 0
+	"Luis #0" = 0
+	"Manrique #0" = 0
+	"Munio #0" = 0
+	"Ordoño #0" = 0
+	"Oveco #0" = 0
+	"Pelayo #0" = 0
+	"Ramiro #0" = 0
+	"Salvador #0" = 0
+	"Sancho #0" = 0
+	"Suero #0" = 0
+	"Tello #0" = 0
+	"Vela #0" = 0
+}
+

@@ -1,0 +1,27 @@
+# Bilge
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2357
+1433.6.19 = {
+	monarch = {
+		name = "Kokochu"
+		birth_date = 1376.7.5
+		dynasty = "Bilge"
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 2357
+	add_treasury = 18
+	add_prestige = 124
+}

@@ -1,0 +1,37 @@
+# Vinnytsi
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4206
+1443.5.28 = {
+	monarch = {
+		name = "Khabichi"
+		birth_date = 1414.10.28
+		dynasty = "Vinnytsi"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Bala"
+		monarch_name = "Bala"
+		dynasty = "Vinnytsi"
+		birth_date = 1427.7.18
+		death_date = 1507.7.18
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4206
+	add_treasury = 3
+	add_prestige = 103
+}

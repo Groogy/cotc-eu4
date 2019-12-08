@@ -1,0 +1,119 @@
+# Gandhara
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 255 150 31 }
+
+
+
+
+leader_names = {
+
+	"Kaya" "Hasan" "Aydin" "Tutus" "Kutay" "Ipek" "Sirma" "Baybars" "Umay" "Ayse" 
+	"Bozan" "Karatay" "Artuk" "Sencer" "Serap" "Çilen" "Balaban" "Ali" "Zuhal" "Yildiz" 
+	"Nagihan" "Umur" "Gunduz" "Savur" "Mengucek" "Yasar" "Bozçin" "Gulfem" "Sarica" "Tanrivermis" 
+	"Selim" "Ilknur" "Cuneyd" "Kara" "Turhan" "Mehmed" "Bhimadeva" "Muhammad" "Ajit" "Amar" 
+	"Amar Dasi" "Amir" "Angad" "Arjun" "Atar" "Basawa" "Bhagwant" "Bhaimani" "Budh" "Chand" 
+	"Charat" "Damodar" "Dasu" "Datu" "Dayaram" "Didar" "Farid" "Fateh" "Gobind" "Gurdita" 
+	"Hargobind" "Hari" "Har Krishan" "Har Rai" "Jai Ram" "Jetha" "Jujhar" "Kalyan" "Kapur" "Kehar" 
+	"Kharak" "Khushal" "Lahna" "Lakhmichand" "Laxman" "Mahadev" "Mohan" "Mohri" "Nanak" "Narayan" 
+	"Nodha" "Partap" "Pheru" "Prithichand" "Prithvi" "Ram Rai" "Ranjit" "Ranjor" "Sahdev" "Shamsher" 
+	"Sher" "Srichand" "Tegh Bahadur" "Tej Bhan" "Thakur" "Zorawar" }
+monarch_names = {
+	"Kaya #5" = 30
+	"Hasan #0" = 1
+	"Aydin #0" = 1
+	"Tutus #0" = 1
+	"Kutay #0" = 1
+	"Ipek #0" = -1
+	"Sirma #0" = -1
+	"Baybars #0" = 1
+	"Umay #0" = -1
+	"Ayse #0" = -1
+	"Bozan #1" = 24
+	"Karatay #0" = 1
+	"Artuk #0" = 1
+	"Sencer #0" = 1
+	"Serap #0" = -1
+	"Çilen #0" = -1
+	"Balaban #0" = 1
+	"Ali #0" = 1
+	"Zuhal #0" = -1
+	"Yildiz #0" = -1
+	"Nagihan #0" = -1
+	"Umur #0" = 1
+	"Gunduz #0" = 1
+	"Savur #0" = 1
+	"Mengucek #0" = 1
+	"Yasar #0" = -1
+	"Bozçin #0" = -1
+	"Gulfem #0" = -1
+	"Sarica #0" = -1
+	"Tanrivermis #0" = 1
+	"Selim #0" = 1
+	"Ilknur #0" = -1
+	"Cuneyd #0" = 1
+	"Kara #0" = 1
+	"Turhan #0" = 1
+	"Mehmed #0" = 1
+	"Bhimadeva #1" = 0
+	"Muhammad #1" = 0
+	"Ajit #0" = 0
+	"Amar #0" = 0
+	"Amar Dasi #0" = 0
+	"Amir #0" = 0
+	"Angad #0" = 0
+	"Arjun #0" = 0
+	"Atar #0" = 0
+	"Basawa #0" = 0
+	"Bhagwant #0" = 0
+	"Bhaimani #0" = 0
+	"Budh #0" = 0
+	"Chand #0" = 0
+	"Charat #0" = 0
+	"Damodar #0" = 0
+	"Dasu #0" = 0
+	"Datu #0" = 0
+	"Dayaram #0" = 0
+	"Didar #0" = 0
+	"Farid #0" = 0
+	"Fateh #0" = 0
+	"Gobind #0" = 0
+	"Gurdita #0" = 0
+	"Hargobind #0" = 0
+	"Hari #0" = 0
+	"Har Krishan #0" = 0
+	"Har Rai #0" = 0
+	"Jai Ram #0" = 0
+	"Jetha #0" = 0
+	"Jujhar #0" = 0
+	"Kalyan #0" = 0
+	"Kapur #0" = 0
+	"Kehar #0" = 0
+	"Kharak #0" = 0
+	"Khushal #0" = 0
+	"Lahna #0" = 0
+	"Lakhmichand #0" = 0
+	"Laxman #0" = 0
+	"Mahadev #0" = 0
+	"Mohan #0" = 0
+	"Mohri #0" = 0
+	"Nanak #0" = 0
+	"Narayan #0" = 0
+	"Nodha #0" = 0
+	"Partap #0" = 0
+	"Pheru #0" = 0
+	"Prithichand #0" = 0
+	"Prithvi #0" = 0
+	"Ram Rai #0" = 0
+	"Ranjit #0" = 0
+	"Ranjor #0" = 0
+	"Sahdev #0" = 0
+	"Shamsher #0" = 0
+	"Sher #0" = 0
+	"Srichand #0" = 0
+	"Tegh Bahadur #0" = 0
+	"Tej Bhan #0" = 0
+	"Thakur #0" = 0
+	"Zorawar #0" = 0
+}
+

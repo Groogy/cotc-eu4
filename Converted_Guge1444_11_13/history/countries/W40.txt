@@ -1,0 +1,38 @@
+# Balanjar
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4306
+1434.3.25 = {
+	monarch = {
+		name = "Esfandiar"
+		birth_date = 1417.5.8
+		dynasty = "Bakhtiarid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = fierce_negotiator_personality
+	heir = {
+		name = "Esma'il"
+		monarch_name = "Esma'il"
+		dynasty = "Bakhtiarid"
+		birth_date = 1417.8.25
+		death_date = 1497.8.25
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 4306
+	add_treasury = 125
+	add_prestige = -4
+}

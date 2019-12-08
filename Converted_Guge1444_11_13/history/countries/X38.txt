@@ -1,0 +1,26 @@
+# Oultrejourdain
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 380
+1440.8.12 = {
+	monarch = {
+		name = "Abisalom"
+		birth_date = 1391.11.9
+		dynasty = "Negevid"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 380
+	add_treasury = 44
+	add_prestige = 117
+}

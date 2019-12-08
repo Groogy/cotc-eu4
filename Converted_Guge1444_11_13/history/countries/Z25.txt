@@ -1,0 +1,28 @@
+# Swabia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 73
+1404.8.18 = {
+	monarch = {
+		name = "Marquart"
+		birth_date = 1383.9.4
+		dynasty = "van Rheineck"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 73
+	add_treasury = 148
+	add_prestige = 298
+	elector = no
+}

@@ -1,0 +1,26 @@
+# Mönkhtsetseg
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 288
+1443.10.25 = {
+	monarch = {
+		name = "Jamugha II"
+		birth_date = 1419.1.26
+		dynasty = "Mönkhtsetseg"
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 288
+	add_treasury = 13
+	add_prestige = 21
+}

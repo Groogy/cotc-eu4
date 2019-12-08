@@ -1,0 +1,37 @@
+# Thrace
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2299
+1438.8.31 = {
+	monarch = {
+		name = "Kaikhusraw"
+		birth_date = 1432.1.21
+		dynasty = "Dandolo"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = naive_personality
+	heir = {
+		name = "Sehinsah"
+		monarch_name = "Sehinsah"
+		dynasty = "Dandolo"
+		birth_date = 1432.4.17
+		death_date = 1512.4.17
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2299
+	add_treasury = 9
+	add_prestige = 104
+}

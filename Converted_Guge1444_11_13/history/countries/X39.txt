@@ -1,0 +1,27 @@
+# Jazira
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4295
+1421.1.9 = {
+	monarch = {
+		name = "Ablarion"
+		birth_date = 1418.11.17
+		dynasty = "Nuraddin"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 4295
+	add_treasury = 17
+	add_prestige = 37
+}

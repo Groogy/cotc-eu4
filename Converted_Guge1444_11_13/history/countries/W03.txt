@@ -1,0 +1,26 @@
+# Vanga
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4474
+1440.12.10 = {
+	monarch = {
+		name = "Vijaysingha"
+		birth_date = 1425.11.21
+		dynasty = "Deva"
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 4474
+	add_treasury = 47
+	add_prestige = 35
+}

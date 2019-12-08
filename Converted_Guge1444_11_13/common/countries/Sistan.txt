@@ -1,0 +1,95 @@
+# Sistan
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 155 169 114 }
+
+
+
+
+leader_names = {
+
+	"Mesud" "Demir" "Sehnaz" "Berkiyaruk" "Rustem" "Emine" "Osman" "Ilkay" "Peksen" "Hatice" 
+	"Yakut" "Canan" "Ayse" "Sibel" "Songul" "Karan-Singh" "Merve" "Ya'qub" "Ahmad" "Qutb al-Din" 
+	"Taj al-Din" "Jahanshah" "Abdullah" "Abdurrashid" "Abdurrahman" "Alauddin" "Ali Sher" "Amar" "Arnel" "Asamuddin" 
+	"Aziz" "Banhbina" "Bhungar" "Bhungar Rao" "Chanesar" "Doda" "Dadu Phattu" "Dalu Rai" "Deva Rai" "Fateh Khan" 
+	"Feruzuddin" "Genhra" "Hafif" "Hamir" "Ismail" "Junah" "Kahah" "Karan" "Khafif" "Khaira" 
+	"Khinrah" "Mahmud" "Mubarak" "Muhammad" "Muhammed-Tur" "Munzir" "Nangar" "Nizamuddin" "Pahtu" "Punhun" 
+	"Raidhan" "Sabar" "Salahuddin" "Sanghar" "Sanjar" "Shahabuddin" "Sikandar" "Sumrah" "Syed" "Tai" 
+	"Tamachi" "Taghlak" "Umar" "Unar" }
+monarch_names = {
+	"Mesud #0" = 1
+	"Demir #2" = 21
+	"Sehnaz #0" = -1
+	"Berkiyaruk #0" = 1
+	"Rustem #0" = 1
+	"Emine #0" = -1
+	"Osman #1" = 24
+	"Ilkay #0" = -1
+	"Peksen #0" = -1
+	"Hatice #0" = -1
+	"Yakut #0" = 1
+	"Canan #0" = -1
+	"Ayse #0" = -1
+	"Sibel #0" = -1
+	"Songul #0" = -1
+	"Karan-Singh #0" = 1
+	"Merve #0" = -1
+	"Ya'qub #1" = 0
+	"Ahmad #1" = 0
+	"Qutb al-Din #1" = 0
+	"Taj al-Din #1" = 0
+	"Jahanshah #1" = 0
+	"Abdullah #0" = 0
+	"Abdurrashid #0" = 0
+	"Abdurrahman #0" = 0
+	"Alauddin #0" = 0
+	"Ali Sher #0" = 0
+	"Amar #0" = 0
+	"Arnel #0" = 0
+	"Asamuddin #0" = 0
+	"Aziz #0" = 0
+	"Banhbina #0" = 0
+	"Bhungar #0" = 0
+	"Bhungar Rao #0" = 0
+	"Chanesar #0" = 0
+	"Doda #0" = 0
+	"Dadu Phattu #0" = 0
+	"Dalu Rai #0" = 0
+	"Deva Rai #0" = 0
+	"Fateh Khan #0" = 0
+	"Feruzuddin #0" = 0
+	"Genhra #0" = 0
+	"Hafif #0" = 0
+	"Hamir #0" = 0
+	"Ismail #0" = 0
+	"Junah #0" = 0
+	"Kahah #0" = 0
+	"Karan #0" = 0
+	"Khafif #0" = 0
+	"Khaira #0" = 0
+	"Khinrah #0" = 0
+	"Mahmud #0" = 0
+	"Mubarak #0" = 0
+	"Muhammad #0" = 0
+	"Muhammed-Tur #0" = 0
+	"Munzir #0" = 0
+	"Nangar #0" = 0
+	"Nizamuddin #0" = 0
+	"Pahtu #0" = 0
+	"Punhun #0" = 0
+	"Raidhan #0" = 0
+	"Sabar #0" = 0
+	"Salahuddin #0" = 0
+	"Sanghar #0" = 0
+	"Sanjar #0" = 0
+	"Shahabuddin #0" = 0
+	"Sikandar #0" = 0
+	"Sumrah #0" = 0
+	"Syed #0" = 0
+	"Tai #0" = 0
+	"Tamachi #0" = 0
+	"Taghlak #0" = 0
+	"Umar #0" = 0
+	"Unar #0" = 0
+}
+

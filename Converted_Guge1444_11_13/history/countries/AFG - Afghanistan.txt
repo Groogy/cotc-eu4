@@ -1,0 +1,27 @@
+# Kabulistan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = afghani
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 451
+1426.7.1 = {
+	monarch = {
+		name = "Mateen II"
+		birth_date = 1400.12.27
+		dynasty = "Mateen"
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 451
+	add_treasury = 42
+	add_prestige = 488
+}

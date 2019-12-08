@@ -1,0 +1,27 @@
+# Varde
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 15
+1435.8.22 = {
+	monarch = {
+		name = "Jørgen"
+		birth_date = 1432.5.22
+		dynasty = "Reventlow"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 15
+	add_treasury = 20
+	add_prestige = 7
+	elector = no
+}

@@ -1,0 +1,38 @@
+# Illyinsk
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+1424.8.6 = {
+	monarch = {
+		name = "Noumea"
+		birth_date = 1410.3.4
+		dynasty = "Kungurid"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = benevolent_personality
+}
+1435.8.27 = {
+	heir = {
+		name = "Num"
+		monarch_name = "Num"
+		dynasty = "Kungurid"
+		birth_date = 1435.8.27
+		death_date = 1515.8.27
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	add_treasury = 22
+	add_prestige = 27
+}

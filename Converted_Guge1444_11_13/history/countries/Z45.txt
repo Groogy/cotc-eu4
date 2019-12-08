@@ -1,0 +1,28 @@
+# Münster
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 86
+1428.8.1 = {
+	monarch = {
+		name = "Humbert"
+		birth_date = 1391.12.20
+		dynasty = "von  Münster"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 86
+	add_treasury = 120
+	add_prestige = 28
+	elector = no
+}

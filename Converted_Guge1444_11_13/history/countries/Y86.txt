@@ -1,0 +1,27 @@
+# Ragusa
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = dalmatian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 137
+1433.3.22 = {
+	monarch = {
+		name = "Federigo"
+		birth_date = 1383.4.23
+		dynasty = "di  Ragusa"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 137
+	add_treasury = 91
+	add_prestige = 85
+}

@@ -1,0 +1,26 @@
+# Cherson
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = goths
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 285
+1436.8.19 = {
+	monarch = {
+		name = "Boethios II"
+		birth_date = 1396.2.10
+		dynasty = "Kastriotis"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 285
+	add_treasury = 63
+	add_prestige = 170
+}

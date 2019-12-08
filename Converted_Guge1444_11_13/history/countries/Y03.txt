@@ -1,0 +1,28 @@
+# Werle
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 46
+1426.10.26 = {
+	monarch = {
+		name = "Jens"
+		birth_date = 1409.5.7
+		dynasty = "Friis"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 46
+	add_treasury = 22
+	add_prestige = 116
+	elector = no
+}

@@ -1,0 +1,40 @@
+# Orissa
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4479
+1427.10.24 = {
+	monarch = {
+		name = "Kemal"
+		birth_date = 1418.5.18
+		dynasty = "Sonargaon"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = fertile_personality
+}
+1440.4.1 = {
+	heir = {
+		name = "Timurtas"
+		monarch_name = "Timurtas"
+		dynasty = "Sonargaon"
+		birth_date = 1440.4.1
+		death_date = 1520.4.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4479
+	add_treasury = 92
+	add_prestige = 282
+}

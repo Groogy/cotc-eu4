@@ -1,0 +1,26 @@
+# Paphlagonia
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4313
+1440.2.11 = {
+	monarch = {
+		name = "Mehmed"
+		birth_date = 1394.4.2
+		dynasty = "Eretnid"
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 4313
+	add_treasury = 20
+	add_prestige = 78
+}

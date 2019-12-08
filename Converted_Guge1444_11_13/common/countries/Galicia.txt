@@ -1,0 +1,193 @@
+# Galicia
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 255 224 94 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Nunno" "Sancha" "Constanza" "Diego" "Juan" "Tello" "Toda" "Álvar" "Blanca" "Alfonso" 
+	"Guillén" "Enrique" "Dolça" "Salvador" "Marta" "Martín" "Anderquina" "María" "Elena" "Inés" 
+	"Ebles" "Beatritz" "Tarifa" "Isabel" "Fernando" "Friednand" "Monnio" "Gonçalo" "Monniadomna" "Flamula" 
+	"Guttier" "Fernán" "Garçi" "Petro" "Urraca" "Gonzalo" "Sancho" "Elvira" "García" "Mayor" 
+	"Nuño" "Muniadona" "Gutierre" "Goto" "Rodrigo" "Dueña" "Munio" "Jimena" "Munia" "Gustio" 
+	"Gómez" "Teresa" "Pedro" "Visclavara" "Estefanía" "Manrique" "Guillermo" "Milia" "Gil" "Mafalda" 
+	"Ermengarda" "Aimeric" "Benita" "Amalric" "Guilhèm" "Garcenda" "Margarida" "Mencía" "Leonor" "Aliç" 
+	"Juana" "Benito" "Pèire" "Margarita" "Gui" "Constància" "Gersenda" "Sibilla" "Miquel" "Joana" 
+	"Azelma" "Ramiro" "Gisla" "Eufrosina" "Beatriz" "Aymar" "Rosèla" "Isabèu" "Albert" "Xamida" 
+	"Alonso" "Cloutilda" "Ordonno" "Sans" "Raymond" "Fernão" "Aldonça" "Aires" "Afonso" "Álvaro" 
+	"Bermudo" "Diogo" "Egas" "Estêvão" "Garcia" "Gomes" "Guterre" "Henrique" "Hermígio" "João" 
+	"Lopo" "Lourenço" "Martim" "Mem" "Mendo" "Monio" "Muno" "Nuno" "Paio" "Pero" 
+	"Pôncio" "Rui" "Soeiro" "Raimundo" "Vasco" "Vicente" }
+monarch_names = {
+	"Nunno #0" = 1
+	"Sancha #0" = -1
+	"Constanza #0" = -1
+	"Diego #0" = 1
+	"Juan #0" = 1
+	"Tello #0" = 1
+	"Toda #0" = -1
+	"Álvar #0" = 1
+	"Blanca #1" = -28
+	"Alfonso #1" = 24
+	"Guillén #0" = 1
+	"Enrique #0" = 1
+	"Dolça #0" = -1
+	"Salvador #0" = 1
+	"Marta #0" = -1
+	"Martín #0" = 1
+	"Anderquina #0" = -1
+	"María #0" = -1
+	"Elena #0" = -1
+	"Inés #0" = -1
+	"Ebles #0" = 1
+	"Beatritz #0" = -1
+	"Tarifa #0" = -1
+	"Isabel #0" = -1
+	"Fernando #2" = 48
+	"Friednand #0" = 1
+	"Monnio #0" = 1
+	"Gonçalo #0" = 1
+	"Monniadomna #0" = -1
+	"Flamula #0" = -1
+	"Guttier #0" = 1
+	"Fernán #0" = 1
+	"Garçi #0" = 1
+	"Petro #0" = 1
+	"Urraca #0" = -1
+	"Gonzalo #0" = 1
+	"Sancho #0" = 1
+	"Elvira #0" = -1
+	"García #0" = 1
+	"Mayor #0" = -1
+	"Nuño #0" = 1
+	"Muniadona #0" = -1
+	"Gutierre #0" = 1
+	"Goto #0" = -1
+	"Rodrigo #0" = 1
+	"Dueña #0" = -1
+	"Munio #0" = 1
+	"Jimena #0" = -1
+	"Munia #0" = -1
+	"Gustio #0" = -1
+	"Gómez #0" = 1
+	"Teresa #0" = -1
+	"Pedro #1" = 39
+	"Visclavara #0" = -1
+	"Estefanía #0" = -1
+	"Manrique #0" = 1
+	"Guillermo #0" = 1
+	"Milia #0" = -1
+	"Gil #0" = 1
+	"Mafalda #0" = -1
+	"Ermengarda #0" = -1
+	"Aimeric #0" = 1
+	"Benita #0" = -1
+	"Amalric #0" = 1
+	"Guilhèm #0" = 1
+	"Garcenda #0" = -1
+	"Margarida #0" = -1
+	"Mencía #0" = -1
+	"Leonor #0" = -1
+	"Aliç #0" = -1
+	"Juana #0" = -1
+	"Benito #0" = 1
+	"Pèire #0" = 1
+	"Margarita #0" = -1
+	"Gui #0" = 1
+	"Constància #0" = -1
+	"Gersenda #0" = -1
+	"Sibilla #0" = -1
+	"Miquel #0" = 1
+	"Joana #0" = -1
+	"Azelma #0" = -1
+	"Ramiro #0" = 1
+	"Gisla #0" = -1
+	"Eufrosina #0" = -1
+	"Beatriz #0" = -1
+	"Aymar #0" = 1
+	"Rosèla #0" = -1
+	"Isabèu #0" = -1
+	"Albert #0" = 1
+	"Xamida #0" = 1
+	"Alonso #0" = 1
+	"Cloutilda #0" = -1
+	"Ordonno #1" = 0
+	"Sans #1" = 0
+	"Raymond #1" = 0
+	"Fernão #2" = 0
+	"Aldonça #1" = -1
+	"Aires #2" = 0
+	"Afonso #0" = 0
+	"Álvaro #0" = 0
+	"Bermudo #0" = 0
+	"Diogo #0" = 0
+	"Egas #0" = 0
+	"Estêvão #0" = 0
+	"Garcia #0" = 0
+	"Gomes #0" = 0
+	"Guterre #0" = 0
+	"Henrique #0" = 0
+	"Hermígio #0" = 0
+	"João #0" = 0
+	"Lopo #0" = 0
+	"Lourenço #0" = 0
+	"Martim #0" = 0
+	"Mem #0" = 0
+	"Mendo #0" = 0
+	"Monio #0" = 0
+	"Muno #0" = 0
+	"Nuno #0" = 0
+	"Paio #0" = 0
+	"Pero #0" = 0
+	"Pôncio #0" = 0
+	"Rui #0" = 0
+	"Soeiro #0" = 0
+	"Raimundo #0" = 0
+	"Vasco #0" = 0
+	"Vicente #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

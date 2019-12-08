@@ -1,0 +1,37 @@
+# Lkhagvasüren
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 718
+1441.1.25 = {
+	monarch = {
+		name = "Yesunge"
+		birth_date = 1416.10.4
+		dynasty = "Bogorchu"
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Dayir"
+		monarch_name = "Dayir"
+		dynasty = "Bogorchu"
+		birth_date = 1427.2.7
+		death_date = 1507.2.7
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = 14
+	add_prestige = 152
+}

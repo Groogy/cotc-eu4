@@ -1,0 +1,27 @@
+# Bamberg
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 66
+1438.8.4 = {
+	monarch = {
+		name = "Walram"
+		birth_date = 1433.2.27
+		dynasty = "von Wittelsbach"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 66
+	add_treasury = 21
+	add_prestige = 173
+	elector = no
+}

@@ -1,0 +1,39 @@
+# Velsk
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4259
+1431.11.3 = {
+	monarch = {
+		name = "Alexei"
+		birth_date = 1430.12.8
+		dynasty = "Gdovich"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Praskovya"
+		monarch_name = "Praskovya"
+		dynasty = "Gdovich"
+		birth_date = 1429.3.3
+		death_date = 1509.3.3
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 4259
+	add_treasury = 8
+	add_prestige = 299
+}

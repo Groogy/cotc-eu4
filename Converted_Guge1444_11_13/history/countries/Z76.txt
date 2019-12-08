@@ -1,0 +1,27 @@
+# Aarhus
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4142
+1435.11.8 = {
+	monarch = {
+		name = "Thomas"
+		birth_date = 1406.8.2
+		dynasty = "von  Aarhus"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 4142
+	add_treasury = 50
+	add_prestige = 44
+	elector = no
+}

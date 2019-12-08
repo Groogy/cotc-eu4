@@ -1,0 +1,28 @@
+# Neuchatel
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1867
+1418.2.14 = {
+	monarch = {
+		name = "Humbert"
+		birth_date = 1402.6.23
+		dynasty = "von Neuenburg"
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 1867
+	add_treasury = 72
+	add_prestige = 229
+	elector = no
+}

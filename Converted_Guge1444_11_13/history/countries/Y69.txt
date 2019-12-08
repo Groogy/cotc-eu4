@@ -1,0 +1,27 @@
+# Gandhara
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = panjabi
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2077
+1431.12.23 = {
+	monarch = {
+		name = "Bozan"
+		birth_date = 1424.7.10
+		dynasty = "Kayaid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 2077
+	add_treasury = 21
+	add_prestige = 41
+}

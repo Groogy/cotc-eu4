@@ -1,0 +1,96 @@
+# Wadai
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 17 237 189 }
+
+
+
+
+leader_names = {
+
+	"Jal" "Mbakin" "Pesanthia" "Emsire" "Kugurg" "Rong" "Amm" "Bakhita" "Yug" "Bor" 
+	"Kakaw" "Dong" "Jamne" "Gon" "Maj" "Ibedou" "Kubuy" "Malaz" "Meayge" "Gosgod" 
+	"Pid" "Habib" "Shendi" "Musin" "Born" "Ede" "Gakuwe" "Chaski" "Bug" "Dahab" 
+	"Izza" "Asil" "Izzo" "Kalge" "Ferne" "Kamalgi" "Bolad" "Bogduru" "Gaguwe" "Gelgel" 
+	"Hassaballah" "Magjin" "Adam" "Ahmed" "Anqarib" "Bakhit" "Ber" "Bogirg" "Bokdoru" "Chang" 
+	"Ett" "Galan" "Hajar" "Ibrahim" "Ishaq" "Issa" "Karim" "Kasefroge" "Kosom" "Koydin" 
+	"Kukne" "Kur" "Lanhjin" "Maland" "Meewge" "Moussa" "Moustafa" "Murtin" "Omar" "Pen" 
+	"Risha" "Salih" "Shuaeib" "Wadanh" "Youssouf" }
+monarch_names = {
+	"Jal #2" = 18
+	"Mbakin #0" = 1
+	"Pesanthia #0" = -1
+	"Emsire #0" = -1
+	"Kugurg #0" = -1
+	"Rong #0" = 1
+	"Amm #0" = -1
+	"Bakhita #0" = -1
+	"Yug #0" = 1
+	"Bor #0" = -1
+	"Kakaw #0" = -1
+	"Dong #1" = 21
+	"Jamne #1" = -19
+	"Gon #2" = 18
+	"Maj #0" = -1
+	"Ibedou #0" = 1
+	"Kubuy #0" = -1
+	"Malaz #1" = 18
+	"Meayge #0" = 1
+	"Gosgod #0" = -1
+	"Pid #0" = 1
+	"Habib #1" = 18
+	"Shendi #1" = 18
+	"Musin #1" = -19
+	"Born #1" = 0
+	"Ede #2" = 0
+	"Gakuwe #1" = 0
+	"Chaski #2" = 0
+	"Bug #1" = 0
+	"Dahab #1" = 0
+	"Izza #1" = 0
+	"Asil #1" = 0
+	"Izzo #1" = 0
+	"Kalge #2" = 0
+	"Ferne #1" = 0
+	"Kamalgi #1" = 0
+	"Bolad #1" = 0
+	"Bogduru #1" = 0
+	"Gaguwe #1" = 0
+	"Gelgel #1" = 0
+	"Hassaballah #1" = 0
+	"Magjin #1" = 0
+	"Adam #0" = 0
+	"Ahmed #0" = 0
+	"Anqarib #0" = 0
+	"Bakhit #0" = 0
+	"Ber #0" = 0
+	"Bogirg #0" = 0
+	"Bokdoru #0" = 0
+	"Chang #0" = 0
+	"Ett #0" = 0
+	"Galan #0" = 0
+	"Hajar #0" = 0
+	"Ibrahim #0" = 0
+	"Ishaq #0" = 0
+	"Issa #0" = 0
+	"Karim #0" = 0
+	"Kasefroge #0" = 0
+	"Kosom #0" = 0
+	"Koydin #0" = 0
+	"Kukne #0" = 0
+	"Kur #0" = 0
+	"Lanhjin #0" = 0
+	"Maland #0" = 0
+	"Meewge #0" = 0
+	"Moussa #0" = 0
+	"Moustafa #0" = 0
+	"Murtin #0" = 0
+	"Omar #0" = 0
+	"Pen #0" = 0
+	"Risha #0" = 0
+	"Salih #0" = 0
+	"Shuaeib #0" = 0
+	"Wadanh #0" = 0
+	"Youssouf #0" = 0
+}
+

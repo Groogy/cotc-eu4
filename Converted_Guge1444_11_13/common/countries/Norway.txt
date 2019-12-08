@@ -1,0 +1,186 @@
+# Norway
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 170 170 210 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Haftore" "Margrete" "Rannveig" "Alf" "Ragnar" "Inga" "Åse" "Rikissa" "Sverker" "Arnfast" 
+	"Elin" "Botulf" "Ossor" "Henrik" "Cecilia" "Ingeborg" "Olaf" "Thorborg" "Elisabet" "Ingrid" 
+	"Ragnvald" "Alfhild" "Karin" "Gunnar" "Åsta" "Birgitta" "Edla" "Gjertrud" "Sigurd" "Einar" 
+	"Jon" "Anna" "Ogmund" "Karoline" "Gudbrand" "Agnes" "Åmund" "Jedvard" "Fredrik" "Astrid" 
+	"Haraldr" "Eirikr" "Hakon" "Sveinn" "Olafr" "Knud" "Magnus" "Harald" "Olav" "Håkon" 
+	"Øystein" "Inge" "Haakon" "Sverre" "Guttorm" "Erik" "Folke" "Halfdan" "Albrikt" "Algot" 
+	"Anders" "Arnbjörn" "Arne" "Astrad" "Azur" "Bengt" "Bertil" "Birger" "Björn" "Bo" 
+	"Borkvard" "Bror" "Brynjolf" "Dag" "Dan" "Dyre" "Eskild" "Faste" "Filip" "Georg" 
+	"Greger" "Grim" "Gustav" "Halsten" "Hans" "Helgi" "Hjalmar" "Holmger" "Håkan" "Ingemar" 
+	"Ingvar" "Johan" "Karl" "Kettil" "Kettilmund" "Klas" "Knut" "Kol" "Kolbjörn" "Lars" 
+	"Markus" "Mats" "Nils" "Niklas" "Peder" "Rolf" "Rörek" "Sigtrygg" "Sten" "Sune" 
+	"Sven" "Sölvi" "Thomas" "Tord" "Torkel" "Torolf" "Torsten" "Totil" "Ulf" "Valdemar" 
+	"Åke" "Östen" }
+monarch_names = {
+	"Haftore #1" = 21
+	"Margrete #0" = -1
+	"Rannveig #0" = -1
+	"Alf #1" = 18
+	"Ragnar #0" = 1
+	"Inga #0" = -1
+	"Åse #0" = -1
+	"Rikissa #0" = -1
+	"Sverker #0" = 1
+	"Arnfast #0" = 1
+	"Elin #0" = -1
+	"Botulf #0" = 1
+	"Ossor #1" = 18
+	"Henrik #0" = 1
+	"Cecilia #0" = -1
+	"Ingeborg #0" = -1
+	"Olaf #1" = 18
+	"Thorborg #0" = -1
+	"Elisabet #0" = -1
+	"Ingrid #0" = -1
+	"Ragnvald #0" = 1
+	"Alfhild #0" = -1
+	"Karin #0" = -1
+	"Gunnar #0" = 1
+	"Åsta #0" = -1
+	"Birgitta #0" = -1
+	"Edla #0" = -1
+	"Gjertrud #0" = -1
+	"Sigurd #2" = 21
+	"Einar #0" = 1
+	"Jon #0" = 1
+	"Anna #0" = -1
+	"Ogmund #0" = 1
+	"Karoline #0" = -1
+	"Gudbrand #1" = 18
+	"Agnes #0" = -1
+	"Åmund #0" = 1
+	"Jedvard #0" = 1
+	"Fredrik #0" = 1
+	"Astrid #0" = -1
+	"Haraldr #3" = 0
+	"Eirikr #1" = 0
+	"Hakon #1" = 0
+	"Sveinn #2" = 0
+	"Olafr #2" = 0
+	"Knud #1" = 0
+	"Magnus #7" = 0
+	"Harald #2" = 0
+	"Olav #1" = 0
+	"Håkon #4" = 0
+	"Øystein #2" = 0
+	"Inge #2" = 0
+	"Haakon #1" = 0
+	"Sverre #1" = 0
+	"Guttorm #1" = 0
+	"Erik #1" = 0
+	"Folke #1" = 0
+	"Halfdan #1" = 0
+	"Albrikt #0" = 0
+	"Algot #0" = 0
+	"Anders #0" = 0
+	"Arnbjörn #0" = 0
+	"Arne #0" = 0
+	"Astrad #0" = 0
+	"Azur #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Bror #0" = 0
+	"Brynjolf #0" = 0
+	"Dag #0" = 0
+	"Dan #0" = 0
+	"Dyre #0" = 0
+	"Eskild #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Georg #0" = 0
+	"Greger #0" = 0
+	"Grim #0" = 0
+	"Gustav #0" = 0
+	"Halsten #0" = 0
+	"Hans #0" = 0
+	"Helgi #0" = 0
+	"Hjalmar #0" = 0
+	"Holmger #0" = 0
+	"Håkan #0" = 0
+	"Ingemar #0" = 0
+	"Ingvar #0" = 0
+	"Johan #0" = 0
+	"Karl #0" = 0
+	"Kettil #0" = 0
+	"Kettilmund #0" = 0
+	"Klas #0" = 0
+	"Knut #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Lars #0" = 0
+	"Markus #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Peder #0" = 0
+	"Rolf #0" = 0
+	"Rörek #0" = 0
+	"Sigtrygg #0" = 0
+	"Sten #0" = 0
+	"Sune #0" = 0
+	"Sven #0" = 0
+	"Sölvi #0" = 0
+	"Thomas #0" = 0
+	"Tord #0" = 0
+	"Torkel #0" = 0
+	"Torolf #0" = 0
+	"Torsten #0" = 0
+	"Totil #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Åke #0" = 0
+	"Östen #0" = 0
+}
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

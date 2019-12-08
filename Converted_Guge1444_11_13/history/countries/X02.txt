@@ -1,0 +1,26 @@
+# of Taganrog
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1974
+1437.1.7 = {
+	monarch = {
+		name = "Yokhunan"
+		birth_date = 1390.4.6
+		dynasty = "of Taganrog"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 1974
+	add_treasury = 14
+	add_prestige = 191
+}

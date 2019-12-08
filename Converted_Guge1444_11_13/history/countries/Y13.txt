@@ -1,0 +1,26 @@
+# Gdov
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+1397.11.16 = {
+	monarch = {
+		name = "Grim"
+		birth_date = 1395.7.15
+		dynasty = "Vatnsfirðing"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = sinner_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	add_treasury = 19
+	add_prestige = 142
+	elector = no
+}

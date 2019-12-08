@@ -1,0 +1,27 @@
+# Uttaranchal
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = avadhi
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 511
+1394.7.4 = {
+	monarch = {
+		name = "Gungsong"
+		birth_date = 1375.7.2
+		dynasty = "Sepla"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = careful_personality
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 511
+	add_treasury = 31
+	add_prestige = 496
+}

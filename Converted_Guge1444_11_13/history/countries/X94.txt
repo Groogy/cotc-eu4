@@ -1,0 +1,26 @@
+# Maru
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = gujarati
+religion = sunni
+clear_scripted_personalities = yes
+capital = 516
+1443.8.19 = {
+	monarch = {
+		name = "Kara"
+		birth_date = 1419.5.4
+		dynasty = "Chauhan"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 516
+	add_treasury = 115
+	add_prestige = 261
+}

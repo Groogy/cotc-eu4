@@ -1,0 +1,104 @@
+# Wallachia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 220 132 40 }
+
+
+
+
+leader_names = {
+
+	"Tihomir" "Afina" "Tereza" "Natalia" "Floarea" "Olimpia" "Franjo" "Bogdan" "Ecatarina" "Anghel" 
+	"Marin" "Vintila" "Anastasia" "Voica" "Vlad" "Basarab" "Nicolaie Alexandru" "Vlaicu" "Felicia" "Teodora" 
+	"Radu" "Veaceslav" "Moise" "Adrian" "Alexandru" "Aron" "Bajan" "Balc" "Barbat" "Carol" 
+	"Ciprian" "Ciubar" "Claudiu" "Corneliu" "Costin" "Damjan" "Dan" "Dragos" "Dumitru" "Emerik" 
+	"Florin" "Gavril" "Gheorghe" "Grigore" "Iacob" "Iancu" "Ieremia" "Ilie" "Ioan" "Iorghu" 
+	"Iosif" "Iuga" "Janos" "Ladislau" "Latcu" "Laurentiu" "Litovoi" "Lucian" "Mihai" "Milos" 
+	"Mircea" "Nicolaie" "Petre" "Pirvu" "Radovan" "Roman" "Sas" "Seneslav" "Sergiu" "Simion" 
+	"Stefan" "Stelian" "Teodor" "Tepes" "Tibor" "Timotei" "Tudor" "Valentin" "Valeriu" "Vasile" 
+	"Victor" "Vilhelm" }
+monarch_names = {
+	"Tihomir #0" = 1
+	"Afina #1" = -22
+	"Tereza #0" = -1
+	"Natalia #0" = -1
+	"Floarea #0" = -1
+	"Olimpia #0" = -1
+	"Franjo #0" = 1
+	"Bogdan #0" = 1
+	"Ecatarina #0" = -1
+	"Anghel #0" = 1
+	"Marin #0" = 1
+	"Vintila #0" = 1
+	"Anastasia #0" = -1
+	"Voica #0" = -1
+	"Vlad #0" = 1
+	"Basarab #1" = 18
+	"Nicolaie Alexandru #1" = 18
+	"Vlaicu #1" = 18
+	"Felicia #0" = -1
+	"Teodora #0" = -1
+	"Radu #1" = 18
+	"Veaceslav #1" = 18
+	"Moise #0" = 1
+	"Adrian #0" = 0
+	"Alexandru #0" = 0
+	"Aron #0" = 0
+	"Bajan #0" = 0
+	"Balc #0" = 0
+	"Barbat #0" = 0
+	"Carol #0" = 0
+	"Ciprian #0" = 0
+	"Ciubar #0" = 0
+	"Claudiu #0" = 0
+	"Corneliu #0" = 0
+	"Costin #0" = 0
+	"Damjan #0" = 0
+	"Dan #0" = 0
+	"Dragos #0" = 0
+	"Dumitru #0" = 0
+	"Emerik #0" = 0
+	"Florin #0" = 0
+	"Gavril #0" = 0
+	"Gheorghe #0" = 0
+	"Grigore #0" = 0
+	"Iacob #0" = 0
+	"Iancu #0" = 0
+	"Ieremia #0" = 0
+	"Ilie #0" = 0
+	"Ioan #0" = 0
+	"Iorghu #0" = 0
+	"Iosif #0" = 0
+	"Iuga #0" = 0
+	"Janos #0" = 0
+	"Ladislau #0" = 0
+	"Latcu #0" = 0
+	"Laurentiu #0" = 0
+	"Litovoi #0" = 0
+	"Lucian #0" = 0
+	"Mihai #0" = 0
+	"Milos #0" = 0
+	"Mircea #0" = 0
+	"Nicolaie #0" = 0
+	"Petre #0" = 0
+	"Pirvu #0" = 0
+	"Radovan #0" = 0
+	"Roman #0" = 0
+	"Sas #0" = 0
+	"Seneslav #0" = 0
+	"Sergiu #0" = 0
+	"Simion #0" = 0
+	"Stefan #0" = 0
+	"Stelian #0" = 0
+	"Teodor #0" = 0
+	"Tepes #0" = 0
+	"Tibor #0" = 0
+	"Timotei #0" = 0
+	"Tudor #0" = 0
+	"Valentin #0" = 0
+	"Valeriu #0" = 0
+	"Vasile #0" = 0
+	"Victor #0" = 0
+	"Vilhelm #0" = 0
+}
+

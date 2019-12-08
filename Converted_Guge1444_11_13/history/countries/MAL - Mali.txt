@@ -1,0 +1,39 @@
+# Mali
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2244
+1435.1.17 = {
+	monarch = {
+		name = "Tib"
+		birth_date = 1412.9.9
+		dynasty = "Keita"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = strict_personality
+}
+1437.11.2 = {
+	heir = {
+		name = "Maghan"
+		monarch_name = "Maghan III"
+		dynasty = "Keita"
+		birth_date = 1437.11.2
+		death_date = 1517.11.2
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 2244
+	add_treasury = 28
+	add_prestige = 313
+}

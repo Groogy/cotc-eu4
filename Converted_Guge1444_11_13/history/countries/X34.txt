@@ -1,0 +1,27 @@
+# Antioch
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2313
+1417.1.10 = {
+	monarch = {
+		name = "Ashraf"
+		birth_date = 1401.10.11
+		dynasty = "Bahri"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = righteous_personality
+}
+1444.11.11 = {
+	capital = 2313
+	add_treasury = 43
+	add_prestige = 268
+}

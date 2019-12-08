@@ -1,0 +1,27 @@
+# Köln
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 85
+1439.6.9 = {
+	monarch = {
+		name = "Ulrich"
+		birth_date = 1409.10.4
+		dynasty = "von  Köln"
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 85
+	add_treasury = 63
+	add_prestige = 9
+	elector = no
+}

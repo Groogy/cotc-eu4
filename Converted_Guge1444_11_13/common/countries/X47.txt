@@ -1,0 +1,151 @@
+# Wag
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 186 100 55 }
+
+
+
+
+leader_names = {
+
+	"Ogbae" "Alaworld" "Melaku" "Aman" "Habesha" "Bworo" "Fannah" "Daniachew" "Ayana" "Mandera" 
+	"Jazarah" "Totit" "Hakiem" "Semere" "Berta" "Kelile" "Debre" "Haeran" "Tesfaye" "Dahnay" 
+	"Assefa" "Kifle" "Mara Takla Haymanot" "Tatadim" "Jan Seyum" "German Seyum" "Yemrehana Krestos" "Kedus Harbe" "Lalibela" "Na'akuelo La'ab" 
+	"Yetbarak" "Mairari" "Harbai" "Benaim" "Merille" "Jahzara" "Hakim" "Retta" "Getachew" "Desta" 
+	"Yonas" "Tsage" "Bekele" "Semer" "China" "Tessema" "Lishan" "Debtera" "Zala" "Berhanua" 
+	"Amhara" "Ayzur" "Rema Armah" "Degna Djan" "Anbasa Wedem" "Merkourios" "Negash" "Iskinder" "Gebre" "Dawit" 
+	"Oromo" "Fethee" "Demissie" "Abebe" "Abdul-Aziz" "Sergios" "Hammud" "Arsenios" "Abadir" "Abdale" 
+	"Abdirahman" "Abdulah" "Abram" "Abu-Bakr" "Adan" "Adeer" "Ahmed" "Ali" "Amlale" "Aul" 
+	"Awe" "Aydahis" "Balad" "Baraka" "Barakat" "Ciise" "Dagale" "Dhidhin" "Hamalmal" "Hamar" 
+	"Hamid" "Hantale" "Haqq" "Harire" "Ibrahim" "Irir" "Isman" "Jamal" "Kadhafo" "Kedafu" 
+	"Khalaf" "Liban" "Mahammad" "Mahamed" "Mahamud" "Mansur" "Nahwi" "Naleye" "Nassir" "Nur" 
+	"Omer" "Sa'ad" "Sa'adaddin" "Sabir" "Sabr" "Sabraddin" "Sadiq" "Salah" "Siciid" "Talha" 
+	"Umar" "Umardin" "Yayyo" "Yusuf" "Zuber" }
+monarch_names = {
+	"Ogbae #0" = 1
+	"Alaworld #0" = -1
+	"Melaku #0" = 1
+	"Aman #0" = 1
+	"Habesha #0" = -1
+	"Bworo #0" = 1
+	"Fannah #0" = -1
+	"Daniachew #0" = 1
+	"Ayana #0" = -1
+	"Mandera #0" = -1
+	"Jazarah #0" = -1
+	"Totit #0" = -1
+	"Hakiem #0" = 1
+	"Semere #1" = 18
+	"Berta #0" = -1
+	"Kelile #0" = -1
+	"Debre #0" = -1
+	"Haeran #0" = 1
+	"Tesfaye #3" = 30
+	"Dahnay #0" = 1
+	"Assefa #0" = 1
+	"Kifle #0" = 1
+	"Mara Takla Haymanot #0" = 1
+	"Tatadim #0" = 1
+	"Jan Seyum #0" = 1
+	"German Seyum #0" = 1
+	"Yemrehana Krestos #0" = 1
+	"Kedus Harbe #0" = 1
+	"Lalibela #0" = 1
+	"Na'akuelo La'ab #0" = 1
+	"Yetbarak #0" = 1
+	"Mairari #0" = 1
+	"Harbai #0" = 1
+	"Benaim #1" = 18
+	"Merille #1" = 21
+	"Jahzara #0" = -1
+	"Hakim #0" = 1
+	"Retta #0" = -1
+	"Getachew #0" = 1
+	"Desta #0" = 1
+	"Yonas #0" = 1
+	"Tsage #0" = -1
+	"Bekele #0" = 1
+	"Semer #0" = 1
+	"China #0" = -1
+	"Tessema #0" = 1
+	"Lishan #0" = -1
+	"Debtera #0" = -1
+	"Zala #0" = -1
+	"Berhanua #0" = 1
+	"Amhara #0" = -1
+	"Ayzur #1" = 0
+	"Rema Armah #1" = 0
+	"Degna Djan #1" = 0
+	"Anbasa Wedem #1" = 0
+	"Merkourios #1" = 0
+	"Negash #1" = 0
+	"Iskinder #1" = 0
+	"Gebre #1" = 0
+	"Dawit #1" = 0
+	"Oromo #1" = 0
+	"Fethee #1" = 0
+	"Demissie #1" = 0
+	"Abebe #1" = 0
+	"Abdul-Aziz #2" = 0
+	"Sergios #1" = 0
+	"Hammud #1" = 0
+	"Arsenios #1" = 0
+	"Abadir #0" = 0
+	"Abdale #0" = 0
+	"Abdirahman #0" = 0
+	"Abdulah #0" = 0
+	"Abram #0" = 0
+	"Abu-Bakr #0" = 0
+	"Adan #0" = 0
+	"Adeer #0" = 0
+	"Ahmed #0" = 0
+	"Ali #0" = 0
+	"Amlale #0" = 0
+	"Aul #0" = 0
+	"Awe #0" = 0
+	"Aydahis #0" = 0
+	"Balad #0" = 0
+	"Baraka #0" = 0
+	"Barakat #0" = 0
+	"Ciise #0" = 0
+	"Dagale #0" = 0
+	"Dhidhin #0" = 0
+	"Hamalmal #0" = 0
+	"Hamar #0" = 0
+	"Hamid #0" = 0
+	"Hantale #0" = 0
+	"Haqq #0" = 0
+	"Harire #0" = 0
+	"Ibrahim #0" = 0
+	"Irir #0" = 0
+	"Isman #0" = 0
+	"Jamal #0" = 0
+	"Kadhafo #0" = 0
+	"Kedafu #0" = 0
+	"Khalaf #0" = 0
+	"Liban #0" = 0
+	"Mahammad #0" = 0
+	"Mahamed #0" = 0
+	"Mahamud #0" = 0
+	"Mansur #0" = 0
+	"Nahwi #0" = 0
+	"Naleye #0" = 0
+	"Nassir #0" = 0
+	"Nur #0" = 0
+	"Omer #0" = 0
+	"Sa'ad #0" = 0
+	"Sa'adaddin #0" = 0
+	"Sabir #0" = 0
+	"Sabr #0" = 0
+	"Sabraddin #0" = 0
+	"Sadiq #0" = 0
+	"Salah #0" = 0
+	"Siciid #0" = 0
+	"Talha #0" = 0
+	"Umar #0" = 0
+	"Umardin #0" = 0
+	"Yayyo #0" = 0
+	"Yusuf #0" = 0
+	"Zuber #0" = 0
+}
+

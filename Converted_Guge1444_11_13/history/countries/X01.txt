@@ -1,0 +1,26 @@
+# Alania
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2197
+1443.8.22 = {
+	monarch = {
+		name = "Khorilartai"
+		birth_date = 1409.4.19
+		dynasty = "Senty"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 2197
+	add_treasury = 0
+	add_prestige = 47
+}

@@ -1,0 +1,28 @@
+# Innsbruck
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1768
+1428.4.6 = {
+	monarch = {
+		name = "Adalbert"
+		birth_date = 1401.11.15
+		dynasty = "de Luxembourg"
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 1768
+	add_treasury = 30
+	add_prestige = 183
+	elector = no
+}

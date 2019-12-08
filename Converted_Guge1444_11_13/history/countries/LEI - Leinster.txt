@@ -1,0 +1,27 @@
+# Leinster
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = irish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4377
+1434.6.15 = {
+	monarch = {
+		name = "Guilhem"
+		birth_date = 1427.8.27
+		dynasty = "de Blois"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 4377
+	add_treasury = 34
+	add_prestige = 145
+}

@@ -1,0 +1,28 @@
+# Znaim
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = czech
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1770
+1431.9.1 = {
+	monarch = {
+		name = "Smil"
+		birth_date = 1388.1.30
+		dynasty = "Hrabišid"
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 1770
+	add_treasury = 30
+	add_prestige = 58
+	elector = no
+}

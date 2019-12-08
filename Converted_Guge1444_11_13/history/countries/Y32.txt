@@ -1,0 +1,26 @@
+# Knights of Calatrava
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 219
+1439.11.21 = {
+	monarch = {
+		name = "Bohemond"
+		birth_date = 1397.4.28
+		dynasty = "Ruffo"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 219
+	add_treasury = 54
+	add_prestige = 73
+}

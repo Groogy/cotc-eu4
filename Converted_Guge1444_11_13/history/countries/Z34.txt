@@ -1,0 +1,27 @@
+# Salzburg
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 76
+1441.3.13 = {
+	monarch = {
+		name = "Gotthard"
+		birth_date = 1409.10.10
+		dynasty = "von  Salzburg"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 76
+	add_treasury = 33
+	add_prestige = 4
+	elector = no
+}

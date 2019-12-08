@@ -1,0 +1,26 @@
+# Soli
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bosnian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 3002
+1441.4.18 = {
+	monarch = {
+		name = "Bogut"
+		birth_date = 1437.11.14
+		dynasty = "Kotromanic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 3002
+	add_treasury = 21
+	add_prestige = 78
+}

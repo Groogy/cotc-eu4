@@ -1,0 +1,27 @@
+# Adrar
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1127
+1428.5.24 = {
+	monarch = {
+		name = "Kadidu"
+		birth_date = 1397.2.20
+		dynasty = "Konare"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 1127
+	add_treasury = 18
+	add_prestige = 94
+}

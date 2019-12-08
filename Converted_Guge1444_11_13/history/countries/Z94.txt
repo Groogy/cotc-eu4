@@ -1,0 +1,27 @@
+# Bozen
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 110
+1440.10.16 = {
+	monarch = {
+		name = "Cosmi"
+		birth_date = 1413.3.25
+		dynasty = "Theoderisian"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 110
+	add_treasury = 35
+	add_prestige = 69
+	elector = no
+}

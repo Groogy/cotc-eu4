@@ -1,0 +1,26 @@
+# Kazakh
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2361
+1443.10.10 = {
+	monarch = {
+		name = "Chormakhan"
+		birth_date = 1425.6.1
+		dynasty = "Khagatai"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 2361
+	add_treasury = -1
+	add_prestige = 55
+}

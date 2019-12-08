@@ -1,0 +1,27 @@
+# Tahert
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2459
+1425.10.26 = {
+	monarch = {
+		name = "Gonzalo"
+		birth_date = 1395.4.21
+		dynasty = "de la Vega"
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 2459
+	add_treasury = 9
+	add_prestige = 95
+}

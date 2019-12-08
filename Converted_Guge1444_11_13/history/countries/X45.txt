@@ -1,0 +1,27 @@
+# Tripoli
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 378
+1419.5.26 = {
+	monarch = {
+		name = "Kamran"
+		birth_date = 1391.10.25
+		dynasty = "Hashmaddin"
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 378
+	add_treasury = 75
+	add_prestige = 41
+}

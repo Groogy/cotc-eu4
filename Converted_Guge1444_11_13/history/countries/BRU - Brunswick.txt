@@ -1,0 +1,28 @@
+# Brunswick
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 57
+1434.3.5 = {
+	monarch = {
+		name = "Hugo II"
+		birth_date = 1402.11.13
+		dynasty = "Welf"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 57
+	add_treasury = 34
+	add_prestige = 253
+	elector = no
+}

@@ -1,0 +1,195 @@
+# Eretnid
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 253 182 182 }
+historical_idea_groups = {
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Eretna" "Gulsum" "Mehmed" "Leyla" "Aslihan" "Irge" "Bozçin" "Çilen" "Canan" "Hatice" 
+	"Sevindik" "Kurboga" "Gunduz" "Mursel" "Baturay" "Ayse" "Dilek" "Karatay" "Esin" "Gulay" 
+	"Sehinsah" "Dundar" "Yinal" "Gulfem" "Tanrivermis" "Mala" "Umur" "Lale" "Selçuk" "Baybars" 
+	"Çiçek" "Suleyman" "Kara" "Tugrul" "Timurtas" "Saruca" "Uluç" "Aytekin" "Neslihan" "Bayezid" 
+	"Aydin" "Ertekin" "Serap" "Kaikhusraw" "Azize" "Fatma" "Alptigin" "Ayten" "Vahide" "Kaya" 
+	"Belek" "Dunya" "Sencer" "Tolun" "Sumru" "Mesud" "Çaka" "Aksonqor" "Adarnase" "Aghsartan" 
+	"Aleksandre" "Andronik" "Anzori" "Archili" "Ashot" "Bagrat" "Bakur" "Davit" "Demetre" "Demna" 
+	"Djavakhi" "Erekle" "Gabrieli" "Gagiki" "Giorgi" "Grigoli" "Guaram" "Gubaz" "Gurgen" "Iese" 
+	"Ioane" "Ishkhanik" "Iveri" "Jarji" "Kaikhosro" "Kakhi" "Koba" "Konstantine" "Kvarkvare" "Kvirike" 
+	"Levan" "Luarsab" "Malkhazi" "Mamia" "Merab" "Mikheil" "Mukhran" "Nerse" "Nikoloz" "Okhropir" 
+	"Orbeli" "Padla" "Samoeli" "Shanshe" "Shota" "Stepanoz" "Sumbat" "Teimuraz" "Tornike" "Ushisha" 
+	"Vache" "Vakhtang" "Zurab" "Zviad" }
+monarch_names = {
+	"Eretna #1" = 21
+	"Gulsum #0" = -1
+	"Mehmed #1" = 27
+	"Leyla #0" = -1
+	"Aslihan #0" = -1
+	"Irge #0" = -1
+	"Bozçin #0" = -1
+	"Çilen #0" = -1
+	"Canan #0" = -1
+	"Hatice #0" = -1
+	"Sevindik #0" = -1
+	"Kurboga #0" = 1
+	"Gunduz #0" = -1
+	"Mursel #0" = 1
+	"Baturay #1" = 21
+	"Ayse #0" = -1
+	"Dilek #0" = -1
+	"Karatay #0" = 1
+	"Esin #0" = -1
+	"Gulay #0" = -1
+	"Sehinsah #0" = 1
+	"Dundar #0" = 1
+	"Yinal #0" = 1
+	"Gulfem #0" = -1
+	"Tanrivermis #1" = 21
+	"Mala #0" = -1
+	"Umur #0" = 1
+	"Lale #0" = -1
+	"Selçuk #1" = 18
+	"Baybars #0" = 1
+	"Çiçek #0" = -1
+	"Suleyman #0" = 1
+	"Kara #0" = 1
+	"Tugrul #0" = 1
+	"Timurtas #0" = 1
+	"Saruca #0" = 1
+	"Uluç #0" = 1
+	"Aytekin #0" = 1
+	"Neslihan #0" = -1
+	"Bayezid #0" = 1
+	"Aydin #0" = 1
+	"Ertekin #0" = 1
+	"Serap #0" = -1
+	"Kaikhusraw #0" = 1
+	"Azize #0" = -1
+	"Fatma #0" = -1
+	"Alptigin #1" = 21
+	"Ayten #0" = -1
+	"Vahide #0" = -1
+	"Kaya #0" = 1
+	"Belek #0" = 1
+	"Dunya #0" = -1
+	"Sencer #0" = 1
+	"Tolun #0" = 1
+	"Sumru #0" = -1
+	"Mesud #0" = 1
+	"Çaka #0" = 1
+	"Aksonqor #0" = 1
+	"Adarnase #0" = 0
+	"Aghsartan #0" = 0
+	"Aleksandre #0" = 0
+	"Andronik #0" = 0
+	"Anzori #0" = 0
+	"Archili #0" = 0
+	"Ashot #0" = 0
+	"Bagrat #0" = 0
+	"Bakur #0" = 0
+	"Davit #0" = 0
+	"Demetre #0" = 0
+	"Demna #0" = 0
+	"Djavakhi #0" = 0
+	"Erekle #0" = 0
+	"Gabrieli #0" = 0
+	"Gagiki #0" = 0
+	"Giorgi #0" = 0
+	"Grigoli #0" = 0
+	"Guaram #0" = 0
+	"Gubaz #0" = 0
+	"Gurgen #0" = 0
+	"Iese #0" = 0
+	"Ioane #0" = 0
+	"Ishkhanik #0" = 0
+	"Iveri #0" = 0
+	"Jarji #0" = 0
+	"Kaikhosro #0" = 0
+	"Kakhi #0" = 0
+	"Koba #0" = 0
+	"Konstantine #0" = 0
+	"Kvarkvare #0" = 0
+	"Kvirike #0" = 0
+	"Levan #0" = 0
+	"Luarsab #0" = 0
+	"Malkhazi #0" = 0
+	"Mamia #0" = 0
+	"Merab #0" = 0
+	"Mikheil #0" = 0
+	"Mukhran #0" = 0
+	"Nerse #0" = 0
+	"Nikoloz #0" = 0
+	"Okhropir #0" = 0
+	"Orbeli #0" = 0
+	"Padla #0" = 0
+	"Samoeli #0" = 0
+	"Shanshe #0" = 0
+	"Shota #0" = 0
+	"Stepanoz #0" = 0
+	"Sumbat #0" = 0
+	"Teimuraz #0" = 0
+	"Tornike #0" = 0
+	"Ushisha #0" = 0
+	"Vache #0" = 0
+	"Vakhtang #0" = 0
+	"Zurab #0" = 0
+	"Zviad #0" = 0
+}
+ship_names = {
+	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"
+	"Aghios Angelos" "Aghios Eusebios" "Aghios Ioakeim" "Aghios Ioannes" "Aghios Loukas"
+	"Aghios Markos" "Aghios Matthaios" "Aghios Maximos" "Aghios Nikolaos" "Aghios Pavlos"
+	"Aghios Petros" "Aghios Philimon" "Aghios Sergios" "Aghios Stephanos" "Aghios Thimoteos"
+	Aiakos Aineas Akhilleus Amphitrion Aphrodita Apollo Arakhne Ares Asia Athena
+	"Basileous Alexandros" "Basileous Alexeios" "Basileous Andronikos" "Basileous Basileos"
+	"Basileous Demetrios" "Basileous Ioannes" "Basileous Isaak" "Basileous Leon"
+	"Basileous Manuel" "Basileous Michael" "Basileous Rhomaion" "Basileous Romanos"
+	"Basileous Theodoros" "Basileous Theophilos" "Basileisa Theodora" "Basileisa Zoe"
+	Belisarios Byzantion
+	Cassandra Castor "Christos Soter" Chronos
+	Demeter "Despotes Demetrios" "Despotes Moreas" Diana "Drakon Ouranos" Dyonisos
+	Ellade Endymion Eros Europa
+	Gea "Gorgona Poseidonos"
+	Hades Hektor Hephaistos Hera Herakles Hermes Hestia Hydra Hypnos
+	Jason
+	"Kaisar Konstantinos" Konstantinopolis "Konstantinos Dragases"
+	"Liontari Skliros" "Lussa ton Theon" "Lykos Thalasses"
+	Makedonia "Margaritari Aspra" Minos
+	Nestor
+	Odysseos Orestes Okeanasthraustis Ouranos
+	Panselenos Pegasos Perseos "Pontikos Thalasses" Poseidon
+	Rhadamanthys
+	Sebastokrator
+	Thanatos Theseos
+	Zeous
+}
+

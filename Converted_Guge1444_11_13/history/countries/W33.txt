@@ -1,0 +1,38 @@
+# Udmurts
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 1972
+1416.3.13 = {
+	monarch = {
+		name = "Rayda"
+		birth_date = 1389.6.16
+		dynasty = "Sektevid"
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = loose_lips_personality
+	heir = {
+		name = "Vechkas"
+		monarch_name = "Vechkas"
+		dynasty = "Sektevid"
+		birth_date = 1413.10.4
+		death_date = 1493.10.4
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1972
+	add_treasury = 12
+	add_prestige = 92
+}

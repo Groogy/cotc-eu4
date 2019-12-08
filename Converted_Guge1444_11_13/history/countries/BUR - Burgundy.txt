@@ -1,0 +1,27 @@
+# Burgundy
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 192
+1418.12.9 = {
+	monarch = {
+		name = "Raymond"
+		birth_date = 1395.7.20
+		dynasty = "d'Eu"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 192
+	add_treasury = 57
+	add_prestige = 259
+}

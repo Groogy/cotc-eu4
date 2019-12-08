@@ -1,0 +1,27 @@
+# Sinai
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2315
+1424.3.14 = {
+	monarch = {
+		name = "Wojciech"
+		birth_date = 1402.3.28
+		dynasty = "van Loon"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 2315
+	add_treasury = 65
+	add_prestige = 227
+}

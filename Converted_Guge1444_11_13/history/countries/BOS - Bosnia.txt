@@ -1,0 +1,26 @@
+# Bosnia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bosnian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 140
+1444.7.24 = {
+	monarch = {
+		name = "Zegota"
+		birth_date = 1400.3.13
+		dynasty = "Piast"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 140
+	add_treasury = 1
+	add_prestige = 567
+}

@@ -1,0 +1,27 @@
+# Vidin
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bulgarian
+religion = paulician
+clear_scripted_personalities = yes
+capital = 3000
+1426.9.21 = {
+	monarch = {
+		name = "Svetislav II"
+		birth_date = 1426.3.9
+		dynasty = "Shishman"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 3000
+	add_treasury = 24
+	add_prestige = 137
+}

@@ -1,0 +1,38 @@
+# Fezzan
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kanuri
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2475
+1437.6.22 = {
+	monarch = {
+		name = "Kuri"
+		birth_date = 1412.7.9
+		dynasty = "Teda"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = free_thinker_personality
+}
+1443.7.18 = {
+	heir = {
+		name = "Yahya"
+		monarch_name = "Yahya"
+		dynasty = "Teda"
+		birth_date = 1443.7.18
+		death_date = 1523.7.18
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2475
+	add_treasury = 14
+	add_prestige = 38
+}

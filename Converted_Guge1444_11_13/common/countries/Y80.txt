@@ -1,0 +1,208 @@
+# Slavonia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 184 137 137 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Babonjeg" "Sarolt" "Jákob" "Piroska" "Zsolt" "Györgyi" "István" "Radoszló" "Ottó" "János" 
+	"Miklós" "György" "Pál" "Duim" "László" "Dénes" "Agáta" "Katalin" "Anna" "Angyalka" 
+	"Ildikó" "Elemér" "Klementia" "Zsuzsa" "Erika" "Dieter" "Hedwig" "Éva" "Károly" "Ibolya" 
+	"Bernát" "Ferenc" "Gergely" "Panni" "Klara" "Senulat" "Silimir" "Vojnomir" "Ljudevit" "Vladin" 
+	"Ratimir" "Braslav" "Dmitar-Zvonimir" "Stjepan" "Ilona" "Petar" "Kálmán" "Ugra" "Sergije" "Ugrin" 
+	"Klaudije" "Dominik" "Belos" "Ampudin" "Mavro" "Suban" "Kálán" "Andrija" "Branko" "Martin" 
+	"Merkurije" "Berthold" "Ábel" "Ádárn" "Ágoston" "Álmos" "Árpád" "Õdön" "Alajos" "Ambrus" 
+	"András" "Antal" "Attila" "Bálint" "Béla" "Balázs" "Benedek" "Bertók" "Bertalan" "Boldizsár" 
+	"Bonuslo" "Borisz" "Csák" "Csaba" "Csongor" "Dömötör" "Dezsõ" "Domoszló" "Donát" "Elek" 
+	"Endre" "Ernõ" "Fulöp" "Frigyes" "Gábor" "Gábriel" "Gáspár" "Géza" "Gazsi" "Gellért" 
+	"Gyula" "Imre" "Izsák" "József" "Jenõ" "Konrád" "Kornél" "Kristóf" "Lázár" "Lõrinc" 
+	"Lajos" "Lampert" "Levente" "Lukács" "Márk" "Márton" "Máté" "Mátyás" "Móric" "Mózes" 
+	"Mihály" "Nándor" "Orbán" "Oszkár" "Péter" "Sámuel" "Sándor" "Salamon" "Saul" "Soma" 
+	"Szilveszter" "Tádor" "Tacsony" "Tamás" "Tibor" "Tivadar" "Vazul" "Vencel" "Vilmos" "Zoltán" 
+	"Zsigmond" }
+monarch_names = {
+	"Babonjeg #2" = 21
+	"Sarolt #1" = -19
+	"Jákob #0" = 1
+	"Piroska #0" = -1
+	"Zsolt #0" = 1
+	"Györgyi #0" = -1
+	"István #1" = 30
+	"Radoszló #0" = 1
+	"Ottó #0" = 1
+	"János #0" = 1
+	"Miklós #0" = 1
+	"György #1" = 18
+	"Pál #0" = 1
+	"Duim #0" = 1
+	"László #1" = 21
+	"Dénes #1" = 18
+	"Agáta #0" = -1
+	"Katalin #0" = -1
+	"Anna #0" = -1
+	"Angyalka #0" = -1
+	"Ildikó #0" = -1
+	"Elemér #0" = 1
+	"Klementia #0" = -1
+	"Zsuzsa #0" = -1
+	"Erika #0" = -1
+	"Dieter #0" = 1
+	"Hedwig #0" = -1
+	"Éva #1" = -19
+	"Károly #1" = 18
+	"Ibolya #0" = -1
+	"Bernát #0" = 1
+	"Ferenc #0" = 1
+	"Gergely #0" = 1
+	"Panni #0" = -1
+	"Klara #0" = -1
+	"Senulat #1" = 0
+	"Silimir #1" = 0
+	"Vojnomir #1" = 0
+	"Ljudevit #1" = 0
+	"Vladin #1" = 0
+	"Ratimir #1" = 0
+	"Braslav #1" = 0
+	"Dmitar-Zvonimir #1" = 0
+	"Stjepan #2" = 0
+	"Ilona #1" = -1
+	"Petar #1" = 0
+	"Kálmán #1" = 0
+	"Ugra #1" = 0
+	"Sergije #1" = 0
+	"Ugrin #1" = 0
+	"Klaudije #1" = 0
+	"Dominik #2" = 0
+	"Belos #1" = 0
+	"Ampudin #1" = 0
+	"Mavro #1" = 0
+	"Suban #1" = 0
+	"Kálán #1" = 0
+	"Andrija #1" = 0
+	"Branko #2" = 0
+	"Martin #1" = 0
+	"Merkurije #1" = 0
+	"Berthold #1" = 0
+	"Ábel #0" = 0
+	"Ádárn #0" = 0
+	"Ágoston #0" = 0
+	"Álmos #0" = 0
+	"Árpád #0" = 0
+	"Õdön #0" = 0
+	"Alajos #0" = 0
+	"Ambrus #0" = 0
+	"András #0" = 0
+	"Antal #0" = 0
+	"Attila #0" = 0
+	"Bálint #0" = 0
+	"Béla #0" = 0
+	"Balázs #0" = 0
+	"Benedek #0" = 0
+	"Bertók #0" = 0
+	"Bertalan #0" = 0
+	"Boldizsár #0" = 0
+	"Bonuslo #0" = 0
+	"Borisz #0" = 0
+	"Csák #0" = 0
+	"Csaba #0" = 0
+	"Csongor #0" = 0
+	"Dömötör #0" = 0
+	"Dezsõ #0" = 0
+	"Domoszló #0" = 0
+	"Donát #0" = 0
+	"Elek #0" = 0
+	"Endre #0" = 0
+	"Ernõ #0" = 0
+	"Fulöp #0" = 0
+	"Frigyes #0" = 0
+	"Gábor #0" = 0
+	"Gábriel #0" = 0
+	"Gáspár #0" = 0
+	"Géza #0" = 0
+	"Gazsi #0" = 0
+	"Gellért #0" = 0
+	"Gyula #0" = 0
+	"Imre #0" = 0
+	"Izsák #0" = 0
+	"József #0" = 0
+	"Jenõ #0" = 0
+	"Konrád #0" = 0
+	"Kornél #0" = 0
+	"Kristóf #0" = 0
+	"Lázár #0" = 0
+	"Lõrinc #0" = 0
+	"Lajos #0" = 0
+	"Lampert #0" = 0
+	"Levente #0" = 0
+	"Lukács #0" = 0
+	"Márk #0" = 0
+	"Márton #0" = 0
+	"Máté #0" = 0
+	"Mátyás #0" = 0
+	"Móric #0" = 0
+	"Mózes #0" = 0
+	"Mihály #0" = 0
+	"Nándor #0" = 0
+	"Orbán #0" = 0
+	"Oszkár #0" = 0
+	"Péter #0" = 0
+	"Sámuel #0" = 0
+	"Sándor #0" = 0
+	"Salamon #0" = 0
+	"Saul #0" = 0
+	"Soma #0" = 0
+	"Szilveszter #0" = 0
+	"Tádor #0" = 0
+	"Tacsony #0" = 0
+	"Tamás #0" = 0
+	"Tibor #0" = 0
+	"Tivadar #0" = 0
+	"Vazul #0" = 0
+	"Vencel #0" = 0
+	"Vilmos #0" = 0
+	"Zoltán #0" = 0
+	"Zsigmond #0" = 0
+}
+ship_names = {
+	Cres
+	"Dugi Otok"
+	Goli
+	Krl
+	Pag Plavnik
+	Susak "Sveti Grgur"
+	Tijat
+	Unije
+	"Vele Srankane"
+	Zlarin Zmajan
+}
+

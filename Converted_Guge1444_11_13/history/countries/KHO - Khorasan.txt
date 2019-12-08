@@ -1,0 +1,27 @@
+# Khorasan
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4326
+1431.4.5 = {
+	monarch = {
+		name = "Aytekin"
+		birth_date = 1409.8.13
+		dynasty = "Tughluq"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 4326
+	add_treasury = 32
+	add_prestige = 341
+}

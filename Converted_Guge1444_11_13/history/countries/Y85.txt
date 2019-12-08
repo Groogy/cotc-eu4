@@ -1,0 +1,27 @@
+# Aegean Islands
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = paulician
+clear_scripted_personalities = yes
+capital = 164
+1431.8.10 = {
+	monarch = {
+		name = "Giacomo"
+		birth_date = 1411.10.10
+		dynasty = "Sanudo"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 164
+	add_treasury = 54
+	add_prestige = 120
+}

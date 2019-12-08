@@ -1,0 +1,28 @@
+# Minden
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2971
+1432.8.17 = {
+	monarch = {
+		name = "Emelrich"
+		birth_date = 1398.5.2
+		dynasty = "von  Minden"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2971
+	add_treasury = 215
+	add_prestige = 103
+	elector = no
+}

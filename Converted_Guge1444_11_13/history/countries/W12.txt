@@ -1,0 +1,26 @@
+# Duuaid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 716
+1440.3.13 = {
+	monarch = {
+		name = "Ajai"
+		birth_date = 1401.2.27
+		dynasty = "Duuaid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 716
+	add_treasury = 18
+	add_prestige = 89
+}

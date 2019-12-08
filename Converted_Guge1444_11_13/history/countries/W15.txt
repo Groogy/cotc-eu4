@@ -1,0 +1,26 @@
+# Megujin
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 718
+1443.11.1 = {
+	monarch = {
+		name = "Gughlug"
+		birth_date = 1424.12.2
+		dynasty = "Megujin"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = 11
+	add_prestige = 15
+}

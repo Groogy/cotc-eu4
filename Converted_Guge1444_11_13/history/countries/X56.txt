@@ -1,0 +1,26 @@
+# Mosul
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = shiite
+clear_scripted_personalities = yes
+capital = 411
+1440.3.22 = {
+	monarch = {
+		name = "Ambaghai"
+		birth_date = 1422.1.19
+		dynasty = "Mosulid"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 411
+	add_treasury = 39
+	add_prestige = 229
+}

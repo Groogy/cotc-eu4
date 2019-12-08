@@ -1,0 +1,40 @@
+# Qocho
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2192
+1427.5.1 = {
+	monarch = {
+		name = "Känçiq"
+		birth_date = 1393.3.4
+		dynasty = "Känçiqid"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = strict_personality
+}
+1433.2.11 = {
+	heir = {
+		name = "Qumash"
+		monarch_name = "Qumash"
+		dynasty = "Känçiqid"
+		birth_date = 1433.2.11
+		death_date = 1513.2.11
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2192
+	add_treasury = -3
+	add_prestige = 72
+}

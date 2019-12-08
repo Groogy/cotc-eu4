@@ -1,0 +1,230 @@
+# Nefoud
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 17 228 10 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Temur" "Khadagan" "Ambaghai" "Chilagun" "Gurbesu" "Oghul" "Taghai" "Yesui" "Husun" "Todogen" 
+	"Nogai" "Khogaghchin" "Mandukhai" "Achigh" "Khojin" "Khulan" "Doregene" "Yesugun" "Toghoril" "Borte" 
+	"Tolui" "Khubilai" "Nakhu" "Boroghul" "Bedugun" "Horkhudagh" "Yesugei" "Al-Alta" "Jajiradai" "Tamachi" 
+	"Chagur" "Bala" "Hogelun" "Khugurchin" "Gughlug" "Qutham" "Isma'il" "Mohammad" "Hakam" "Is'mail" 
+	"Yasar" "Hussayn" "Nuri" "Seyfullah" "Sharaf" "Ali" "Sa'ud" "El Tegüs" "Danishmendji" "Suurgatmish" 
+	"Khachi" "Changshi" "Ogodei" "Uvais" "Abagha" "Aguchu" "Ajai" "Ajinai" "Akhutai" "Alagh" 
+	"Alchi" "Alchidai" "Altan" "Arkhai" "Arasen" "Babur" "Badai" "Bagaridai" "Barghujin" "Bartan" 
+	"Batu" "Begter" "Belgutei" "Belgunutei" "Bilge" "Berke" "Bodonchar" "Bogen" "Bogorchu" "Bolkhadar" 
+	"Borjigidai" "Bughu" "Bugidai" "Bugunutei" "Bujeg" "Bukha" "Bulughan" "Buri" "Burkhan" "Burundai" 
+	"Chagatai" "Chaghagan" "Chanai" "Chigu" "Chidukhul" "Chiledu" "Chormakhan" "Chulgetei" "Dagun" "Daritai" 
+	"Dayir" "Dodai" "Duua" "Eljigedei" "Ghazan" "Ghunan" "Guchu" "Guyug" "Harghasun" "Hulegu" 
+	"Inalchi" "Inancha" "Iturgen" "Jamugha" "Jebe" "Jochi" "Jurchedei" "Khabichi" "Khachigun" "Khadagh" 
+	"Khagatai" "Khaidu" "Khal" "Khorchi" "Khorilartai" "Khudu" "Khutula" "Khuyildar" "Kogsegu" "Kokochu" 
+	"Megetu" "Megujin" "Menggei" "Mongke" "Morokha" "Munglig" "Narin" "Nayaga" "Odchigin" "Okhotur" 
+	"Oljaitu" "Oronartai" "Shiraghul" "Shirgugetu" "Subetei" "Suyiketu" "Targhutai" "Temuge" "Temujin" "Toghtoga" 
+	"Tokhtamis" "Torolchi" "Tumen" "Uighurtai" "Ukhuna" "Usun" "Yedi" "Yegu" "Yeke" "Yesunge" 
+	"Yokhunan" "Kadan" "Godan" }
+monarch_names = {
+	"Temur #1" = 24
+	"Khadagan #0" = -1
+	"Ambaghai #0" = 1
+	"Chilagun #0" = 1
+	"Gurbesu #0" = -1
+	"Oghul #0" = -1
+	"Taghai #0" = 1
+	"Yesui #0" = -1
+	"Husun #0" = 1
+	"Todogen #0" = 1
+	"Nogai #0" = 1
+	"Khogaghchin #0" = -1
+	"Mandukhai #0" = -1
+	"Achigh #0" = 1
+	"Khojin #0" = -1
+	"Khulan #0" = -1
+	"Doregene #0" = -1
+	"Yesugun #0" = -1
+	"Toghoril #0" = 1
+	"Borte #0" = -1
+	"Tolui #0" = 1
+	"Khubilai #0" = 1
+	"Nakhu #0" = 1
+	"Boroghul #0" = 1
+	"Bedugun #0" = 1
+	"Horkhudagh #1" = 24
+	"Yesugei #0" = 1
+	"Al-Alta #0" = -1
+	"Jajiradai #1" = 18
+	"Tamachi #0" = 1
+	"Chagur #0" = -1
+	"Bala #0" = 1
+	"Hogelun #0" = -1
+	"Khugurchin #0" = -1
+	"Gughlug #0" = 1
+	"Qutham #1" = 0
+	"Isma'il #1" = 0
+	"Mohammad #2" = 0
+	"Hakam #1" = 0
+	"Is'mail #3" = 0
+	"Yasar #2" = 0
+	"Hussayn #1" = 0
+	"Nuri #1" = 0
+	"Seyfullah #1" = 0
+	"Sharaf #1" = 0
+	"Ali #1" = 0
+	"Sa'ud #1" = 0
+	"El Tegüs #1" = 0
+	"Danishmendji #1" = 0
+	"Suurgatmish #1" = 0
+	"Khachi #1" = 0
+	"Changshi #1" = 0
+	"Ogodei #1" = 0
+	"Uvais #1" = 0
+	"Abagha #0" = 0
+	"Aguchu #0" = 0
+	"Ajai #0" = 0
+	"Ajinai #0" = 0
+	"Akhutai #0" = 0
+	"Alagh #0" = 0
+	"Alchi #0" = 0
+	"Alchidai #0" = 0
+	"Altan #0" = 0
+	"Arkhai #0" = 0
+	"Arasen #0" = 0
+	"Babur #0" = 0
+	"Badai #0" = 0
+	"Bagaridai #0" = 0
+	"Barghujin #0" = 0
+	"Bartan #0" = 0
+	"Batu #0" = 0
+	"Begter #0" = 0
+	"Belgutei #0" = 0
+	"Belgunutei #0" = 0
+	"Bilge #0" = 0
+	"Berke #0" = 0
+	"Bodonchar #0" = 0
+	"Bogen #0" = 0
+	"Bogorchu #0" = 0
+	"Bolkhadar #0" = 0
+	"Borjigidai #0" = 0
+	"Bughu #0" = 0
+	"Bugidai #0" = 0
+	"Bugunutei #0" = 0
+	"Bujeg #0" = 0
+	"Bukha #0" = 0
+	"Bulughan #0" = 0
+	"Buri #0" = 0
+	"Burkhan #0" = 0
+	"Burundai #0" = 0
+	"Chagatai #0" = 0
+	"Chaghagan #0" = 0
+	"Chanai #0" = 0
+	"Chigu #0" = 0
+	"Chidukhul #0" = 0
+	"Chiledu #0" = 0
+	"Chormakhan #0" = 0
+	"Chulgetei #0" = 0
+	"Dagun #0" = 0
+	"Daritai #0" = 0
+	"Dayir #0" = 0
+	"Dodai #0" = 0
+	"Duua #0" = 0
+	"Eljigedei #0" = 0
+	"Ghazan #0" = 0
+	"Ghunan #0" = 0
+	"Guchu #0" = 0
+	"Guyug #0" = 0
+	"Harghasun #0" = 0
+	"Hulegu #0" = 0
+	"Inalchi #0" = 0
+	"Inancha #0" = 0
+	"Iturgen #0" = 0
+	"Jamugha #0" = 0
+	"Jebe #0" = 0
+	"Jochi #0" = 0
+	"Jurchedei #0" = 0
+	"Khabichi #0" = 0
+	"Khachigun #0" = 0
+	"Khadagh #0" = 0
+	"Khagatai #0" = 0
+	"Khaidu #0" = 0
+	"Khal #0" = 0
+	"Khorchi #0" = 0
+	"Khorilartai #0" = 0
+	"Khudu #0" = 0
+	"Khutula #0" = 0
+	"Khuyildar #0" = 0
+	"Kogsegu #0" = 0
+	"Kokochu #0" = 0
+	"Megetu #0" = 0
+	"Megujin #0" = 0
+	"Menggei #0" = 0
+	"Mongke #0" = 0
+	"Morokha #0" = 0
+	"Munglig #0" = 0
+	"Narin #0" = 0
+	"Nayaga #0" = 0
+	"Odchigin #0" = 0
+	"Okhotur #0" = 0
+	"Oljaitu #0" = 0
+	"Oronartai #0" = 0
+	"Shiraghul #0" = 0
+	"Shirgugetu #0" = 0
+	"Subetei #0" = 0
+	"Suyiketu #0" = 0
+	"Targhutai #0" = 0
+	"Temuge #0" = 0
+	"Temujin #0" = 0
+	"Toghtoga #0" = 0
+	"Tokhtamis #0" = 0
+	"Torolchi #0" = 0
+	"Tumen #0" = 0
+	"Uighurtai #0" = 0
+	"Ukhuna #0" = 0
+	"Usun #0" = 0
+	"Yedi #0" = 0
+	"Yegu #0" = 0
+	"Yeke #0" = 0
+	"Yesunge #0" = 0
+	"Yokhunan #0" = 0
+	"Kadan #0" = 0
+	"Godan #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

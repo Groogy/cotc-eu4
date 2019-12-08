@@ -1,0 +1,183 @@
+# Sindh
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 225 135 20 }
+
+
+
+
+leader_names = {
+
+	"Khafif" "Gunduz" "Sevindik" "Kurboga" "Vahide" "Mor'waared" "Abdullah" "Hayaat" "Heer" "Sorath" 
+	"Mahbaanu" "Chaarshambeh" "Sadaaf" "Mahtaap" "Aytekin" "Kaya" "Mah'deym" "Esin" "Irge" "Usunbike" 
+	"Golhaatun" "Aydogdu" "Shaari" "Mala" "Chanesar" "Huriye" "Soomar" "Bhoongar" "Dodo" "Zainab Tari" 
+	"Sanghar" "Hafif" "Umar" "Gunero" "Muhammad-Tur" "Doda" "Tai" "Inal" "Umur" "Ipekel" 
+	"Seetha" "Nizamuddin" "Bhungar" "Fateh Khan" "Dadu Phattu" "Ayten" "Rustem" "Aziz" "Sabar" "Hamide" 
+	"Munzir" "Emine" "Shakuntala" "Pahtu" "Serife" "Asamuddin" "Syed" "Firuze" "Banu" "Unar" 
+	"Serap" "Basbuga" "Merve" "Kaikaus" "Alaeddin" "Lilan" "Umay" "Ismail" "Aydin" "Aalmaas" 
+	"Salahuddin" "Hisam" "Ghiyath" "Mu'izz" "Qabajah" "Aadam" "Aadeynag" "Aali" "Adham" "Allayaar" 
+	"Armaan" "Baahout" "Baalaach" "Baaraan" "Baarag" "Bahraam" "Ban'dag" "Bashshaam" "Behrouz" "Beh'zaad" 
+	"Bibagr" "Bohaador" "Buhaa'dor" "Bouheyr" "Braanz" "Chaakar" "Cheerag" "Delaa'waar" "Deedag" "Deleyr" 
+	"Del'shaad" "Didag" "Doudaa" "Dousteyn" "Gaazi" "Gam'shaad" "Gazzi" "Gishshar" "Gwahraam" "Haameyn" 
+	"Ham'bal" "Hammal" "Haybat" "Horsond" "Jaafar" "Jalab" "Jehaangir" "Jiyand" "Joma" "Kamaal" 
+	"Kambar" "Mazaar" "Mallouk" "Mayaar" "Meer'zaad" "Meraan" "Meereen" "Mirbal" "Mirdoust" "Mirzaad" 
+	"Oumaan" "Omeyd" "Rahmat" "Rayhaan" "Rameen" "Roushen" "Rozhn" "Sabzal" "Sayaad" "Shaadaan" 
+	"Shaadmaan" "Shah'sawaar" "Shah'zaad" "Shah'daad" "Shahdoust" "Shahmir" "Shanbeh" "Shakkal" "Shamsheyr" "Sharif" 
+	"Sekandar" "Sheyrdel" "Soubaan" "Zangi" }
+monarch_names = {
+	"Khafif #3" = 21
+	"Gunduz #0" = 1
+	"Sevindik #0" = -1
+	"Kurboga #1" = 18
+	"Vahide #0" = -1
+	"Mor'waared #0" = -1
+	"Abdullah #2" = 21
+	"Hayaat #0" = 1
+	"Heer #0" = -1
+	"Sorath #0" = -1
+	"Mahbaanu #0" = -1
+	"Chaarshambeh #0" = 1
+	"Sadaaf #0" = -1
+	"Mahtaap #0" = -1
+	"Aytekin #0" = 1
+	"Kaya #0" = 1
+	"Mah'deym #0" = -1
+	"Esin #0" = -1
+	"Irge #0" = -1
+	"Usunbike #0" = -1
+	"Golhaatun #0" = -1
+	"Aydogdu #0" = 1
+	"Shaari #0" = -1
+	"Mala #0" = -1
+	"Chanesar #1" = 21
+	"Huriye #0" = -1
+	"Soomar #1" = 18
+	"Bhoongar #2" = 27
+	"Dodo #1" = 18
+	"Zainab Tari #1" = -19
+	"Sanghar #1" = 18
+	"Hafif #0" = 1
+	"Umar #3" = 18
+	"Gunero #2" = 21
+	"Muhammad-Tur #1" = 18
+	"Doda #4" = 27
+	"Tai #1" = 18
+	"Inal #0" = 1
+	"Umur #0" = 1
+	"Ipekel #0" = -1
+	"Seetha #0" = -1
+	"Nizamuddin #0" = 1
+	"Bhungar #1" = 21
+	"Fateh Khan #0" = 1
+	"Dadu Phattu #0" = 1
+	"Ayten #0" = -1
+	"Rustem #0" = 1
+	"Aziz #0" = 1
+	"Sabar #0" = 1
+	"Hamide #0" = -1
+	"Munzir #0" = 1
+	"Emine #0" = -1
+	"Shakuntala #0" = -1
+	"Pahtu #0" = 1
+	"Serife #0" = -1
+	"Asamuddin #0" = 1
+	"Syed #0" = 1
+	"Firuze #0" = -1
+	"Banu #0" = -1
+	"Unar #0" = 1
+	"Serap #0" = -1
+	"Basbuga #0" = 1
+	"Merve #0" = -1
+	"Kaikaus #0" = 1
+	"Alaeddin #0" = 1
+	"Lilan #0" = -1
+	"Umay #0" = -1
+	"Ismail #0" = 1
+	"Aydin #0" = 1
+	"Aalmaas #0" = 1
+	"Salahuddin #0" = 1
+	"Hisam #1" = 0
+	"Ghiyath #1" = 0
+	"Mu'izz #1" = 0
+	"Qabajah #1" = 0
+	"Aadam #0" = 0
+	"Aadeynag #0" = 0
+	"Aali #0" = 0
+	"Adham #0" = 0
+	"Allayaar #0" = 0
+	"Armaan #0" = 0
+	"Baahout #0" = 0
+	"Baalaach #0" = 0
+	"Baaraan #0" = 0
+	"Baarag #0" = 0
+	"Bahraam #0" = 0
+	"Ban'dag #0" = 0
+	"Bashshaam #0" = 0
+	"Behrouz #0" = 0
+	"Beh'zaad #0" = 0
+	"Bibagr #0" = 0
+	"Bohaador #0" = 0
+	"Buhaa'dor #0" = 0
+	"Bouheyr #0" = 0
+	"Braanz #0" = 0
+	"Chaakar #0" = 0
+	"Cheerag #0" = 0
+	"Delaa'waar #0" = 0
+	"Deedag #0" = 0
+	"Deleyr #0" = 0
+	"Del'shaad #0" = 0
+	"Didag #0" = 0
+	"Doudaa #0" = 0
+	"Dousteyn #0" = 0
+	"Gaazi #0" = 0
+	"Gam'shaad #0" = 0
+	"Gazzi #0" = 0
+	"Gishshar #0" = 0
+	"Gwahraam #0" = 0
+	"Haameyn #0" = 0
+	"Ham'bal #0" = 0
+	"Hammal #0" = 0
+	"Haybat #0" = 0
+	"Horsond #0" = 0
+	"Jaafar #0" = 0
+	"Jalab #0" = 0
+	"Jehaangir #0" = 0
+	"Jiyand #0" = 0
+	"Joma #0" = 0
+	"Kamaal #0" = 0
+	"Kambar #0" = 0
+	"Mazaar #0" = 0
+	"Mallouk #0" = 0
+	"Mayaar #0" = 0
+	"Meer'zaad #0" = 0
+	"Meraan #0" = 0
+	"Meereen #0" = 0
+	"Mirbal #0" = 0
+	"Mirdoust #0" = 0
+	"Mirzaad #0" = 0
+	"Oumaan #0" = 0
+	"Omeyd #0" = 0
+	"Rahmat #0" = 0
+	"Rayhaan #0" = 0
+	"Rameen #0" = 0
+	"Roushen #0" = 0
+	"Rozhn #0" = 0
+	"Sabzal #0" = 0
+	"Sayaad #0" = 0
+	"Shaadaan #0" = 0
+	"Shaadmaan #0" = 0
+	"Shah'sawaar #0" = 0
+	"Shah'zaad #0" = 0
+	"Shah'daad #0" = 0
+	"Shahdoust #0" = 0
+	"Shahmir #0" = 0
+	"Shanbeh #0" = 0
+	"Shakkal #0" = 0
+	"Shamsheyr #0" = 0
+	"Sharif #0" = 0
+	"Sekandar #0" = 0
+	"Sheyrdel #0" = 0
+	"Soubaan #0" = 0
+	"Zangi #0" = 0
+}
+

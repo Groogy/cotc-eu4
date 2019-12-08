@@ -1,0 +1,26 @@
+# Knights Hospitaller
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = occitain
+religion = catholic
+clear_scripted_personalities = yes
+capital = 320
+1439.9.9 = {
+	monarch = {
+		name = "Joan"
+		birth_date = 1412.1.22
+		dynasty = "de Guzmán"
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 320
+	add_treasury = 6
+	add_prestige = 45
+}

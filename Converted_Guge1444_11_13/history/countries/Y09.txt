@@ -1,0 +1,28 @@
+# Traungau
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 132
+1405.7.12 = {
+	monarch = {
+		name = "Martin"
+		birth_date = 1388.10.12
+		dynasty = "von Polheim"
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 132
+	add_treasury = 24
+	add_prestige = 250
+	elector = no
+}

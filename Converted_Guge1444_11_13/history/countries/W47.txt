@@ -1,0 +1,39 @@
+# Kozhva
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 4129
+1422.6.1 = {
+	monarch = {
+		name = "Nulzyava"
+		birth_date = 1387.9.11
+		dynasty = "Severnayid"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
+	heir = {
+		name = "Aymort"
+		monarch_name = "Aymort"
+		dynasty = "Severnayid"
+		birth_date = 1415.7.12
+		death_date = 1495.7.12
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	add_heir_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 4129
+	add_treasury = 32
+	add_prestige = 23
+}

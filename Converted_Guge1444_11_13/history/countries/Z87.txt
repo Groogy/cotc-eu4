@@ -1,0 +1,27 @@
+# Pongau
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1768
+1443.11.7 = {
+	monarch = {
+		name = "Baldewin"
+		birth_date = 1413.2.9
+		dynasty = "von  Pongau"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 1768
+	add_treasury = 157
+	add_prestige = 2
+	elector = no
+}

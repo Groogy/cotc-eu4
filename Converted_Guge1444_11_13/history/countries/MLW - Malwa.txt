@@ -1,0 +1,37 @@
+# Malwa
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4503
+1435.4.15 = {
+	monarch = {
+		name = "Dogukan II"
+		birth_date = 1432.10.28
+		dynasty = "Multani"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = craven_personality
+	heir = {
+		name = "Dogan"
+		monarch_name = "Dogan"
+		dynasty = "Multani"
+		birth_date = 1434.7.15
+		death_date = 1514.7.15
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 4503
+	add_treasury = 171
+	add_prestige = 205
+}

@@ -1,0 +1,28 @@
+# Naples
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 121
+1430.2.23 = {
+	monarch = {
+		name = "Blanche"
+		birth_date = 1399.12.5
+		dynasty = "d'Anjou"
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 121
+	add_treasury = 0
+	add_prestige = 436
+}

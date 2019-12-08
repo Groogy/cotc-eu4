@@ -1,0 +1,27 @@
+# the Rhine
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 77
+1438.7.5 = {
+	monarch = {
+		name = "Guntram II"
+		birth_date = 1429.11.28
+		dynasty = "von Wittelsbach"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 77
+	add_treasury = 11
+	add_prestige = 168
+	elector = no
+}

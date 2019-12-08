@@ -1,0 +1,192 @@
+# Kalinga
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 70 220 115 }
+
+
+
+
+leader_names = {
+
+	"Yinal" "Canan" "Ipekel" "Korkut" "Özlem" "Kaiqobad" "Berkiyaruk" "Nergis" "Usunbike" "Kasim" 
+	"Sehnaz" "Ertan" "Balaban" "Sehinsah" "Baybars" "Dilber" "Alkan" "Umur" "Karacik" "Bozçin" 
+	"Dunya" "Aksonqor" "Ilknur" "Sirma" "Umay" "Gulfem" "Sati" "Batuhan" "Kutalmis" "Yaman" 
+	"Dundar" "Terkhen" "Özgul" "Vahide" "Ayla" "Alp Arslan" "Tekçe" "Kaya" "Indravarma" "Maharajendravarma" 
+	"Mahasmantavarma" "Hastivarma" "Mitravarma" "Gunavarma" "Devendravarma" "Anantavarma" "Nandavarma" "Rajendravarma" "Devandravarma" "Rajendravarman" 
+	"Satyavarma" "Anantavarman" "Bhupendravarma" "Devendravarman" "Vajrahasta" "Gundama" "Kamarnava" "Vinayaditya" "Madhukamavarna" "Rajaraja" 
+	"Chodaganga" "Raghava" "Ragaraja" "Anangabhima" "Narasimha" "Bhanudeva" "Söbuk" "Çagri" "Çaka" "Afsin" 
+	"Ahmet" "Alaeddin" "Ali" "Alp Yurek" "Alptigin" "Artuk" "Ayaz" "Aydin" "Aydogan" "Aydogdu" 
+	"Aytekin" "Böru" "Bulend" "Bahadir" "Basbuga" "Baturay" "Bayezid" "Baytas" "Belek" "Berkan" 
+	"Bozan" "Bugra" "Burak" "Cuneyd" "Danismend" "Davud" "Demir" "Dogan" "Dogukan" "Dukak" 
+	"Erdem" "Ertekin" "Ertugrul" "Gunduz" "Hasan" "Hizir" "Ibrahim" "Ilgazi" "Inal" "Iskender" 
+	"Kurboga" "Kaikaus" "Kaikhusraw" "Kara" "Karatay" "Kaytun" "Kemal" "Kiliç" "Kutay" "Kutlug" 
+	"Mursel" "Mahmud" "Mehmed" "Meliksah" "Mengucek" "Mesud" "Murad" "Mustafa" "Orhan" "Osman" 
+	"Porsuk" "Rustem" "Ramazan" "Ridvan" "Sökmen" "Sönmez" "Suleyman" "Saim" "Saltuk" "Saruca" 
+	"Savtekin" "Savur" "Selçuk" "Selim" "Sencer" "Sinan" "Tanrivermis" "Tekin" "Timurtas" "Togay" 
+	"Togtekin" "Toktamis" "Tolun" "Toruntay" "Tugrul" "Tunga" "Turgut" "Turhan" "Tutus" "Uluç" 
+	"Yakut" "Yunus" }
+monarch_names = {
+	"Yinal #0" = 1
+	"Canan #0" = -1
+	"Ipekel #0" = -1
+	"Korkut #1" = 21
+	"Özlem #0" = -1
+	"Kaiqobad #0" = 1
+	"Berkiyaruk #1" = 21
+	"Nergis #0" = -1
+	"Usunbike #0" = -1
+	"Kasim #0" = 1
+	"Sehnaz #0" = -1
+	"Ertan #0" = 1
+	"Balaban #0" = 1
+	"Sehinsah #0" = 1
+	"Baybars #0" = 1
+	"Dilber #0" = -1
+	"Alkan #0" = 1
+	"Umur #2" = 21
+	"Karacik #0" = -1
+	"Bozçin #0" = -1
+	"Dunya #0" = -1
+	"Aksonqor #0" = 1
+	"Ilknur #0" = -1
+	"Sirma #0" = -1
+	"Umay #0" = -1
+	"Gulfem #0" = -1
+	"Sati #0" = -1
+	"Batuhan #0" = 1
+	"Kutalmis #0" = 1
+	"Yaman #0" = 1
+	"Dundar #0" = 1
+	"Terkhen #0" = -1
+	"Özgul #0" = -1
+	"Vahide #0" = -1
+	"Ayla #0" = -1
+	"Alp Arslan #0" = 1
+	"Tekçe #0" = -1
+	"Kaya #0" = 1
+	"Indravarma #4" = 0
+	"Maharajendravarma #1" = 0
+	"Mahasmantavarma #1" = 0
+	"Hastivarma #1" = 0
+	"Mitravarma #1" = 0
+	"Gunavarma #1" = 0
+	"Devendravarma #2" = 0
+	"Anantavarma #2" = 0
+	"Nandavarma #1" = 0
+	"Rajendravarma #1" = 0
+	"Devandravarma #1" = 0
+	"Rajendravarman #1" = 0
+	"Satyavarma #1" = 0
+	"Anantavarman #1" = 0
+	"Bhupendravarma #1" = 0
+	"Devendravarman #1" = 0
+	"Vajrahasta #3" = 0
+	"Gundama #2" = 0
+	"Kamarnava #3" = 0
+	"Vinayaditya #1" = 0
+	"Madhukamavarna #1" = 0
+	"Rajaraja #2" = 0
+	"Chodaganga #1" = 0
+	"Raghava #1" = 0
+	"Ragaraja #1" = 0
+	"Anangabhima #2" = 0
+	"Narasimha #4" = 0
+	"Bhanudeva #2" = 0
+	"Söbuk #1" = 0
+	"Çagri #0" = 0
+	"Çaka #0" = 0
+	"Afsin #0" = 0
+	"Ahmet #0" = 0
+	"Alaeddin #0" = 0
+	"Ali #0" = 0
+	"Alp Yurek #0" = 0
+	"Alptigin #0" = 0
+	"Artuk #0" = 0
+	"Ayaz #0" = 0
+	"Aydin #0" = 0
+	"Aydogan #0" = 0
+	"Aydogdu #0" = 0
+	"Aytekin #0" = 0
+	"Böru #0" = 0
+	"Bulend #0" = 0
+	"Bahadir #0" = 0
+	"Basbuga #0" = 0
+	"Baturay #0" = 0
+	"Bayezid #0" = 0
+	"Baytas #0" = 0
+	"Belek #0" = 0
+	"Berkan #0" = 0
+	"Bozan #0" = 0
+	"Bugra #0" = 0
+	"Burak #0" = 0
+	"Cuneyd #0" = 0
+	"Danismend #0" = 0
+	"Davud #0" = 0
+	"Demir #0" = 0
+	"Dogan #0" = 0
+	"Dogukan #0" = 0
+	"Dukak #0" = 0
+	"Erdem #0" = 0
+	"Ertekin #0" = 0
+	"Ertugrul #0" = 0
+	"Gunduz #0" = 0
+	"Hasan #0" = 0
+	"Hizir #0" = 0
+	"Ibrahim #0" = 0
+	"Ilgazi #0" = 0
+	"Inal #0" = 0
+	"Iskender #0" = 0
+	"Kurboga #0" = 0
+	"Kaikaus #0" = 0
+	"Kaikhusraw #0" = 0
+	"Kara #0" = 0
+	"Karatay #0" = 0
+	"Kaytun #0" = 0
+	"Kemal #0" = 0
+	"Kiliç #0" = 0
+	"Kutay #0" = 0
+	"Kutlug #0" = 0
+	"Mursel #0" = 0
+	"Mahmud #0" = 0
+	"Mehmed #0" = 0
+	"Meliksah #0" = 0
+	"Mengucek #0" = 0
+	"Mesud #0" = 0
+	"Murad #0" = 0
+	"Mustafa #0" = 0
+	"Orhan #0" = 0
+	"Osman #0" = 0
+	"Porsuk #0" = 0
+	"Rustem #0" = 0
+	"Ramazan #0" = 0
+	"Ridvan #0" = 0
+	"Sökmen #0" = 0
+	"Sönmez #0" = 0
+	"Suleyman #0" = 0
+	"Saim #0" = 0
+	"Saltuk #0" = 0
+	"Saruca #0" = 0
+	"Savtekin #0" = 0
+	"Savur #0" = 0
+	"Selçuk #0" = 0
+	"Selim #0" = 0
+	"Sencer #0" = 0
+	"Sinan #0" = 0
+	"Tanrivermis #0" = 0
+	"Tekin #0" = 0
+	"Timurtas #0" = 0
+	"Togay #0" = 0
+	"Togtekin #0" = 0
+	"Toktamis #0" = 0
+	"Tolun #0" = 0
+	"Toruntay #0" = 0
+	"Tugrul #0" = 0
+	"Tunga #0" = 0
+	"Turgut #0" = 0
+	"Turhan #0" = 0
+	"Tutus #0" = 0
+	"Uluç #0" = 0
+	"Yakut #0" = 0
+	"Yunus #0" = 0
+}
+

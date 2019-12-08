@@ -1,0 +1,40 @@
+# Alodia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = coptic
+clear_scripted_personalities = yes
+capital = 2800
+1434.1.4 = {
+	monarch = {
+		name = "Patrikios"
+		birth_date = 1418.8.13
+		dynasty = "Iose"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = loose_lips_personality
+}
+1440.6.24 = {
+	heir = {
+		name = "Maria"
+		monarch_name = "Maria"
+		dynasty = "Iose"
+		birth_date = 1440.6.24
+		death_date = 1520.6.24
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2800
+	add_treasury = 10
+	add_prestige = 119
+}

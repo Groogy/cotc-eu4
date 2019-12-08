@@ -1,0 +1,27 @@
+# Karjaa
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 28
+1437.7.17 = {
+	monarch = {
+		name = "Bjørn"
+		birth_date = 1410.11.18
+		dynasty = "av  Karjaa"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 28
+	add_treasury = 37
+	add_prestige = 32
+	elector = no
+}

@@ -1,0 +1,27 @@
+# Shewa
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1213
+1434.2.13 = {
+	monarch = {
+		name = "Gzi II"
+		birth_date = 1408.5.10
+		dynasty = "Gzi"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = martial_educator_personality
+}
+1444.11.11 = {
+	capital = 1213
+	add_treasury = 115
+	add_prestige = 32
+}

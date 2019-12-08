@@ -1,0 +1,28 @@
+# Eppenstein
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 132
+1432.9.2 = {
+	monarch = {
+		name = "Jakob"
+		birth_date = 1406.5.1
+		dynasty = "von Brunshorn"
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 132
+	add_treasury = 61
+	add_prestige = 111
+	elector = no
+}

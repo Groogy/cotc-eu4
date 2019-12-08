@@ -1,0 +1,26 @@
+# Warangal
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = telegu
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2037
+1441.4.11 = {
+	monarch = {
+		name = "Korkut II"
+		birth_date = 1421.2.15
+		dynasty = "Kaiqobadid"
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2037
+	add_treasury = 133
+	add_prestige = 41
+}

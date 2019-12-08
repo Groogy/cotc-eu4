@@ -1,0 +1,38 @@
+# Egypt
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = polish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 361
+1430.10.15 = {
+	monarch = {
+		name = "Wit"
+		birth_date = 1400.1.22
+		dynasty = "Piast"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Wielislaw"
+		monarch_name = "Wielislaw"
+		dynasty = "Piast"
+		birth_date = 1429.2.7
+		death_date = 1509.2.7
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 361
+	add_treasury = 45
+	add_prestige = 643
+}

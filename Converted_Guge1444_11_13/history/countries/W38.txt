@@ -1,0 +1,40 @@
+# Bornu
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = kanuri
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1157
+1411.2.26 = {
+	monarch = {
+		name = "Hummay"
+		birth_date = 1406.3.21
+		dynasty = "Ajawa"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = strict_personality
+}
+1423.11.18 = {
+	heir = {
+		name = "Zannah"
+		monarch_name = "Zannah"
+		dynasty = "Ajawa"
+		birth_date = 1423.11.18
+		death_date = 1503.11.18
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_heir_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 1157
+	add_treasury = 17
+	add_prestige = 183
+}

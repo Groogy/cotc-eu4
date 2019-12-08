@@ -1,0 +1,26 @@
+# Qazan
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bolghar
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1079
+1437.2.13 = {
+	monarch = {
+		name = "Turgut II"
+		birth_date = 1392.2.27
+		dynasty = "Valuyev"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 1079
+	add_treasury = 7
+	add_prestige = 46
+}

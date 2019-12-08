@@ -1,0 +1,28 @@
+# Wallis
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1871
+1424.9.17 = {
+	monarch = {
+		name = "Ludwig"
+		birth_date = 1391.7.17
+		dynasty = "von  Wallis"
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 1871
+	add_treasury = 61
+	add_prestige = 17
+	elector = no
+}

@@ -1,0 +1,40 @@
+# Izhma
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 4129
+1404.2.25 = {
+	monarch = {
+		name = "Kuaz"
+		birth_date = 1388.5.15
+		dynasty = "Kichayid"
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1405.9.22 = {
+	heir = {
+		name = "Rayda"
+		monarch_name = "Rayda"
+		dynasty = "Kichayid"
+		birth_date = 1405.9.22
+		death_date = 1485.9.22
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 4129
+	add_treasury = 35
+	add_prestige = 32
+}

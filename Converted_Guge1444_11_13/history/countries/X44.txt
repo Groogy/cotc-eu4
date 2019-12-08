@@ -1,0 +1,26 @@
+# Galilee
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 382
+1444.9.17 = {
+	monarch = {
+		name = "Abanoub"
+		birth_date = 1391.2.2
+		dynasty = "Bahri"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 382
+	add_treasury = 5
+	add_prestige = 206
+}

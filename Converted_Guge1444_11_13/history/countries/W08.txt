@@ -1,0 +1,40 @@
+# Buryat
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 718
+1423.6.16 = {
+	monarch = {
+		name = "Megetu"
+		birth_date = 1397.1.18
+		dynasty = "Enkhjargal"
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1426.5.13 = {
+	heir = {
+		name = "Chigu"
+		monarch_name = "Chigu"
+		dynasty = "Enkhjargal"
+		birth_date = 1426.5.13
+		death_date = 1506.5.13
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = 46
+	add_prestige = 93
+}

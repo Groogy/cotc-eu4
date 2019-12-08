@@ -1,0 +1,27 @@
+# Karelia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1776
+1435.10.5 = {
+	monarch = {
+		name = "Susi"
+		birth_date = 1399.4.6
+		dynasty = "Jaakkola"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1776
+	add_treasury = 21
+	add_prestige = 106
+	elector = no
+}

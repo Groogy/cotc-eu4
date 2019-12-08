@@ -1,0 +1,27 @@
+# Dauphiné
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 203
+1427.8.16 = {
+	monarch = {
+		name = "Aubrey"
+		birth_date = 1394.9.27
+		dynasty = "de  Lyon"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 203
+	add_treasury = 13
+	add_prestige = 33
+}

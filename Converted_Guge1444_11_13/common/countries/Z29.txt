@@ -1,0 +1,197 @@
+# Transjurania
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 159 40 10 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ratbert" "Béatrix" "Géraud" "Enguerrand" "Cécile" "Renaud" "Albitius" "Conrad" "Albert" "Jeanne" 
+	"Aymon" "Guillaume" "Amédée" "Comtesson" "Humbert" "Nicole" "Agathe" "Pierre" "Marguerite" "Beatrice" 
+	"Eudes" "Rodolphe" "Henri" "Guy" "Eleonore" "Hugues" "Simon" "Arnault" "Hildebert" "Élodie" 
+	"Valence" "Alice" "Pernelle" "Margarethe" "Hugh" "Hucbert" "Lothaire" "Konrad" "Rudolf" "Ulrich" 
+	"Édouard" "Érrard" "Étienne" "Adalbert" "Adémar" "Adrien" "Aimery" "Alain" "Aldebert" "Aldéric" 
+	"Alphonse" "Amaury" "Ancel" "André" "Angelbert" "Antoine" "Archambaud" "Arnaud" "Arnoul" "Aubry" 
+	"Aymar" "Barthélémi" "Baudouin" "Benoît" "Bérenger" "Bernard" "Bertrand" "Bohemond" "Boson" "Bouchard" 
+	"Centule" "Charles" "Clotaire" "Ebbon" "Eustache" "Evrard" "Foulques" "François" "Frédéric" "Gargamel" 
+	"Gaucher" "Gaucelin" "Gauthier" "Geoffroy" "Gelduin" "Gilbert" "Gilles" "Godefroy" "Guichard" "Guiges" 
+	"Guilhem" "Hélie" "Hamelin" "Herbert" "Jacques" "Jaufré" "Jaspert" "Jean" "Josselin" "Jourdain" 
+	"Julien" "Léon" "Léonard" "Louis" "Loup" "Manassès" "Mathieu" "Maurice" "Nicolas" "Ogier" 
+	"Onfroy" "Orson" "Othon" "Payen" "Philippe" "Raimbaut" "Raoul" "Raymond" "Raynaud" "Richard" 
+	"Robert" "Robin" "Roger" "Rorgon" "Rorgues" "Roubaud" "Savary" "Sigismond" "Thibault" "Thiébaut" 
+	"Thierry" "Thomas" "Valeran" "Yves" }
+monarch_names = {
+	"Ratbert #0" = 1
+	"Béatrix #0" = -1
+	"Géraud #1" = 30
+	"Enguerrand #0" = 1
+	"Cécile #0" = -1
+	"Renaud #0" = 1
+	"Albitius #0" = 1
+	"Conrad #0" = 1
+	"Albert #0" = 1
+	"Jeanne #0" = -1
+	"Aymon #0" = 1
+	"Guillaume #0" = 1
+	"Amédée #0" = 1
+	"Comtesson #0" = -1
+	"Humbert #0" = 1
+	"Nicole #0" = -1
+	"Agathe #0" = -1
+	"Pierre #0" = 1
+	"Marguerite #0" = -1
+	"Beatrice #0" = -1
+	"Eudes #0" = 1
+	"Rodolphe #0" = 1
+	"Henri #0" = 1
+	"Guy #0" = 1
+	"Eleonore #0" = -1
+	"Hugues #0" = 1
+	"Simon #0" = 1
+	"Arnault #0" = 1
+	"Hildebert #0" = 1
+	"Élodie #0" = -1
+	"Valence #0" = -1
+	"Alice #0" = -1
+	"Pernelle #0" = -1
+	"Margarethe #0" = -1
+	"Hugh #2" = 0
+	"Hucbert #1" = 0
+	"Lothaire #1" = 0
+	"Konrad #3" = 0
+	"Rudolf #4" = 0
+	"Ulrich #1" = 0
+	"Édouard #0" = 0
+	"Érrard #0" = 0
+	"Étienne #0" = 0
+	"Adalbert #0" = 0
+	"Adémar #0" = 0
+	"Adrien #0" = 0
+	"Aimery #0" = 0
+	"Alain #0" = 0
+	"Aldebert #0" = 0
+	"Aldéric #0" = 0
+	"Alphonse #0" = 0
+	"Amaury #0" = 0
+	"Ancel #0" = 0
+	"André #0" = 0
+	"Angelbert #0" = 0
+	"Antoine #0" = 0
+	"Archambaud #0" = 0
+	"Arnaud #0" = 0
+	"Arnoul #0" = 0
+	"Aubry #0" = 0
+	"Aymar #0" = 0
+	"Barthélémi #0" = 0
+	"Baudouin #0" = 0
+	"Benoît #0" = 0
+	"Bérenger #0" = 0
+	"Bernard #0" = 0
+	"Bertrand #0" = 0
+	"Bohemond #0" = 0
+	"Boson #0" = 0
+	"Bouchard #0" = 0
+	"Centule #0" = 0
+	"Charles #0" = 0
+	"Clotaire #0" = 0
+	"Ebbon #0" = 0
+	"Eustache #0" = 0
+	"Evrard #0" = 0
+	"Foulques #0" = 0
+	"François #0" = 0
+	"Frédéric #0" = 0
+	"Gargamel #0" = 0
+	"Gaucher #0" = 0
+	"Gaucelin #0" = 0
+	"Gauthier #0" = 0
+	"Geoffroy #0" = 0
+	"Gelduin #0" = 0
+	"Gilbert #0" = 0
+	"Gilles #0" = 0
+	"Godefroy #0" = 0
+	"Guichard #0" = 0
+	"Guiges #0" = 0
+	"Guilhem #0" = 0
+	"Hélie #0" = 0
+	"Hamelin #0" = 0
+	"Herbert #0" = 0
+	"Jacques #0" = 0
+	"Jaufré #0" = 0
+	"Jaspert #0" = 0
+	"Jean #0" = 0
+	"Josselin #0" = 0
+	"Jourdain #0" = 0
+	"Julien #0" = 0
+	"Léon #0" = 0
+	"Léonard #0" = 0
+	"Louis #0" = 0
+	"Loup #0" = 0
+	"Manassès #0" = 0
+	"Mathieu #0" = 0
+	"Maurice #0" = 0
+	"Nicolas #0" = 0
+	"Ogier #0" = 0
+	"Onfroy #0" = 0
+	"Orson #0" = 0
+	"Othon #0" = 0
+	"Payen #0" = 0
+	"Philippe #0" = 0
+	"Raimbaut #0" = 0
+	"Raoul #0" = 0
+	"Raymond #0" = 0
+	"Raynaud #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Robin #0" = 0
+	"Roger #0" = 0
+	"Rorgon #0" = 0
+	"Rorgues #0" = 0
+	"Roubaud #0" = 0
+	"Savary #0" = 0
+	"Sigismond #0" = 0
+	"Thibault #0" = 0
+	"Thiébaut #0" = 0
+	"Thierry #0" = 0
+	"Thomas #0" = 0
+	"Valeran #0" = 0
+	"Yves #0" = 0
+}
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+

@@ -1,0 +1,26 @@
+# Teutonic State
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1841
+1437.8.13 = {
+	monarch = {
+		name = "Hugo"
+		birth_date = 1395.11.28
+		dynasty = "von Wippra"
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 1841
+	add_treasury = 112
+	add_prestige = 97
+}

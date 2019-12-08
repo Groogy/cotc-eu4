@@ -1,0 +1,161 @@
+# Lahore
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 180 110 41 }
+
+
+
+
+leader_names = {
+
+	"Ahmet" "Berkiyaruk" "Ayse" "Kunapûsana" "Zacharria" "Baytas" "Böru" "Karacik" "Kôpperuñcimman" "Kutlug" 
+	"Baturay" "Nîliyâr" "Yaman" "Kaucalaiyâr" "Olimatiyâr" "Atticapitâriyâr" "Afsin" "Çagri" "Sati" "Demir" 
+	"Cadayan" "Manappâkkîlan" "Akgul" "Gundes" "Dunya" "Balaban" "Aslihan" "Fatma" "Kavatiyakkan" "Gulay" 
+	"Osman" "Ravivarman" "Varakunan" "Mahmud" "Alptigin" "Yakut" "Hatice" "Yunus" "Usunbike" "Yasar" 
+	"Sencer" "Nilufer" "Mehmed" "Niyâyaparipâlapattan" "Ertugrul" "Ipekel" "Âyirattalipattan" "Ayten" "Ali" "Irattapadikonda" 
+	"Sher" "Alakhana" "Muhammad" "Musud" "Mawdud" "Masud" "Abd al-Rashid" "Farrukhzad" "Ibrahim" "Shirzad" 
+	"Arlsan Shah" "Bahram Shah" "Khusraw Shah" "Khusraw Malik" "Qutb-ud-din Aibak" "Aram" "Iltutmish" "Firuz" "Raziyya" "Bahram" 
+	"Balban" "Qaiqabad" "Umar" "Mubarak" "Husraw" "Tughluq" "Söbuk" "Ajit" "Amar" "Amar Dasi" 
+	"Amir" "Angad" "Arjun" "Atar" "Basawa" "Bhagwant" "Bhaimani" "Budh" "Chand" "Charat" 
+	"Damodar" "Dasu" "Datu" "Dayaram" "Didar" "Farid" "Fateh" "Gobind" "Gurdita" "Hargobind" 
+	"Hari" "Har Krishan" "Har Rai" "Jai Ram" "Jetha" "Jujhar" "Kalyan" "Kapur" "Kehar" "Kharak" 
+	"Khushal" "Lahna" "Lakhmichand" "Laxman" "Mahadev" "Mohan" "Mohri" "Nanak" "Narayan" "Nodha" 
+	"Partap" "Pheru" "Prithichand" "Prithvi" "Ram Rai" "Ranjit" "Ranjor" "Sahdev" "Shamsher" "Srichand" 
+	"Tegh Bahadur" "Tej Bhan" "Thakur" "Zorawar" }
+monarch_names = {
+	"Ahmet #1" = 24
+	"Berkiyaruk #0" = 1
+	"Ayse #0" = -1
+	"Kunapûsana #0" = 1
+	"Zacharria #0" = 1
+	"Baytas #0" = 1
+	"Böru #2" = 21
+	"Karacik #0" = -1
+	"Kôpperuñcimman #0" = 1
+	"Kutlug #0" = 1
+	"Baturay #1" = 21
+	"Nîliyâr #0" = -1
+	"Yaman #0" = 1
+	"Kaucalaiyâr #0" = -1
+	"Olimatiyâr #0" = -1
+	"Atticapitâriyâr #0" = -1
+	"Afsin #0" = 1
+	"Çagri #1" = 21
+	"Sati #0" = -1
+	"Demir #0" = 1
+	"Cadayan #0" = 1
+	"Manappâkkîlan #0" = 1
+	"Akgul #0" = -1
+	"Gundes #0" = -1
+	"Dunya #0" = -1
+	"Balaban #0" = 1
+	"Aslihan #0" = -1
+	"Fatma #0" = -1
+	"Kavatiyakkan #0" = -1
+	"Gulay #0" = -1
+	"Osman #0" = 1
+	"Ravivarman #0" = 1
+	"Varakunan #0" = 1
+	"Mahmud #3" = 18
+	"Alptigin #0" = 1
+	"Yakut #0" = 1
+	"Hatice #0" = -1
+	"Yunus #1" = 21
+	"Usunbike #0" = -1
+	"Yasar #0" = -1
+	"Sencer #0" = 1
+	"Nilufer #0" = -1
+	"Mehmed #0" = 1
+	"Niyâyaparipâlapattan #0" = 1
+	"Ertugrul #0" = 1
+	"Ipekel #0" = -1
+	"Âyirattalipattan #0" = 1
+	"Ayten #0" = -1
+	"Ali #1" = 18
+	"Irattapadikonda #0" = 1
+	"Sher #1" = 0
+	"Alakhana #1" = 0
+	"Muhammad #3" = 0
+	"Musud #1" = 0
+	"Mawdud #1" = 0
+	"Masud #3" = 0
+	"Abd al-Rashid #1" = 0
+	"Farrukhzad #1" = 0
+	"Ibrahim #2" = 0
+	"Shirzad #1" = 0
+	"Arlsan Shah #1" = 0
+	"Bahram Shah #1" = 0
+	"Khusraw Shah #1" = 0
+	"Khusraw Malik #1" = 0
+	"Qutb-ud-din Aibak #1" = 0
+	"Aram #1" = 0
+	"Iltutmish #1" = 0
+	"Firuz #2" = 0
+	"Raziyya #1" = -1
+	"Bahram #1" = 0
+	"Balban #1" = 0
+	"Qaiqabad #1" = 0
+	"Umar #1" = 0
+	"Mubarak #1" = 0
+	"Husraw #1" = 0
+	"Tughluq #1" = 0
+	"Söbuk #1" = 0
+	"Ajit #0" = 0
+	"Amar #0" = 0
+	"Amar Dasi #0" = 0
+	"Amir #0" = 0
+	"Angad #0" = 0
+	"Arjun #0" = 0
+	"Atar #0" = 0
+	"Basawa #0" = 0
+	"Bhagwant #0" = 0
+	"Bhaimani #0" = 0
+	"Budh #0" = 0
+	"Chand #0" = 0
+	"Charat #0" = 0
+	"Damodar #0" = 0
+	"Dasu #0" = 0
+	"Datu #0" = 0
+	"Dayaram #0" = 0
+	"Didar #0" = 0
+	"Farid #0" = 0
+	"Fateh #0" = 0
+	"Gobind #0" = 0
+	"Gurdita #0" = 0
+	"Hargobind #0" = 0
+	"Hari #0" = 0
+	"Har Krishan #0" = 0
+	"Har Rai #0" = 0
+	"Jai Ram #0" = 0
+	"Jetha #0" = 0
+	"Jujhar #0" = 0
+	"Kalyan #0" = 0
+	"Kapur #0" = 0
+	"Kehar #0" = 0
+	"Kharak #0" = 0
+	"Khushal #0" = 0
+	"Lahna #0" = 0
+	"Lakhmichand #0" = 0
+	"Laxman #0" = 0
+	"Mahadev #0" = 0
+	"Mohan #0" = 0
+	"Mohri #0" = 0
+	"Nanak #0" = 0
+	"Narayan #0" = 0
+	"Nodha #0" = 0
+	"Partap #0" = 0
+	"Pheru #0" = 0
+	"Prithichand #0" = 0
+	"Prithvi #0" = 0
+	"Ram Rai #0" = 0
+	"Ranjit #0" = 0
+	"Ranjor #0" = 0
+	"Sahdev #0" = 0
+	"Shamsher #0" = 0
+	"Srichand #0" = 0
+	"Tegh Bahadur #0" = 0
+	"Tej Bhan #0" = 0
+	"Thakur #0" = 0
+	"Zorawar #0" = 0
+}
+

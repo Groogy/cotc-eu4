@@ -1,0 +1,26 @@
+# Pokhara
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = nepali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2070
+1437.1.15 = {
+	monarch = {
+		name = "Shanta"
+		birth_date = 1394.8.7
+		dynasty = "Malla"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 2070
+	add_treasury = 19
+	add_prestige = 123
+}

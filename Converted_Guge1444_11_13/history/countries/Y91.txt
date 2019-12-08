@@ -1,0 +1,27 @@
+# Pechora
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 4257
+1406.11.6 = {
+	monarch = {
+		name = "Tatva"
+		birth_date = 1396.9.21
+		dynasty = "Numid"
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 4257
+	add_treasury = 22
+	add_prestige = 35
+}

@@ -1,0 +1,38 @@
+# Azerbaijan
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2205
+1424.8.13 = {
+	monarch = {
+		name = "Behrad"
+		birth_date = 1416.1.21
+		dynasty = "Kesranid"
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	heir = {
+		name = "Manushihr"
+		monarch_name = "Manushihr II"
+		dynasty = "Kesranid"
+		birth_date = 1422.9.26
+		death_date = 1502.9.26
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 2205
+	add_treasury = 95
+	add_prestige = 174
+}

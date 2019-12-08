@@ -1,0 +1,39 @@
+# Tavda
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 1078
+1426.8.4 = {
+	monarch = {
+		name = "Chichayka"
+		birth_date = 1416.5.15
+		dynasty = "Ozhegid"
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = midas_touched_personality
+}
+1442.3.27 = {
+	heir = {
+		name = "Rayda"
+		monarch_name = "Rayda"
+		dynasty = "Ozhegid"
+		birth_date = 1442.3.27
+		death_date = 1522.3.27
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1078
+	add_treasury = 15
+	add_prestige = 2
+}

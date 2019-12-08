@@ -1,0 +1,104 @@
+# Mallorca
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 68 126 72 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+	exploration_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Roger" "Ramon-Berenguer" "Udalard" "Guillelma" "Frederic" "Theodericho" "Muyahid" "Abdallah" "Mubashir" "Suleyman" 
+	"Ishaq" "Tashfin" "Yahya" "Jaume" "Sanç" "Ferran" "Yusuf" "Abdul-Hakam" "Dalmau" "Alfons" 
+	"Arnau" "Artau" "Berenguer" "Berenguer-Ramon" "Bernat" "Bernat-Guillem" "Ermengol" "Felip" "Gausfred" "Gerard" 
+	"Gombau" "Guerau" "Guifré" "Guillem" "Guillem-Ramon" "Guislabert" "Hug" "Joan" "Jofré" "Ott" 
+	"Pere" "Ponç" "Ponç-Hug" "Ramon" "Ramon-Folc" "Sunyer" }
+monarch_names = {
+	"Roger #2" = 24
+	"Ramon-Berenguer #0" = 1
+	"Udalard #1" = 18
+	"Guillelma #0" = -1
+	"Frederic #1" = 18
+	"Theodericho #1" = 0
+	"Muyahid #1" = 0
+	"Abdallah #2" = 0
+	"Mubashir #1" = 0
+	"Suleyman #1" = 0
+	"Ishaq #1" = 0
+	"Tashfin #1" = 0
+	"Yahya #1" = 0
+	"Jaume #4" = 0
+	"Sanç #1" = 0
+	"Ferran #1" = 0
+	"Yusuf #1" = 0
+	"Abdul-Hakam #1" = 0
+	"Dalmau #1" = 0
+	"Alfons #0" = 0
+	"Arnau #0" = 0
+	"Artau #0" = 0
+	"Berenguer #0" = 0
+	"Berenguer-Ramon #0" = 0
+	"Bernat #0" = 0
+	"Bernat-Guillem #0" = 0
+	"Ermengol #0" = 0
+	"Felip #0" = 0
+	"Gausfred #0" = 0
+	"Gerard #0" = 0
+	"Gombau #0" = 0
+	"Guerau #0" = 0
+	"Guifré #0" = 0
+	"Guillem #0" = 0
+	"Guillem-Ramon #0" = 0
+	"Guislabert #0" = 0
+	"Hug #0" = 0
+	"Joan #0" = 0
+	"Jofré #0" = 0
+	"Ott #0" = 0
+	"Pere #0" = 0
+	"Ponç #0" = 0
+	"Ponç-Hug #0" = 0
+	"Ramon #0" = 0
+	"Ramon-Folc #0" = 0
+	"Sunyer #0" = 0
+
+
+	"Guisla #0" = -1
+	"Sança #0" = -1
+	"Margarida #0" = -1
+	"Maria #0" = -1
+}
+ship_names = {
+	"Blanca Aurora" "Sant Jacob" Flama Lleona Falcó "La Bonaventura" "Sant Antoni" 
+	"Sant Miquel" "Sant Bernat" "Sant Francesc" "Santa Ágata" "Santa Eulàlia" 
+	"Sant Gabriel" "Sant Climent" "Sant Jordi" "La Reial" Trinitat "Santa Creu" 
+	"Santa Maria" "Santa Caterina" "Sant Joan Evangelista" "Santa Bàrbara" 
+	"Sant Pere de Roma" "La Gasela" "Santa Magdalena" "Sant Víctor" Magnana 
+	"Santa Ventura" "Santa Coloma" "Sant Ambrós" "La Garsa"  
+}
+

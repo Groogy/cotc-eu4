@@ -1,0 +1,27 @@
+# Syrte
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+clear_scripted_personalities = yes
+capital = 355
+1417.3.19 = {
+	monarch = {
+		name = "Abdul-Wahab"
+		birth_date = 1398.1.26
+		dynasty = "Suleimid"
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 355
+	add_treasury = 16
+	add_prestige = 125
+}

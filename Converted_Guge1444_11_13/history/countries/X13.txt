@@ -1,0 +1,27 @@
+# Turov
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4545
+1421.1.30 = {
+	monarch = {
+		name = "Yemelyan"
+		birth_date = 1401.12.22
+		dynasty = "Lukovic"
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 4545
+	add_treasury = 36
+	add_prestige = 163
+}

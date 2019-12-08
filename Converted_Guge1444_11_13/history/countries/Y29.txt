@@ -1,0 +1,27 @@
+# Seville
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1748
+1431.6.21 = {
+	monarch = {
+		name = "Nuño II"
+		birth_date = 1425.8.4
+		dynasty = "d'Ivrea"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 1748
+	add_treasury = -7
+	add_prestige = 331
+}

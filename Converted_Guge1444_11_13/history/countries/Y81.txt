@@ -1,0 +1,27 @@
+# Pest
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 153
+1419.1.21 = {
+	monarch = {
+		name = "Elemér"
+		birth_date = 1415.2.9
+		dynasty = "Csák"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 153
+	add_treasury = 23
+	add_prestige = 125
+}

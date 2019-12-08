@@ -1,0 +1,41 @@
+# Wallachia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = romanian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 161
+1398.7.10 = {
+	monarch = {
+		name = "Afina"
+		birth_date = 1384.12.24
+		dynasty = "Basarab"
+		female = yes
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = tolerant_personality
+}
+1403.12.12 = {
+	heir = {
+		name = "Franjo"
+		monarch_name = "Franjo"
+		dynasty = "Basarab"
+		birth_date = 1403.12.12
+		death_date = 1483.12.12
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 161
+	add_treasury = 79
+	add_prestige = 249
+}

@@ -1,0 +1,38 @@
+# Golden Horde
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 466
+1433.5.6 = {
+	monarch = {
+		name = "Chiledu"
+		birth_date = 1396.9.9
+		dynasty = "Borjigin"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Harghasun"
+		monarch_name = "Harghasun"
+		dynasty = "Borjigin"
+		birth_date = 1430.6.16
+		death_date = 1510.6.16
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 466
+	add_treasury = 1251
+	add_prestige = 1454
+}

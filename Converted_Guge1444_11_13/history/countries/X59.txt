@@ -1,0 +1,40 @@
+# Albania
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4305
+1419.8.12 = {
+	monarch = {
+		name = "Khodadad"
+		birth_date = 1415.5.26
+		dynasty = "Jamshid"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = silver_tongue_personality
+}
+1435.11.6 = {
+	heir = {
+		name = "Goshtasb"
+		monarch_name = "Goshtasb"
+		dynasty = "Jamshid"
+		birth_date = 1435.11.6
+		death_date = 1515.11.6
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 4305
+	add_treasury = 138
+	add_prestige = 89
+}

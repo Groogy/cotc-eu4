@@ -1,0 +1,27 @@
+# Ajmer
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = sunni
+clear_scripted_personalities = yes
+capital = 520
+1423.10.7 = {
+	monarch = {
+		name = "Saim"
+		birth_date = 1383.9.25
+		dynasty = "Tughluq"
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 520
+	add_treasury = 38
+	add_prestige = 343
+}

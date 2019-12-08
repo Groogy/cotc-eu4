@@ -1,0 +1,26 @@
+# Mathura
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = sunni
+clear_scripted_personalities = yes
+capital = 524
+1442.9.5 = {
+	monarch = {
+		name = "Selim"
+		birth_date = 1439.3.4
+		dynasty = "Ruddha"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 524
+	add_treasury = 24
+	add_prestige = 31
+}

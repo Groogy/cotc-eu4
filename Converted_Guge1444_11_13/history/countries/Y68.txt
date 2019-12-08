@@ -1,0 +1,26 @@
+# Dihistan
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2349
+1437.8.31 = {
+	monarch = {
+		name = "Kaikhusraw"
+		birth_date = 1435.12.26
+		dynasty = "Borjigin"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2349
+	add_treasury = 18
+	add_prestige = 1345
+}

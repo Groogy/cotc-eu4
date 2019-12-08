@@ -1,0 +1,209 @@
+# Cilicia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 214 140 190 }
+historical_idea_groups = {
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Ridwan" "Khadija" "Sacmis" "Tajaddin" "Haroun" "Acenith" "Amunet" "Abisalom" "Suhaila" "Tawaret" 
+	"Sharif" "Lot" "Cena" "Muammar" "Nabila" "Yahya" "Fatima" "Nura" "Alia" "Mariam" 
+	"Andali" "Asenet" "Muhammad" "Samira" "Abderahman" "Çiltanesi" "Firuz" "Khalil" "Musa" "Safiya" 
+	"Biktor" "Murshid" "Radiya" "Suhail" "Sulayman" "Ishaq" "Bardu" "Rustum" "Bushra" "Iosephos" 
+	"Katakalon" "Roupen" "Gosdantin" "Thoros" "Levon" "Stepané" "Mleh" "Zabel" "Hethum" "Smbat" 
+	"Oshim" "Ibrahim" "Gurgen" "al-Salih Ismail" "Agathon" "Meghranoush" "Abas" "Abirad" "Aboughamr" "Aboulgharib" 
+	"Aleksandr" "Artashes" "Artashir" "Artavazd" "Arsen" "Arshak" "Ashot" "Athom" "Atrnerseh" "Avag" 
+	"Avedis" "Bagour" "Bagrat" "Bedros" "Boghos" "Davit" "Eshkhan" "Gagik" "Gevorg" "Grigor" 
+	"Hagop" "Hamazasp" "Hovhannes" "Hovsep" "Ishkhan" "Ivane" "Kapriel" "Khachik" "Khosrov" "Malkhas" 
+	"Mamigon" "Manuel" "Margos" "Melek" "Mihrdat" "Mikayel" "Mushegh" "Mushel" "Mzhezh" "Nerseh" 
+	"Oshin" "Sahag" "Sarkis" "Sevag" "Shahanshah" "Stepanos" "Tachat" "Taniel" "Tatoul" "Tigran" 
+	"Tornik" "Tovmas" "Trdat" "Vache" "Vachagan" "Vagharshak" "Vahag" "Vahan" "Vahram" "Vakhtank" 
+	"Varazdat" "Vartan" "Vassak" "Vesd" "Vrtanes" "Zakare" "Zarmihr" }
+monarch_names = {
+	"Ridwan #1" = 24
+	"Khadija #0" = -1
+	"Sacmis #0" = -1
+	"Tajaddin #0" = 1
+	"Haroun #0" = 1
+	"Acenith #0" = -1
+	"Amunet #0" = -1
+	"Abisalom #0" = 1
+	"Suhaila #0" = -1
+	"Tawaret #0" = -1
+	"Sharif #1" = 21
+	"Lot #0" = 1
+	"Cena #0" = -1
+	"Muammar #0" = 1
+	"Nabila #0" = -1
+	"Yahya #0" = 1
+	"Fatima #0" = -1
+	"Nura #0" = -1
+	"Alia #0" = -1
+	"Mariam #0" = -1
+	"Andali #0" = -1
+	"Asenet #0" = -1
+	"Muhammad #1" = 21
+	"Samira #0" = -1
+	"Abderahman #0" = 1
+	"Çiltanesi #0" = -1
+	"Firuz #1" = 18
+	"Khalil #0" = 1
+	"Musa #0" = 1
+	"Safiya #0" = -1
+	"Biktor #0" = 1
+	"Murshid #0" = 1
+	"Radiya #0" = -1
+	"Suhail #0" = 1
+	"Sulayman #1" = 0
+	"Ishaq #1" = 0
+	"Bardu #1" = 0
+	"Rustum #1" = 0
+	"Bushra #1" = 0
+	"Iosephos #1" = 0
+	"Katakalon #1" = 0
+	"Roupen #3" = 0
+	"Gosdantin #3" = 0
+	"Thoros #3" = 0
+	"Levon #5" = 0
+	"Stepané #1" = 0
+	"Mleh #1" = 0
+	"Zabel #1" = -1
+	"Hethum #2" = 0
+	"Smbat #1" = 0
+	"Oshim #1" = 0
+	"Ibrahim #1" = 0
+	"Gurgen #1" = 0
+	"al-Salih Ismail #1" = 0
+	"Agathon #1" = 0
+	"Meghranoush #1" = -1
+	"Abas #0" = 0
+	"Abirad #0" = 0
+	"Aboughamr #0" = 0
+	"Aboulgharib #0" = 0
+	"Aleksandr #0" = 0
+	"Artashes #0" = 0
+	"Artashir #0" = 0
+	"Artavazd #0" = 0
+	"Arsen #0" = 0
+	"Arshak #0" = 0
+	"Ashot #0" = 0
+	"Athom #0" = 0
+	"Atrnerseh #0" = 0
+	"Avag #0" = 0
+	"Avedis #0" = 0
+	"Bagour #0" = 0
+	"Bagrat #0" = 0
+	"Bedros #0" = 0
+	"Boghos #0" = 0
+	"Davit #0" = 0
+	"Eshkhan #0" = 0
+	"Gagik #0" = 0
+	"Gevorg #0" = 0
+	"Grigor #0" = 0
+	"Hagop #0" = 0
+	"Hamazasp #0" = 0
+	"Hovhannes #0" = 0
+	"Hovsep #0" = 0
+	"Ishkhan #0" = 0
+	"Ivane #0" = 0
+	"Kapriel #0" = 0
+	"Khachik #0" = 0
+	"Khosrov #0" = 0
+	"Malkhas #0" = 0
+	"Mamigon #0" = 0
+	"Manuel #0" = 0
+	"Margos #0" = 0
+	"Melek #0" = 0
+	"Mihrdat #0" = 0
+	"Mikayel #0" = 0
+	"Mushegh #0" = 0
+	"Mushel #0" = 0
+	"Mzhezh #0" = 0
+	"Nerseh #0" = 0
+	"Oshin #0" = 0
+	"Sahag #0" = 0
+	"Sarkis #0" = 0
+	"Sevag #0" = 0
+	"Shahanshah #0" = 0
+	"Stepanos #0" = 0
+	"Tachat #0" = 0
+	"Taniel #0" = 0
+	"Tatoul #0" = 0
+	"Tigran #0" = 0
+	"Tornik #0" = 0
+	"Tovmas #0" = 0
+	"Trdat #0" = 0
+	"Vache #0" = 0
+	"Vachagan #0" = 0
+	"Vagharshak #0" = 0
+	"Vahag #0" = 0
+	"Vahan #0" = 0
+	"Vahram #0" = 0
+	"Vakhtank #0" = 0
+	"Varazdat #0" = 0
+	"Vartan #0" = 0
+	"Vassak #0" = 0
+	"Vesd #0" = 0
+	"Vrtanes #0" = 0
+	"Zakare #0" = 0
+	"Zarmihr #0" = 0
+}
+ship_names = {
+	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"
+	"Aghios Angelos" "Aghios Eusebios" "Aghios Ioakeim" "Aghios Ioannes" "Aghios Loukas"
+	"Aghios Markos" "Aghios Matthaios" "Aghios Maximos" "Aghios Nikolaos" "Aghios Pavlos"
+	"Aghios Petros" "Aghios Philimon" "Aghios Sergios" "Aghios Stephanos" "Aghios Thimoteos"
+	Aiakos Aineas Akhilleus Amphitrion Aphrodita Apollo Arakhne Ares Asia Athena
+	"Basileous Alexandros" "Basileous Alexeios" "Basileous Andronikos" "Basileous Basileos"
+	"Basileous Demetrios" "Basileous Ioannes" "Basileous Isaak" "Basileous Leon"
+	"Basileous Manuel" "Basileous Michael" "Basileous Rhomaion" "Basileous Romanos"
+	"Basileous Theodoros" "Basileous Theophilos" "Basileisa Theodora" "Basileisa Zoe"
+	Belisarios Byzantion
+	Cassandra Castor "Christos Soter" Chronos
+	Demeter "Despotes Demetrios" "Despotes Moreas" Diana "Drakon Ouranos" Dyonisos
+	Ellade Endymion Eros Europa
+	Gea "Gorgona Poseidonos"
+	Hades Hektor Hephaistos Hera Herakles Hermes Hestia Hydra Hypnos
+	Jason
+	"Kaisar Konstantinos" Konstantinopolis "Konstantinos Dragases"
+	"Liontari Skliros" "Lussa ton Theon" "Lykos Thalasses"
+	Makedonia "Margaritari Aspra" Minos
+	Nestor
+	Odysseos Orestes Okeanasthraustis Ouranos
+	Panselenos Pegasos Perseos "Pontikos Thalasses" Poseidon
+	Rhadamanthys
+	Sebastokrator
+	Thanatos Theseos
+	Zeous
+}
+

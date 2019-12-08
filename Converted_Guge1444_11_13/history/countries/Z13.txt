@@ -1,0 +1,26 @@
+# Somerset
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4130
+1435.9.23 = {
+	monarch = {
+		name = "Martin"
+		birth_date = 1420.2.21
+		dynasty = "Matfrieding"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 4130
+	add_treasury = 77
+	add_prestige = 82
+}

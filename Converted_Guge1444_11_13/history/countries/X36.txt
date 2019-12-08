@@ -1,0 +1,26 @@
+# Axum
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1227
+1441.11.17 = {
+	monarch = {
+		name = "Gebre"
+		birth_date = 1433.7.19
+		dynasty = "Afari"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 1227
+	add_treasury = 35
+	add_prestige = 34
+}

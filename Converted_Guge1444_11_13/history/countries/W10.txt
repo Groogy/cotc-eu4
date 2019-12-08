@@ -1,0 +1,27 @@
+# Vasyugan
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khanty
+religion = animism
+clear_scripted_personalities = yes
+capital = 2445
+1430.4.20 = {
+	monarch = {
+		name = "Kichay"
+		birth_date = 1391.1.12
+		dynasty = "Kezhayid"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 2445
+	add_treasury = 15
+	add_prestige = 71
+}

@@ -1,0 +1,27 @@
+# Makuria
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1228
+1441.9.17 = {
+	monarch = {
+		name = "Ñejin"
+		birth_date = 1413.3.15
+		dynasty = "Papasinen"
+		female = yes
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1228
+	add_treasury = 41
+	add_prestige = 117
+}

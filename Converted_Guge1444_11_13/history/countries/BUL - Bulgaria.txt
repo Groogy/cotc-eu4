@@ -1,0 +1,40 @@
+# Bulgaria
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bulgarian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1765
+1429.5.5 = {
+	monarch = {
+		name = "Soimir"
+		birth_date = 1425.11.4
+		dynasty = "Shishman"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = infertile_personality
+}
+1443.2.21 = {
+	heir = {
+		name = "Ljutomisl"
+		monarch_name = "Ljutomisl"
+		dynasty = "Shishman"
+		birth_date = 1443.2.21
+		death_date = 1523.2.21
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1765
+	add_treasury = -2
+	add_prestige = 138
+}

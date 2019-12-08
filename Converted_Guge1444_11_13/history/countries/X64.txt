@@ -1,0 +1,27 @@
+# Cyrenaica
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 356
+1436.2.5 = {
+	monarch = {
+		name = "Tarifa"
+		birth_date = 1399.8.25
+		dynasty = "de Lara"
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 356
+	add_treasury = 37
+	add_prestige = 233
+}

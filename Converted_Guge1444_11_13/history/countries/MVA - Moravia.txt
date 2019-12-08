@@ -1,0 +1,28 @@
+# Moravia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = czech
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4237
+1382.8.15 = {
+	monarch = {
+		name = "Siemowit"
+		birth_date = 1366.10.9
+		dynasty = "Piast"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 4237
+	add_treasury = 44
+	add_prestige = 1124
+	elector = no
+}

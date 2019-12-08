@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = celestial_empire
+government_rank = 3
+technology_group = chinese
+add_harmonized_religion = mahayana
+capital = 1821	# Nanjing
+
+primary_culture = mongol
+religion = buddhism
+1427.6.16 = {
+	monarch = {
+		name = "Renzong"
+		birth_date = 1384.11.7
+		dynasty = "Borjigin"
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+}

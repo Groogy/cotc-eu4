@@ -1,0 +1,36 @@
+# Derbent
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 425
+1443.3.5 = {
+	monarch = {
+		name = "Khamush"
+		birth_date = 1419.1.27
+		dynasty = "Kavaid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Humayun"
+		monarch_name = "Humayun"
+		dynasty = "Kavaid"
+		birth_date = 1438.5.7
+		death_date = 1518.5.7
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 425
+	add_treasury = 24
+	add_prestige = 8
+}

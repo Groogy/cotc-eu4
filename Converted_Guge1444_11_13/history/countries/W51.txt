@@ -1,0 +1,40 @@
+# Perm
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 1079
+1433.12.11 = {
+	monarch = {
+		name = "Parush"
+		birth_date = 1413.2.13
+		dynasty = "Paru"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = malevolent_personality
+}
+1438.2.21 = {
+	heir = {
+		name = "Kezhay"
+		monarch_name = "Kezhay"
+		dynasty = "Paru"
+		birth_date = 1438.2.21
+		death_date = 1518.2.21
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 1079
+	add_treasury = 4
+	add_prestige = 79
+}

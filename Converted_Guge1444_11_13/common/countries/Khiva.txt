@@ -1,0 +1,173 @@
+# Khiva
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 185 210 142 }
+
+
+
+
+leader_names = {
+
+	"Mesud" "Demir" "Sehnaz" "Berkiyaruk" "Rustem" "Emine" "Osman" "Ilkay" "Peksen" "Hatice" 
+	"Yakut" "Canan" "Ayse" "Sibel" "Songul" "Karan-Singh" "Merve" "Nasr" "Muhammad" "Ibrahim" 
+	"Khidr Abu Shuja" "Ahmad" "Yaqub" "Masud" "Sulayman" "Mahmud" "Jibrail" "Hasan" "Mahumud" "Ali" 
+	"Mingburnu Jalal ad-Din" "Daifu" "Nogai" "Tumen" "Yeke" "Changshi" "Ogodei" "Odchigin" "Babur" "Daritai" 
+	"Ajinai" "Aksonqor" "Çagri" "Çaka" "Afsin" "Ahmet" "Alaeddin" "Alkan" "Alp Arslan" "Alp Yurek" 
+	"Alptigin" "Artuk" "Ayaz" "Aydin" "Aydogan" "Aydogdu" "Aytekin" "Böru" "Bulend" "Bahadir" 
+	"Balaban" "Basbuga" "Batuhan" "Baturay" "Baybars" "Bayezid" "Baytas" "Belek" "Berkan" "Bozan" 
+	"Bugra" "Burak" "Cuneyd" "Dundar" "Danismend" "Davud" "Dogan" "Dogukan" "Dukak" "Erdem" 
+	"Ertan" "Ertekin" "Ertugrul" "Gunduz" "Hizir" "Ilgazi" "Inal" "Iskender" "Kurboga" "Kaikaus" 
+	"Kaikhusraw" "Kaiqobad" "Kara" "Karatay" "Kasim" "Kaya" "Kaytun" "Kemal" "Kiliç" "Korkut" 
+	"Kutalmis" "Kutay" "Kutlug" "Mursel" "Mehmed" "Meliksah" "Mengucek" "Murad" "Mustafa" "Orhan" 
+	"Porsuk" "Ramazan" "Ridvan" "Söbuk" "Sökmen" "Sönmez" "Suleyman" "Saim" "Saltuk" "Saruca" 
+	"Savtekin" "Savur" "Sehinsah" "Selçuk" "Selim" "Sencer" "Sinan" "Tanrivermis" "Tekin" "Timurtas" 
+	"Togay" "Togtekin" "Toktamis" "Tolun" "Toruntay" "Tugrul" "Tunga" "Turgut" "Turhan" "Tutus" 
+	"Uluç" "Umur" "Yaman" "Yinal" "Yunus" }
+monarch_names = {
+	"Mesud #0" = 1
+	"Demir #0" = 1
+	"Sehnaz #0" = -1
+	"Berkiyaruk #0" = 1
+	"Rustem #1" = 18
+	"Emine #0" = -1
+	"Osman #1" = 24
+	"Ilkay #0" = -1
+	"Peksen #0" = -1
+	"Hatice #0" = -1
+	"Yakut #0" = 1
+	"Canan #0" = -1
+	"Ayse #0" = -1
+	"Sibel #0" = -1
+	"Songul #0" = -1
+	"Karan-Singh #0" = 1
+	"Merve #0" = -1
+	"Nasr #3" = 0
+	"Muhammad #2" = 0
+	"Ibrahim #4" = 0
+	"Khidr Abu Shuja #1" = 0
+	"Ahmad #2" = 0
+	"Yaqub #1" = 0
+	"Masud #2" = 0
+	"Sulayman #1" = 0
+	"Mahmud #1" = 0
+	"Jibrail #1" = 0
+	"Hasan #1" = 0
+	"Mahumud #1" = 0
+	"Ali #1" = 0
+	"Mingburnu Jalal ad-Din #1" = 0
+	"Daifu #1" = 0
+	"Nogai #1" = 0
+	"Tumen #1" = 0
+	"Yeke #1" = 0
+	"Changshi #1" = 0
+	"Ogodei #3" = 0
+	"Odchigin #1" = 0
+	"Babur #1" = 0
+	"Daritai #1" = 0
+	"Ajinai #1" = 0
+	"Aksonqor #1" = 0
+	"Çagri #0" = 0
+	"Çaka #0" = 0
+	"Afsin #0" = 0
+	"Ahmet #0" = 0
+	"Alaeddin #0" = 0
+	"Alkan #0" = 0
+	"Alp Arslan #0" = 0
+	"Alp Yurek #0" = 0
+	"Alptigin #0" = 0
+	"Artuk #0" = 0
+	"Ayaz #0" = 0
+	"Aydin #0" = 0
+	"Aydogan #0" = 0
+	"Aydogdu #0" = 0
+	"Aytekin #0" = 0
+	"Böru #0" = 0
+	"Bulend #0" = 0
+	"Bahadir #0" = 0
+	"Balaban #0" = 0
+	"Basbuga #0" = 0
+	"Batuhan #0" = 0
+	"Baturay #0" = 0
+	"Baybars #0" = 0
+	"Bayezid #0" = 0
+	"Baytas #0" = 0
+	"Belek #0" = 0
+	"Berkan #0" = 0
+	"Bozan #0" = 0
+	"Bugra #0" = 0
+	"Burak #0" = 0
+	"Cuneyd #0" = 0
+	"Dundar #0" = 0
+	"Danismend #0" = 0
+	"Davud #0" = 0
+	"Dogan #0" = 0
+	"Dogukan #0" = 0
+	"Dukak #0" = 0
+	"Erdem #0" = 0
+	"Ertan #0" = 0
+	"Ertekin #0" = 0
+	"Ertugrul #0" = 0
+	"Gunduz #0" = 0
+	"Hizir #0" = 0
+	"Ilgazi #0" = 0
+	"Inal #0" = 0
+	"Iskender #0" = 0
+	"Kurboga #0" = 0
+	"Kaikaus #0" = 0
+	"Kaikhusraw #0" = 0
+	"Kaiqobad #0" = 0
+	"Kara #0" = 0
+	"Karatay #0" = 0
+	"Kasim #0" = 0
+	"Kaya #0" = 0
+	"Kaytun #0" = 0
+	"Kemal #0" = 0
+	"Kiliç #0" = 0
+	"Korkut #0" = 0
+	"Kutalmis #0" = 0
+	"Kutay #0" = 0
+	"Kutlug #0" = 0
+	"Mursel #0" = 0
+	"Mehmed #0" = 0
+	"Meliksah #0" = 0
+	"Mengucek #0" = 0
+	"Murad #0" = 0
+	"Mustafa #0" = 0
+	"Orhan #0" = 0
+	"Porsuk #0" = 0
+	"Ramazan #0" = 0
+	"Ridvan #0" = 0
+	"Söbuk #0" = 0
+	"Sökmen #0" = 0
+	"Sönmez #0" = 0
+	"Suleyman #0" = 0
+	"Saim #0" = 0
+	"Saltuk #0" = 0
+	"Saruca #0" = 0
+	"Savtekin #0" = 0
+	"Savur #0" = 0
+	"Sehinsah #0" = 0
+	"Selçuk #0" = 0
+	"Selim #0" = 0
+	"Sencer #0" = 0
+	"Sinan #0" = 0
+	"Tanrivermis #0" = 0
+	"Tekin #0" = 0
+	"Timurtas #0" = 0
+	"Togay #0" = 0
+	"Togtekin #0" = 0
+	"Toktamis #0" = 0
+	"Tolun #0" = 0
+	"Toruntay #0" = 0
+	"Tugrul #0" = 0
+	"Tunga #0" = 0
+	"Turgut #0" = 0
+	"Turhan #0" = 0
+	"Tutus #0" = 0
+	"Uluç #0" = 0
+	"Umur #0" = 0
+	"Yaman #0" = 0
+	"Yinal #0" = 0
+	"Yunus #0" = 0
+}
+

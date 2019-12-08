@@ -1,0 +1,41 @@
+# Sibir
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khanty
+religion = animism
+clear_scripted_personalities = yes
+capital = 1074
+1431.10.3 = {
+	monarch = {
+		name = "Arvo"
+		birth_date = 1411.7.3
+		dynasty = "Arvo"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1434.10.19 = {
+	heir = {
+		name = "Parava"
+		monarch_name = "Parava"
+		dynasty = "Arvo"
+		birth_date = 1434.10.19
+		death_date = 1514.10.19
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 1074
+	add_treasury = -2
+	add_prestige = 21
+}

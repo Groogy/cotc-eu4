@@ -1,0 +1,27 @@
+# Greater Poland
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 255
+1413.3.17 = {
+	monarch = {
+		name = "Siemomysl II"
+		birth_date = 1401.7.17
+		dynasty = "Piast"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 255
+	add_treasury = 37
+	add_prestige = 955
+}

@@ -1,0 +1,27 @@
+# Yatvingia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = lithuanian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1937
+1419.6.1 = {
+	monarch = {
+		name = "Vaisvilkas"
+		birth_date = 1397.4.21
+		dynasty = "Jogailaitis"
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 1937
+	add_treasury = 38
+	add_prestige = 269
+}

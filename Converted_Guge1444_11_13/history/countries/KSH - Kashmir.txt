@@ -1,0 +1,27 @@
+# Kashmir
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = panjabi
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 508
+1434.8.4 = {
+	monarch = {
+		name = "Tisho"
+		birth_date = 1397.9.17
+		dynasty = "Namgyal"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 508
+	add_treasury = 60
+	add_prestige = 69
+}

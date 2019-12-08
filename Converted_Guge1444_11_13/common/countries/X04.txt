@@ -1,0 +1,150 @@
+# Veliky Ustug
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 140 130 40 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Hasaba" "Xëryuchi" "Num" "Varvara" "Vyshata" "Mandak" "Dobroslava" "Vladimir" "Demid" "Ulita" 
+	"Yefimiy" "Agafya" "Roman" "Lev" "Vasilisa" "Putiata" "Nikita" "Gremislava" "Alexandra" "Marina" 
+	"Pribislava" "Yefimia" "Zvenislava" "Alik" "Noumea" "Yadne" "Sarak" "Tatva" "Feodor" "Nyaksha" 
+	"Kezhay" "Malyy" "Sektev" "Samatu" "Afanasiy" "Alexandr" "Alexei" "Andrei" "Boris" "Briachislav" 
+	"Daniil" "Davyd" "Dmitriy" "Dobrynia" "Fedot" "Gavriil" "Gleb" "Grigoriy" "Iakov" "Igor" 
+	"Iliya" "Ingvar" "Ivan" "Iziaslav" "Kirill" "Konstantin" "Koz'ma" "Matfei" "Mikhail" "Mitrofan" 
+	"Mstislav" "Oleg" "Pavel" "Radoslav" "Rodislav" "Rogvolod" "Rostislav" "Rurik" "Ruslan" "Stanislav" 
+	"Stepan" "Sudislav" "Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Vasiliy" "Vasilko" "Viacheslav" 
+	"Vladislav" "Voislav" "Volodar" "Vseslav" "Vsevolod" "Vysheslav" "Yaropolk" "Yaroslav" "Yelisey" "Yemelyan" 
+	"Yeremey" "Yevstafiy" "Yuriy" }
+monarch_names = {
+	"Hasaba #2" = 21
+	"Xëryuchi #0" = 1
+	"Num #0" = 1
+	"Varvara #0" = -1
+	"Vyshata #1" = 18
+	"Mandak #1" = 21
+	"Dobroslava #0" = -1
+	"Vladimir #0" = 1
+	"Demid #0" = 1
+	"Ulita #0" = -1
+	"Yefimiy #1" = 18
+	"Agafya #0" = -1
+	"Roman #0" = 1
+	"Lev #0" = 1
+	"Vasilisa #0" = -1
+	"Putiata #0" = 1
+	"Nikita #1" = 18
+	"Gremislava #0" = -1
+	"Alexandra #0" = -1
+	"Marina #0" = -1
+	"Pribislava #0" = -1
+	"Yefimia #0" = -1
+	"Zvenislava #0" = -1
+	"Alik #1" = 0
+	"Noumea #1" = 0
+	"Yadne #1" = 0
+	"Sarak #1" = 0
+	"Tatva #1" = 0
+	"Feodor #1" = 0
+	"Nyaksha #2" = 0
+	"Kezhay #1" = 0
+	"Malyy #1" = 0
+	"Sektev #1" = 0
+	"Samatu #1" = 0
+	"Afanasiy #0" = 0
+	"Alexandr #0" = 0
+	"Alexei #0" = 0
+	"Andrei #0" = 0
+	"Boris #0" = 0
+	"Briachislav #0" = 0
+	"Daniil #0" = 0
+	"Davyd #0" = 0
+	"Dmitriy #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Gavriil #0" = 0
+	"Gleb #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Ingvar #0" = 0
+	"Ivan #0" = 0
+	"Iziaslav #0" = 0
+	"Kirill #0" = 0
+	"Konstantin #0" = 0
+	"Koz'ma #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Mitrofan #0" = 0
+	"Mstislav #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Radoslav #0" = 0
+	"Rodislav #0" = 0
+	"Rogvolod #0" = 0
+	"Rostislav #0" = 0
+	"Rurik #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Stepan #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Vasiliy #0" = 0
+	"Vasilko #0" = 0
+	"Viacheslav #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Vsevolod #0" = 0
+	"Vysheslav #0" = 0
+	"Yaropolk #0" = 0
+	"Yaroslav #0" = 0
+	"Yelisey #0" = 0
+	"Yemelyan #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
+	"Yuriy #0" = 0
+}
+ship_names = {
+	Cherdyn Pelym Kudym-Osha Shudeg
+	Voleg Rateg Koleg Uzheg
+	Baseg Yus Pokcha Vychegda Sysola
+	Iskor Kama Vishera Kolva Yazva Uros Vilgort
+}
+

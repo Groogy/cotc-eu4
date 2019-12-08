@@ -1,0 +1,27 @@
+# Nefoud
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 394
+1415.5.6 = {
+	monarch = {
+		name = "Temur"
+		birth_date = 1405.11.14
+		dynasty = "Otgonbayar"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = babbling_buffoon_personality
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 394
+	add_treasury = 36
+	add_prestige = -102
+}

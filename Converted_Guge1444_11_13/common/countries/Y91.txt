@@ -1,0 +1,62 @@
+# Pechora
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 180 110 80 }
+
+
+
+
+leader_names = {
+
+	"Nabtiko" "Kat" "Tadane" "Senda" "Tatva" "Noumea" "Laptsui" "Vesei" "Panay" "Kako" 
+	"Num" "Kujku" "Tada" "Ngeva" "Syudbya" "Syeju" "Sirtya" "Wayngachi" "Hasaba" "Yapti" 
+	"Auli" "Ilme" "Kolik" "Yadne" "Somatu" "Galya" "Khatyako" "Xëryuchi" "Tolik" "Kontäw" 
+	"Sarak" "Salinder" "Yavlad" "Alik" "Kharuchi" "Mandak" "Nenyts" "Nga" "Ngënoh" "Nyalku" 
+	"Pudak" "Samatu" "Yar" "Yurak" }
+monarch_names = {
+	"Nabtiko #0" = 1
+	"Kat #0" = -1
+	"Tadane #0" = -1
+	"Senda #0" = -1
+	"Tatva #1" = 27
+	"Noumea #1" = 33
+	"Laptsui #0" = -1
+	"Vesei #1" = 18
+	"Panay #0" = 1
+	"Kako #0" = 1
+	"Num #1" = 18
+	"Kujku #0" = -1
+	"Tada #0" = -1
+	"Ngeva #0" = -1
+	"Syudbya #1" = 21
+	"Syeju #0" = -1
+	"Sirtya #0" = 1
+	"Wayngachi #0" = 1
+	"Hasaba #1" = 24
+	"Yapti #0" = 1
+	"Auli #0" = -1
+	"Ilme #0" = -1
+	"Kolik #0" = 1
+	"Yadne #0" = 1
+	"Somatu #0" = 1
+	"Galya #0" = -1
+	"Khatyako #0" = -1
+	"Xëryuchi #0" = 1
+	"Tolik #0" = 1
+	"Kontäw #0" = -1
+	"Sarak #1" = 18
+	"Salinder #1" = 0
+	"Yavlad #1" = 0
+	"Alik #0" = 0
+	"Kharuchi #0" = 0
+	"Mandak #0" = 0
+	"Nenyts #0" = 0
+	"Nga #0" = 0
+	"Ngënoh #0" = 0
+	"Nyalku #0" = 0
+	"Pudak #0" = 0
+	"Samatu #0" = 0
+	"Yar #0" = 0
+	"Yurak #0" = 0
+}
+

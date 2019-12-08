@@ -1,0 +1,39 @@
+# Voin
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4542
+1429.3.15 = {
+	monarch = {
+		name = "Pavel"
+		birth_date = 1414.9.2
+		dynasty = "Mikhailovich"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+}
+1442.12.11 = {
+	heir = {
+		name = "Iliya"
+		monarch_name = "Iliya"
+		dynasty = "Mikhailovich"
+		birth_date = 1442.12.11
+		death_date = 1522.12.11
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 4542
+	add_treasury = 31
+	add_prestige = 11
+}

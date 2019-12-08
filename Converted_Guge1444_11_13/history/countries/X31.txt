@@ -1,0 +1,27 @@
+# Palmyra
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 405
+1414.10.26 = {
+	monarch = {
+		name = "Arsenios"
+		birth_date = 1409.4.9
+		dynasty = "Bahri"
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 405
+	add_treasury = 17
+	add_prestige = 273
+}
