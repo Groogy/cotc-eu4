@@ -815,5 +815,5 @@ discovered_by = ottoman
 	owner = ORI
 	controller = ORI
 	culture = tibetan
-	religion = buddhism
+	religion = vajrayana
 }

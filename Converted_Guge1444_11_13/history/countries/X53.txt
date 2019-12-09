@@ -8,6 +8,7 @@ primary_culture = mongol
 religion = sunni
 clear_scripted_personalities = yes
 capital = 410
+
 1417.9.22 = {
 	monarch = {
 		name = "Khudu"

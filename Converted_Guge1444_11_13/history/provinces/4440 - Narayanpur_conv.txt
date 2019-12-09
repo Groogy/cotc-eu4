@@ -816,5 +816,5 @@ discovered_by = ottoman
 	owner = MNG
 	controller = MNG
 	culture = tibetan
-	religion = buddhism
+	religion = vajrayana
 }

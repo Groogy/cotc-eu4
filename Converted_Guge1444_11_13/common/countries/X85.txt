@@ -4,31 +4,34 @@ graphical_culture = indiangfx
 color = { 150 0 20 }
 
 
-
-
 leader_names = {
+	Afghan
+	Astarabadi	
+	Ardastani
+	Badakhshi
+	Bukhari
+	Changezi
+	Gilani
+	Ghuri
+	Hasanabadi
+	Hamadani
+	Jurjani
+	Kabuli
+	Karbali
+	Kirmani
+	Kurd
+	Mazandarani
+	Qummi
+	Safsikhan
+	Simnani
+	Sistani
+	Uzbek
+	Hussaini
+	Qadir
+	Ambar
+	Latif
+}
 
-	"Bahman" "Mohammed" "Anousheh" "Zeeana" "Aaban" "Shagufta" "Tajj" "Akbar" "Badeed" "Sayeebai" 
-	"Aakrama" "Yar" "Alaudin" "Pandurangrao" "Anwaaraddin" "Kushaaneh" "Mohammadi" "Mirwais" "Vijayaditya" "Farahnoush" 
-	"Badrawi" "Illiyeen" "Kundaladevi" "Moropant" "Indraraja" "Shahu" "Asal" "Hasan" "Jammas" "Pariwish" 
-	"Badilayn" "Benesh" "Mankoji" "Sujanbai" "Afzal" "Gulraiz" "Kaamnoosh" "Berezira" "Amooz" "Shabahang" 
-	"Tukkoji" "Dhammayira" "Hajira" "Tabsheer" "Qammar" "Painda" "Jehanzaib" "Aamir" "Tabish" "Yashfa" 
-	"Revakanimmadi" "Pazir" "Paksima" "Yasar" "Kaikaus" "Ferhana" "Kaasheen" "Lodhi" "Nawaskhan" "Nageenah" 
-	"Venkatadri" "Jansher" "Tabaan" "Bahiri" "Nazy" "Shahpar" "Naghma" "Zarafshan" "Damsa" "Shahernaz" 
-	"Chaghama" "Mursalin" "Jabroot" "Asmaan" "Firouzeh" "Pulakesi" "Kirtivarman" "Mangalesa" "Vikramaditya" "Vinayaditya" 
-	"Dantidurga" "Krishna" "Govinda" "Dhruva" "Amoghavarsha" "Indra" "Khottiga" "Karka" "Tailapa" "Satyasraya" 
-	"Jayasimha" "Somesvara" "Jagadhekamalla" "Bijjala" "Sovideva" "Bhillama" "Mallugi" "Sankama" "Ahavamalla" "Singhana" 
-	"Jaitugi" "Kannara" "Mahadeva" "Amana" "Ramachandra" "Harapaladeva" "Abaji" "Amutrao" "Bahadur" "Bahiroji" 
-	"Balaji" "Bajirao" "Chimnaji" "Dattaji" "Daulatrao" "Dhanaji" "Dhondu" "Ekoji" "Fatehsinh" "Gopalrao" 
-	"Hambirao" "Harirao" "Jayajirao" "Jayappa" "Janakappa" "Jivajirao" "Khanderao" "Krishnarao" "Madhavrao" "Mahadji" 
-	"Malerao" "Malharrao" "Martandrao" "Murarirao" "Nanasaheb" "Narayanrao" "Pratapsinh" "Raghunathrao" "Rajaram" "Ramaswami" 
-	"Ramchandrapant" "Ramshastri" "Ranojirao" "Sadashivrao" "Sambhaji" "Sayajirao" "Serfoji" "Shahuji" "Shivaji" "Shivajirao" 
-	"Tryambakrao" "Tukojirao" "Tulojirao" "Venkatrao" "Vishwanathpant" "Yashwantrao" "Adityavarman" "Aiyaparaja" "Anantadeva" "Aparaditya" 
-	"Aparajita" "Arikesarin" "Arthapathi" "Avasara" "Bhavadatta" "Bhima" "Bhoja" "Chandra" "Chandraditya" "Chhadvaideva" 
-	"Chhittaraja" "Daharasena" "Gandaraditya" "Goggiraja" "Gonka" "Guhala" "Guhalladeva" "Haripaladeva" "Indradatta" "Jatiga" 
-	"Jayakeshi" "Jhanjha" "Kamadeva" "Kapardin" "Keshideva" "Kirtiraja" "Mallikarjuna" "Marsimha" "Mummuniraja" "Nagarjuna" 
-	"Nagavarma" "Naivarman" "Pullashakti" "Rattaraja" "Sanaphulla" "Shashthadeva" "Shivachitta" "Skandavarman" "Soddhala" "Someshvara" 
-	"Suketuvarman" "Taila" "Tejahkantha" "Vappuvanna" "Viravarmadeva" "Vishnuchitta" "Vyaghrasena" }
 monarch_names = {
 	"Bahman #1" = 18
 	"Mohammed #0" = 1
@@ -238,4 +241,3 @@ monarch_names = {
 	"Vishnuchitta #0" = 0
 	"Vyaghrasena #0" = 0
 }
-

@@ -1,13 +1,14 @@
 # Orissa
 government = monarchy
-add_government_reform = iqta
+add_government_reform = indian_sultanate_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = indian
 primary_culture = turkish
 religion = sunni
 clear_scripted_personalities = yes
-capital = 4479
+capital = 563
+
 1427.10.24 = {
 	monarch = {
 		name = "Kemal"

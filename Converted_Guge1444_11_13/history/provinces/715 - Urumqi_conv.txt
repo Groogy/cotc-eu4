@@ -816,5 +816,5 @@ discovered_by = ottoman
 	owner = W21
 	controller = W21
 	culture = uyghur
-	religion = buddhism
+	religion = vajrayana
 }

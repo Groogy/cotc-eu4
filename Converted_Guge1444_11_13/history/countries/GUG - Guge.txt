@@ -5,8 +5,13 @@ government_rank = 2
 mercantilism = 0.1
 technology_group = chinese
 primary_culture = tibetan
-religion = buddhism
+add_accepted_culture = uyghur
+add_accepted_culture = mongol
+religion = vajrayana
 clear_scripted_personalities = yes
+
+capital = 2128
+
 1417.4.25 = {
 	monarch = {
 		name = "Rinchen II Gyalpo"

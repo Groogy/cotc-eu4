@@ -7,39 +7,18 @@ color = { 137 168 188 }
 
 
 leader_names = {
+	Gampo
+	Srong
+	Sregs
+	Thekchen
+	Sonam
+	Tashi
+	Tsewang
+	Wangdue
+	Wangdak
+	Phuntsok
+}
 
-	"Esho Lek" "Tridra" "Rinchen Gyalpo" "Gémaspranglod" "Lha" "Dondup" "Dolma" "Kelzang" "Pelmo" "Jomo" 
-	"Thrisong" "Tagbu" "Trinring" "Wangmo" "Yon" "Gyimsheng" "Lhanang" "Siptri" "Khribang" "Nanamsa" 
-	"Dechen" "Phoyongsa" "Longtsen" "Jamyang" "Nyitri" "Esho" "Desho Lek" "Tisho Lek" "Guru Lek" "Trongzhi Lek" 
-	"Isho Lek" "Zanam Zindé" "Detrul Namshungtsen" "Senöl Namdé" "Senöl Podé" "Senöl Nam" "Senöl Po" "Degyel Po" "Detrin Tsen" "Tori Longtsen" 
-	"Tritsen Nam" "Tridra Pungtsen" "Tritog Jetsen" "Lha Thothori Nyantsen" "Trinyen Zungtsen" "Drongnyen Deu" "Tagbu Nyasig" "Namri Songtsen" "Tsensong" "Gungsrong Gungtsen" 
-	"Songtsen Gampo" "Sadmarkar" "Mangsong Mangtsen" "Tridu Songtsen" "Thridang" "Lha Balpo" "Dronmalön" "Me Agtsom" "Mutri" "Trisong Detsen" 
-	"Muné" "Mutik" "Tridé Songtsen" "Gyaltso" "Palden" "Pema Sal" "Ralpacan" "Lhasras Tsangma" "Langdarma" "Ösrung" 
-	"Yumtän" "Pelkhortsen" "Trashi Tsentsen" "Palkhorre" "Skyidide-Nyimagön" "Gyaltsen" "Tridulaga" "Balpo" "Bhakra Shismgon" "Lhachen Dpalgyimgon" 
-	"Srongnge Yeshe Öd" "Lhachen Gragspalde" "Khorre" "Lhatsen" "Lhachen Takpa" "Nyasig Tenzin" "Nagaraja" "Lhaide" "Devaraja" "Ödidebtsan" 
-	"Lingsong" "Lhachen Byangchupsenpa" "Bangide" "Byangchub Öd" "Rinchen" "Lhachen Gyalpo" "Chechen Tshartseide" "Baride" "Lha Taramo" "Lhachen 'Utpala" 
-	"Zhiba Öd" "Nagaide" "Södnamsrtse" "Krashisrtse" "Lhachen Naglug" "Jobo Gyalpo" "Tsanphyugide" "Tsübartsan" "Gragtsanide" "Kratsancalla" 
-	"Pyidetsan" "Lhachen Gyebhe" "Namidetsan" "Nyimaide" "Kradhicalla" "Gübum" "Laga" "Chosgyal Gragspa" "Chachen Jobodpal" "Gragspaide" 
-	"Ashokacalla" "Jitarimalla" "Anandamalla" "Lhachen Jospal" "Ripumalla" "Sangramamalla" "Lhachen Mutup" "Ajitamalla" "Jigten" "Kalyanamalla" 
-	"Pratapamalla" "Punyamalla" "Rygalide" "Nampo" "Nagzib" "Mangmo" "Sadar-ud-din" "Nyendrak" "Namri Rabtan" "Wangdu" 
-	"Muzu" "Lhachen Sherab" "Orgyen" "Tökarma" "Kunga" "Tsangma" "Trinle" "Lhakee" "Pogong" "Sal" 
-	"Dzamling" "Bum" "Pema" "Gémathar" "Palchen" "Zigsa" "Cogrobza" "Dragpa" "Lhathrimo" "Dzeden" 
-	"Liknyirhya" "Likmikya" "Likmur" "Liknyashur" "Liknyikya" "Likmigyal" "Aglen" "Chakna" "Changchub" "Chatri" 
-	"Chokey" "Chögyal" "Chukpo" "Daktri" "Degyal" "Denöl" "Desho" "Detrin" "Detsen" "Detrul" 
-	"Deu" "Dharmapala" "Dickey" "Dingtri" "Dompu" "Donyö" "Dorje" "Drag" "Dranga" "Drigum" 
-	"Drogön" "Drongnyen" "Dusong" "Gampo" "Gangkarwa" "Gesar" "Getong" "Gön" "Gongpa" "Gongru" 
-	"Gunggyal" "Gungsong" "Gungtsen" "Gyagar" "Gyal" "Gyalpo" "Gyaltore" "Gyeltsen" "Isho" "Jekundag" 
-	"Jetsun" "Könchok" "Kyidé" "Lek" "Lekpa" "Lingpa" "Lodrö" "Löntsen" "Lotsen" "Lukhong" 
-	"Mangban" "Mangnyen" "Mangpoje" "Mangsham" "Mangsong" "Mangtsen" "Mertri" "Nam" "Namdé" "Namkha" 
-	"Namri" "Namzhungtsen" "Ngawang" "Nyantsen" "Nyasig" "Nyigön" "Nyima" "Nyingpo" "Nytari" "Omade" 
-	"Öpoche" "Ösung" "Pal" "Pälkhortsän" "Palkye" "Phagpa" "Po" "Podé" "Pude" "Pungse" 
-	"Pungtsen" "Raksita" "Ramsha" "Rapsel" "Sachen" "Sadnalegs" "Sambhota" "Selbar" "Senöl" "Shakya" 
-	"Shang" "Shanglon" "Shangnang" "Sönam" "Songtsen" "Sotri" "Sumnang" "Sutse" "Takdra" "Taknang" 
-	"Taknye" "Taktsab" "Tawen" "Thönmi" "Thothori" "Thrikhyiding" "Tingngezin" "Tisho" "Tongtsen" "Tori" 
-	"Trashi" "Tridé" "Tridu" "Trimang" "Trinyen" "Trisong" "Trisu" "Trisumje" "Tritog" "Tritsen" 
-	"Tritsuk" "Tromo" "Trongzhi" "Tsemo" "Tsen" "Tsendro" "Tsenpo" "Tsentsän" "Tsenye" "Tsugru" 
-	"Tsuktsen" "Udumtsen" "Wangchuk" "Yongten" "Yontan" "Yülsung" "Zanam" "Zangtsa" "Zhangtsun" "Zhonnu" 
-	"Zimun" "Zindé" "Zungtsen" }
 monarch_names = {
 	"Esho Lek #0" = 1
 	"Tridra #0" = 1

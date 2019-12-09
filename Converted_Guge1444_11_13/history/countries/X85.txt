@@ -1,13 +1,16 @@
 # Maharastra
 government = monarchy
-add_government_reform = iqta
+add_government_reform = indian_sultanate_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = indian
 primary_culture = marathi
+add_accepted_culture = tamil
+add_accepted_culture = kannada
 religion = sunni
 clear_scripted_personalities = yes
 capital = 545
+
 1437.5.8 = {
 	monarch = {
 		name = "Aaban II"
@@ -19,6 +22,7 @@ capital = 545
 	}
 	add_ruler_personality = conqueror_personality
 }
+
 1439.8.10 = {
 	heir = {
 		name = "Yar"
@@ -31,6 +35,7 @@ capital = 545
 		mil = 3
 	}
 }
+
 1444.11.11 = {
 	capital = 545
 	add_treasury = 317

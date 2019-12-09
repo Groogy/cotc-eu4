@@ -816,5 +816,5 @@ discovered_by = ottoman
 	owner = GUG
 	controller = GUG
 	culture = uyghur
-	religion = buddhism
+	religion = vajrayana
 }
