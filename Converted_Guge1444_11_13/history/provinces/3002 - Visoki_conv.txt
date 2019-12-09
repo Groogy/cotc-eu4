@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = Y50
-controller = Y50
-add_core = Y50
+owner = BOS
+controller = BOS
+add_core = BOS
 culture = bosnian
 religion = catholic
 citysize = 2000
-add_permanent_claim = ITA
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -814,8 +813,9 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Y50
-	controller = Y50
+	owner = BOS
+	controller = BOS
+	add_core = BOS
 	culture = bosnian
 	religion = catholic
 }
