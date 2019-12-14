@@ -1,0 +1,6 @@
+# Aquitania
+AQI = {
+    color1= { 169 43 29 }
+    color2= { 248 229 12 }
+    color3= { 219 214 191 }
+}

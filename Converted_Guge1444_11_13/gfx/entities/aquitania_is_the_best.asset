@@ -1,0 +1,267 @@
+####################################################
+#####                                          #####
+#####                 aquitania                #####
+#####                                          #####
+####################################################
+
+entity = {
+	name = "AQI_INFANTRY_1"
+	pdxmesh = "rigofman_AUG_infantry_01_type1"
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = { 
+		Right_hand_node = "rigofman_spear" 
+	}
+}
+
+entity = {
+	name = "AQI_INFANTRY_2"
+	pdxmesh = "VEN_infantry_02_dy_color_type1"
+	
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = { 
+		Left_hand_node = "western_musket" 
+	}
+}
+
+entity = {
+	name = "AQI_INFANTRY_3"
+	pdxmesh = "theup_KNI_infantry_03_mesh"
+	version = 1
+	
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = { 
+		Left_hand_node = "theup_rifle_03_entity" 
+	}
+}
+
+entity = {
+	name = "AQI_INFANTRY_4"
+	pdxmesh = "fcup_NUM_infantry_04_mesh"
+	version = 1
+	
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = { 
+		Left_hand_node = "fcup_rifle_04_entity" 
+	}
+}
+
+### CAVALRY ###
+
+entity = {
+	name = "AQI_CAVALRY_1"
+	pdxmesh = "rigofman_cavalry_horse_01_mesh"
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "AUG_CAVALRY_1_rider" 
+	}
+}
+
+entity = {
+	name = "AQI_CAVALRY_2"
+	pdxmesh = "marnoup_cavalry_horse_01"
+	
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "AQU_CAVALRY_2_rider" 
+	}
+}
+
+entity = {
+	name = "AQI_CAVALRY_3"
+	pdxmesh = "theup_cavalry_horse_002_mesh"
+	version = 1
+	
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "AQI_CAVALRY_3_rider" 
+	}
+}
+
+entity = {
+	name = "AQI_CAVALRY_3_rider"
+	pdxmesh = "theup_KNI_cavalry_03_mesh"
+	version = 1
+	
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = { 
+		Right_hand_node = "theup_cavalry_saber" 
+	}
+}
+
+entity = {
+	name = "AQI_CAVALRY_4"
+	pdxmesh = "fcup_cavalry_horse_002_mesh"
+	version = 1
+	
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "AQI_CAVALRY_4_rider" 
+	}
+}
+
+entity = {
+	name = "AQI_CAVALRY_4_rider"
+	pdxmesh = "fcup_NUM_cavalry_04_mesh"
+	version = 1
+	
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = { 
+		Right_hand_node = "fcup_cavalry_saber" 
+	}
+}
+
+### ARTILLERY ###
+
+entity = {
+	name = "AQI_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = { 
+		name = "gunman"
+		infantry_node = "AQI_INFANTRY_1" 
+		cannon_node = "westerngfx_ARTILLERY_1_cannon" 
+	}
+}
+
+entity = {
+	name = "AQI_ARTILLERY_2"
+	pdxmesh = "artillery_base_mesh"
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = { 
+		name = "gunman"
+		infantry_node = "AQI_INFANTRY_2" 
+		cannon_node = "westerngfx_ARTILLERY_2_cannon" 
+	}
+}
+
+entity = {
+	name = "AQI_ARTILLERY_3"
+	pdxmesh = "artillery_base_mesh"
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = { 
+		name = "gunman"
+		infantry_node = "AQI_INFANTRY_3" 
+		cannon_node = "westerngfx_ARTILLERY_3_cannon" 
+	}
+}
+
+entity = {
+	name = "AUG_ARTILLERY_4"
+	pdxmesh = "artillery_base_mesh"
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = { 
+		name = "gunman"
+		infantry_node = "AUG_INFANTRY_4" 
+		cannon_node = "westerngfx_ARTILLERY_4_cannon" 
+	}
+}
