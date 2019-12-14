@@ -35,17 +35,32 @@ historical_units = {
 
 
 leader_names = {
+	Arendell Ashton "de Aston" Aglionby Appleyard Allestrey Ashburnham Arnway Aucher Ayloffe
+	Butler "de Bohun" "de Burgh" Brunel Ball Baker Batten Beuamont Blake Bokenham Booth Barebon Bassett Beeston Brooke Bagenal Baskerville Belknap Bellingham Blagge Blount Bowes Brown Bulmer Backhouse Bampfield Baggerley Backwell Belasyse Berkeley Boldero Bowyer Bradley Brockman Bulstrode Boyle Button Blood Barn Beckley Belet Bendings Brancastre
+	Clifford Crowe Cornewall Coxe Carteret Churchill Carpenter Cecil Conyers Carey Clere Comstock Clinton Carew Carleill Cholmondeley Cokayne Coningsby Conway Cosby Croft Cromwell Curtius Cavendish Capell Carnaby Caulfield Clarges Colepeper Cockburn Colleton Cornwallis Cranstoun Curwen Chard Cooper Clarkson
+	Despencer Dampier Darrell Deane Delaval Diles Dummer Drake Dudley Dalbier Denton Digby Dering Dowdeswell Drope Duckett Dyve
+	Egerton "d'Evreux" Evelyn Ernle Erskine Every Eyton
+	Feilding FitzRoy Fairborne Fuller Fletcher Fleming Fenton Frobisher FitzWilliam Firebrace Fairborne Fanshawe Farindon Farrington Featley Fenwick Fetherstonhaugh Fettiplace Fitch Fleetwood Fortescue Fox Fulford Fulwood Fitzurse Fitzhenry
+	Greville "de Gramont" Gifford Green Greenhill Grey Gonson Gresley Gamull Gascoigne Gatford Gleane Godolphin Goodwin Gordon Gorges Gower Greenhalgh Gwynne
+	Hastings Haddock Hopsonn Holland Hawkins Holstocke Howard Hopton Huddleston Hales Hamilton Hammond Hanbury Hanmer Harris Hele Hervey Hewett Heydon Hicks Hiseland Hoghton Holles Hooke Hudson Hyde Hackworth Hammond
+	Ivatt Ingram Isham
+	Jennings Jermyn Johnson
+	Kempthorne Killigrew Knollys Kemeys Kendall King Kinnaird Keith Kyrton
+	Leveson Littleton Laugharne Levett Lewger "L'Estrange" Langston Lawes Langdale Legge Leslie Lewknor Liddell Lloyd Lockhart Lovelace Lucas Lunsford Lyster
+	Myall Mathrafal Miller Mainwaring Mansell Mennes Monson Montagu Munden Malyn Manners Mabbot Marshall Mercer Mallory Manning Mansel Master Meller Mohun Morgan Morris Morton Mostyn Musgrave May
+	Nevell Norreys Nayler Napier Needham Norborne Norton Norweood Nott Neckam
+	Osborne Oglander Ogle Ottley
+	Percy Pym Palmer Penington Pett Priestman Paulet Pelham Perrot Popham Poynings Pierrepont Pakington Palmes Peachell Peirce Penderel Pennyman Penruddock Pettus Phelips Pleydell Poingdestre Polland Porter Poulett Pretyman Price Primrose Pryce Puckering Pye Pertwee Peverell
+	"de Quincy"
+	Rainsborough Robbins Russell Randolph Reynell Rich Rochfort Ruthven Radcliffe Ravenscroft Ridell Rollo Roydon Rumsey Rainhill
+	Scarponnis Smith Sergison Seymour Shovell Slingsby Somers Stickland Spert Shaftoe "St. Leger" "St. Lawrence" "St. John" Scory Scrope Shirley Strangways Savage Slaughter Sainthill Salusbury Sclater Scudamore Shatterell Sheldon Slanning Snell Speke Spelman Stanhope Stanley Stradling Sydenham
+	Tatton Trevanion "de Turberville" Taylor Taaffe Thomson Thorold Throckmorton Tichborne Tollemache Townshend Tuke Twysden Tyldesley Tyrrell Thornycroft Taillebois
+	Ughtred "d'Ufford" Udall Urquhart 
+	Vane "de Vere" Vaux Vicars Vaughan Venables Verney Vowell Villiers
+	Warren Waterhouse Wadham Warde Woodhouse Wyndham Wynter Wallop Wenman Wentworth Wharton Whitelocke Wilsford Willoughby Winstanley Wagstaffe Wandesford Watson Whitford Widdrington Willougby Windebank Wolstenholme Wortley Wrey Wren
+	Yelverton York Yeamans
+}
 
-	"Robert" "Anne" "Hugh" "Maurice" "Roger" "Constance" "Michael" "Martin" "Simon" "Catherine" 
-	"Emma" "Joan" "Mahaut" "Juliana" "Isabel" "Lionel" "Margaret" "Alice" "Ela" "Cecily" 
-	"John" "William" "Ralph" "Godfrey" "Andrew" "Alan" "Humphrey" "Mary" "Richard" "Edith" 
-	"Adela" "Alexander" "Laurence" "Eric" "Philippa" "Adam" "Paul" "Matilda" "Prasutagus" "Boudica" 
-	"Wehha" "Wuffa" "Tytila" "Rædwald" "Eorpwald" "Anna" "Æthelhere" "Æthelwold" "Ealdwulf" "Ealdwald" 
-	"Beonna" "Æthelred" "Æthelberht" "Æthelweard" "Æthelstan" "Eadmund" "Gyrth" "Edward" "Thomas" "Eleanor" 
-	"Albert" "Alfred" "Anselm" "Arnold" "Arthur" "Aubrey" "Christopher" "David" "Edmund" "Eustace" 
-	"Fulk" "Geoffrey" "George" "Gerald" "Gilbert" "Gregory" "Guy" "Henry" "Jocelyn" "Jordan" 
-	"Mark" "Matthew" "Nicholas" "Peter" "Philip" "Randolph" "Reginald" "Stephen" "Theobald" "Waleran" 
-	"Walter" }
 monarch_names = {
 	"Robert #0" = 1
 	"Anne #0" = -1
