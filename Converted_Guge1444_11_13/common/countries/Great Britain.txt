@@ -127,6 +127,8 @@ ship_names = {
 	Theseus Tigre Tramontana Triumph
 	Unicorn Union
 	Vanguard Victory
-	Warspite Worcester
+	Warspite Worcester
+	
+	"Mister Bean"
 }
 
