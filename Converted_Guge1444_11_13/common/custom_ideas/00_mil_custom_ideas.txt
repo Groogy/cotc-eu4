@@ -363,7 +363,7 @@ mil_idea_modifiers = {
 				}
 				capital_scope = {
 					OR = {
-						has_terrain = mountains
+						has_terrain = mountain
 						has_terrain = highlands
 						has_terrain = hills
 					}

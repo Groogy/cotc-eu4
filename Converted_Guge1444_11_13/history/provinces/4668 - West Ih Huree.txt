@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+owner = W08
+controller = W08
+add_core = W08
+culture = mongol
+religion = tengri_pagan_reformed
+add_core = W11
+capital = "Orkhon"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group

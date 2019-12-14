@@ -1,0 +1,14 @@
+# 4691 - As
+ck2_converter_generated = yes
+owner = X68
+controller = X68
+add_core = X68
+culture = mongol
+religion = sunni
+capital = "As"
+trade_goods = fur
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+discovered_by = nomad_group

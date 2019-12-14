@@ -1,0 +1,16 @@
+#4689 - Om
+
+ck2_converter_generated = yes
+owner = W20
+controller = W20
+add_core = W20
+culture = mongol
+religion = sunni
+capital = "Om"
+trade_goods = fur
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+is_city = yes
+discovered_by = nomad_group

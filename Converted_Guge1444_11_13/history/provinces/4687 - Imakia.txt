@@ -1,0 +1,23 @@
+#4687 - Imakia
+
+ck2_converter_generated = yes
+owner = W20
+controller = W20
+add_core = W20
+culture = mongol
+religion = sunni
+capital = "Imakia"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+
+
+discovered_by = nomad_group
+
+1444.1.1 = {
+	is_city = yes
+	trade_goods = livestock
+}
