@@ -1,0 +1,213 @@
+# Britannia
+
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 153  0 0 }
+
+revolutionary_colors = { 5  13  0 }
+
+historical_idea_groups = {
+	aristocracy_ideas
+	naval_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Edward #1" = 60
+	"Henry #0" = 40
+	"William #0" = 35
+	"Reginald #1" = 35
+	"James #0" = 30
+	"Frederick #0" = 30
+	"Richard #1" = 25
+	"Roger #0" = 25
+	"Charles #0" = 20
+	"John #1" = 20
+	"Nicholas #0" = 15
+	"Stephen #0" = 10
+	
+	"Abraham #0" = 0
+	"Adam #0" = 0
+	"Adrian #0" = 0
+	"Alan #0" = 0
+	"Albert #0" = 0
+	"Alexander #0" = 0
+	"Alfred #0" = 0
+	"Algernon #0" = 0
+	"Andrew #0" = 0
+	"Anthony #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Aurelian #0" = 0
+	"Baldwin #0" = 0
+	"Basil #0" = 0
+	"Benedict #0" = 0
+	"Benjamin #0" = 0
+	"Bernard #0" = 0
+	"Bevil #0" = 0
+	"Caleb #0" = 0
+	"Clarence #0" = 0
+	"Cloudesley #0" = 0
+	"Chichester #0" = 0
+	"Christian #0" = 0
+	"Christopher #0" = 0
+	"Copleston #0" = 0
+	"Daniel #0" = 0
+	"David #0" = 0
+	"Dunstan #0" = 0
+	"Edmund #0" = 0
+	"Edwin #0" = 0
+	"Eleazar #0" = 0
+	"Endymion #0" = 0
+	"Ephraim #0" = 0
+	"Eusebius #0" = 0
+	"Francis #0" = 0
+	"Fulke #0" = 0
+	"Gabriel #0" = 0
+	"Geoffrey #0" = 0
+	"George #0" = 0
+	"Gerard #0" = 0
+	"Gervase #0" = 0
+	"Gilbert #0" = 0
+	"Giles #0" = 0
+	"Gregory #0" = 0
+	"Guylford #0" = 0
+	"Guy #0" = 0
+	"Hamelin #0" = 0
+	"Hamon #0" = 0
+	"Harold #2" = 0
+	"Hugh #0" = 0
+	"Humphrey #0" = 0
+	"Isaac #0" = 0
+	"Jeremiah #0" = 0
+	"Jordan #0" = 0
+	"Joseph #0" = 0
+	"Julian #0" = 0
+	"Justin #0" = 0
+	"Justinian #0" = 0
+	"Kenrick #0" = 0
+	"Laurence #0" = 0
+	"Lucius #0" = 0
+	"Luke #0" = 0
+	"Mark #0" = 0
+	"Marmaduke #0" = 0
+	"Martin #0" = 0
+	"Matthew #0" = 0
+	"Maurice #0" = 0
+	"Michael #0" = 0
+	"Nathaniel #0" = 0
+	"Neville #0" = 0
+	"Nigel #0" = 0
+	"Oliver #0" = 0
+	"Patrick #0" = 0
+	"Paul #0" = 0
+	"Peregrine #0" = 0
+	"Peter #0" = 0
+	"Philip #0" = 0
+	"Ralph #0" = 0
+	"Roderick #0" = 0
+	"Rowland #0" = 0
+	"Rupert #0" = 0
+	"Sackville #0" = 0
+	"Samuel #0" = 0
+	"Simon #0" = 0
+	"Stafford #0" = 0
+	"Sylvanus #0" = 0
+	"Theobald #0" = 0
+	"Theodore #0" = 0
+	"Theophilus #0" = 0
+	"Thomas #0" = 0
+	"Timothy #0" = 0
+	"Tristan #0" = 0
+	"Valentine #0" = 0
+	"Victor #0" = 0
+	"Vincent #0" = 0
+	"Vivian #0" = 0
+	"Waleran #0" = 0
+	"Walter #0" = 0
+	"Warwick #0" = 0
+	"Wingfield #0" = 0
+	
+	"Eleanor #0" = -10
+	"Blanca #1" = -10
+	"Mary #0" = -5
+	"Elizabeth #0" = -5
+	"Juliana #0" = -1
+	"Edith #0" = -1
+}
+
+leader_names = {
+	Arendell Ashton "de Aston" Aglionby Appleyard Allestrey Ashburnham Arnway Aucher Ayloffe
+	Butler "de Bohun" "de Burgh" Brunel Ball Baker Batten Beuamont Blake Bokenham Booth Barebon Bassett Beeston Brooke Bagenal Baskerville Belknap Bellingham Blagge Blount Bowes Brown Bulmer Backhouse Bampfield Baggerley Backwell Belasyse Berkeley Boldero Bowyer Bradley Brockman Bulstrode Boyle Button Blood Barn Beckley Belet Bendings Brancastre
+	Clifford Crowe Cornewall Coxe Carteret Churchill Carpenter Cecil Conyers Carey Clere Comstock Clinton Carew Carleill Cholmondeley Cokayne Coningsby Conway Cosby Croft Cromwell Curtius Cavendish Capell Carnaby Caulfield Clarges Colepeper Cockburn Colleton Cornwallis Cranstoun Curwen Chard Cooper Clarkson
+	Despencer Dampier Darrell Deane Delaval Diles Dummer Drake Dudley Dalbier Denton Digby Dering Dowdeswell Drope Duckett Dyve
+	Egerton "d'Evreux" Evelyn Ernle Erskine Every Eyton
+	Feilding FitzRoy Fairborne Fuller Fletcher Fleming Fenton Frobisher FitzWilliam Firebrace Fairborne Fanshawe Farindon Farrington Featley Fenwick Fetherstonhaugh Fettiplace Fitch Fleetwood Fortescue Fox Fulford Fulwood Fitzurse Fitzhenry
+	Greville "de Gramont" Gifford Green Greenhill Grey Gonson Gresley Gamull Gascoigne Gatford Gleane Godolphin Goodwin Gordon Gorges Gower Greenhalgh Gwynne
+	Hastings Haddock Hopsonn Holland Hawkins Holstocke Howard Hopton Huddleston Hales Hamilton Hammond Hanbury Hanmer Harris Hele Hervey Hewett Heydon Hicks Hiseland Hoghton Holles Hooke Hudson Hyde Hackworth Hammond
+	Ivatt Ingram Isham
+	Jennings Jermyn Johnson
+	Kempthorne Killigrew Knollys Kemeys Kendall King Kinnaird Keith Kyrton
+	Leveson Littleton Laugharne Levett Lewger "L'Estrange" Langston Lawes Langdale Legge Leslie Lewknor Liddell Lloyd Lockhart Lovelace Lucas Lunsford Lyster
+	Myall Mathrafal Miller Mainwaring Mansell Mennes Monson Montagu Munden Malyn Manners Mabbot Marshall Mercer Mallory Manning Mansel Master Meller Mohun Morgan Morris Morton Mostyn Musgrave May
+	Nevell Norreys Nayler Napier Needham Norborne Norton Norweood Nott Neckam
+	Osborne Oglander Ogle Ottley
+	Percy Pym Palmer Penington Pett Priestman Paulet Pelham Perrot Popham Poynings Pierrepont Pakington Palmes Peachell Peirce Penderel Pennyman Penruddock Pettus Phelips Pleydell Poingdestre Polland Porter Poulett Pretyman Price Primrose Pryce Puckering Pye Pertwee Peverell
+	"de Quincy"
+	Rainsborough Robbins Russell Randolph Reynell Rich Rochfort Ruthven Radcliffe Ravenscroft Ridell Rollo Roydon Rumsey Rainhill
+	Scarponnis Smith Sergison Seymour Shovell Slingsby Somers Stickland Spert Shaftoe "St. Leger" "St. Lawrence" "St. John" Scory Scrope Shirley Strangways Savage Slaughter Sainthill Salusbury Sclater Scudamore Shatterell Sheldon Slanning Snell Speke Spelman Stanhope Stanley Stradling Sydenham
+	Tatton Trevanion "de Turberville" Taylor Taaffe Thomson Thorold Throckmorton Tichborne Tollemache Townshend Tuke Twysden Tyldesley Tyrrell Thornycroft Taillebois
+	Ughtred "d'Ufford" Udall Urquhart 
+	Vane "de Vere" Vaux Vicars Vaughan Venables Verney Vowell Villiers
+	Warren Waterhouse Wadham Warde Woodhouse Wyndham Wynter Wallop Wenman Wentworth Wharton Whitelocke Wilsford Willoughby Winstanley Wagstaffe Wandesford Watson Whitford Widdrington Willougby Windebank Wolstenholme Wortley Wrey Wren
+	Yelverton York Yeamans
+}
+
+ship_names = {
+	Avallonia Artorius Anglia Augustine Antelope Advance
+	Brutus Bede Britannia Boudicca Berenice
+	Cambria Cumbria Caledonian Cornubia Caliburnus Cantia "Catch Me Who Can" "City of Truro" "Cadbury Castle" "City of Birmingham" Centuar Constantine Conqueror Confessor
+	Dougal Douglas Diana "Duchess of Hamilton" "Duchess of Sutherland" Defender
+	Exe "Edward Thomas" Experiment
+	Fury "Flying Scotsman" "Fowler's Ghost" Fulbert
+	"Great Marquess" "Green Arrow"
+	Hibernia Herluin
+	Invincible Incessant
+	Jerusalem "Jenny Lind"
+	Londinium Locrinus "Lancashire Witch" "Lord Faringdon" Llywelyn Lew Lion Leviathan
+	Monavia Minotaur "Maid Marian" Monarch Mercia Merciful
+	Northumbria Novelty Nancy
+	Odo "Olton Hall"
+	Palladius "Pendennis Castle" Planet
+	Rocket Rollo
+	Sentinel "Sans Pareil" Seagull "Silver Link" Salamanca "Scots Guardsman" Sagittarius "Sheiff of Nottingham"
+	Tamesis "Townsend Hook" Tiger Taurus
+	Ultonia
+	Valiant Victory Valentia
+	Zealous
+}
+

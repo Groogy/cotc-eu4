@@ -3,27 +3,29 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 24 171 226 }
 
-
-
-
 leader_names = {
+	Assézat Achamps Achamps "d'Abonel" Acquitart Affaros Ayceli Aribert Aldebal "d'Auzits" "d'Aorlhac"
+	Bocquelot Bojay "de Bonabocha" Bolas Balsac Bandeli Bergonho Bocart Bonafos Bournazels Boysonnada Bozesa Brau Broa Bouscatel
+	Cabrespinas Caissac Camboulas Campanhac Canac Capelier Carlat Castanhier Cayrosa Contet "de Carlat" "de Condat" "del Cayro" "del Cros" Cabanis Cardenal
+	Delguy Delpuech Dabbaytz Dabadia Delagnel Dubocau Delafite Domergue Duran Drouet Deffès
+	Ebrart "d'Estadens" "d'Estissac" Estreguilh Engels
+	Fabre Faure Ferney Farcel Ferrand Floretas Fonfrega Formis Fromenta "de Fontencha" "de la Fon" "del Fraysse" Fonsalada
+	Gaffuer "de Galard" "de Goth" "de Grossoles" Gabriac Galvahn Gasc Gasto Ginesta Girma Grefolieyra Guasanha Guirlarda Guirlart Guisardo Guitart "de Gualhac"
+	Higounet
+	Imbert "de l'Isle-Jourdain"
+	Jalenca
+	Lebouquel "de La Broue de Gandelon" "de Lacaze" "de Ladevèze" "de Loupiac" Lagomia "de Limayrac" Levesville
+	Manha "de Madaillan" "de Meulan" Mansaga Marques Marro Martel Marti Maruel Massabuou Maurel Mercieyra Molenier Monmato Montes Moysset "de Manso" "de Mayres" Mengaud
+	Natas "de Nogarède" "de Nogaret" Noguès "de Namaria"
+	"d'Ouvrier"
+	Pandaries "de Pelamourgues" Perès "de Perricard" Pons "de Pradines" "de Puechgarric" Palhargues Palhol Perier Pontier Porro "de la Parra" "de Peyramortas" "de Podeo"
+	Randaynes "de Rabastens" "de Roux d'Alzonne" Regandi Rigaldi Rio Riquet Roquier Rossinhol Rostanh
+	Sabatier "de Saint Félix" Salustre Samoral Sampso Sandral Saumah Sedassier Segualar Serras Seyrac  "de Scoralha" "de Sortz"
+	Teyssier "de Tholozany" "de Toulouse-Foissac" "de Toulouse-Lautrec" Teldes Tomas "de Terralh" "de Tintinhac"
+	Valeta Veziac "de Villemur" Viguer "de Vernholes" "de Veyrac" "del Verdier" Vidal
+	"de Xaintrailles"
+}
 
-	"Guillaume" "Alaïs" "Othon" "Henriette" "Bohemond" "Azalaïs" "Barthélémi" "Madalena" "Raimbaut" "Odette" 
-	"Guy" "Elisabeth" "Mahaut" "Archambaud" "Marguerite" "Mathilde" "Marie" "Agnes" "Jean" "Beatrice" 
-	"Louis" "Robert" "Philippe" "Blanche" "Denise" "Gaucher" "Yolande" "Alain" "Jeanne" "Agnès" 
-	"Geoffroy" "Enric" "Aurengarde" "Belleassez" "Mascarose" "Violent" "Éléonore" "Marta" "Vicenç" "Adelaide" 
-	"Adelinde" "Joana" "Adhémar" "Acfred" "Aimeric" "Alberic" "Albert" "Aldebert" "Alias" "Anfòs" 
-	"Amalric" "Amaneus" "Ancelmes" "André" "Archambaut" "Arnaut" "Artau" "Aton" "Audoïn" "Aymar" 
-	"Aymeric" "Aznar" "Barral" "Bartoumiéu" "Baudoïn" "Beneset" "Bérard" "Berenguié" "Bermond" "Bernat" 
-	"Bernat-Aton" "Bernat-Ezi" "Bertrand" "Blasi" "Borel" "Boson" "Carles" "Clamenç" "Centolh" "Dàvi" 
-	"Dat" "Dodon" "Doumenge" "Duran" "Ebles" "Emmanuèl" "Ermengau" "Estève" "Filip" "Ferrand" 
-	"Florènç" "Folquet" "Francés" "Frederi" "Garcia" "Gaston" "Gausbert" "Gautier" "Gilbèrt" "Girard" 
-	"Girvais" "Godafres" "Gui" "Guichard" "Guigues" "Guilhèm" "Guiraud" "Guitart" "Ives" "Jacme" 
-	"Jaufret" "Joan" "Jordan" "Jorge" "Josselin" "Julian" "Laurènç" "Leon" "Loïs" "Loui" 
-	"Lop" "Marçau" "Martin" "Matfre" "Matias" "Milo" "Miquel" "Nicholaus" "Odon" "Otton" 
-	"Pèire" "Péire-Arnaut" "Péire-Raimond" "Peranudet" "Pol" "Pons" "Raimond" "Raimond-Berenguié" "Rainaut" "Rainer" 
-	"Raolf" "Ricard" "Robèrt" "Rogier" "Sancho" "Savarics" "Simon" "Tièrri" "Tibaud" "Toumas" 
-	"Ubald" "Ubert" "Uc" "Ugues" "Vézian" }
 monarch_names = {
 	"Guillaume #0" = 1
 	"Alaïs #1" = -22
