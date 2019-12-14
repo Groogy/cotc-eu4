@@ -13,6 +13,8 @@
  Z05_ADJ: "Jamtlandic"
  Z18: "Aquitaine"
  Z18_ADJ: "Aquitanian"
+ AQI: "Aquitania"
+ AQI_ADJ: "Aquitainian"
  Z06: "Aquitaine"
  Z06_ADJ: "Aquitanian"
  Z07: "Warwick"
@@ -31,7 +33,7 @@
  Z13_ADJ: "Somerseton"
  Z14: "Norfolk"
  Z14_ADJ: "Norfolkian"
- Z15: "Aquitaine"
+ Z15: "Aquitaine" # Ducal Aquitaine
  Z15_ADJ: "Aquitanian"
  Z16: "Cumbria"
  Z16_ADJ: "Cumbrian"

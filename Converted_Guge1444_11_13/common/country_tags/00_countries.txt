@@ -128,6 +128,7 @@ PRO	= "countries/Provence.txt"
 SPI	= "countries/SardiniaPiedmont.txt"
 TOU	= "countries/Toulouse.txt"
 BER	= "countries/Berry.txt"
+AQI = "countries/Aquitania.txt"
 	
 #HRE
 AAC = "countries/Aachen.txt" 

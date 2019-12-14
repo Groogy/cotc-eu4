@@ -1,0 +1,205 @@
+#Country Name: Aquitania, previously Aquitaine
+
+graphical_culture = westerngfx
+
+color = { 150 80 170 }
+
+revolutionary_colors = { 16  8  16 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	religious_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+monarch_names = {
+	"Marc #0" = 35
+	"Ricard #1" = 25
+	"Laurenç #0" = 25 	# Laurence
+	"Guilhèm #0" = 25 	# William
+	"Alberic #2" = 20 	# Aubrey
+	"Robèrt #0" = 20
+	"Brut #1" = 15 		# Brutus
+	"Edoard #1" = 15 	# Edward I of Aquitaine also ruled as Emperor of Britannia
+	"Uc #0" = 10
+	"Locrin #0" = 5 	# Locrinus, 2nd son of Brutus the Traitor
+	
+	"Adela #1" = -5 	# Alaïs
+	"Édith  #1" = -3
+	"Joana #1" = -3 	# "Joan"
+	"Geneviva #0" = -2
+	"Carlòta #0" = -2
+
+	"Alexandre #0" = 0
+	"Amalric #0" = 0
+	"Albèrt #0" = 0
+	"Alcèu #0" = 0
+	"Andrèu #0" = 0
+	"Anfòs #0" = 0
+	"Antòni #0" = 0
+	"Arnaut #0" = 0
+	"Audoïn #0" = 0
+	"August #0" = 0
+	"Austau #0" = 0
+	"Bartoumiéu #0" = 0
+	"Baudoïn #0" = 0
+	"Beneset #0" = 0
+	"Bérard #0" = 0
+	"Bernardus #0" = 0
+	"Blasi #0" = 0
+	"Bonaventura #0" = 0
+	"Bonifaci #0" = 0
+	"Borel #0" = 0
+	"Boson #0" = 0
+	"Carles #0" = 0
+	"Centolh #0" = 0
+	"Claudi #0" = 0
+	"Colonbus #0" = 0
+	"Dàvi #0" = 0
+	"Dionisi #0" = 0
+	"Durandus #0" = 0
+	"Èble #0" = 0
+	"Enric #0" = 0
+	"Estève #0" = 0
+	"Eugèni #0" = 0
+	"Fèlix #0" = 0
+	"Fernand #0" = 0
+	"Filip #0" = 0
+	"Filipot #0" = 0
+	"Folc #0" = 0
+	"Francés #0" = 0
+	"Frederi #0" = 0
+	"Galhardus #0" = 0
+	"Gilbèrt #0" = 0
+	"Gregòri #0" = 0
+	"Grifon #0" = 0
+	"Guilabert #0" = 0
+	"Guirat #0" = 0
+	"Harold #0" = 0
+	"Isidòr #0" = 0
+	"Jacme #0" = 0
+	"Jaufré #0" = 0
+	"Joan #0" = 0
+	"Jòrdi #0" = 0
+	"Josèp #0" = 0
+	"Jovin #0" = 0
+	"Juli #0" = 0
+	"Julian #0" = 0
+	"Leon #0" = 0
+	"Loís #0" = 0
+	"Lop #0" = 0
+	"Manases #0" = 0
+	"Manual #0" = 0
+	"Marçau #0" = 0
+	"Martin #0" = 0
+	"Matfre #0" = 0
+	"Miquel #0" = 0
+	"Nicolau #0" = 0
+	"Oton #0" = 0
+	"Pascau #0" = 0
+	"Pau #0" = 0
+	"Pèire #0" = 0
+	"Ponç #0" = 0
+	"Raimond #0" = 0
+	"Rambaud #0" = 0
+	"Raolf #0" = 0
+	"Renat #0" = 0
+	"Sancho #0" = 0
+	"Savarics #0" = 0
+	"Segui #0" = 0
+	"Sèrgi #0" = 0
+	"Sevèr #0" = 0
+	"Severin #0" = 0
+	"Sicart #0" = 0
+	"Simon #0" = 0
+	"Teodòr #0" = 0
+	"Thomé #0" = 0
+	"Tibaud #0" = 0
+	"Tibèri #0" = 0
+	"Tièrri #0" = 0
+	"Uc #0" = 0
+	"Vezian #0" = 0
+	"Vicenç #0" = 0
+	"Victor #0" = 0
+	"Xavièr #0" = 0
+	"Zacàrias #0" = 0
+	"Zefirin #0" = 0
+
+	"Beatriz #0" = -1
+	"Filadèlfa #0" = -1
+	"Margarida #0" = -1
+	"Terèsa #0" = -1
+}
+
+leader_names = {
+	Agier "del Abatut" Atonis Alquerius Aymes Algais "dels Armes" "d'Aspel" "d'Apchièr" Anglada "d'Aurenja" "d'Arle" Alfaric "d'Aorlhac" Amorós
+	Bonsom Barravi Bares Barra Bonasias Baiulus "de Balencs" "de Blezon" Bonassa "de las Bordas" Baudrier Biron "de Bornelh" Brueis Brun Bèc "de la Bacalaria"
+	Cathena "de Calhavello" "de Cornelhano" Chaberti "de Cazalibus" "de Cabaretz" "de Castelbo" Castanh "de Corteta" Crosilhat Cailús
+	Domerc Danièl Delèris Delpastre Desporrins "de Diá"
+	Escrivan "d'Escorralha" Escartin
+	Fava "de Fulhonibus" Fontanas Fortis "lo Frizos" Fonsalada Faidit Flehutin "de Franguis" Fretpuch "de Fretel"
+	Gardas Guidonis "de Galhaco" "de Grepiaco" Gilaberti Goloens Gausmar Galhard Godolin Garchot
+	Hugonis
+	"de la Isla"
+	Jusep "dels Juratz" Javaloyès
+	Laneria "de Lomanha" "de Lhivro" "de Sant Leidier"
+	Mihasserius Mabres Macellarius "de Maro" "de Manso" "de Malleo" Mirs "de Malvezi" "de Maruèlh" "de Marselha" Marieton "de Miraval" "dau Melhau" Manzer
+	Odonis
+	Plura "de Pinu" Peyrolle Peletz "de Peirigorc" "de Porcairagues" Peirotet Prax "de Puèicibot"
+	"d'Orlhac"
+	"de Quersi"
+	Radulphus "de Roaxio" Raynes Riqueti Rulh "de Ruppe" "de Rippis" "de Roquis" "de Rabastens" "de Rocafolhs" Romanilha "deu Riu"
+	"de Saissi" "de Sent Beat" "de Sent Prais" "de Salvanhac" "de Salanovat" "de Saleta" "de Sant Circ" "de Segret" "de Sanha"
+	Triarius Tolsa "del Truc" "de Tolosa" Talhaferri Telièr "de Trobar" "de Tintinhac"
+	Unautz "d'Ussel"
+	Vinhas Varest Vinas Vasconis "de Vals" Verlhac "de Ventadrn" Viaule "de Vilaret"
+}
+
+ship_names = {
+	Armanhac Auvèrnhe Aquitània Aush Auloron Azalaís Aureòl "Aeneas Silvius" Agla
+	Baiona Bearn Biàrritz Bigòrra Bordèu Bonafós Berenguela Bituitus Beatriz Balena
+	Cornelha Cèrvi
+	"Duc de Tolosa" Doça
+	Engolmés
+	Fois Folquet Frèdol
+	Garona Gasconha Gironda Guiana Gallia Guionetus Gothia Guillelmus Gondovald Gerberge Gislebertus "Gay Saber"
+	Honoretus "Hunald d'Aquitània"
+	Immortal Inevitable Imbrandable Indefectible Invariable Incredible Independent Índia
+	Jacomardus Joana
+	Lemosin Lengadòc Liborna Lionés Luernios Liaupard Leon
+	"Marcus Miallus" Monstre Malhòrca Malastrós
+	Novempopulània Narbonés Nemausus
+	Pau Peiregòrd Pirenèus Provença Pelfort Perdigon
+	Quodvultdeus
+	Roergue Rosselhon Robertz Rotboald
+	Santonge Septimania "Santa Maria" "Sant Ròc" "Sant Agustin" "Sant Adrian" "Sant Ermengol" "Sant Martin" "Sant Omobon" "Sant Torquat" "Sant Retir" "Sant Geli" "Sant Sarnin" "Sant Onèst" "Sant Fermin" "Sant Joan" "Sant Jòrdi" "Sant Pèir" "Santa Reparata" "Santa Quitèira" Sibilia Superbus "Sant Sarnin" "Sant Selvi"
+	Trobador Tigre Thule
+	Violant Victòria
+}
+
+army_names = {
+	"Armada de $PROVINCE$"
+}

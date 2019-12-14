@@ -1,0 +1,23 @@
+#213 - Barcelona
+
+owner = Y37
+controller = Y37
+add_core = Y37
+add_core = CAT
+add_core = AQI
+culture = catalan
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 8
+trade_goods = glass 
+base_manpower = 3
+capital = "Barcelona" 
+is_city = yes
+estate = estate_burghers
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 8
+center_of_trade = 1
