@@ -40,7 +40,6 @@ discovered_by = ottoman
 	remove_core = EPI
 	remove_core = KNI
 	remove_core = TRA
-	remove_core = WAL
 	remove_core = NAX
 	remove_core = RAG
 	remove_core = CEP
