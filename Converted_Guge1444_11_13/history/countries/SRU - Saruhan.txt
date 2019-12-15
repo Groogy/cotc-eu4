@@ -1,6 +1,6 @@
 # Saruhan
 government = monarchy
-add_government_reform = ottoman_government
+add_government_reform = saruhan_government
 government_rank = 2
 mercantilism = 0.1
 technology_group = eastern
