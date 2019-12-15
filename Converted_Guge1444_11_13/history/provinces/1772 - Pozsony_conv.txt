@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Y79
 controller = Y79
 add_core = Y79
-culture = slovieni
+culture = slovak
 religion = catholic
 citysize = 2000
 add_permanent_claim = GLH
@@ -817,6 +817,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = Y79
 	controller = Y79
-	culture = slovieni
+	culture = slovak
 	religion = catholic
 }
