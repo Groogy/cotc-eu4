@@ -133,7 +133,6 @@ discovered_by = ottoman
 	remove_core = AUG
 	remove_core = HAN
 	remove_core = NUM
-	remove_core = CAS
 	remove_core = GRA
 	remove_core = NAV
 	remove_core = POR
