@@ -1,7 +1,7 @@
 mandy_ideas = {
 	start = {
 		land_morale = 0.1
-		global_manpower_modifier = 0.15
+		colonists = 1
 	}
 	bonus = { land_maintenance_modifier = -0.5 }
 	trigger = {
@@ -10,7 +10,7 @@ mandy_ideas = {
 	free = yes
 
 	pan_africanism = {
-		colonists = 1
+		global_colonial_growth = 10
 	}
 	pan_africanism_66 = {
 		ae_impact = -0.1
