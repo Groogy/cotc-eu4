@@ -1,7 +1,8 @@
 # Hadeln
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 33 101 137 }
+color = { 33  101  137 }
+
 historical_idea_groups = {
 	trade_ideas
 	religious_ideas
@@ -30,27 +31,6 @@ historical_units = {
 	napoleonic_lancers
 }
 
-
-
-leader_names = {
-
-	"Eberhard" "Emma" "Brunhilde" "Gerhild" "Maria" "Klara" "Winfrida" "Ute" "Barbara" "Helga" 
-	"Friedrica" "Hartwig" "Thierry" "Lutbert" "Dietmar" "Anna" "Elisabeth" "Wilhelm" "Hermann" "Dietrich" 
-	"Udelhild" "Arnold" "Aleidis" "Jutta" "Mechthild" "Walram" "Katherina" "Otto" "Richardis" "Blancheflor" 
-	"Margarethe" "Pironetta" "Johann" "Gerhard" "Gottfried" "Johanna" "Phillippa" "Richarda" "Heinrich" "Hemma" 
-	"Reinhold" "Liudolf" "Adalhard" "Henri" "Ulrike" "Ernst" "Engelbert" "Katharina" "Ekkehard" "Christine" 
-	"Jürgen" "Agnes" "Ursula" "Adalbero" "Adalbert" "Adam" "Ademar" "Adolf" "Alarich" "Alberich" 
-	"Albrecht" "Aldrich" "Alois" "Amadeus" "Amalrich" "Andreas" "Anselm" "Arnulf" "Augustin" "Baldarich" 
-	"Baldewin" "Baldomar" "Baldur" "Berengar" "Bernhard" "Berthold" "Burchard" "Christopher" "Dieter" "Dietpold" 
-	"Dietwin" "Eginolf" "Ehrenfried" "Ekbert" "Emelrich" "Emich" "Emmerich" "Erich" "Ferdinand" "Filibert" 
-	"Folkhard" "Folkmar" "Franz" "Friedrich" "Gautselin" "Gebhard" "Georg" "Gerlach" "Giselbert" "Gotthard" 
-	"Gottschalk" "Gotzelo" "Guntram" "Gunzelin" "Günther" "Hans" "Hartmann" "Helferich" "Heribert" "Hesso" 
-	"Hugo" "Humbert" "Hupold" "Jakob" "Karl" "Karlmann" "Kaspar" "Konrad" "Kuno" "Lambert" 
-	"Landolf" "Leopold" "Liutbert" "Liutbrand" "Liutpold" "Lothar" "Ludolf" "Ludwig" "Magnus" "Manegold" 
-	"Manfred" "Markward" "Martin" "Matthias" "Meinhard" "Michael" "Nikolaus" "Norbert" "Peter" "Philipp" 
-	"Poppo" "Radbot" "Reinhard" "Rudolf" "Ruprecht" "Rutger" "Siegfried" "Sieghard" "Siegmund" "Sigismund" 
-	"Simon" "Stefan" "Theodorich" "Thietmar" "Thomas" "Udalrich" "Ulrich" "Viktor" "Waldemar" "Walther" 
-	"Welf" "Wenzel" "Werner" "Wido" "Wigerich" "Wolfgang" "Wolfram" }
 monarch_names = {
 	"Eberhard #0" = 1
 	"Emma #0" = -1
@@ -220,14 +200,27 @@ monarch_names = {
 	"Wolfgang #0" = 0
 	"Wolfram #0" = 0
 }
-ship_names = {
-	Ariadne Habicht Adler Albatross Amazone
-	Arcona Basilisk Beowulf Biene Wespe Wolf
-	Nautilus Natter Otter Pelikan Pfeil Meteor
-	Möwe Mücke Luchs König Kaiser Eber Drache
-	Falke Frauenlob Freya Fuchs Gazelle Geier
-	Greif Condor Cormoran Comet Wacht Tiger
-	Seeadler Jaguar Hyäne Blitz Bremse Brummer
-	Bussard Vulkan
+
+leader_names = { 
+	Adler Alers Bake Beckröge Bergius Berninghausen 
+	Boelken Bollheim Brill Delius Drewers Engels Ficke 
+	Foukhard Geffken Gildemeister Grovermann Happach
+	Heimbruch Hinke Kindt Köhne Krefting Laporte Löning 
+	Meyer Oelrichs Ordemann Reiners Rohde Sanders Schulken
+	Steinwachs Stucken Truernitt "von Bobert" "von Cappeln" 
+	"von Holten" "von Horn" "von Meinertzhagen" 
 }
 
+ship_names = {
+	"Adler von Lübeck" "Admiralität von Hamburg" "Arche Noah" "Brunte Kuh" "Der Große Adler" "Engel Gabriel" "Fliegender Hirsch" "Füchslein" "Gelber Löve"
+	"Goldener Löwe" "Grafschaft Mark" "Grüner Drache" "Herzogtum Cleve" "Jesus von Lübeck" "Jonge Tobias" "König David" "Leopoldus Primus" "Lisa von Lübeck"
+	"Lybischer Trotz" "Lübscher Adler" "Maria Catharina" "Nordischer Löwe" "Peter und Paul" "Peter von Danzig" "Prinz Ludwig" "Prophet Daniel" "Ritter Sankt Georg"
+	"Roter Hirsch" "Sankt Laurens" "Sankt Peter" "Schwarzer Rabe" "Sieben Provinzien" "Stad Emden" "Vogel Greif" "Wapen von Bremen" "Wapen von Hamburg"
+	"Wappen von Bremen" "Wappen von Cleve" "Weißer Löwe" "Wilhelmina Margaretta" "Zwei Brüder" Afrikaner Anna Bersteinfänger Bracke Clementia Colonia Derffinger
+	Dorothea Engel Feuerblase Fortuna Friede Fuchs Gabriel Hoffning Johannesburg Kurprinz Makarele Meermann Meerweib Mercurius Morian Pax Pierelepomp Roland Rommelpot
+	Rosenfelde Salamander Seemoewe Seeritter Syrig Wasserhund Windhund Wolkensäule
+}
+
+army_names = {
+	"Erzbischofliche Garde" "Armee von $PROVINCE$" 
+}

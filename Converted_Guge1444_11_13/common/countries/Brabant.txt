@@ -1,7 +1,7 @@
 # Brabant
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 200 100 60 }
+color = { 118  193  153 }
 historical_idea_groups = {
 	trade_ideas
 	religious_ideas
@@ -30,28 +30,6 @@ historical_units = {
 	napoleonic_lancers
 }
 
-
-
-leader_names = {
-
-	"Giselbert" "Heinrich" "Godschalk" "Matilde" "Beatrijs" "Héloise" "Kathrijne" "Georg" "Margareta" "Steyn" 
-	"Karl" "Katharina" "Gueraua" "Plaisance" "Hendrik" "Raynaud" "Taimur" "Ferdinand" "Cothilda" "Dietrich" 
-	"Romilda" "Adalbert" "Sofie" "Wenna" "Gijsbrecht" "Martin" "Gerberge" "Elisabeth" "Reginar" "Richwin" 
-	"Alberada" "Otto" "Frederik" "Gerberga" "Rudolf" "Lambrecht" "Herman" "Mathilda" "Richilde" "Adela" 
-	"Rogier" "Adelbert" "Ida" "Godfried" "Adelheid" "Gozelin" "Willem" "Maria" "Elizabeth" "Mathilde" 
-	"Beatrix" "Jan" "Marguerite" "Johann" "Jutta" "Sophie" "Agnes" "Johanna" "Ludwig" "Mechthild" 
-	"Ilsa" "Hedwig" "Blanche" "Engelbrecht" "Engeltraud" "Hermann" "Douwe" "Imagina" "Aldrich" "Gotthard" 
-	"Gottfried" "Yonefij" "Amadeus" "Brunhilde" "Alijse" "Hildegard" "Ehrenfried" "Arnaud" "Helferich" "Eudes" 
-	"Alberade" "Alarich" "Ludewijn" "Blanceflore" "Rorgon" "Günther" "Clara" "Raimbaut" "Herlinda" "Dirk" 
-	"Gerhild" "Berta" "Francesca" "Ermengard" "Khalid" "Raymond" "Adam" "Giolio" "Konstanze" "Anselm" 
-	"Adriaen" "Albrecht" "Alwin" "Ambroos" "Antoon" "Arnold" "Arnulf" "Balderik" "Barend" "Barnaerd" 
-	"Bartolomeus" "Bavo" "Bertold" "Boudewijn" "Claes" "Claeuwaert" "Daevit" "Damaes" "Diederick" "Eduard" 
-	"Egmund" "Ekbert" "Emmo" "Filips" "Floris" "Folbert" "Frans" "Gerard" "Gerolt" "Gerulf" 
-	"Gerrit" "Gozewijn" "Guij" "Gwijde" "Hubert" "Hugo" "IJsbrand" "IJsbrecht" "Jacco" "Jacob" 
-	"Karel" "Koenraad" "Kristof" "Lambert" "Lodewijk" "Lutbert" "Luthard" "Maertijn" "Marquart" "Niclaes" 
-	"Olivier" "Otwin" "Onno" "Pieter" "Reinaerd" "Reinoud" "Robrecht" "Robert" "Rodulf" "Roelof" 
-	"Roland" "Rutger" "Sebastiaen" "Sicco" "Simon" "Steven" "Theodolf" "Waelram" "Walter" "Wicher" 
-	"Wolfard" }
 monarch_names = {
 	"Giselbert #0" = 1
 	"Heinrich #0" = 1
@@ -147,7 +125,6 @@ monarch_names = {
 	"Berta #0" = -1
 	"Francesca #0" = -1
 	"Ermengard #0" = -1
-	"Khalid #0" = 1
 	"Raymond #0" = 1
 	"Adam #1" = 18
 	"Giolio #0" = 1
@@ -225,14 +202,23 @@ monarch_names = {
 	"Wicher #0" = 0
 	"Wolfard #0" = 0
 }
-ship_names = {
-	Ariadne Habicht Adler Albatross Amazone
-	Arcona Basilisk Beowulf Biene Wespe Wolf
-	Nautilus Natter Otter Pelikan Pfeil Meteor
-	Möwe Mücke Luchs König Kaiser Eber Drache
-	Falke Frauenlob Freya Fuchs Gazelle Geier
-	Greif Condor Cormoran Comet Wacht Tiger
-	Seeadler Jaguar Hyäne Blitz Bremse Brummer
-	Bussard Vulkan
+
+leader_names = {
+	Orthellius Mons Quellinus "de Houtman" Albers
+	"van Meteren" "de Leeuw" "van der Most" "van Egmont"
+	"van Noort" Bielmacker Camper "de Avesnes" "van Kahlden"
+	Leschwein Maas "van Loewen" Debruyne Aylett Jansen "van Wyhe" 
 }
 
+ship_names = { 
+	Brussel
+	Dender Doornik
+	Edingen
+	"Godfried I"
+	"Hendrik I" "Hendrik van Leuven" "Hertog Jan" "Hertogin Johanna" 
+	"Jan I" 
+	Mechelen 
+	Namen 
+	"Filips van Saint-Pol"
+	Zenne 
+}

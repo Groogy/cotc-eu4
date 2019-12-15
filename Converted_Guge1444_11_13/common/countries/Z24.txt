@@ -1,30 +1,8 @@
 # Franconia
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 105 135 105 }
+color = { 147  146  106 }
 
-
-
-
-leader_names = {
-
-	"Siegfried" "Wilhelm" "Ferdinand" "Gerberga" "Patrizia" "Irmeltrud" "Kuno" "Johann" "Clementia" "Engelbert" 
-	"Dorothea" "Romilda" "Humbert" "Jutta" "Binhilde" "Ademar" "Ulrike" "Cothilda" "Liutbrand" "Dietwin" 
-	"Waelram" "Benedicta" "Dieter" "Ludolf" "Leopold" "Stefan" "Hartwig" "Hermann" "Heinrich" "Richgard" 
-	"Hugo" "Ulrich" "Meginhard" "Richardis" "Gottfried" "Elisabeth" "Ida" "Mechthild" "Pilgrim" "Walram" 
-	"Bernhard" "Philipp" "Adelheid" "Dietrich" "Margareta" "Ekbert" "Margarete" "Diederick" "Anselm" "Gunzelin" 
-	"Konstanze" "Alberade" "Ilsa" "Ada" "Irmgard" "Wolfgang" "Reinoud" "Helena" "Sybille" "Ernst" 
-	"Beatrix" "Gheertrude" "Konrad" "Baldarich" "Oda" "Werner" "Alberich" "Ruprecht" "Kunigunde" "Adalbero" 
-	"Adalbert" "Adalhard" "Adam" "Adolf" "Alarich" "Albrecht" "Aldrich" "Alois" "Amadeus" "Amalrich" 
-	"Andreas" "Arnold" "Arnulf" "Augustin" "Baldewin" "Baldomar" "Baldur" "Berengar" "Berthold" "Burchard" 
-	"Christopher" "Dietmar" "Dietpold" "Eberhard" "Eginolf" "Ehrenfried" "Ekkehard" "Emelrich" "Emich" "Emmerich" 
-	"Erich" "Filibert" "Folkhard" "Folkmar" "Franz" "Friedrich" "Gautselin" "Gebhard" "Georg" "Gerhard" 
-	"Gerlach" "Giselbert" "Gotthard" "Gottschalk" "Gotzelo" "Guntram" "Günther" "Hans" "Hartmann" "Helferich" 
-	"Heribert" "Hesso" "Hupold" "Jakob" "Jürgen" "Karl" "Karlmann" "Kaspar" "Lambert" "Landolf" 
-	"Liudolf" "Liutbert" "Liutpold" "Lothar" "Ludwig" "Lutbert" "Magnus" "Manegold" "Manfred" "Markward" 
-	"Martin" "Matthias" "Meinhard" "Michael" "Nikolaus" "Norbert" "Otto" "Peter" "Poppo" "Radbot" 
-	"Reinhard" "Reinhold" "Rudolf" "Rutger" "Sieghard" "Siegmund" "Sigismund" "Simon" "Theodorich" "Thietmar" 
-	"Thomas" "Udalrich" "Viktor" "Waldemar" "Walther" "Welf" "Wenzel" "Wido" "Wigerich" "Wolfram" }
 monarch_names = {
 	"Siegfried #0" = 1
 	"Wilhelm #0" = 1
@@ -198,3 +176,18 @@ monarch_names = {
 	"Wolfram #0" = 0
 }
 
+leader_names = {
+	Dick Sell Söll Schwager Fichtelmann Höhrer Rank
+	Gäbelein Bär Degen Färber Simon Wirth Sack
+	Blochberger Födisch Egelkraut Hager Hofmann
+}
+
+ship_names = {
+	Marienberg "Julius Echter" Main Höchberg
+	Rimpar Biebelried Eigelstadt Uettingen
+	Gramschatz Wern Bergtheim Kietzingen Ochsenfurth
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}
