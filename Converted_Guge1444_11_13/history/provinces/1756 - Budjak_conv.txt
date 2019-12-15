@@ -1,11 +1,11 @@
 ck2_converter_generated = yes
 owner = GLH
 controller = GLH
-add_core = GLH
+add_core = WAL
 culture = romanian
 religion = orthodox
 citysize = 2000
-add_permanent_claim = WAL
+add_permanent_claim = GLH
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = GLH
-	controller = GLH
+	owner = WAL
+	controller = WAL
 	culture = romanian
 	religion = orthodox
 }
