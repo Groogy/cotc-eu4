@@ -1,7 +1,6 @@
 ck2_converter_generated = yes
 owner = SYR
 controller = SYR
-add_core = SYR
 culture = nubian
 religion = catholic
 citysize = 2000
@@ -813,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = SYR
-	controller = SYR
+	owner = HED
+	controller = HED
 	culture = nubian
 	religion = catholic
 }
