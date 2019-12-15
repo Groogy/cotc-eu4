@@ -1,0 +1,6 @@
+union = {
+	first = BAD
+	second = NOV
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
