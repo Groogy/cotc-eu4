@@ -1,0 +1,38 @@
+
+GUG_ideas = {
+	start = {
+		tolerance_heathen = 1
+		defensiveness = 0.1
+	}
+	
+	bonus = {
+		state_maintenance_modifier = -0.4
+	}
+	
+	trigger = {
+		tag = GUG
+	}
+	free = yes       #will be added at load.
+	
+	GUG_idea_1 = {                    
+		movement_speed = 0.1
+	}
+	GUG_idea_2 = {
+		land_morale = 0.15
+	}
+	GUG_idea_3 = {
+		num_accepted_cultures = 3
+	}
+	GUG_idea_4 = {
+		max_states = 12
+	}
+	GUG_idea_5 = {
+		global_prov_trade_power_modifier = 0.15
+	}
+	GUG_idea_6 = {
+		land_forcelimit_modifier = 0.3
+	}
+	GUG_idea_7 = {
+		technology_cost = -0.1
+	}
+}
