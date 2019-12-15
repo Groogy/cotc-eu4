@@ -130,13 +130,7 @@ POR_ideas = {
 
 POL_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = polish
+		always = no
 	}
 }
 
