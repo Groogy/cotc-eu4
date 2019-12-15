@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = GUG
-controller = GUG
-add_core = GUG
+owner = Y56
+controller = Y56
+add_core = Y56
 culture = avadhi
 religion = buddhism
 citysize = 2000
@@ -814,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = GUG
-	controller = GUG
+	owner = Y56
+	controller = Y56
 	culture = avadhi
 	religion = buddhism
 }

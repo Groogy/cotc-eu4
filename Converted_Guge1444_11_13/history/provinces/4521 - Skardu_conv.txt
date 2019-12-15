@@ -5,7 +5,6 @@ add_core = GUG
 culture = panjabi
 religion = sunni
 citysize = 2000
-add_permanent_claim = Y56
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
