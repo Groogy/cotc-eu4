@@ -830,7 +830,7 @@ TRE_ideas = {
 	}
 }
 
-BRI_ideas = {
+GBR_ideas = {
 	trigger = {
 		always = no
 	}
