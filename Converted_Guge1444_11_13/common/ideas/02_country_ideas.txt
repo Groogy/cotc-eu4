@@ -8,123 +8,55 @@
 
 ENG_ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		is_subject = no
-		OR = {
-			primary_culture = anglo_saxon
-			primary_culture = english
-		}
+		always = no
 	}
 }
 
 SWE_ideas = {
 	trigger = {
-		num_of_cities = 15
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		is_subject = no
-		primary_culture = swedish
+		always = no
 	}
 }
 
 RUS_ideas = {
 	trigger = {
-		num_of_cities = 15
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		is_subject  = no
-		primary_culture = russian_culture
+		always = no
 	}
 }
 
 SPA_ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		is_subject = no
-		primary_culture = castillian
+		always = no
 	}
 }
 
 NED_ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		is_subject = no
-		primary_culture = dutch
+		always = no
 	}
 }
 
 DAN_ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = danish
+		always = no
 	}
 }
 
 FRA_ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		OR = {
-			primary_culture = cosmopolitan_french
-			primary_culture = normand
-			primary_culture = occitain
-		}
-		NOT = {
-			tag = KOJ
-		}
+		always = no
 	}
 }
 
 PRU_ideas = {
 	trigger = {
-		culture_group = germanic
-		is_subject = no
-		MIL = 5
-		NOT = {
-			num_of_cities = 10
-		}
+		always = no
 	}
 }
  
 POR_ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = portugese
+		always = no
 	}
 }
 
@@ -148,13 +80,7 @@ BAV_ideas = {
 
 PER_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = persian
+		always = no
 	}
 }
 
@@ -166,70 +92,38 @@ BUR_Ideas = {
 
 GEN_ideas = {
 	trigger = {
-		num_of_ports = 1
-		NOT = {
-			num_of_ports = 5
-		}
-		tag = GEN
+		always = no
 	}
 }
 
 SCO_Ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = scottish
+		always = no
 	}
 }
 
 HUN_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = hungarian
+		always = no
 	}
 }
 
 
 ARA_ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		is_subject = no
-		tag = ARA
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = catalan
+		always = no
 	}
 }
 
 TIM_ideas = {
 	trigger = {
-		OR = {
-			tag = TIM
-			tag = MUG
-		}
+		always = no
 	}
 }
 
 HSA_ideas = {
 	trigger = {
-		num_of_ports = 1
-		NOT = {
-			num_of_ports = 5
-		}
-		tag = HSA
+		always = no
 	}
 }
 
@@ -241,13 +135,7 @@ MLO_ideas = {
 
 BYZ_ideas = {
 	trigger = {
-		culture_group = byzantine
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		tag = BYZ
+		always = no
 	}
 }
 
@@ -265,14 +153,7 @@ SRV_ideas = {
 
 NOR_ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = norwegian
+		always = no
 	}
 }
 
@@ -284,26 +165,13 @@ OMA_ideas = {
 
 BOH_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = czech
+		always = no
 	}
 }
 
 ITA_ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = italian
+		always = no
 	}
 }
 
@@ -321,14 +189,7 @@ NOV_ideas = {
 
 ETH_ideas = {
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = amhara
+		always = no
 	}
 }
 
@@ -346,23 +207,13 @@ SAX_ideas = {
 
 LIT_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = lithuanian
+		always = no
 	}
 }
 
 MAM_ideas = {	
 	trigger = {
-		OR = {
-			tag = MAM
-			dynasty = mamluk
-		}
-		religion_group = muslim
+		always = no
 	}
 }
 
@@ -374,22 +225,14 @@ NAP_ideas = {
 
 TUR_ideas = {
 	trigger = {
-		OR = {
-			tag = TUR
-			dynasty = "Ottoman"
-		}
-		religion_group = muslim
+		always = no
 	}
 }
 
 
 VEN_ideas = {
 	trigger = {
-		num_of_ports = 1
-		NOT = {
-			num_of_ports = 5
-		}
-		tag = VEN
+		always = no
 	}
 }
 
@@ -403,39 +246,21 @@ GRA_ideas = {
 
 SER_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = serbian
+		always = no
 	}
 }
 
 
 ORI_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = oriya
+		always = no
 	}
 }
 
 
 PUN_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = panjabi
+		always = no
 	}
 }
 
@@ -449,13 +274,7 @@ RAG_ideas = {
 
 ASS_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = panjabi
+		always = no
 	}
 }
 
@@ -483,10 +302,7 @@ SON_ideas = {
 
 BRI_ideas = {
 	trigger = {
-		NOT = {
-			num_of_cities = 10
-		}
-		primary_culture = breton
+		always = no
 	}
 }
 
@@ -507,13 +323,7 @@ HED_ideas = {
 
 MAL_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = mali
+		always = no
 	}
 }
 
@@ -534,26 +344,14 @@ PRO_ideas = {
 
 GEO_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = georgian
+		always = no
 	}
 }
 
 
 AFG_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = afghani
+		always = no
 	}
 }
 
@@ -567,13 +365,7 @@ WAL_ideas = {
 
 CRO_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = croatian
+		always = no
 	}
 }
 
@@ -587,13 +379,7 @@ CYP_ideas = {
 
 NAV_ideas = {
 	trigger = {
-		num_of_ports = 5
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = basque
+		always = no
 	}
 }
 
@@ -719,13 +505,7 @@ PRM_ideas = {
 
 BUL_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = bulgarian
+		always = no
 	}
 }
 
@@ -743,38 +523,20 @@ NAX_ideas = {
 
 POM_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = pommeranian
+		always = no
 	}
 }
 
 ARM_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = armenian
+		always = no
 	}
 }
 
 
 WLS_ideas = {
 	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = welsh
+		always = no
 	}
 }
 
@@ -859,15 +621,7 @@ BTI_ideas = {
 
 CAT_ideas = {
     trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		is_subject = no
-		NOT = { tag = ARA }
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = catalan
+		always = no
 	}
 }
 
@@ -1071,6 +825,12 @@ OKA_ideas = {
 }
 
 TRE_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+GBR_ideas = {
 	trigger = {
 		always = no
 	}
