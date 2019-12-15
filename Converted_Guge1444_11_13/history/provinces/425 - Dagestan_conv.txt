@@ -2,6 +2,7 @@ ck2_converter_generated = yes
 owner = X60
 controller = X60
 add_core = X60
+add_core = SRV
 culture = persian
 religion = sunni
 citysize = 2000
@@ -814,8 +815,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = X60
-	controller = X60
+	owner = SRV
+	controller = SRV
 	culture = persian
 	religion = sunni
 }

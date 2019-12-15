@@ -156,7 +156,7 @@ monarch_names = {
 
 leader_names = {
 	Agier "del Abatut" Atonis Alquerius Aymes Algais "dels Armes" "d'Aspel" "d'Apchièr" Anglada "d'Aurenja" "d'Arle" Alfaric "d'Aorlhac" Amorós
-	Bonsom Barravi Bares Barra Bonasias Baiulus "de Balencs" "de Blezon" Bonassa "de las Bordas" Baudrier Biron "de Bornelh" Brueis Brun Bèc "de la Bacalaria"
+	Bonsom Barravi Bares Barra Bonasias Baiulus "de Balencs" "de Blezon" Bonassa "de las Bordas" Baudrier Biron "de Bornelh" Brueis Brun Bèc "de la Bacalaria" Bachas
 	Cathena "de Calhavello" "de Cornelhano" Chaberti "de Cazalibus" "de Cabaretz" "de Castelbo" Castanh "de Corteta" Crosilhat Cailús
 	Domerc Danièl Delèris Delpastre Desporrins "de Diá"
 	Escrivan "d'Escorralha" Escartin
@@ -171,7 +171,7 @@ leader_names = {
 	Plura "de Pinu" Peyrolle Peletz "de Peirigorc" "de Porcairagues" Peirotet Prax "de Puèicibot"
 	"d'Orlhac"
 	"de Quersi"
-	Radulphus "de Roaxio" Raynes Riqueti Rulh "de Ruppe" "de Rippis" "de Roquis" "de Rabastens" "de Rocafolhs" Romanilha "deu Riu"
+	Radulphus "de Roaxio" Raynes Riqueti Rulh "de Ruppe" "de Rippis" "de Roquis" "de Rabastens" "de Rocafolhs" Romanilha "deu Riu" Romanilha
 	"de Saissi" "de Sent Beat" "de Sent Prais" "de Salvanhac" "de Salanovat" "de Saleta" "de Sant Circ" "de Segret" "de Sanha"
 	Triarius Tolsa "del Truc" "de Tolosa" Talhaferri Telièr "de Trobar" "de Tintinhac"
 	Unautz "d'Ussel"
@@ -179,25 +179,25 @@ leader_names = {
 }
 
 ship_names = {
-	Armanhac Auvèrnhe Aquitània Aush Auloron Azalaís Aureòl "Aeneas Silvius" Agla
-	Baiona Bearn Biàrritz Bigòrra Bordèu Bonafós Berenguela Bituitus Beatriz Balena
-	Cornelha Cèrvi
-	"Duc de Tolosa" Doça
-	Engolmés
+	Armanhac Auvèrnhe Aquitània Aush Auloron Azalaís Aureòl "Aeneas Silvius" Agla Aire Arcalshon
+	Baiona Bearn Biàrritz Bigòrra Bordèu Bonafós Berenguela Bituitus Beatriz Balena Bisarrossa
+	Cornelha Cèrvi "La Canau" "Crotz de Tolosa"
+	"Duc de Tolosa" Doça Dacs
+	Engolmés Eliberris "L'Esparra"
 	Fois Folquet Frèdol
-	Garona Gasconha Gironda Guiana Gallia Guionetus Gothia Guillelmus Gondovald Gerberge Gislebertus "Gay Saber"
+	Garona Gasconha Gironda Guiana Gallia Guionetus Gothia Guillelmus Gondovald Gerberge Gislebertus "Gay Saber" "Genial de Gasconha"
 	Honoretus "Hunald d'Aquitània"
 	Immortal Inevitable Imbrandable Indefectible Invariable Incredible Independent Índia
 	Jacomardus Joana
-	Lemosin Lengadòc Liborna Lionés Luernios Liaupard Leon
-	"Marcus Miallus" Monstre Malhòrca Malastrós
+	Lemosin Lengadòc Liborna Lionés Luernios Liaupard Leon Liborna Lorda
+	"Marcus Miallus" Monstre Malhòrca Malastrós Mureth Mamisan
 	Novempopulània Narbonés Nemausus
 	Pau Peiregòrd Pirenèus Provença Pelfort Perdigon
-	Quodvultdeus
+	Quodvultdeus Ortès
 	Roergue Rosselhon Robertz Rotboald
-	Santonge Septimania "Santa Maria" "Sant Ròc" "Sant Agustin" "Sant Adrian" "Sant Ermengol" "Sant Martin" "Sant Omobon" "Sant Torquat" "Sant Retir" "Sant Geli" "Sant Sarnin" "Sant Onèst" "Sant Fermin" "Sant Joan" "Sant Jòrdi" "Sant Pèir" "Santa Reparata" "Santa Quitèira" Sibilia Superbus "Sant Sarnin" "Sant Selvi"
-	Trobador Tigre Thule
-	Violant Victòria
+	Santonge Septimania "Santa Maria" "Sant Ròc" "Sant Agustin" "Sant Adrian" "Sant Ermengol" "Sant Martin" "Sant Omobon" "Sant Torquat" "Sant Retir" "Sant Geli" "Sant Sarnin" "Sant Onèst" "Sant Fermin" "Sant Joan" "Sant Jòrdi" "Sant Pèir" "Santa Reparata" "Santa Quitèira" Sibilia Superbus "Sant Sarnin" "Sant Selvi" Solac "Sant Gaudenç"
+	Trobador Tigre Thule Tarba
+	Violant Victòria Vielha
 }
 
 army_names = {

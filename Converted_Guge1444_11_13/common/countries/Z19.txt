@@ -1,276 +1,135 @@
 # Upper Lorraine
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 250 250 250 }
-historical_idea_groups = {
-	trade_ideas
-	religious_ideas
-	economic_ideas
-	diplomatic_ideas
-	innovativeness_ideas
-	defensive_ideas
-	offensive_ideas
-	spy_ideas
+color = { 115  142  205 }
+
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	austrian_tercio
-	austrian_grenzer
-	austrian_hussar
-	austrian_white_coat
-	austrian_jaeger
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
-
-
-leader_names = {
-
-	"Gerhard" "Sigismund" "Heinrich" "Gotthard" "Leopold" "Engeltraud" "Eufemia" "Kunigunde" "Hildegard" "Sieghard" 
-	"Alberich" "Serhilda" "Hemma" "Sofie" "Welf" "Liuthard" "Beggo" "Matfried" "Susanna" "Ingitrude" 
-	"Adalhard" "Eberhard" "Engeltrudis" "Adalbert" "Gottfried" "Wigfried" "Uda" "Richar" "Liutgarde" "Etienette" 
-	"Ermessinde" "Dietrich" "Beatrix" "Simon" "Gisela" "Ulrich" "Gertrude" "Hugues" "Étiennette" "Jutta" 
-	"Berthe" "Ulric" "Lauretta" "Agathe" "Matthias" "Judith" "Renaud" "Gérard" "Philippe" "Robert" 
-	"Margaretha" "Eudes" "Alix" "Sophie" "Ferry" "Mathilde" "Ida" "Philipp" "Agatha" "Theobold" 
-	"Thierry" "Hedwig" "Cunigunde" "Gauthier" "Thibault" "Geoffroy" "Jacques" "Laurette" "Henri" "Agnès" 
-	"Marguerite" "Marie" "Guy" "Catherine" "Isabelle" "Isabella" "Raoul" "Charles" "Bertrand" "Raimbaut" 
-	"Jeanne" "Rutger" "Katharina" "Rudolf" "Emma" "Werner" "Elisabeth" "Hermann" "Denise" "Karlotte" 
-	"Gebhard" "Reginar" "Giselbert" "Otto" "Konrad" "Bruno" "Friedrich" "Gotzelo" "Adalbero" "Adam" 
-	"Ademar" "Adolf" "Alarich" "Albrecht" "Aldrich" "Alois" "Amadeus" "Amalrich" "Andreas" "Anselm" 
-	"Arnold" "Arnulf" "Augustin" "Baldarich" "Baldewin" "Baldomar" "Baldur" "Berengar" "Bernhard" "Berthold" 
-	"Burchard" "Christopher" "Dieter" "Dietmar" "Dietpold" "Dietwin" "Eginolf" "Ehrenfried" "Ekbert" "Ekkehard" 
-	"Emelrich" "Emich" "Emmerich" "Engelbert" "Erich" "Ernst" "Ferdinand" "Filibert" "Folkhard" "Folkmar" 
-	"Franz" "Gautselin" "Georg" "Gerlach" "Gottschalk" "Guntram" "Gunzelin" "Günther" "Hans" "Hartmann" 
-	"Hartwig" "Helferich" "Heribert" "Hesso" "Hugo" "Humbert" "Hupold" "Jakob" "Johann" "Jürgen" 
-	"Karl" "Karlmann" "Kaspar" "Kuno" "Lambert" "Landolf" "Liudolf" "Liutbert" "Liutbrand" "Liutpold" 
-	"Lothar" "Ludolf" "Ludwig" "Lutbert" "Magnus" "Manegold" "Manfred" "Markward" "Martin" "Meinhard" 
-	"Michael" "Nikolaus" "Norbert" "Peter" "Poppo" "Radbot" "Reinhard" "Reinhold" "Ruprecht" "Siegfried" 
-	"Siegmund" "Stefan" "Theodorich" "Thietmar" "Thomas" "Udalrich" "Viktor" "Waldemar" "Walram" "Walther" 
-	"Wenzel" "Wido" "Wigerich" "Wilhelm" "Wolfgang" "Wolfram" }
 monarch_names = {
-	"Gerhard #1" = 42
-	"Sigismund #1" = 24
-	"Heinrich #1" = 21
-	"Gotthard #0" = 1
-	"Leopold #0" = 1
-	"Engeltraud #0" = -1
-	"Eufemia #0" = -1
-	"Kunigunde #0" = -1
-	"Hildegard #0" = -1
-	"Sieghard #0" = 1
-	"Alberich #0" = 1
-	"Serhilda #0" = -1
-	"Hemma #0" = -1
-	"Sofie #0" = -1
-	"Welf #0" = 1
-	"Liuthard #0" = 1
-	"Beggo #0" = 1
-	"Matfried #0" = 1
-	"Susanna #0" = -1
-	"Ingitrude #0" = -1
-	"Adalhard #0" = 1
-	"Eberhard #0" = 1
-	"Engeltrudis #0" = -1
-	"Adalbert #1" = 24
-	"Gottfried #1" = 21
-	"Wigfried #0" = 1
-	"Uda #0" = -1
-	"Richar #0" = 1
-	"Liutgarde #0" = -1
-	"Etienette #0" = -1
-	"Ermessinde #0" = -1
-	"Dietrich #2" = 27
-	"Beatrix #0" = -1
-	"Simon #2" = 21
-	"Gisela #0" = -1
-	"Ulrich #0" = 1
-	"Gertrude #0" = -1
-	"Hugues #0" = 1
-	"Étiennette #0" = -1
-	"Jutta #0" = -1
-	"Berthe #0" = -1
-	"Ulric #0" = 1
-	"Lauretta #0" = -1
-	"Agathe #0" = -1
-	"Matthias #2" = 30
-	"Judith #0" = -1
-	"Renaud #0" = 1
-	"Gérard #0" = 1
-	"Philippe #0" = 1
-	"Robert #0" = 1
-	"Margaretha #0" = -1
-	"Eudes #0" = 1
-	"Alix #0" = -1
-	"Sophie #0" = -1
-	"Ferry #4" = 30
-	"Mathilde #0" = -1
-	"Ida #0" = -1
-	"Philipp #0" = 1
-	"Agatha #0" = -1
-	"Theobold #2" = 21
-	"Thierry #0" = 1
-	"Hedwig #0" = -1
-	"Cunigunde #0" = -1
-	"Gauthier #0" = 1
-	"Thibault #0" = 1
-	"Geoffroy #0" = 1
-	"Jacques #0" = 1
-	"Laurette #0" = -1
-	"Henri #0" = 1
-	"Agnès #0" = -1
-	"Marguerite #0" = -1
-	"Marie #0" = -1
-	"Guy #0" = 1
-	"Catherine #0" = -1
-	"Isabelle #0" = -1
-	"Isabella #0" = -1
-	"Raoul #1" = 21
-	"Charles #0" = 1
-	"Bertrand #1" = 18
-	"Raimbaut #0" = 1
-	"Jeanne #0" = -1
-	"Rutger #1" = 21
-	"Katharina #0" = -1
-	"Rudolf #1" = 21
-	"Emma #0" = -1
-	"Werner #0" = 1
-	"Elisabeth #0" = -1
-	"Hermann #0" = 1
-	"Denise #0" = -1
-	"Karlotte #0" = -1
-	"Gebhard #1" = 0
-	"Reginar #1" = 0
-	"Giselbert #1" = 0
-	"Otto #1" = 0
-	"Konrad #1" = 0
-	"Bruno #1" = 0
-	"Friedrich #3" = 0
-	"Gotzelo #1" = 0
-	"Adalbero #0" = 0
-	"Adam #0" = 0
-	"Ademar #0" = 0
-	"Adolf #0" = 0
-	"Alarich #0" = 0
-	"Albrecht #0" = 0
-	"Aldrich #0" = 0
-	"Alois #0" = 0
+	"Ferdinand #4" = 40 # "Ferry"
+	"Rudolf #2" = 35
+	"Sigismund #1" = 25
+	"Gerhard #1" = 20
+	"Matthias #2" = 20
+	"Friedrich #3" = 20
+	"Leopold #0" = 20
+	"Bertrand #1" = 15
+	"Theobold #2" = 15
+	"Konrad #1" = 15
+	"Dietrich #2" = 10
+	"Rutger #1" = 10
+
+	"Adalbert #1" = 0
+	"Albert #0" = 0
+	"Alexander #0" = 0
 	"Amadeus #0" = 0
-	"Amalrich #0" = 0
-	"Andreas #0" = 0
-	"Anselm #0" = 0
-	"Arnold #0" = 0
-	"Arnulf #0" = 0
-	"Augustin #0" = 0
-	"Baldarich #0" = 0
-	"Baldewin #0" = 0
-	"Baldomar #0" = 0
-	"Baldur #0" = 0
-	"Berengar #0" = 0
-	"Bernhard #0" = 0
-	"Berthold #0" = 0
-	"Burchard #0" = 0
-	"Christopher #0" = 0
-	"Dieter #0" = 0
-	"Dietmar #0" = 0
-	"Dietpold #0" = 0
-	"Dietwin #0" = 0
-	"Eginolf #0" = 0
-	"Ehrenfried #0" = 0
-	"Ekbert #0" = 0
-	"Ekkehard #0" = 0
-	"Emelrich #0" = 0
-	"Emich #0" = 0
-	"Emmerich #0" = 0
-	"Engelbert #0" = 0
+	"August #0" = 0
+	"Benignus #0" = 0
+	"Bruno #1" = 0
+	"Conrad #0" = 0
+	"Eberhard #0" = 0
+	"Eduard #0" = 0
 	"Erich #0" = 0
 	"Ernst #0" = 0
-	"Ferdinand #0" = 0
-	"Filibert #0" = 0
-	"Folkhard #0" = 0
-	"Folkmar #0" = 0
-	"Franz #0" = 0
-	"Gautselin #0" = 0
 	"Georg #0" = 0
-	"Gerlach #0" = 0
-	"Gottschalk #0" = 0
-	"Guntram #0" = 0
-	"Gunzelin #0" = 0
-	"Günther #0" = 0
-	"Hans #0" = 0
-	"Hartmann #0" = 0
+	"Giselbert #1" = 0
+	"Gottfried #1" = 0
+	"Gottlieb #0" = 0
 	"Hartwig #0" = 0
-	"Helferich #0" = 0
-	"Heribert #0" = 0
+	"Heinrich #1" = 0
+	"Hermann #0" = 0
 	"Hesso #0" = 0
-	"Hugo #0" = 0
-	"Humbert #0" = 0
-	"Hupold #0" = 0
-	"Jakob #0" = 0
-	"Johann #0" = 0
-	"Jürgen #0" = 0
 	"Karl #0" = 0
-	"Karlmann #0" = 0
-	"Kaspar #0" = 0
-	"Kuno #0" = 0
-	"Lambert #0" = 0
-	"Landolf #0" = 0
+	"Johann #0" = 0
+	"Josef #0" = 0
+	"Julius #0" = 0
+	"Justus #0" = 0
 	"Liudolf #0" = 0
-	"Liutbert #0" = 0
-	"Liutbrand #0" = 0
-	"Liutpold #0" = 0
-	"Lothar #0" = 0
-	"Ludolf #0" = 0
-	"Ludwig #0" = 0
-	"Lutbert #0" = 0
-	"Magnus #0" = 0
-	"Manegold #0" = 0
-	"Manfred #0" = 0
-	"Markward #0" = 0
-	"Martin #0" = 0
-	"Meinhard #0" = 0
+	"Marius #0" = 0
 	"Michael #0" = 0
 	"Nikolaus #0" = 0
-	"Norbert #0" = 0
+	"Otto #1" = 0
+	"Paul #0" = 0
 	"Peter #0" = 0
-	"Poppo #0" = 0
-	"Radbot #0" = 0
-	"Reinhard #0" = 0
-	"Reinhold #0" = 0
-	"Ruprecht #0" = 0
 	"Siegfried #0" = 0
-	"Siegmund #0" = 0
-	"Stefan #0" = 0
-	"Theodorich #0" = 0
-	"Thietmar #0" = 0
+	"Simon #0" = 0
+	"Sylvester #0" = 0
+	"Theodor #0" = 0
+	"Theophilus #0" = 0
+	"Theophrastus #0" = 0
 	"Thomas #0" = 0
-	"Udalrich #0" = 0
-	"Viktor #0" = 0
-	"Waldemar #0" = 0
-	"Walram #0" = 0
-	"Walther #0" = 0
+	"Walter #0" = 0
 	"Wenzel #0" = 0
-	"Wido #0" = 0
-	"Wigerich #0" = 0
 	"Wilhelm #0" = 0
-	"Wolfgang #0" = 0
-	"Wolfram #0" = 0
-}
-ship_names = {
-	Ariadne Habicht Adler Albatross Amazone
-	Arcona Basilisk Beowulf Biene Wespe Wolf
-	Nautilus Natter Otter Pelikan Pfeil Meteor
-	Möwe Mücke Luchs König Kaiser Eber Drache
-	Falke Frauenlob Freya Fuchs Gazelle Geier
-	Greif Condor Cormoran Comet Wacht Tiger
-	Seeadler Jaguar Hyäne Blitz Bremse Brummer
-	Bussard Vulkan
+	
+	"Emma #0" = -1
+	"Engeltraud #0" = -5
+	"Eufemia #0" = -5
+	"Hildegard #0" = -5
+	"Serhilda #0" = -1
+	"Sofie #0" = -5
 }
 
+leader_names = { 
+	Amman Arp "von Andlau"
+	Bickling Braun Berheim Beeh Bloch Bethe Bilger Bruat Blattau "de Berckheim" Büsing Boëllmann "von Besnard" "von Borries" "von Bronckhorst-Batenburg" "de Bussière" "von Bruck"
+	Cattin
+	Detemple Decker Drolling "von Diemeringen"
+	Ettighoffer
+	Fent Feyerabend Forthober Freymuth Fuchs "von Falkenstein" "von Feuerstein" "von Fleckenstein" Fuchs "von Freundstein"
+	Gloxin "von Gemmingen-Hornberg" "von Geroldseck"
+	Haeberlin "von der Heydt" "von Hanau"
+	Isenmann Ihlenfeld
+	Kathrein Krogloth Karpff Kuhlmann
+	Joost
+	"von Lechsgmünd" "von Lichtenberg" "von Lautz" "von Linderm" "von Lauterburg"
+	Müller Moerlen
+	Nefftzer
+	Otter "von Olry" Ochsenstein
+	Pfeffel "von Puttkamer" "von Pfirt" Pöhlmann Preiß
+	Rapp Risser Rocholl Reubell
+	Straumann Schongauer Schmitt Schall Schmitthenner "von Schauenburg" Schaefer "von Steinheil" Stapenhorst
+	Timme Tarade Teutsch Thumann Tschamber
+	Umbdenstock "von Utenheim"
+	"von Vacano" "von Veldenz" Vonderscheer Vogelsberger
+	Wolferseder Wickram "von Waiblingen" Wahl "von Weyer" Weber Weyland Wiltberger Wurtz
+	Zurlinden "von Zweibrücken-Bitsch" Zidler Zell Zislin Zurcher
+}
+
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan Lotharingia Rhenania Germania
+}

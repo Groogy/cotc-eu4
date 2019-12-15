@@ -1,164 +1,196 @@
 # France
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 15 27 187 }
 
+color = { 15 27 187 } # OG EU4 colors: { 20 50 210 }
 
+revolutionary_colors = { 15  0  16 }
 
-
-leader_names = {
-
-	"Charles" "Isabelle" "Mélusine" "Ermessinde" "Angelbert" "Rorgon" "Philippe" "Simon" "Richard" "Gauthier" 
-	"Ogier" "Bérengère" "Étiennette" "Pierre" "Érrard" "Geoffroy" "Jean" "Marie" "Jeanne" "Judith" 
-	"Foulques" "Marguerite" "Catherine" "Guiges" "Echive" "Blanche" "Emma" "Ebbon" "Aléarde" "Ildégarde" 
-	"Anne" "Benoît" "Rorgues" "Valence" "Stéphanie" "Géraud" "Clovis" "Clotaire" "Chilpéric" "Dagobert" 
-	"Théoderic" "Childéric" "Childébert" "Karl" "Louis" "Carloman" "Eudes" "Robert" "Raoul" "Lothaire" 
-	"Hugues" "Henri" "Edward" "Thomas" "Roger" "Hugh" "Édouard" "Étienne" "Adalbert" "Adémar" 
-	"Adrien" "Aimery" "Alain" "Aldebert" "Aldéric" "Alphonse" "Amaury" "Amédée" "Ancel" "André" 
-	"Antoine" "Archambaud" "Arnaud" "Arnault" "Arnoul" "Aubry" "Aymar" "Barthélémi" "Baudouin" "Bérenger" 
-	"Bernard" "Bertrand" "Bohemond" "Boson" "Bouchard" "Centule" "Enguerrand" "Eustache" "Evrard" "François" 
-	"Frédéric" "Gargamel" "Gaucher" "Gaucelin" "Gelduin" "Gilbert" "Gilles" "Godefroy" "Guichard" "Guilhem" 
-	"Guillaume" "Guy" "Hélie" "Hamelin" "Herbert" "Hildebert" "Humbert" "Jacques" "Jaufré" "Jaspert" 
-	"Josselin" "Jourdain" "Julien" "Léon" "Léonard" "Loup" "Manassès" "Mathieu" "Maurice" "Nicolas" 
-	"Onfroy" "Orson" "Othon" "Payen" "Raimbaut" "Raymond" "Raynaud" "Renaud" "Robin" "Roubaud" 
-	"Savary" "Sigismond" "Thibault" "Thiébaut" "Thierry" "Valeran" "Yves" }
-monarch_names = {
-	"Charles #3" = 24
-	"Isabelle #0" = -1
-	"Mélusine #0" = -1
-	"Ermessinde #0" = -1
-	"Angelbert #0" = 1
-	"Rorgon #0" = 1
-	"Philippe #8" = 33
-	"Simon #4" = 24
-	"Richard #0" = 1
-	"Gauthier #0" = 1
-	"Ogier #0" = 1
-	"Bérengère #0" = -1
-	"Étiennette #0" = -1
-	"Pierre #0" = 1
-	"Érrard #0" = 1
-	"Geoffroy #0" = 1
-	"Jean #1" = 27
-	"Marie #0" = -1
-	"Jeanne #0" = -1
-	"Judith #0" = -1
-	"Foulques #0" = 1
-	"Marguerite #0" = -1
-	"Catherine #0" = -1
-	"Guiges #0" = 1
-	"Echive #0" = -1
-	"Blanche #0" = -1
-	"Emma #0" = -1
-	"Ebbon #0" = 1
-	"Aléarde #0" = -1
-	"Ildégarde #0" = -1
-	"Anne #0" = -1
-	"Benoît #0" = 1
-	"Rorgues #0" = 1
-	"Valence #0" = -1
-	"Stéphanie #0" = -1
-	"Géraud #0" = 1
-	"Clovis #3" = 0
-	"Clotaire #4" = 0
-	"Chilpéric #2" = 0
-	"Dagobert #2" = 0
-	"Théoderic #2" = 0
-	"Childéric #2" = 0
-	"Childébert #1" = 0
-	"Karl #1" = 0
-	"Louis #10" = 0
-	"Carloman #1" = 0
-	"Eudes #1" = 0
-	"Robert #2" = 0
-	"Raoul #1" = 0
-	"Lothaire #1" = 0
-	"Hugues #2" = 0
-	"Henri #1" = 0
-	"Edward #2" = 0
-	"Thomas #1" = 0
-	"Roger #1" = 0
-	"Hugh #1" = 0
-	"Édouard #0" = 0
-	"Étienne #0" = 0
-	"Adalbert #0" = 0
-	"Adémar #0" = 0
-	"Adrien #0" = 0
-	"Aimery #0" = 0
-	"Alain #0" = 0
-	"Aldebert #0" = 0
-	"Aldéric #0" = 0
-	"Alphonse #0" = 0
-	"Amaury #0" = 0
-	"Amédée #0" = 0
-	"Ancel #0" = 0
-	"André #0" = 0
-	"Antoine #0" = 0
-	"Archambaud #0" = 0
-	"Arnaud #0" = 0
-	"Arnault #0" = 0
-	"Arnoul #0" = 0
-	"Aubry #0" = 0
-	"Aymar #0" = 0
-	"Barthélémi #0" = 0
-	"Baudouin #0" = 0
-	"Bérenger #0" = 0
-	"Bernard #0" = 0
-	"Bertrand #0" = 0
-	"Bohemond #0" = 0
-	"Boson #0" = 0
-	"Bouchard #0" = 0
-	"Centule #0" = 0
-	"Enguerrand #0" = 0
-	"Eustache #0" = 0
-	"Evrard #0" = 0
-	"François #0" = 0
-	"Frédéric #0" = 0
-	"Gargamel #0" = 0
-	"Gaucher #0" = 0
-	"Gaucelin #0" = 0
-	"Gelduin #0" = 0
-	"Gilbert #0" = 0
-	"Gilles #0" = 0
-	"Godefroy #0" = 0
-	"Guichard #0" = 0
-	"Guilhem #0" = 0
-	"Guillaume #0" = 0
-	"Guy #0" = 0
-	"Hélie #0" = 0
-	"Hamelin #0" = 0
-	"Herbert #0" = 0
-	"Hildebert #0" = 0
-	"Humbert #0" = 0
-	"Jacques #0" = 0
-	"Jaufré #0" = 0
-	"Jaspert #0" = 0
-	"Josselin #0" = 0
-	"Jourdain #0" = 0
-	"Julien #0" = 0
-	"Léon #0" = 0
-	"Léonard #0" = 0
-	"Loup #0" = 0
-	"Manassès #0" = 0
-	"Mathieu #0" = 0
-	"Maurice #0" = 0
-	"Nicolas #0" = 0
-	"Onfroy #0" = 0
-	"Orson #0" = 0
-	"Othon #0" = 0
-	"Payen #0" = 0
-	"Raimbaut #0" = 0
-	"Raymond #0" = 0
-	"Raynaud #0" = 0
-	"Renaud #0" = 0
-	"Robin #0" = 0
-	"Roubaud #0" = 0
-	"Savary #0" = 0
-	"Sigismond #0" = 0
-	"Thibault #0" = 0
-	"Thiébaut #0" = 0
-	"Thierry #0" = 0
-	"Valeran #0" = 0
-	"Yves #0" = 0
+historical_idea_groups = {
+	economic_ideas
+	offensive_ideas
+	exploration_ideas
+	defensive_ideas	
+	administrative_ideas	
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
 }
 
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Philippe #8" = 50
+	"Simon #4" = 35
+	"Charles #4" = 35
+	"Hugues #4" = 30
+	"Louis #10" = 25
+	"Jean #1" = 20
+	"Robert #2" = 20
+	"Édouard #2" = 15
+	"Henri #1" = 15
+	"Guillaume #0" = 15
+	"Thomas #1" = 10
+	"Lothaire #5" = 5
+	
+	"Alain #0" = 0
+	"Alexandre #0" = 0
+	"Alexis #0" = 0
+	"André #0" = 0
+	"Antoine #0" = 0
+	"Armand #0" = 0
+	"Bernard #0" = 0
+	"Bouchard #0" = 0
+	"César #0" = 0
+	"Christophe #0" = 0
+	"Claude #0" = 0
+	"Daniel #0" = 0
+	"Dolfin #0" = 0
+	"Edgar #0" = 0
+	"Edmond #0" = 0
+	"Ernest #0" = 0
+	"Errand #0" = 0
+	"Étienne #0" = 0
+	"Ezéchiel #0" = 0
+	"François #0" = 0
+	"Frédéric #0" = 0
+	"Gabriel #0" = 0
+	"Gaspard #0" = 0
+	"Gaston #0" = 0
+	"Georges #0" = 0
+	"Gilbert #0" = 0
+	"Gustave #0" = 0
+	"Guy #0" = 0
+	"Hyacinthe #0" = 0
+	"Isaac #0" = 0
+	"Jacques #0" = 0
+	"Jaufré #0" = 0
+	"Jean-Baptiste #0" = 0
+	"Jean-Frédéric #0" = 0
+	"Joseph #0" = 0
+	"Jules #0" = 0
+	"Julien #0" = 0
+	"Just #0" = 0
+	"Laurens #0" = 0
+	"Magnus #0" = 0
+	"Marc #0" = 0
+	"Marcel #0" = 0
+	"Mathieu #0" = 0
+	"Maximilien #0" = 0
+	"Melchior #0" = 0
+	"Nicolas #0" = 0
+	"Noël #0" = 0
+	"Odet #0" = 0
+	"Odinel #0" = 0
+	"Olivier #0" = 0
+	"Orderic #0" = 0
+	"Othon #0" = 0
+	"Raoul #1" = 0
+	"Raphael #0" = 0
+	"Raymond #0" = 0
+	"René #0" = 0
+	"Richard #0" = 0
+	"Roger #1" = 0
+	"Roland #0" = 0
+	"Rollo #0" = 0
+	"Samuel #0" = 0
+	"Sébastien #0" = 0
+	"Théodore #0" = 0
+	"Urbain #0" = 0
+	"Walthère #0" = 0
+	
+	"Anne #0" = -5
+	"Beatrice #0" = -5
+	"Élisabeth #0" = -5
+	"Jeanne #0" = -5
+	"Marie #0" = -5
+	"Mathilde #0" = -2
+	"Sibylle #0" = -5
+}
+
+leader_names = {
+	Adelin "d'Albert" "d'Arcy" "d'Anvers" "d'Aubigny" "d'Angoulême" "d'Arpajon" "d'Aloigny" "d'Aubusson" "d'Aydie" Angely Aycard Atrain
+	Barbier "de Bohun" "de Beaumont" "de Bellême" "de Belvoir" Brunel "de Balliol" "de Braose" "de Breteuil" "de Beaulieu" Bolé "de Bassompierre" "de Bussy-Rabutin" Binoit "de Bry" "Du Brœucq" Bourlette "de Bèche" "de Banterlu" "de Bray" "de Basset" Busac Beauclerc "de Brimeu" Baulan "de Balac" Baudin Bolangier Bourges Brouet Bonneau Bonjohan "de Basscelinne" "de Bilbourg"
+	Chabot "de Caumont" Cotoner "de Calvo" "de Chavagnac" "de Choiseul" "de Castelnau" "de Crevant" Camus Clignet Courteen "de Cocquiel" Cartuyvels "de Croÿ" "de Chateaubriand" "de Craon" "de Calletot" Cliton "de Champagne" "de Comminges" "de Couserans" Charpentier Carvenic Cautellet Cornilhes " de Casemaiour" Cailhoneau Chevallier Carriere Cochet Cotte "de Corbeil"
+	Debailliadolit "de Durfort" "de Dreux-Nancré" Dentière Derien Debordes Defons Dolhonde Degueyraud Delamarcque Depodensac Deroymault Deubost Duhalde Decortoysie Dalguel Dalsate Dangles Deceltuches Deceps Degamoy Deddin Degavray Dehiriard Dejony Delabatut Delavrignac Denebault Duquesne Dupré Duthilhe
+	Esperit "d'Estrées" "d'Estrades" "d'Eu" "d'Évreux" Esteve Elloyn
+	Fau "de Ferrers" "de Fosseuse" Fougiere Favrel
+	Glemarec "de Gorges" "de Gondi" "de Guise" "de Gantès" "de Graaf" Galet "de Gennes" "de Gramont" "de Grancey" "de Guitaut" Guyot Ghisoland Gaudibert "de Geer" Giroul "de Glymes" "de Gacé" "de Grandpré" Goalay Guilhou "de Gauripaud" Gallois Geliard Geuilhoneau Guyngueldro Guylhemeau Gachopin
+	Helion "d'Harcourt" "de L'Hôpital" "d'Harambure" "d'Hostun" "de Huy" Heby
+	Jourro "de Jumièges"
+	Laumet "de Lacy" "de Livet" "de Longchamp" "de Lorme" "de Lalaing" "de Lohéac" "de Laval" "de Lescun" Ledret Larzer Leboucal Leclerveau Lecolleur Lebraz Letalecq "de la Lagunagran" Labbé Legavre Leguyren Lescornec Lambert Lesourt Largan
+	Moric "de Mortimer" "de la Mothe Cadillac" "de Melville" "de Montbray" "de Maillé" "de Mélac" "de Montclar" "de Marbais" Minuit "de Merode" Mareschal "Le Maire" "Des Masures" "de Mayenne" "de Montmorency" "de Marly" "de Molembais" "de Marle" "de Montoire" Mahé Martiche Micheau Morvan Milly "de Merandole" "de Marchin" Maigua Mallou Martineau Mauclerc Mestadier Mignot Monestier Morilhon Morvain
+	"de Neville" "de Nivelle" "de Noailles" "de Nevers"
+	"d'Oignies"
+	Phélypeaux "de Percy" "du Plessis" "de La Porte" "de Pont-Audemer" "de Porthau" "de Pontis" Paulus "de Prez" "de Pargny" "de Porcien" "de Preuilly" "du Pont" Pallu Periou Pondeau Puyau Pignousset Payron
+	Querinot Queruel Quirinieau
+	Rivers Renerius "de Rouen" "de Renty" "de Ribeaupierre" Rigault Rouault Ryolic Rampnol Rigones Rochier
+	Spring Seymour "de Saint-Nectaire" "de Simiane" Soreau "de Sélys" "de Sassenay" "de Soulont" "de Suaste" Senneschault Sernaoult Sezin Sorbey
+	Trehou "de Tosny" "de Torville" "de Turqueville" "de Torigny" "de La Trémoille" "Le Tellier" "de Thiard" Taffin "de Tancarville" "de Tingry" Tacque Tissemoy Tossevey Tacon Tevenou Teysseny
+	Ubert "de Umfraville"
+	Vignalez "de Valbelle" "de Valavoire" "de Vendôme" "de Vergy" "de Vermandois" "de Veuzins" Visme Varranne
+	"de Warenne"
+	Xhrouet Xhenceval
+	Zamet
+}
+
+ship_names = {
+	"Amiral de Biscaye" "Amiral de Galice" "Arc-en-Ciel" "Belle Poule" "Bien-Aimé" "Charles II" "Cheval Marin" "Commerce de Bordeaux" "Commerce de Marseille"
+	"Commerce de Paris" "Commerce du Lyon" "Couronne Ottomane" "Croissant d'Afrique" "Dauphin Royal" "Deux Frères" "Don de Dieu" "Dragon d'Or" "Duc d'Angoulême"
+	"Duc d'Aquitaine" "Duc de Berry" "Duc de Bourgogne" "Ésperance d'Angleterre" "Ésperance de Dieu" "Ésperance en Dieu" "États de Bourgogne" "Étoile de Diane"
+	"Faucon Anglais" "Fleur de Lys" "Frégate Royale" "Galion de Guise" "Grand Anglais" "Grand Chalain" "Grand Danois" "Grand Henry" "Grand Saint Louis"
+	"Grand Vainqueur" "Grand Vasseau du Roi" "Grande Galion de Malte" "Grande Nef d'Écosse" "Grande Saint Jean" "Île de France" "Le Beau Parterre" "Lion Couronné"
+	"Lion d'Or" "Madeleine de Brest" "Marguerite du Ponant" "Marie la Cordelière" "Marie-Elisabeth" "Mont Saint-Bernard" "Navire-du-Roi" "Noire Galère"
+	"Notre Dame de la Victoire" "Notre Dame des Martyres" "Notre Dame du Peuple" "Notre Dame" "Ours Blanc" "Ours d'Or" "Petit Saint Jean" "Petit Saint Louis"
+	"Prince Henri" "Quatre Frères" "Roi de Rome" "Royal Duc" "Royal Hollandais" "Royal Italien" "Royal Louis" "Royale Thérèse" "Saint André" "Saint Antoine de Gênes"
+	"Saint Antoine" "Saint Augustin" "Saint Basile" "Saint Catherine" "Saint Charles" "Saint Cosme" "Saint Dominique" "Saint Edmé" "Saint Esprit" "Saint François"
+	"Saint Georges de Londres" "Saint Ignace" "Saint Jacques du Portugal" "Saint Jacques" "Saint Jean de Bordeaux" "Saint Jean de Hollande" "Saint Jean" "Saint Joseph"
+	"Saint Louis de Brest" "Saint Louis de Nevers" "Saint Louis de Saint-Malo" "Saint Louis" "Saint Michel" "Saint Paul" "Saint Philippe" "Saint Pierre" "Saint Sébastien"
+	"Saint Thomas d'Aquin" "Saint Vincent" "Sainte Croix" "Sainte Geneviève" "Sainte Marie" "Saint-Malo" "Saint-Sacrement" "Sans Pareil" "Soleil d'Afrique"
+	"Soleil d'Alger" "Soleil Royal" "Trois Fanaux" "Trois Rois" "Vaisseau de Torais" "Vaisseau du Roi" "Ville-de-Marseille" "Ville-de-Paris" "Ville-de-Rouen"
+	Achille Actif Actionnaire Adelaïde Admirable Adroit Africain Agamemnon Aigle Aigrette Aimable Ajax Alcide Alcyon Alexandre Alliance Alsace Altier Amarante
+	Amazone Ambitieux America Amiral Amphion Amphitrite Andromaque Anglais Anna Annibal Anonyme Anversois Apollon Aquilon Arcole Ardent Aréthuse Argonaute Artésien
+	Asie Assuré Astrée Astrolabe Athénien Atlante Audacieux Auguste Aurore Avenant Aventurier Badine Banel Basque Beaufort Belliqueux Bellone Bienfaisant Bizarre Bon
+	Bonne Bordelais Borée Boudeuse Bouffonne Bourbon Boussole Brave Brélé Bretagne Breton Brillant Brutal Bucentaure Calypso Capable Capricieux Caraquon Cardinal
+	Caribou Cassard Castiglione Catholique Caton Censeur Centaure César Chalain Charente Charlemagne Charmante Chasseur Choquante Christine Citoyen Cléopâtre Clorinde
+	Colosse Comète Comte Concorde Conquérant Consolante Content Coq Corail Courageux Couronne Courtisan Croissant Curieux Cygne Dalmate Dansé Dantzig Dauphin Dédaigneuse
+	Défenseur Dego Desaix Destin Diadème Diamant Dictateur Dragon Dryade Dubois Duc Duguesclin Dunkerquois Duperre Duquesne Dur Éclatant Écueil Écureuil Église Elbeuf
+	Embuscade Émerillon Éminent Empereur Emporte Engageante Enjouree Entendu Entreprenant Éole Ésperance Europe Éveillé Excellent Fâcheux Fantasque Faucon Favori Fée
+	Félicité Fendant Ferronière Fidèle Fier Fiesque Flamand Fleuron Florissant Formidable Fort Fortune Foudroyant Fougueux Français Frédéric Friponne Fulminant Gaillard
+	Galant Galathée Gaulois Gazelle Généreux Gênois Gentille Gerze Gloire Gracieuse Grand Griffon Guerrier Guirlande Hardi Hasardeux Havre Hébé Henri Hercule Hermione
+	Héroïne Héros Heureux Hippopotame Hirondelle Hymen Inconstante Indien Indomptable Infante Inflexible Intrépide Invincible Iphighénie Isabelle Jason Jemmapes Jeux
+	Joli Jules Junon Jupiter Juste Languedoc Laurier Léger Léopard Licorne Ligourois Lion Lionne Lune Lutine Lys Madame Madeleine Magicienne Magnanime Magnifique
+	Maistresse Majestueux Maquedo Marabout Marguerite Marin Marquise Mars Maure Maurepas Mazarin Méduse Mercœur Mercure Merveilleux Mignonne Minotaure Modéré Monarque
+	Montebello Montenotte Montmorency Montolieu Mutine Nassau Navarrais Neptune Néréide Nieuport Normand Océan Oiseau Opiniâtre Orgueilleux Orient Oriflamme Orion Orphée
+	Ours Pacificateur Palmier Parfait Paris Patriote Pégase Pélican Pélicorne Perle Persée Persévérante Pléiade Poli Polonais Polyphème Pompée Pompeux Pourvoyeuse Prince
+	Princesse Prompt Prosélyte Protée Provençal Prudent Pucelle Puissant Pyrrhus Railleuse Raisonnable Redoutable Réfléchi Régénérateur Regina Regulus Reine Renommée
+	Résistance Robuste Rochefort Roland Rouen Royal Rubis Sage Sagittaire Salamandre Sceptre Scipion Séduisant Seine Sémillante Sérieux Sirène Soleil Solide Sophie
+	Sorlingue Sourdis Souverain Sphinx Subtile Suffisant Suffren Superbe Surveillante Suzanne Sylvie Téméraire Tempête Terpsichore Terreur Terrible Thémistocle Thérèse
+	Thésée Thétis Tigre Tonnant Topaze Toulon Tourbillon Tourville Trajan Trident Triomphe Triton Trocadero Trompeuse Uranie Utile Vaillant Vainqueur Valeur Vendôme
+	Vengeur Vénus Vertu Vestale Vétéran Victoire Victorieux Vierge Volage Volontaire Wallon Zélandais Zélé Zodiaque
+	Jacqueline Hildegarde Helvide Idelinde Agnès Adèle Aline Adélaïde Arlette Cécile Sprota Havoise Judith "Comte Egenolphe" Radegunda
+}
+
+army_names = {
+	"Armée royale" "Armée des Flandres" "Armée du Nord" "Armée de l'Est" "Armée de $PROVINCE$"
+}
+
+fleet_names = {
+	"Escadre de la Manche" "Escadre de l'Atlantique" "Escadre de Méditerranée" "Escadre Bleue" "Escadre Rouge" "Escadre Blanche" "Escadre Jaune" "Escadre Verte"
+}

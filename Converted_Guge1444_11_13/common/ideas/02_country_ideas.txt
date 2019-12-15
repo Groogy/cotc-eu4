@@ -263,6 +263,12 @@ VIJ_ideas = {
 	}
 }
 
+SRV_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
 NOR_ideas = {
 	trigger = {
 		num_of_ports = 5

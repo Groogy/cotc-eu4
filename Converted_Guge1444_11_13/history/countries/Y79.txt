@@ -7,7 +7,7 @@ technology_group = western
 primary_culture = italian
 religion = sunni
 clear_scripted_personalities = yes
-capital = 123
+capital = 113
 1441.1.1 = {
 	monarch = {
 		name = "Enzo"
@@ -31,7 +31,7 @@ capital = 123
 	add_heir_personality = just_personality
 }
 1444.11.11 = {
-	capital = 123
+	capital = 113
 	add_treasury = 53
 	add_prestige = 141
 }

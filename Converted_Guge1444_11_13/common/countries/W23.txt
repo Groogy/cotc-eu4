@@ -1,7 +1,7 @@
 # Vinnytsi
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 120 174 209 }
+color = { 97 74 97 }
 
 
 

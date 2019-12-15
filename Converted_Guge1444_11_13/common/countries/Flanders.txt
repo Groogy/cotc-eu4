@@ -1,27 +1,9 @@
 # Flanders
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 255 120 0 }
+color = { 43  141  172 }
 
 
-
-
-leader_names = {
-
-	"Guillaume" "Alaïs" "Othon" "Henriette" "Bohemond" "Azalaïs" "Barthélémi" "Madalena" "Raimbaut" "Odette" 
-	"Guy" "Elisabeth" "Mahaut" "Archambaud" "Marguerite" "Mathilde" "Marie" "Agnes" "Jean" "Beatrice" 
-	"Louis" "Robert" "Philippe" "Blanche" "Denise" "Gaucher" "Yolande" "Alain" "Jeanne" "Agnès" 
-	"Geoffroy" "Enric" "Aurengarde" "Belleassez" "Mascarose" "Violent" "Éléonore" "Marta" "Vicenç" "Adelaide" 
-	"Adelinde" "Roding" "Boudewijn" "Arnulf" "Robrecht" "Karl" "William" "Dietrich" "Margaretha" "Baudouin" 
-	"Johanna" "Adriaen" "Albrecht" "Alwin" "Ambroos" "Antoon" "Arnold" "Balderik" "Barend" "Barnaerd" 
-	"Bartolomeus" "Bavo" "Bertold" "Claes" "Claeuwaert" "Daevit" "Damaes" "Diederick" "Dirk" "Douwe" 
-	"Eduard" "Egmund" "Ekbert" "Emmo" "Engelbrecht" "Filips" "Floris" "Folbert" "Frans" "Frederik" 
-	"Gerard" "Gerolt" "Gerulf" "Gerrit" "Gijsbrecht" "Giselbert" "Godfried" "Godschalk" "Gozewijn" "Guij" 
-	"Gwijde" "Hendrik" "Herman" "Hubert" "Hugo" "IJsbrand" "IJsbrecht" "Jacco" "Jacob" "Jan" 
-	"Karel" "Koenraad" "Kristof" "Lambert" "Lodewijk" "Ludewijn" "Lutbert" "Luthard" "Maertijn" "Marquart" 
-	"Niclaes" "Olivier" "Otto" "Otwin" "Onno" "Pieter" "Reinaerd" "Reinoud" "Reginar" "Rodulf" 
-	"Roelof" "Roland" "Rutger" "Sebastiaen" "Sicco" "Simon" "Steven" "Steyn" "Theodolf" "Waelram" 
-	"Walter" "Wicher" "Willem" "Wolfard" }
 monarch_names = {
 	"Guillaume #0" = 1
 	"Alaïs #0" = -1
@@ -159,3 +141,37 @@ monarch_names = {
 	"Wolfard #0" = 0
 }
 
+leader_names = {
+	Dampierre Deconinck
+	Goethals
+	Nevers
+	Penen
+	"Van Bellegem" "Van Gulik"
+	"Van Herstal" "Van Leeuwergem"
+	"Van Lichtervelde" "Van Nieuwland"
+	"Van Oudenaarde" "Van Petershem"
+	"Van Raveschoot" "Van Renesse"
+}
+
+ship_names = {
+	Antwerpen
+	"Boudewijn I" Brugge
+	"De Vlaamse leeuw"
+	Gent Guldensporenslag "Gwijde van Dampierre" 
+	Hasselt
+	"Jacob van Artevelde"
+	"Karel de Goede" "Kerel van Vlaanderen"
+	Leuven
+	"Manneken Pis" Mechelen
+	"Pieter de Coninck"
+	Schelde
+	"Tijl Uilenspiegel"
+	Vlaanderen
+}
+
+army_names = {
+	"Leger van $PROVINCE$"
+}
+
+fleet_names = {  "Vloot van $PROVINCE$" 
+}

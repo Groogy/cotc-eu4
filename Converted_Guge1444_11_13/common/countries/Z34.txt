@@ -1,7 +1,7 @@
 # Salzburg
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 180 190 200 }
+color = { 129  109  9 }
 historical_idea_groups = {
 	defensive_ideas
 	offensive_ideas
