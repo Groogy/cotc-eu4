@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = Y56
-controller = Y56
-add_core = Y56
+owner = GUG
+controller = GUG
+add_core = GUG
 culture = panjabi
 religion = sunni
 citysize = 2000
-add_permanent_claim = GUG
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -814,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Y56
-	controller = Y56
+	owner = GUG
+	controller = GUG
 	culture = panjabi
 	religion = sunni
 }

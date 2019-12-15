@@ -1,12 +1,12 @@
 ck2_converter_generated = yes
-owner = MLW
-controller = MLW
-add_core = MLW
+owner = X98
+controller = X98
+add_core = X98
 culture = marathi
 religion = hinduism
 citysize = 2000
 add_permanent_claim = Y56
-add_core = X98
+add_core = MLW
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -814,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = MLW
-	controller = MLW
+	owner = X98
+	controller = X98
 	culture = marathi
 	religion = hinduism
 }

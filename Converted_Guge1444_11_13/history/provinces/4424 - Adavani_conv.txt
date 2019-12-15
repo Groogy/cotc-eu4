@@ -1,10 +1,10 @@
 ck2_converter_generated = yes
-owner = Y56
-controller = Y56
-add_core = Y56
+owner = Y70
+controller = Y70
 culture = kannada
 religion = hinduism
 citysize = 2000
+add_permanent_claim = Y56
 add_permanent_claim = X85
 add_core = Y70
 discovered_by = eastern
@@ -815,8 +815,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Y56
-	controller = Y56
+	owner = Y70
+	controller = Y70
 	culture = kannada
 	religion = hinduism
 }

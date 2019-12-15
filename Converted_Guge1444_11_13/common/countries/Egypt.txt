@@ -27,295 +27,169 @@ historical_units = {
 	persian_rifle
 }
 
-
-
-leader_names = {
-
-	"Piast" "Siemowit" "Wolislawa" "Dytryk" "Matylda" "Vanek" "Piotr" "Svatava" "Wszebora" "Mszczuj" 
-	"Mikulás" "Gertruda" "Gerhard" "Nadzieja" "Janislaw" "Vasiliy" "Józef" "Ojír" "Apollonia" "Georg" 
-	"Mikolaj" "Ryksa" "Theodoulos" "Ludmila" "Albert" "Vítek" "Wenzel" "Cenek" "Mateusz" "Judyta" 
-	"Leszek" "Premyslava" "Borzyslaw" "Henryk" "Sambor" "Doman" "Katarzyna" "Vsevolod" "Helene" "Maria" 
-	"Wincenty" "Siemomysl" "Wszemila" "Helena" "Prendota" "Wit" "Janusz" "Bavor" "Zegota" "Rogneda" 
-	"Vasilisa" "Zofia" "Dobieslaw" "Vilém" "Wido" "Eufemia" "Komitas" "Drahoslava" "Danuta" "Stephania" 
-	"Richwara" "Eustachy" "Osterhild" "Grzymislawa" "Przemyslaw" "Pechna" "Dobromila" "Magdalena" "Elzbieta" "Anna" 
-	"Volodar" "Guta" "Eufrozyna" "Swietoslaw" "Drahomíra" "Wielislaw" "Malgorzata" "Yaroslav" "Bozena" "Smiechna" 
-	"Samboja" "Salomea" "Krystyn" "Swanhildis" "Lucja" "Dalimir" "Lestek" "Mieszko" "Swietopolk" "Lambert" 
-	"Adleta" "Wladywoj" "Swietoslawa" "Boleslaw" "Bezprym" "Kazimierz" "Wladyslaw" "Zbigniew" "Adelajda" "Dobroniega" 
-	"Jan" "Olga" "Agnieszka" "Richeza" "Konrad" "Odon" "Berta" "Jaroslaw" "Agnes" "Wierzchoslawa" 
-	"Jadwiga" "Zwinislawa" "Eudoxia" "Anastazja" "Konstancja" "Gertrud" "Bernard" "Beatrycza" "Kunegunda" "Ryksa Elzbieta" 
-	"Waclaw" "Trojden" "Dobrawa" "Hedwig" "Jolanta" "Euphemia" "Gosciwuj" "Borzywoj" "Beata" "Elisabeth" 
-	"Rycheza" "Yuriy" "Maciej" "Ludwik" "Salome" "Malowuj" "Demid" "Goszczon" "Sedzimir" "Miroslaw" 
-	"Wanko" "Stanislawa" "Milobrat" "Spytko" "Juan" "Kinga" "Skarbimir" "Bozydar" "Krzeslaw" "Milena" 
-	"Macko" "Czyrzniech" "Gniewomir" "Lutrud" "Rodislav" "Krystyna" "Bogumil" "Marcin" "Pawel" "Zbyszko" 
-	"Milosz" "Wszebor" "Andreas" "Dobronega" "Yazid" "al-Ikhshid" "al-Hakim" "az-Zahir" "al-Mustansir" "al-Mustali" 
-	"al-Amir" "al-Hafiz" "al-Zafir" "al-Faiz" "al-Adid" "Saladin" "Al-Aziz Uthman" "al-Mansour Muhammad" "al-Adil Sayf al-Din" "al-Kamil Naser-al-Din" 
-	"al-Adil" "as-Salih Ayyub" "al-Muazzam Turanshah" "Shajar al-Durr" "Aybak" "al-Mansour Ali" "Qutuz" "Baibars" "al-Said Barakah" "Solamish" 
-	"Qalawun" "al-Ashraf Khalil" "al-Nasir Muhammad" "Kitbugha" "Lajin" "Aleksander" "Andrzej" "Bartosz" "Boguchwal" "Boncza" 
-	"Budziwuj" "Czcibor" "Daniel" "Dobrogost" "Dobromir" "Domawuj" "Gaudenty" "Gierolt" "Gniewosz" "Imram" 
-	"Izbor" "Jacek" "Jaksa" "Jakub" "Jakusz" "Janko" "Jerzy" "Karol" "Maslaw" "Msciwoj" 
-	"Nadbor" "Niezamysl" "Pelka" "Piskla" "Przybor" "Sedziej" "Sieciech" "Snowid" "Stanislaw" "Stefan" 
-	"Stoigniew" "Strasz" "Sulislaw" "Sulistryj" "Swietopelk" "Szczesny" "Tomasz" "Twardomir" "Usciech" "Wawrzyniec" 
-	"Wieslaw" "Witosz" "Wojciech" "Wojuta" "Zelibrat" "Zygmunt" }
 monarch_names = {
-	"Piast #0" = 1
-	"Siemowit #0" = 1
-	"Wolislawa #0" = -1
-	"Dytryk #0" = 1
-	"Matylda #0" = -1
-	"Vanek #0" = 1
-	"Piotr #0" = 1
-	"Svatava #0" = -1
-	"Wszebora #0" = -1
-	"Mszczuj #0" = 1
-	"Mikulás #0" = 1
-	"Gertruda #0" = -1
-	"Gerhard #0" = 1
-	"Nadzieja #0" = -1
-	"Janislaw #0" = 1
-	"Vasiliy #0" = 1
-	"Józef #0" = 1
-	"Ojír #0" = 1
-	"Apollonia #0" = -1
-	"Georg #0" = 1
-	"Mikolaj #1" = 24
-	"Ryksa #0" = -1
-	"Theodoulos #0" = 1
-	"Ludmila #0" = -1
-	"Albert #0" = 1
-	"Vítek #0" = 1
-	"Wenzel #0" = 1
-	"Cenek #0" = 1
-	"Mateusz #0" = 1
-	"Judyta #0" = -1
-	"Leszek #0" = 1
-	"Premyslava #0" = -1
-	"Borzyslaw #0" = 1
-	"Henryk #1" = 57
-	"Sambor #0" = 1
-	"Doman #0" = 1
-	"Katarzyna #0" = -1
-	"Vsevolod #0" = 1
-	"Helene #0" = -1
-	"Maria #0" = -1
-	"Wincenty #0" = 1
-	"Siemomysl #0" = 1
-	"Wszemila #0" = -1
-	"Helena #0" = -1
-	"Prendota #0" = 1
-	"Wit #1" = 21
-	"Janusz #0" = 1
-	"Bavor #0" = 1
-	"Zegota #0" = 1
-	"Rogneda #0" = -1
-	"Vasilisa #0" = -1
-	"Zofia #0" = -1
-	"Dobieslaw #0" = 1
-	"Vilém #0" = 1
-	"Wido #0" = 1
-	"Eufemia #0" = -1
-	"Komitas #0" = 1
-	"Drahoslava #0" = -1
-	"Danuta #0" = -1
-	"Stephania #0" = -1
-	"Richwara #0" = -1
-	"Eustachy #0" = 1
-	"Osterhild #0" = -1
-	"Grzymislawa #0" = -1
-	"Przemyslaw #0" = 1
-	"Pechna #0" = -1
-	"Dobromila #0" = -1
-	"Magdalena #0" = -1
-	"Elzbieta #0" = -1
-	"Anna #0" = -1
-	"Volodar #0" = 1
-	"Guta #0" = -1
-	"Eufrozyna #0" = -1
-	"Swietoslaw #0" = 1
-	"Drahomíra #0" = -1
-	"Wielislaw #0" = 1
-	"Malgorzata #0" = -1
-	"Yaroslav #0" = 1
-	"Bozena #0" = -1
-	"Smiechna #0" = -1
-	"Samboja #0" = -1
-	"Salomea #0" = -1
-	"Krystyn #0" = 1
-	"Swanhildis #0" = -1
-	"Lucja #0" = -1
-	"Dalimir #0" = 1
-	"Lestek #0" = 1
-	"Mieszko #0" = 1
-	"Swietopolk #0" = 1
-	"Lambert #0" = 1
-	"Adleta #0" = -1
-	"Wladywoj #0" = 1
-	"Swietoslawa #0" = -1
-	"Boleslaw #1" = 111
-	"Bezprym #0" = 1
-	"Kazimierz #0" = 1
-	"Wladyslaw #0" = 1
-	"Zbigniew #0" = 1
-	"Adelajda #0" = -1
-	"Dobroniega #0" = -1
-	"Jan #0" = 1
-	"Olga #0" = -1
-	"Agnieszka #0" = -1
-	"Richeza #0" = -1
-	"Konrad #0" = 1
-	"Odon #0" = 1
-	"Berta #0" = -1
-	"Jaroslaw #0" = 1
-	"Agnes #0" = -1
-	"Wierzchoslawa #0" = -1
-	"Jadwiga #0" = -1
-	"Zwinislawa #0" = -1
-	"Eudoxia #0" = -1
-	"Anastazja #0" = -1
-	"Konstancja #0" = -1
-	"Gertrud #0" = -1
-	"Bernard #0" = 1
-	"Beatrycza #0" = -1
-	"Kunegunda #0" = -1
-	"Ryksa Elzbieta #0" = -1
-	"Waclaw #0" = 1
-	"Trojden #0" = 1
-	"Dobrawa #0" = -1
-	"Hedwig #0" = -1
-	"Jolanta #0" = -1
-	"Euphemia #0" = -1
-	"Gosciwuj #0" = 1
-	"Borzywoj #0" = 1
-	"Beata #0" = -1
-	"Elisabeth #0" = -1
-	"Rycheza #0" = -1
-	"Yuriy #0" = 1
-	"Maciej #0" = 1
-	"Ludwik #0" = 1
-	"Salome #0" = -1
-	"Malowuj #0" = 1
-	"Demid #0" = 1
-	"Goszczon #0" = 1
-	"Sedzimir #0" = 1
-	"Miroslaw #0" = 1
-	"Wanko #0" = 1
-	"Stanislawa #0" = -1
-	"Milobrat #0" = 1
-	"Spytko #0" = 1
-	"Juan #0" = 1
-	"Kinga #0" = -1
-	"Skarbimir #0" = 1
-	"Bozydar #0" = 1
-	"Krzeslaw #0" = 1
-	"Milena #0" = -1
-	"Macko #0" = 1
-	"Czyrzniech #0" = 1
-	"Gniewomir #0" = 1
-	"Lutrud #0" = -1
-	"Rodislav #0" = 1
-	"Krystyna #0" = -1
-	"Bogumil #0" = 1
-	"Marcin #0" = 1
-	"Pawel #0" = 1
-	"Zbyszko #0" = 1
-	"Milosz #1" = 18
-	"Wszebor #0" = 1
-	"Andreas #0" = 1
-	"Dobronega #0" = -1
-	"Yazid #1" = 0
-	"al-Ikhshid #1" = 0
-	"al-Hakim #1" = 0
-	"az-Zahir #1" = 0
-	"al-Mustansir #1" = 0
-	"al-Mustali #1" = 0
-	"al-Amir #1" = 0
-	"al-Hafiz #1" = 0
-	"al-Zafir #1" = 0
-	"al-Faiz #1" = 0
-	"al-Adid #1" = 0
-	"Saladin #1" = 0
-	"Al-Aziz Uthman #1" = 0
-	"al-Mansour Muhammad #1" = 0
-	"al-Adil Sayf al-Din #1" = 0
-	"al-Kamil Naser-al-Din #1" = 0
-	"al-Adil #1" = 0
-	"as-Salih Ayyub #1" = 0
-	"al-Muazzam Turanshah #1" = 0
-	"Shajar al-Durr #1" = -1
-	"Aybak #1" = 0
-	"al-Mansour Ali #1" = 0
-	"Qutuz #1" = 0
-	"Baibars #2" = 0
-	"al-Said Barakah #1" = 0
-	"Solamish #1" = 0
-	"Qalawun #1" = 0
-	"al-Ashraf Khalil #1" = 0
-	"al-Nasir Muhammad #1" = 0
-	"Kitbugha #1" = 0
-	"Lajin #1" = 0
+	"Henryk #1" = 40
+	"Mikolaj #1" = 30
+	"Milosz #1" = 30
+	"Boleslaw #1" = 20
+	"Janusz #0" = 15
+	"Konstantyn #0" = 15
+	"Wit #1" = 10
+	"Wielislaw #0" = 10
+	"Leszek #0" = 5
+	"August #0" = 5
+
+	"Abel #0" = 0
+	"Adam #0" = 0
+	"Agapit #0" = 0
+	"Albin #0" = 0
 	"Aleksander #0" = 0
+	"Anastazy #0" = 0
 	"Andrzej #0" = 0
+	"Balthasar #0" = 0
 	"Bartosz #0" = 0
-	"Boguchwal #0" = 0
-	"Boncza #0" = 0
-	"Budziwuj #0" = 0
+	"Benedykt #0" = 0
+	"Bogufal #0" = 0
+	"Bonifacy #0" = 0
+	"Celestyn #0" = 0
 	"Czcibor #0" = 0
-	"Daniel #0" = 0
+	"Damazy #0" = 0
+	"Dariusz #0" = 0
+	"Dawid #0" = 0
+	"Dobieslaw #0" = 0
 	"Dobrogost #0" = 0
-	"Dobromir #0" = 0
-	"Domawuj #0" = 0
+	"Dominic #0" = 0
+	"Dytryk #0" = 0
+	"Efraim #0" = 0
+	"Enosz #0" = 0
+	"Eugeniusz #0" = 0
+	"Euzebiusz #0" = 0
+	"Feliks #0" = 0
+	"Formozus #0" = 0
 	"Gaudenty #0" = 0
+	"Gelazjusz #0" = 0
 	"Gierolt #0" = 0
-	"Gniewosz #0" = 0
-	"Imram #0" = 0
-	"Izbor #0" = 0
-	"Jacek #0" = 0
-	"Jaksa #0" = 0
+	"Goswin #0" = 0
+	"Grzegorz #0" = 0
+	"Henoch #0" = 0
+	"Hipolit #0" = 0
+	"Honoriusz #0" = 0
+	"Ignacy #0" = 0
+	"Innocenty #0" = 0
+	"Izaak #0" = 0
 	"Jakub #0" = 0
-	"Jakusz #0" = 0
-	"Janko #0" = 0
-	"Jerzy #0" = 0
-	"Karol #0" = 0
-	"Maslaw #0" = 0
+	"Jan #0" = 0
+	"Jonatan #0" = 0
+	"Jozef #0" = 0
+	"Jubal #0" = 0
+	"Juliusz #0" = 0
+	"Kajus #0" = 0
+	"Kalikst #0" = 0
+	"Kazimierz #0" = 0
+	"Klemens #0" = 0
+	"Konrad #0" = 0
+	"Korneliusz #0" = 0
+	"Krzysztof #0" = 0
+	"Leon #0" = 0
+	"Lucjusz #0" = 0
+	"Ludwik #0" = 0
+	"Malowuj #0" = 0
+	"Marcin #0" = 0
+	"Marek #0" = 0
+	"Michal #0" = 0
+	"Milcjades #0" = 0
+	"Mrokota #0" = 0
 	"Msciwoj #0" = 0
-	"Nadbor #0" = 0
-	"Niezamysl #0" = 0
-	"Pelka #0" = 0
-	"Piskla #0" = 0
+	"Obadiasz #0" = 0
+	"Pawel #0" = 0
+	"Pelagiusz #0" = 0
+	"Piotr #0" = 0
 	"Przybor #0" = 0
-	"Sedziej #0" = 0
-	"Sieciech #0" = 0
-	"Snowid #0" = 0
+	"Radbot #0" = 0
+	"Radzim #0" = 0
+	"Rafal #0" = 0
+	"Roman #0" = 0
+	"Ruben #0" = 0
+	"Salomon #0" = 0
+	"Sambor #0" = 0
+	"Samuel #0" = 0
+	"Sedzimir #0" = 0
+	"Sergiusz #0" = 0
+	"Seweryn #0" = 0
+	"Spytko #0" = 0
 	"Stanislaw #0" = 0
 	"Stefan #0" = 0
-	"Stoigniew #0" = 0
-	"Strasz #0" = 0
 	"Sulislaw #0" = 0
-	"Sulistryj #0" = 0
-	"Swietopelk #0" = 0
-	"Szczesny #0" = 0
+	"Sylwester #0" = 0
+	"Symplicjusz #0" = 0
+	"Syzyniusz #0" = 0
+	"Tadeusz #0" = 0
+	"Teodor #0" = 0
+	"Tobiasz #0" = 0
 	"Tomasz #0" = 0
-	"Twardomir #0" = 0
-	"Usciech #0" = 0
+	"Tymoteusz #0" = 0
+	"Unger #0" = 0
+	"Urban #0" = 0
+	"Walentyn #0" = 0
 	"Wawrzyniec #0" = 0
-	"Wieslaw #0" = 0
-	"Witosz #0" = 0
+	"Wiktor #0" = 0
+	"Wincenty #0" = 0
+	"Wladyslaw #0" = 0
 	"Wojciech #0" = 0
-	"Wojuta #0" = 0
-	"Zelibrat #0" = 0
-	"Zygmunt #0" = 0
-}
-ship_names = {
-	Arif
-	Azmi
-	Dervish
-	Fuad
-	Haci
-	Haydar
-	Mulish
-	Nuri
-	Salih
-	Said
-	Sefveti
-	Shukri
+	"Wszebor #0" = 0
+	"Zabulon #0" = 0
+	"Zachariasz #0" = 0
+	
+	"Beata #0" = -5
+	"Bozena #0" = -5
+	"Kazimiera #0" = -5
+	"Kunegunda #0" = -5
+	"Wszebora #0" = -5
 }
 
+leader_names = {
+	Arciszewski Awdaniec
+	Blociszewski Bydgoski Baranowski Boguszewski Bohatyrewicz Buczacki Biallozor Branicki
+	Czartoryski Czerwony Czapski Czeczot Chlapowski Chreptowicz Czarnkowski
+	Dunin Danilewicz Dolski Drohojowski Dzialynski Dzieduszycka Dzierzbicki
+	Firlej
+	Grzymala Goslicki Gorzenski Gorka Gamrat Gryfita Gosiewski Grocholski Grudzinski Gurowski
+	Halicki Hanski Hlebowicz Holszanski
+	Jastrzebiec Jablonowski Jazlowieki Jezierski Judycki
+	Kropidlo Kurowski Kobylanski Karlowicz Kedrowsky Kiczka Kmicic Koniecpolski Kosinski Kostka Kurnatowski Kwilecki
+	Leszczyc Laskarz Lackoronski Lanckoronski Lazninski Leszczynski Lubomirski Lubranski Lukawski
+	Mlodziejowski Muskata Marchocki Mokrzecki Malachowski Malewski Massalski Mniszech Mystowski
+	Naborowski Niemojewski
+	Odrowaz Opalinski Osinski Ossolinski Ostrorog Ostrowski
+	Paluka Pac Plater Podoski Ponetowski Potocki Pulaski
+	Radziwill Radoszewski Radziejowski Paczynski Pzewuski
+	Sulgostowski Spot Skorkowski Slomowski Slupski Suchywilk Strzemie Sedziwoj Szyszkowski Sendzimir Sluszka Scibor Sadorski Szembek
+	Traba Tarlo Tarnowski Trzebicki Tyszkiewicz
+	Umiastowski
+	Vorrade
+	Wlodkowic Wejher Wiesiolowski Woyna
+	Zagorski Zabiello Zamoyski Zaluski Zolkiewski
+}
+
+ship_names = {
+	Aleksandria Antinoe "Archaniol Michal" "Archaniol Gabriel" "Archaniol Haniel" "Archaniol Rafal" "Archaniol Sariel"  Arsinoe Anag Alicja Agata Andromeda Andromacha Ariadna
+	Burlus Bursiris Berenika Barbara
+	Ceslaus Cezarion Chloe
+	Dafne Demetria
+	Egipt Elefantina Eleonora Eunika
+	Filometor Filemona
+	Georgia
+	Hipolita
+	Joszeba
+	Kair Kambyzes Kaleb Krakus Kleopatra
+	Lemuel Lewi
+	Memfis "Maria Egipcjanka" Manasses Mechujael Meleager
+	Naftali Nimrod Nil
+	Popiel Peluzjum Ptolemeusz
+	Shellal
+	Zofia
+}
+
+army_names = {
+	"Armia z $PROVINCE$"
+}

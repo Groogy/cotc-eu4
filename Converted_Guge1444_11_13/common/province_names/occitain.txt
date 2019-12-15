@@ -117,6 +117,8 @@
 965 = "Nòva Narbona"
 945 = "Gran Tralh"
 946 = "Toleta"
+953 = "Anable"
+968 = "Tresmonts" # "Trimontium" is the original name of Boston
 993 = "Montreial"
 994 = "Qebec"
 2476 = "Sant Dídac"
