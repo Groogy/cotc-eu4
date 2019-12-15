@@ -1,30 +1,51 @@
 # Damietta
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 3 255 74 }
-historical_idea_groups = {
-	defensive_ideas
-	religious_ideas
-	offensive_ideas
-	trade_ideas
-	spy_ideas
-	diplomatic_ideas
-	innovativeness_ideas
-	economic_ideas
+color = { 3 101 74 }
+historical_idea_groups = {
+
+	defensive_ideas
+
+	religious_ideas
+
+	offensive_ideas
+
+	trade_ideas
+
+	spy_ideas
+
+	diplomatic_ideas
+
+	innovativeness_ideas
+
+	economic_ideas
+
 }
 
-historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
+historical_units = {
+
+	persian_footsoldier
+
+	persian_cavalry_charge
+
+	persian_shamshir
+
+	qizilbash_cavalry
+
+	tofongchis_musketeer
+
+	topchis_artillery
+
+	afsharid_reformed
+
+	afsharid_reformed_infantry
+
+	muslim_mass_infantry
+
+	muslim_dragoon
+
+	persian_rifle
+
 }
 
 
@@ -192,18 +213,31 @@ monarch_names = {
 	"Zaia #0" = 0
 	"Zakariyah #0" = 0
 }
-ship_names = {
-	Arif
-	Azmi
-	Dervish
-	Fuad
-	Haci
-	Haydar
-	Mulish
-	Nuri
-	Salih
-	Said
-	Sefveti
-	Shukri
+ship_names = {
+
+	Arif
+
+	Azmi
+
+	Dervish
+
+	Fuad
+
+	Haci
+
+	Haydar
+
+	Mulish
+
+	Nuri
+
+	Salih
+
+	Said
+
+	Sefveti
+
+	Shukri
+
 }
 
