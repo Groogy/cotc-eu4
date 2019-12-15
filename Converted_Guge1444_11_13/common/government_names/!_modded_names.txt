@@ -1,0 +1,29 @@
+# For specific combinations of culture, religion and other such triggers
+# Will pick the first valid one it finds in list
+
+#Heir and consort titles are generally kept simple for clarity unless there is something special in particular that can be used.
+
+saruhan_government_names = {
+	rank = {
+		1 = SARUHAN_ORDER
+		2 = SARUHAN_MAGISTRATE
+		3 = SARUHAN_DIRECTORATE
+	}
+
+	ruler_male = {
+		1 = GRAND_MASTER
+		2 = GRAND_VALI
+		3 = GRAND_MUDUR
+	}
+
+	ruler_female = {
+		1 = GRAND_MASTER
+		2 = GRAND_VALI
+		3 = GRAND_MUDUR
+	}
+
+	trigger = {
+		has_reform = saruhan_government
+	}
+}
+
