@@ -3,7 +3,7 @@ owner = X53
 controller = X53
 add_core = X53
 culture = bedouin_arabic
-religion = qarmatian
+religion = shiite
 citysize = 2000
 add_core = BSR
 discovered_by = eastern
@@ -816,5 +816,5 @@ discovered_by = ottoman
 	owner = X53
 	controller = X53
 	culture = bedouin_arabic
-	religion = qarmatian
+	religion = shiite
 }

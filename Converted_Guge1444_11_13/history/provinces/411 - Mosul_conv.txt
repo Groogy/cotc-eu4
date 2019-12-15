@@ -3,7 +3,7 @@ owner = X53
 controller = X53
 add_core = X53
 culture = kurdish
-religion = qarmatian
+religion = shiite
 citysize = 2000
 add_core = X56
 discovered_by = eastern
@@ -817,5 +817,5 @@ discovered_by = ottoman
 	owner = X53
 	controller = X53
 	culture = kurdish
-	religion = qarmatian
+	religion = shiite
 }
