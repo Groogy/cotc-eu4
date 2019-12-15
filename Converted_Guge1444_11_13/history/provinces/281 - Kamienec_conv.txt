@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = X25
-controller = X25
-add_core = X25
+owner = WAL
+controller = WAL
+add_core = WAL
 culture = russian_culture
 religion = iconoclast
 citysize = 2000
@@ -39,7 +39,6 @@ discovered_by = ottoman
 	remove_core = EPI
 	remove_core = KNI
 	remove_core = TRA
-	remove_core = WAL
 	remove_core = NAX
 	remove_core = RAG
 	remove_core = CEP
@@ -813,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = X25
-	controller = X25
+	owner = WAL
+	controller = WAL
 	culture = russian_culture
 	religion = iconoclast
 }
