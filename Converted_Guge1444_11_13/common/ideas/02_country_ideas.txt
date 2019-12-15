@@ -830,6 +830,12 @@ TRE_ideas = {
 	}
 }
 
+BRI_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
 ZAZ_ideas = {
 	trigger = {
 		always = no
