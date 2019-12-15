@@ -1,7 +1,7 @@
 # Bremen
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 190 201 210 }
+color = { 33  101  137 }
 historical_idea_groups = {
 	trade_ideas
 	religious_ideas

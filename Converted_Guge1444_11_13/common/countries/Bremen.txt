@@ -1,7 +1,7 @@
 # Hadeln
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 33  101  137 }
+color = { 190 201 210 }
 
 historical_idea_groups = {
 	trade_ideas
