@@ -3,7 +3,7 @@ owner = X74
 controller = X74
 add_core = X74
 culture = mongol
-religion = buddhism
+religion = vajrayana
 citysize = 2000
 discovered_by = eastern
 discovered_by = western
@@ -817,5 +817,5 @@ discovered_by = GUG
 	owner = X74
 	controller = X74
 	culture = mongol
-	religion = buddhism
+	religion = vajrayana
 }

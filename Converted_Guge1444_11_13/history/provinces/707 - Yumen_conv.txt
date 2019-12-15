@@ -3,7 +3,7 @@ owner = MNG
 controller = MNG
 add_core = MNG
 culture = mongol
-religion = buddhism
+religion = vajrayana
 citysize = 2000
 discovered_by = eastern
 discovered_by = western
@@ -815,5 +815,5 @@ discovered_by = ottoman
 	owner = MNG
 	controller = MNG
 	culture = mongol
-	religion = buddhism
+	religion = vajrayana
 }
