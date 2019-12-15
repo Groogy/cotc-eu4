@@ -10,6 +10,7 @@ add_accepted_culture = kannada
 religion = sunni
 clear_scripted_personalities = yes
 capital = 545
+religious_school = shafii_school
 
 1437.5.8 = {
 	monarch = {
