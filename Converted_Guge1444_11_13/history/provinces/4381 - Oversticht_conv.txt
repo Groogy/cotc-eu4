@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = GEL
 controller = GEL
 add_core = GEL
-culture = german
+culture = hannoverian
 religion = catholic
 citysize = 2000
 add_permanent_claim = Z43
@@ -815,6 +815,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = GEL
 	controller = GEL
-	culture = german
+	culture = hannoverian
 	religion = catholic
 }

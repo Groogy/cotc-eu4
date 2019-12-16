@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = BRA
 controller = BRA
 add_core = BRA
-culture = german
+culture = swabian
 religion = catholic
 citysize = 2000
 add_permanent_claim = BAV
@@ -815,6 +815,7 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = BRA
 	controller = BRA
-	culture = german
+	add_core = ALS
+	culture = swabian
 	religion = catholic
 }

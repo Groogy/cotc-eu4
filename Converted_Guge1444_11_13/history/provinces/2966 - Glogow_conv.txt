@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = SIL
 controller = SIL
 add_core = SIL
-culture = german
+culture = boehmen
 religion = catholic
 citysize = 2000
 add_permanent_claim = Z98
@@ -816,6 +816,7 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = SIL
 	controller = SIL
-	culture = german
+	add_core = Z98
+	culture = boehmen
 	religion = catholic
 }

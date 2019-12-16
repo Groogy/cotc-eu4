@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = BAV
 controller = BAV
 add_core = BAV
-culture = german
+culture = swabian
 religion = catholic
 citysize = 2000
 add_permanent_claim = Z59
@@ -815,6 +815,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = BAV
 	controller = BAV
-	culture = german
+	culture = swabian
 	religion = catholic
 }

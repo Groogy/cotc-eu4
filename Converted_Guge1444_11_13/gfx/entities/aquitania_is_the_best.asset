@@ -250,7 +250,7 @@ entity = {
 }
 
 entity = {
-	name = "AUG_ARTILLERY_4"
+	name = "AQI_ARTILLERY_4"
 	pdxmesh = "artillery_base_mesh"
 	
 	state = { name = "attack"		animation = "artillery_base_attack" }
@@ -261,7 +261,7 @@ entity = {
 	
 	attach = { 
 		name = "gunman"
-		infantry_node = "AUG_INFANTRY_4" 
+		infantry_node = "AQI_INFANTRY_4" 
 		cannon_node = "westerngfx_ARTILLERY_4_cannon" 
 	}
 }

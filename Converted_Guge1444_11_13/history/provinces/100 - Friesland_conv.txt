@@ -5,7 +5,6 @@ add_core = GEL
 culture = dutch
 religion = catholic
 citysize = 2000
-add_permanent_claim = FRI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -815,6 +814,7 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = GEL
 	controller = GEL
+	add_core = FRI
 	culture = dutch
 	religion = catholic
 }
