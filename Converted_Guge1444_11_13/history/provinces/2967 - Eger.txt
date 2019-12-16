@@ -1,0 +1,19 @@
+# - Eger
+
+owner = BOH
+controller = BOH
+add_core = BOH
+add_core = Z77
+capital = "Eger"
+culture = boehmen
+religion = catholic
+trade_goods = gold #Joachimstal mines
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

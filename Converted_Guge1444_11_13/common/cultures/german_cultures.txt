@@ -19,4 +19,59 @@ germanic = {
 		primary = ITA
 		dynast_names = Â§old_lombardÂ§
 	}
+	boehmen = {
+		primary = BOH
+		male_names = {
+			Ambrosius Anton Alexander
+			Bedrich Blasius
+			Casimir
+			Daniel Dominik
+			Eduard Egon Ehrenfried Emil Emanuel
+			Ferdinand Friedrich
+			Georg Gustav
+			Heinrich Hilarius
+			Johann Josef Jakob Jaromir
+			Karl Konrad
+			Leo Leopold
+			Michael Martin Matthäus Maximilian Moritz
+			Nikolaus
+			Ottokar Olbram Oldrich Otfried Octavius
+			Paul Peter
+			Simon Svatopluk Sobeslav
+			Thomas Theodor Thaddäus
+			Valentin Viktor
+			Wenzel Wilhelm Werner Wratislaw
+			Zwentibold
+		}
+		female_names = {
+			Adelheid Anna Antonia
+			Barbara Blanca Beatrice
+			Claudia Christine
+			Eliska Elisabeth
+			Helene
+			Judith Johanna
+			Kunigunde
+			Margarete Maria
+			Sophie
+			Theresia
+		}
+		dynasty_names = {
+			"Ankwicz von Skarbek-Poslawice" "Abik von Unicov"
+			"Brus von Müglitz" "von Bucca" "von Buchau" "von Bischofteinitz" "von Bretfeld-Chlumczansky"
+			"von Cilli" "von Cernice"
+			"von Duba"
+			"von Halitsch" "von Harrach" "von Hasenburg"
+			"von Jenstein"
+			"von Kladrau" "von Krumau" "von Kuenburg" "von Kolowrat"
+			"von Liechtenstein-Kastelkorn"
+			"von Mies" "von Manderscheid-Blankenheim" Mendel
+			Neurath "von Nymburk"
+			"von Olmütz"
+			"Przichowsky von Przichowitz" "von der Pfalz" "von Prag" "von Pilsen" "von Plan" "von Prichowitz"
+			"von Schweinfurt" "von Skarbek-Poslawice" "von Schwarzenberg"
+			"Terra von Straseci" "von Talmberg"
+			"von Unicov"
+			"von Vechta
+		}
+	}
 }
