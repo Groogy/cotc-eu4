@@ -149,23 +149,23 @@ monarch_names = {
 }
 
 leader_names = {
-	Albich "Abik von Unicov" "von Aspelt" "von Asparn" Altschul Andrä Artschlag Aumüller
-	Berka Brus "von Müglitz" "von Bucca" "von Buchau" "von Bischofteinitz" Beck Blumentritt Böhm Burkert Bauer "von Burenitz" Burian Baar Barvitius "von Bienenberg" "von Borotin" "von Boxberg" Brandl "von Bretfeld" "von Bretfeld-Chlumczansky" Bretholz Brömse "von Bubna" Buchwald
+	Albich "Abik von Unicov" "von Aspelt" "von Asparn" Altschul Andrä Artschlag Aumüller Amerling
+	Berka Brus "von Müglitz" "von Bucca" "von Buchau" "von Bischofteinitz" Beck Blumentritt Böhm Burkert Bauer "von Burenitz" Burian Baar Barvitius "von Bienenberg" "von Borotin" "von Boxberg" Brandl "von Bretfeld" "von Bretfeld-Chlumczansky" Bretholz Brömse "von Bubna" Buchwald Breisky
 	Chrt "von Cles" "von Cilli" "von Cernice" Cibulka
-	Dellinger "von Drazice" "von Duba" Döbereiner
+	Dellinger "von Drazice" "von Duba" Döbereiner "von Derslawitz"
 	Edelmann "von Eppstein" Ernstberger Engelsberg
 	Feigl Fink Frind
 	Glaessner "von Guttenstein" Gilg "von Georgenthal" "von Guttenstein"
 	Huyn "von Harrach" "von Hasenburg" Haenke "von Hückeswagen"
 	"von Jenstein"
-	Kraus "von Kladrau" "von Krumau" "von Kolowrat" Krieglstein "von Königgrätz"
+	Kraus "von Kladrau" "von Krumau" "von Kolowrat" Krieglstein "von Königgrätz" Kramerius
 	Lohelius "von Leitmeritz" "von Lamberg" Laube Lippert Löbelt "von Luditz"
-	Medek "von Mies" "von Mayern" "von Mitrowitz" "von Müglitz" Mendel
-	Neurath "von Nymburk" "von Notzing"
+	Medek "von Mies" "von Mayern" "von Mitrowitz" "von Müglitz" Mendel Mayer
+	Neurath "von Nymburk" "von Notzing" Niederle
 	"von Olmütz" "von Ossegg"
-	Patzel "von Pardubitz" "von Podiebrad" "Przichowsky von Przichowitz" "von Prag" "von Pilsen" "von Plan" "von Prestavlk" "von Prichowitz" Posselt Preussler
-	Raab "von Rosental" Riedl Rilke "von Ringelshain" "von Riesenburg"
-	Steinitz "von Skvorec" "von Schleinitz" "von Schwarzenberg" "von Skarbek-Poslawice" "von Salm-Salm" Schicht Swarovski Staffen Stockhausen 
+	Patzel "von Pardubitz" "von Podiebrad" "Przichowsky von Przichowitz" "von Prag" "von Pilsen" "von Plan" "von Prestavlk" "von Prichowitz" Posselt Preussler "von Prochazka"
+	Raab "von Rosental" Riedl Rilke "von Ringelshain" "von Riesenburg" "von Rotterau"
+	Steinitz "von Skvorec" "von Schleinitz" "von Schwarzenberg" "von Skarbek-Poslawice" "von Salm-Salm" Schicht Swarovski Staffen Stockhausen Suchy
 	"Terra von Straseci" "von Talmberg" Thirring
 	"von Ujezd"
 	"von Virneburg" "von Vechta"
@@ -174,7 +174,15 @@ leader_names = {
 }
 
 ship_names = {
+	Böhmerwald Benhof Besdiekau
 	Ceres
-	Samo
+	Derslawitz Dechtin Donau
+	Gall Gutwasser
+	Habartitz
+	Klattau Krischtin Kosmatschow Kwaslitz Laschanek
+	Pihowitz
+	Samo Stiepanowitz Stresmersch Sobietitz
+	Totschnik Tajanow Tupadl Taus
+	Wottin Witkowitz Wiederkomm
 }
 
