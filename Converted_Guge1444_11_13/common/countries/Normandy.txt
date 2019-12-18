@@ -1,159 +1,146 @@
 # Normandy
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 71 24 226 }
+color = { 131 138 116 }
 
-
-
-
-leader_names = {
-
-	"Charles" "Isabelle" "Mélusine" "Ermessinde" "Angelbert" "Rorgon" "Philippe" "Simon" "Richard" "Gauthier" 
-	"Ogier" "Bérengère" "Étiennette" "Pierre" "Érrard" "Geoffroy" "Jean" "Marie" "Jeanne" "Judith" 
-	"Foulques" "Marguerite" "Catherine" "Guiges" "Echive" "Blanche" "Emma" "Ebbon" "Aléarde" "Ildégarde" 
-	"Anne" "Benoît" "Rorgues" "Valence" "Stéphanie" "Géraud" "Hrolfr" "William" "Robert" "Henry" 
-	"Stephen" "John" "Louis" "Édouard" "Étienne" "Adalbert" "Adémar" "Adrien" "Aimery" "Alain" 
-	"Aldebert" "Aldéric" "Alphonse" "Amaury" "Amédée" "Ancel" "André" "Antoine" "Archambaud" "Arnaud" 
-	"Arnault" "Arnoul" "Aubry" "Aymar" "Barthélémi" "Baudouin" "Bérenger" "Bernard" "Bertrand" "Bohemond" 
-	"Boson" "Bouchard" "Centule" "Clotaire" "Enguerrand" "Eudes" "Eustache" "Evrard" "François" "Frédéric" 
-	"Gargamel" "Gaucher" "Gaucelin" "Gelduin" "Gilbert" "Gilles" "Godefroy" "Guichard" "Guilhem" "Guillaume" 
-	"Guy" "Hélie" "Hamelin" "Henri" "Herbert" "Hildebert" "Hugues" "Humbert" "Jacques" "Jaufré" 
-	"Jaspert" "Josselin" "Jourdain" "Julien" "Léon" "Léonard" "Lothaire" "Loup" "Manassès" "Mathieu" 
-	"Maurice" "Nicolas" "Onfroy" "Orson" "Othon" "Payen" "Raimbaut" "Raoul" "Raymond" "Raynaud" 
-	"Renaud" "Robin" "Roger" "Roubaud" "Savary" "Sigismond" "Thibault" "Thiébaut" "Thierry" "Thomas" 
-	"Valeran" "Yves" }
-monarch_names = {
-	"Charles #1" = 24
-	"Isabelle #0" = -1
-	"Mélusine #0" = -1
-	"Ermessinde #0" = -1
-	"Angelbert #0" = 1
-	"Rorgon #0" = 1
-	"Philippe #7" = 33
-	"Simon #1" = 24
-	"Richard #4" = 18
-	"Gauthier #0" = 1
-	"Ogier #0" = 1
-	"Bérengère #0" = -1
-	"Étiennette #0" = -1
-	"Pierre #0" = 1
-	"Érrard #0" = 1
-	"Geoffroy #1" = 18
-	"Jean #4" = 27
-	"Marie #0" = -1
-	"Jeanne #0" = -1
-	"Judith #0" = -1
-	"Foulques #0" = 1
-	"Marguerite #0" = -1
-	"Catherine #0" = -1
-	"Guiges #0" = 1
-	"Echive #0" = -1
-	"Blanche #0" = -1
-	"Emma #0" = -1
-	"Ebbon #0" = 1
-	"Aléarde #0" = -1
-	"Ildégarde #0" = -1
-	"Anne #0" = -1
-	"Benoît #0" = 1
-	"Rorgues #0" = 1
-	"Valence #0" = -1
-	"Stéphanie #0" = -1
-	"Géraud #0" = 1
-	"Hrolfr #1" = 0
-	"William #2" = 0
-	"Robert #2" = 0
-	"Henry #2" = 0
-	"Stephen #1" = 0
-	"John #1" = 0
-	"Louis #3" = 0
-	"Édouard #0" = 0
-	"Étienne #0" = 0
-	"Adalbert #0" = 0
-	"Adémar #0" = 0
-	"Adrien #0" = 0
-	"Aimery #0" = 0
-	"Alain #0" = 0
-	"Aldebert #0" = 0
-	"Aldéric #0" = 0
-	"Alphonse #0" = 0
-	"Amaury #0" = 0
-	"Amédée #0" = 0
-	"Ancel #0" = 0
-	"André #0" = 0
-	"Antoine #0" = 0
-	"Archambaud #0" = 0
-	"Arnaud #0" = 0
-	"Arnault #0" = 0
-	"Arnoul #0" = 0
-	"Aubry #0" = 0
-	"Aymar #0" = 0
-	"Barthélémi #0" = 0
-	"Baudouin #0" = 0
-	"Bérenger #0" = 0
-	"Bernard #0" = 0
-	"Bertrand #0" = 0
-	"Bohemond #0" = 0
-	"Boson #0" = 0
-	"Bouchard #0" = 0
-	"Centule #0" = 0
-	"Clotaire #0" = 0
-	"Enguerrand #0" = 0
-	"Eudes #0" = 0
-	"Eustache #0" = 0
-	"Evrard #0" = 0
-	"François #0" = 0
-	"Frédéric #0" = 0
-	"Gargamel #0" = 0
-	"Gaucher #0" = 0
-	"Gaucelin #0" = 0
-	"Gelduin #0" = 0
-	"Gilbert #0" = 0
-	"Gilles #0" = 0
-	"Godefroy #0" = 0
-	"Guichard #0" = 0
-	"Guilhem #0" = 0
-	"Guillaume #0" = 0
-	"Guy #0" = 0
-	"Hélie #0" = 0
-	"Hamelin #0" = 0
-	"Henri #0" = 0
-	"Herbert #0" = 0
-	"Hildebert #0" = 0
-	"Hugues #0" = 0
-	"Humbert #0" = 0
-	"Jacques #0" = 0
-	"Jaufré #0" = 0
-	"Jaspert #0" = 0
-	"Josselin #0" = 0
-	"Jourdain #0" = 0
-	"Julien #0" = 0
-	"Léon #0" = 0
-	"Léonard #0" = 0
-	"Lothaire #0" = 0
-	"Loup #0" = 0
-	"Manassès #0" = 0
-	"Mathieu #0" = 0
-	"Maurice #0" = 0
-	"Nicolas #0" = 0
-	"Onfroy #0" = 0
-	"Orson #0" = 0
-	"Othon #0" = 0
-	"Payen #0" = 0
-	"Raimbaut #0" = 0
-	"Raoul #0" = 0
-	"Raymond #0" = 0
-	"Raynaud #0" = 0
-	"Renaud #0" = 0
-	"Robin #0" = 0
-	"Roger #0" = 0
-	"Roubaud #0" = 0
-	"Savary #0" = 0
-	"Sigismond #0" = 0
-	"Thibault #0" = 0
-	"Thiébaut #0" = 0
-	"Thierry #0" = 0
-	"Thomas #0" = 0
-	"Valeran #0" = 0
-	"Yves #0" = 0
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	maritime_ideas
+	spy_ideas
 }
 
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jean #5" = 45
+	"Philippe #7" = 45
+	"Louis #3" = 35
+	"Guillaume #2" = 35
+	"Charles #1" = 30
+	"Richard #4" = 30
+	"Henri #2" = 25
+	"Étienne #1" = 20
+	"Robert #2" = 15
+	"Simon #1" = 15
+	
+	"Bérengère #0" = -5
+	"Clèmencia #0" = -5
+	"Mélusine #0" = -5
+
+	"Achille #0" = 0
+	"Alexandre #0" = 0
+	"Alexis #0" = 0
+	"Algernon #0" = 0
+	"Amdédée #0" = 0
+	"André #0" = 0
+	"Athanase #0" = 0
+	"Barnabé #0" = 0
+	"David #0" = 0
+	"Denis #0" = 0
+	"Ephraim #0" = 0
+	"Eudes #0" = 0
+	"Foulques #0" = 0
+	"Géraud #0" = 0
+	"Georges #0" = 0
+	"Gilbert #0" = 0
+	"Grégoire #0" = 0
+	"Guy #0" = 0
+	"Jourdain #0" = 0
+	"Léon #0" = 0
+	"Luc #0" = 0
+	"Marc #0" = 0
+	"Martin #0" = 0
+	"Maximilien #0" = 0
+	"Maxime #0" = 0
+	"Michel #0" = 0
+	"Nicodème #0" = 0
+	"Nicolas #0" = 0
+	"Othon #0" = 0
+	"Paul #0" = 0
+	"Pierre #0" = 0
+	"Polycarpe #0" = 0
+	"Rorgon #0" = 0
+	"Sidoine #0" = 0
+	"Thomas #0" = 0
+	"Théodore #0" = 0
+	"Yves #0" = 0
+	"Zacharie #0" = 0
+}
+
+leader_names = {
+	Asselin "d'Albert" "d'Amboise" "d'Ambray" Anzeray "d'Arques" "d'Athenous" Aubert Auffrye Auvray "d'Arcy"
+	Bailleul Baro Basnage Baudry Baujot Bauldry Bauquemare Becdelièvre "de Bellehache" Bigot Blancbaston Boislevesque Bonenffant Bonshoms Bordel Brunel Brèvedent "Du Buisson" "de Baskerville" "de Beaumont" Bruce "de Blois"
+	Charpentier Caillot "de Cahaijnes" "de Calmesnil" Caradas "de Caulmont" Cavelier Centsols "de Chefderue" "de Croismare" "de Courseilles" "de La Champagne" "de Clare" Clifford "de Crépon"
+	Damours Deschamps Desmares Destain Droullin Dubosc Dufay Duhamel Durjardin Dumont Duquesne Durerie Duval Dyel "Le Doulcet" "de Dunstanville"
+	Erquemboure Eude
+	Faucon "de Faicterau" "De Felius" Feu "De Fry" "de Ferrières" Fitzalan
+	Garin "de Gramont" "Du Gouey" Gillain Godart Godefroy Gomboult Gouel "de Grieu" Grimoult Grouchet Groulart Guéribout Guiffart Guyot "Le Goix" "de Gand" Giffard "de Grandmesnil"
+	Hallé "de Hanivel" "de Hattes" Hédiart Heuzé Hue "de La Hay" "d'Harcourt" "de Hainault"
+	Isobel
+	Jubert "Le Jumel"
+	Labbé Lallement "Le Lieu" Lhuillier "de Lombelon" "de Lorraine" Louet "de Lampérière" Lefebvre "de Lacy" "de Lara" "de Lomagne"
+	Maignart "Du Moucel" "de Malhortye" Margas Mariage "de Maromme" Martel Maynet Mesnage "de Mesniel" "de Monchy" "de Montgomery" "de Monluc" "de Montchrestien" "de Montfault" "de Moustiers" "de Moy" Mustel	 "de Mandeville" Mauduit "de Montfort" "de Montaigu" Mortimer
+	Neville "de La Noue" Nicolay
+	Osmont "d'O" Olivier
+	Paixdecoeur "Du Perron" "de La Place" "de La Porte" Papon "de Pardieu" Pasquier Patric Péricard Petremol "de Pinchemont" Pippery Pithou Postel Puchot Paynel Peverel "de Percy"
+	Quesnel Quièvremont Quincarnon "de Quincy"
+	Raoullin "de La Reue" "de La Roche" "Le Roux" Rassent "de Recusson" "de Rely" Restault Rivière Rocque Romé "de Roncherolles" Roussel Ruiz
+	Séguier "Le Sueur" "de Saussay" "de Seguzzo" "de Servian" "de Seyssel" "de Say"
+	Taillepied "Le Tellier" Theroulde Thibault Thiboust Thorel Tirel Tourmente Tournebulle Toustain Tulles Talbot "de Tosny"
+	Vastel "de Valles" "de Vandes" "de Viuepoint" "de Villy" Voisin "de Vymont" "de Vere" "de Valois"
+	"de Warenne"
+	Ygou
+}
+
+ship_names = {
+	"l'Actif" "l'Adroit" "l'Aigrette" "l'Alouette" "l'Amarante"
+	"l'Angélique" "l'Ardent" "l'Aréthuse" "l'Arrogant" "l'Alcyon"
+	"l'Atalante" "l'Aurore" "la Balance" "la Blanche" "la Blonde"
+	"le Brave" "la Brune" "la Bricolle" "la Brûlante" "la Carpe"
+	"la Charente" "le Chariot-Royal" "la Chasse" "la Corneille" "la Coulisse"
+	"la Cruelle" "la Curieuse" "le Danaé" "la Danuble" "la Dauphine"
+	"la Digue" "la Diligente" "la Dryade" "l'Écluse" "l'Écueil"
+	"l'Embuscade" "l'Émeraude" "l'Enjouée" "l'Entendue" "l'Éole"
+	"l'Étoile" "la Favorite" "la Fée" "la Félicité" "la Fidèle"
+	"la Fine" "la Flatteuse" "la Flore" "le François" "le Gaillard"
+	"la Galatée" "la Garonne" "la Gazelle" "la Gentille" "la Gironde"
+	"la Gloire" "la Grâce" "la Gracieuse" "le Grand-Ponton" "la Grive"
+	"l'Harmonie" "l'Hébé" "l'Heureux" "l'Inconstante" "l'Infidèle"
+	"le Jason" "la Jolie" "la Joyeuse" "la Junon" "le Juste"
+	"le Léger" "Le Havre" "la Levrette" "le Lion" "la Marie-Françoise"
+	"le Marin" "la Martiale" "la Menaçante" "la Nayade" "la Normande"
+	"l'Orage" "l'Oriflamme" "le Palmier" "la Palombe" "la Pélerine"
+	"le Petit-Ponton" "le Petit Saint-François" "la Pintade" "le Précieux" "le Prompte"
+	"le Résolu" "la Rocheloise" "le Rubis" "le Saint-Louis" "le Saint-Michel"
+	"le Sans-Pareil" "la Somme" "la Subtile" "la Trompeuse" "la Turquoise"
+}
+
+army_names = {
+	"Armée du Cotentin" "Armée du Bessin" "Armée du Pays d'Auge"
+	"Armée d'Alençon" "Armée de Caen" "Armée d'Argentan"
+	"Armée de Falaise" "Armée du Virois" "Armée de Neubourg"
+	"Armée de l'Avranchin" "Armée du Perche" "Armée du Mortainais"
+	"Armée du Pays de Caux" 
+	"Armée de $PROVINCE$" 
+}

@@ -1,7 +1,7 @@
 # Hainaut
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 210 120 40 }
+color = { 103 62 185 }
 historical_idea_groups = {
 	trade_ideas
 	religious_ideas
