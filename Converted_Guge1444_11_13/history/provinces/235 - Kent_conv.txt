@@ -815,6 +815,7 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = GBR
 	controller = GBR
+	add_core = Z11
 	culture = english
 	religion = catholic
 }
