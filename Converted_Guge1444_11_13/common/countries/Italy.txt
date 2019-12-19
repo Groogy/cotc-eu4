@@ -1,334 +1,164 @@
 # Italy
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 244 227 160 }
-historical_idea_groups = {
-	defensive_ideas
-	trade_ideas
-	economic_ideas
-	diplomatic_ideas
-	innovativeness_ideas
-	spy_ideas
-	naval_ideas
-	offensive_ideas
+
+color = { 125 171 84 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	naval_ideas
+	offensive_ideas
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	italian_condotta
-	austrian_tercio
-	austrian_grenzer
-	austrian_hussar
-	austrian_white_coat
-	austrian_jaeger
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
-
+monarch_names = {
+	"Casimiro #0" = 30
+	"Matteo #1" = 30
+	"Enrico #1" = 25
+	"Boleslao #0" = 20
+	"Ladislao #0" = 20
+	"Corrado #0" = 15
+	"Federico #0" = 15
+	"Miecislao #0" = 15
+	"Gregario #0" = 10
+	
+	"Barbara #0" = -5
+	"Cunegonda #0" = -5
+	"Elisabetta #0" = -5
+	"Maria #0" = -5
+	
+	"Adalberto #1" = 0
+	"Amadeo #0" = 0
+	"Andrea #0" = 0
+	"Annibale #0" = 0
+	"Antonio #0" = 0
+	"Baccio #0" = 0
+	"Baldassare #0" = 0
+	"Bartolino #0" = 0
+	"Benedetto #0" = 0
+	"Berengario #2" = 0
+	"Bernardino #0" = 0
+	"Colomanno #0" = 0
+	"Cremissiro #0" = 0
+	"Cristoforo #0" = 0
+	"Domenico"
+	"Donato #0" = 0
+	"Emerico #0" = 0
+	"Filippo #0" = 0
+	"Flaminio #0" = 0
+	"Francesco #0" = 0
+	"Gerolamo #0" = 0
+	"Giorgio #0" = 0
+	"Giovanni #0" = 0
+	"Girolamo #0" = 0
+	"Giulio #0" = 0
+	"Giuseppe #0" = 0
+	"Ippolito #0" = 0
+	"Leon #0" = 0
+	"Leonardo #0" = 0
+	"Lodovico #3" = 0
+	"Lorenzo #0" = 0
+	"Luigi #0" = 0
+	"Luzzasco #0" = 0
+	"Marco #0" = 0
+	"Mario #0" = 0
+	"Orazio #0" = 0
+	"Pellegrino #0" = 0
+	"Piermaria #0" = 0
+	"Raffaello #0" = 0
+	"Stafno #0" = 0
+	"Svetoslavo #0" = 0
+	"Tomislao #0" = 0
+	"Venceslao #0" = 0
+	"Vittorio #0" = 0
+	"Zegota #0" = 0
+}
 
 leader_names = {
-
-	"Piast" "Siemowit" "Wolislawa" "Dytryk" "Matylda" "Vanek" "Piotr" "Svatava" "Wszebora" "Mszczuj" 
-	"Mikulás" "Gertruda" "Gerhard" "Nadzieja" "Janislaw" "Vasiliy" "Józef" "Ojír" "Apollonia" "Georg" 
-	"Mikolaj" "Ryksa" "Theodoulos" "Ludmila" "Albert" "Vítek" "Wenzel" "Cenek" "Mateusz" "Judyta" 
-	"Leszek" "Premyslava" "Borzyslaw" "Henryk" "Sambor" "Doman" "Katarzyna" "Vsevolod" "Helene" "Maria" 
-	"Wincenty" "Siemomysl" "Wszemila" "Helena" "Prendota" "Wit" "Janusz" "Bavor" "Zegota" "Rogneda" 
-	"Vasilisa" "Zofia" "Dobieslaw" "Vilém" "Wido" "Eufemia" "Komitas" "Drahoslava" "Danuta" "Stephania" 
-	"Richwara" "Eustachy" "Osterhild" "Grzymislawa" "Przemyslaw" "Pechna" "Dobromila" "Magdalena" "Elzbieta" "Anna" 
-	"Volodar" "Guta" "Eufrozyna" "Swietoslaw" "Drahomíra" "Wielislaw" "Malgorzata" "Yaroslav" "Bozena" "Smiechna" 
-	"Samboja" "Salomea" "Krystyn" "Swanhildis" "Lucja" "Dalimir" "Lestek" "Mieszko" "Swietopolk" "Lambert" 
-	"Adleta" "Wladywoj" "Swietoslawa" "Boleslaw" "Bezprym" "Kazimierz" "Wladyslaw" "Zbigniew" "Adelajda" "Dobroniega" 
-	"Jan" "Olga" "Agnieszka" "Richeza" "Konrad" "Odon" "Berta" "Jaroslaw" "Agnes" "Wierzchoslawa" 
-	"Jadwiga" "Zwinislawa" "Eudoxia" "Anastazja" "Konstancja" "Gertrud" "Bernard" "Beatrycza" "Kunegunda" "Ryksa Elzbieta" 
-	"Waclaw" "Trojden" "Dobrawa" "Hedwig" "Jolanta" "Euphemia" "Gosciwuj" "Borzywoj" "Beata" "Elisabeth" 
-	"Rycheza" "Yuriy" "Maciej" "Ludwik" "Salome" "Malowuj" "Demid" "Goszczon" "Sedzimir" "Miroslaw" 
-	"Wanko" "Stanislawa" "Milobrat" "Spytko" "Juan" "Kinga" "Skarbimir" "Bozydar" "Krzeslaw" "Milena" 
-	"Macko" "Czyrzniech" "Gniewomir" "Lutrud" "Rodislav" "Krystyna" "Bogumil" "Marcin" "Pawel" "Zbyszko" 
-	"Milosz" "Wszebor" "Andreas" "Dobronega" "Theoderich" "Athalarich" "Theodahad" "Vitiges" "Alboin" "Cleph" 
-	"Authari" "Agilulf" "Adaloald" "Arioald" "Rothari" "Rodoald" "Aripert" "Godepert" "Pectarit" "Grimoald" 
-	"Garibald" "Cunipert" "Alahis" "Liutpert" "Raginpert" "Ansprand" "Liutprand" "Hildeprand" "Ratchis" "Aistulf" 
-	"Desiderius" "Karl" "Pepin" "Louis" "Lothaire" "Charles" "Karlmann" "Berengario" "Guy" "Rudolf" 
-	"Hugues" "Adalberto" "Otto" "Arduino" "Heinrich" "Gregario" "Barkon" "Tisemir" "Kujava" "Aleksander" 
-	"Andrzej" "Bartosz" "Boguchwal" "Boncza" "Budziwuj" "Czcibor" "Daniel" "Dobrogost" "Dobromir" "Domawuj" 
-	"Gaudenty" "Gierolt" "Gniewosz" "Imram" "Izbor" "Jacek" "Jaksa" "Jakub" "Jakusz" "Janko" 
-	"Jerzy" "Karol" "Maslaw" "Msciwoj" "Nadbor" "Niezamysl" "Pelka" "Piskla" "Przybor" "Sedziej" 
-	"Sieciech" "Snowid" "Stanislaw" "Stefan" "Stoigniew" "Strasz" "Sulislaw" "Sulistryj" "Swietopelk" "Szczesny" 
-	"Tomasz" "Twardomir" "Usciech" "Wawrzyniec" "Wieslaw" "Witosz" "Wojciech" "Wojuta" "Zelibrat" "Zygmunt" }
-monarch_names = {
-	"Piast #0" = 1
-	"Siemowit #0" = 1
-	"Wolislawa #0" = -1
-	"Dytryk #0" = 1
-	"Matylda #0" = -1
-	"Vanek #0" = 1
-	"Piotr #0" = 1
-	"Svatava #0" = -1
-	"Wszebora #0" = -1
-	"Mszczuj #0" = 1
-	"Mikulás #0" = 1
-	"Gertruda #0" = -1
-	"Gerhard #0" = 1
-	"Nadzieja #0" = -1
-	"Janislaw #0" = 1
-	"Vasiliy #0" = 1
-	"Józef #0" = 1
-	"Ojír #0" = 1
-	"Apollonia #0" = -1
-	"Georg #0" = 1
-	"Mikolaj #0" = 1
-	"Ryksa #0" = -1
-	"Theodoulos #0" = 1
-	"Ludmila #0" = -1
-	"Albert #0" = 1
-	"Vítek #0" = 1
-	"Wenzel #0" = 1
-	"Cenek #0" = 1
-	"Mateusz #1" = 27
-	"Judyta #0" = -1
-	"Leszek #0" = 1
-	"Premyslava #0" = -1
-	"Borzyslaw #0" = 1
-	"Henryk #0" = 1
-	"Sambor #0" = 1
-	"Doman #0" = 1
-	"Katarzyna #0" = -1
-	"Vsevolod #0" = 1
-	"Helene #0" = -1
-	"Maria #0" = -1
-	"Wincenty #0" = 1
-	"Siemomysl #0" = 1
-	"Wszemila #0" = -1
-	"Helena #0" = -1
-	"Prendota #0" = 1
-	"Wit #0" = 1
-	"Janusz #0" = 1
-	"Bavor #0" = 1
-	"Zegota #0" = 1
-	"Rogneda #0" = -1
-	"Vasilisa #0" = -1
-	"Zofia #0" = -1
-	"Dobieslaw #0" = 1
-	"Vilém #0" = 1
-	"Wido #0" = 1
-	"Eufemia #0" = -1
-	"Komitas #0" = 1
-	"Drahoslava #0" = -1
-	"Danuta #0" = -1
-	"Stephania #0" = -1
-	"Richwara #0" = -1
-	"Eustachy #0" = 1
-	"Osterhild #0" = -1
-	"Grzymislawa #0" = -1
-	"Przemyslaw #0" = 1
-	"Pechna #0" = -1
-	"Dobromila #0" = -1
-	"Magdalena #0" = -1
-	"Elzbieta #0" = -1
-	"Anna #0" = -1
-	"Volodar #0" = 1
-	"Guta #0" = -1
-	"Eufrozyna #0" = -1
-	"Swietoslaw #0" = 1
-	"Drahomíra #0" = -1
-	"Wielislaw #0" = 1
-	"Malgorzata #0" = -1
-	"Yaroslav #0" = 1
-	"Bozena #0" = -1
-	"Smiechna #0" = -1
-	"Samboja #0" = -1
-	"Salomea #0" = -1
-	"Krystyn #0" = 1
-	"Swanhildis #0" = -1
-	"Lucja #0" = -1
-	"Dalimir #0" = 1
-	"Lestek #0" = 1
-	"Mieszko #0" = 1
-	"Swietopolk #0" = 1
-	"Lambert #1" = 18
-	"Adleta #0" = -1
-	"Wladywoj #0" = 1
-	"Swietoslawa #0" = -1
-	"Boleslaw #0" = 1
-	"Bezprym #0" = 1
-	"Kazimierz #0" = 1
-	"Wladyslaw #0" = 1
-	"Zbigniew #0" = 1
-	"Adelajda #0" = -1
-	"Dobroniega #0" = -1
-	"Jan #0" = 1
-	"Olga #0" = -1
-	"Agnieszka #0" = -1
-	"Richeza #0" = -1
-	"Konrad #0" = 1
-	"Odon #0" = 1
-	"Berta #0" = -1
-	"Jaroslaw #0" = 1
-	"Agnes #0" = -1
-	"Wierzchoslawa #0" = -1
-	"Jadwiga #0" = -1
-	"Zwinislawa #0" = -1
-	"Eudoxia #0" = -1
-	"Anastazja #0" = -1
-	"Konstancja #0" = -1
-	"Gertrud #0" = -1
-	"Bernard #1" = 24
-	"Beatrycza #0" = -1
-	"Kunegunda #0" = -1
-	"Ryksa Elzbieta #0" = -1
-	"Waclaw #0" = 1
-	"Trojden #0" = 1
-	"Dobrawa #0" = -1
-	"Hedwig #0" = -1
-	"Jolanta #0" = -1
-	"Euphemia #0" = -1
-	"Gosciwuj #0" = 1
-	"Borzywoj #0" = 1
-	"Beata #0" = -1
-	"Elisabeth #0" = -1
-	"Rycheza #0" = -1
-	"Yuriy #0" = 1
-	"Maciej #0" = 1
-	"Ludwik #0" = 1
-	"Salome #0" = -1
-	"Malowuj #0" = 1
-	"Demid #0" = 1
-	"Goszczon #0" = 1
-	"Sedzimir #0" = 1
-	"Miroslaw #0" = 1
-	"Wanko #0" = 1
-	"Stanislawa #0" = -1
-	"Milobrat #0" = 1
-	"Spytko #0" = 1
-	"Juan #0" = 1
-	"Kinga #0" = -1
-	"Skarbimir #0" = 1
-	"Bozydar #0" = 1
-	"Krzeslaw #0" = 1
-	"Milena #0" = -1
-	"Macko #0" = 1
-	"Czyrzniech #0" = 1
-	"Gniewomir #0" = 1
-	"Lutrud #0" = -1
-	"Rodislav #0" = 1
-	"Krystyna #0" = -1
-	"Bogumil #0" = 1
-	"Marcin #0" = 1
-	"Pawel #0" = 1
-	"Zbyszko #0" = 1
-	"Milosz #0" = 1
-	"Wszebor #0" = 1
-	"Andreas #0" = 1
-	"Dobronega #0" = -1
-	"Theoderich #1" = 0
-	"Athalarich #1" = 0
-	"Theodahad #1" = 0
-	"Vitiges #1" = 0
-	"Alboin #1" = 0
-	"Cleph #1" = 0
-	"Authari #1" = 0
-	"Agilulf #1" = 0
-	"Adaloald #1" = 0
-	"Arioald #1" = 0
-	"Rothari #1" = 0
-	"Rodoald #1" = 0
-	"Aripert #2" = 0
-	"Godepert #1" = 0
-	"Pectarit #1" = 0
-	"Grimoald #1" = 0
-	"Garibald #1" = 0
-	"Cunipert #1" = 0
-	"Alahis #1" = 0
-	"Liutpert #1" = 0
-	"Raginpert #1" = 0
-	"Ansprand #1" = 0
-	"Liutprand #1" = 0
-	"Hildeprand #1" = 0
-	"Ratchis #1" = 0
-	"Aistulf #1" = 0
-	"Desiderius #1" = 0
-	"Karl #2" = 0
-	"Pepin #1" = 0
-	"Louis #3" = 0
-	"Lothaire #2" = 0
-	"Charles #1" = 0
-	"Karlmann #1" = 0
-	"Berengario #2" = 0
-	"Guy #1" = 0
-	"Rudolf #1" = 0
-	"Hugues #1" = 0
-	"Adalberto #1" = 0
-	"Otto #2" = 0
-	"Arduino #1" = 0
-	"Heinrich #1" = 0
-	"Gregario #1" = 0
-	"Barkon #1" = 0
-	"Tisemir #1" = 0
-	"Kujava #1" = -1
-	"Aleksander #0" = 0
-	"Andrzej #0" = 0
-	"Bartosz #0" = 0
-	"Boguchwal #0" = 0
-	"Boncza #0" = 0
-	"Budziwuj #0" = 0
-	"Czcibor #0" = 0
-	"Daniel #0" = 0
-	"Dobrogost #0" = 0
-	"Dobromir #0" = 0
-	"Domawuj #0" = 0
-	"Gaudenty #0" = 0
-	"Gierolt #0" = 0
-	"Gniewosz #0" = 0
-	"Imram #0" = 0
-	"Izbor #0" = 0
-	"Jacek #0" = 0
-	"Jaksa #0" = 0
-	"Jakub #0" = 0
-	"Jakusz #0" = 0
-	"Janko #0" = 0
-	"Jerzy #0" = 0
-	"Karol #0" = 0
-	"Maslaw #0" = 0
-	"Msciwoj #0" = 0
-	"Nadbor #0" = 0
-	"Niezamysl #0" = 0
-	"Pelka #0" = 0
-	"Piskla #0" = 0
-	"Przybor #0" = 0
-	"Sedziej #0" = 0
-	"Sieciech #0" = 0
-	"Snowid #0" = 0
-	"Stanislaw #0" = 0
-	"Stefan #0" = 0
-	"Stoigniew #0" = 0
-	"Strasz #0" = 0
-	"Sulislaw #0" = 0
-	"Sulistryj #0" = 0
-	"Swietopelk #0" = 0
-	"Szczesny #0" = 0
-	"Tomasz #0" = 0
-	"Twardomir #0" = 0
-	"Usciech #0" = 0
-	"Wawrzyniec #0" = 0
-	"Wieslaw #0" = 0
-	"Witosz #0" = 0
-	"Wojciech #0" = 0
-	"Wojuta #0" = 0
-	"Zelibrat #0" = 0
-	"Zygmunt #0" = 0
-}
-ship_names = {
-	Medea Vulcano Gloria Minerva Laatea
-	Diligenza Vittoria Eolo Concordia Forza 
-	Fama Sirena Falcon Ercole Idra "San Andrea"
-	"San Zaccaria" "San Spiridon" "San Gaetano"
-	"Fortuna Guerriera" Terror Aquileta Constanza
-	"Regina del Mar" "San Nicolo" Nettuno Rosa
-	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
-	"Amazzone Guerriera"
+	Alberti "D'Agnolo" "dell'Allio"
+	Bagnadore Belluzzi Batagio Bramanta Branca Barbarigo Bentivoglio
+	Campi "di Croazia" Caporali Cesariano Ciccione Civitali Correr Cicogna
+	Doria Dorati Dragoni Donato
+	"d'Eu" "d'Este"
+	Facciotto Federighi Fontana
+	Grazzini "di Giorgio Martini" Grimaldi "da Gagliano" Gallerani Gherardi Gritti
+	"d'Ivrea"
+	Lombardo Longhi Loredan Luzzaschi
+	Manetti Meteliai Maggi Manlio Montano Morandi Morando Mocenigo
+	Nanino "de Novara" "da Nola"
+	"di Opole"
+	Piasti Paciotto Pontelli Ponzio Panciroli Pesaro "da Palestrina"
+	Radvil Picchino Riccio rossellino Rossetti Rusconi Roselli
+	Soldati "da Sangallo" Sansovino Solari Strada
+	Tibaldi "di Tunisi" "de Tingoli" Trabaci "da Teramo" Trombetti
+	"d'Ungheria"
+	Vendramin Vecchi "dalla Viola"
+	Zaccagni Zenale Zarlino Zoilo
 }
 
+ship_names = {
+	"Abbodanza e Ricchezza" "Adria in Pace" "Amazzone Guerriera" "Anna Maria" "Aquila Incoronata" "Aquila Reale" "Aquila Valeria" "Aquila Volante"
+	"Arca di Noè" "Arma di Lech" "Arma di Nassau" "Barza Grande" "Beata Margherita" "Bella Genovese" "Buon Consiglio" "Campo d'Oche" "Capitana Barbarigo"
+	"Capitana Canale" "Capitana dei Mari" "Capitana di Sua Santità" "Capitana Lanterna" "Carli Regolati" "Carlo Duca di Lorena" "Cavalier Angelo"
+	"Cavallo Marino di Candia" "Cavallo Marino" "Cervo d'Oro" "Cristo di Venezia" "Cocha Granda di Comun" "Colomba d'Oro" "Commerce di Genova" "Corona d'Or"
+	"Corriera Veneta" "Costanza Guerriera" "Cristo di Candia" "Cristo di Corfù" "Cristo Resuscitato di Veglia" "Cristo Resuscitato di Venezia" "Cristo Risorto"
+	"Croce d'Oro" "Croce Rossa" "Dama a Cavallo" "David Golia" "Dio Padre e Santa Trinità" "Donna con il Cavallo Armata" "Drago Volante" "Duca di Lorena"
+	"Due Delfini" "Due Leoni" "Due Mani" "Elettore di Colonia" "Ercole Grande" "Ercole Piccolo" "Ercole Vittorioso" "Fama Volante" "Fattor del Zante" "Fede Guerriera"
+	"Fontana d'Oro" "Fortuna Guerriera" "Fortunato Jacob" "Fregata Contarini" "Galeone di San Marco" "Galeone Grande" "Galeone Piccolo" "Galeone Pubblico"
+	"Galera Balbi" "Galera Bembo" "Galera Civran" "Galera Diedo" "Galera Dona" "Galera Gritti" "Galera Magno" "Galera Palma" "Galera Paruta" "Galera Sagredo"
+	"Galera Soranzo" "Giglio d'Oro" "Giove Fulminante" "Gloria Veneta" "Gran Delfino" "Grande Alessandro" "Haute Combe" "I Sette Fratelli" "I Tre Re"
+	"Illuminazione Celeste" "Immacolata Concezione" "Isabella Maria" "La Donna" "Leon Coronato" "Leon d'Oro" "Leon Incoronato" "Leon Negro" "Leone di Candia"
+	"Leone di Capodistria" "Leone e Fenice" "Leone Trionfante" "Lepre Rossa" "Lucien Charles" "Madonna degli Angeli" "Madonna dei Carmine" "Madonna dei Miracoli"
+	"Madonna dei Sette Dolori" "Madonna del Rosario e San Domenico" "Madonna del Rosario" "Madonna dell'Arsenal" "Madonna delle Grazie" "Madonna delle Salute"
+	"Madonna delle Vigne" "Madonna di Loreto e San Paolo" "Madonna di Loreto" "Madonna di Marina" "Marchese Doria" "Maria Teresa" "Mezza Luna" "Monton d'Oro"
+	"Nostra Donna" "Nostra Signora del Rosario" "Nostra Signora del Soccorso" "Nostra Signora delle Vigne" "Nostra Signora di Venezia" "Nostra Signora di Zanti"
+	"Nostra Signora" "Nuova Caparra" "Pace e Abbondanza" "Padre Eterno" "Padrone di Davide Imperiale" "Piramide con Cane" "Principe di Colonia" "Principessa Grande"
+	"Principessa Piccola" "Profeta Elia" "Profeta Samuel" "Re Attila" "Re David" "Redentor del Mondo" "Regina del Mar" "Regina Incoronata" "Regina Isabella"
+	"Rizzo d'Oro" "Rosa Blanca" "Rosa Moceniga" "Ruota con Serpente" "Sacra Lega" "Sacrificio d'Abramo" "San Alvise" "San Andrea" "San Antonio Abate"
+	"San Antonio di Padova" "San Antonio" "San Bartolomeo" "San Bonaventura" "San Brun" "San Carlo Borrome" "San Carlo" "San Cristoforo" "San Demetrio"
+	"San Domenico" "San Ferdinando" "San Filippo" "San Francesco di Paola" "San Gabriele" "San Gaetano" "San Gennaro" "San Giacomo" "San Gioacchino"
+	"San Giorgio" "San Giovanni Battista" "San Giovanni" "San Girolamo" "San Giuseppe" "San Giulian" "San Guiseppe" "San Ignazio" "San Iseppo" "San Jacopo"
+	"San Jose" "San Leopoldo" "San Lorenzo Giustinian" "San Luca" "San Luigi Gonzaga" "San Luigi" "San Marco e San Tito" "San Marco Grande" "San Marco"
+	"San Michele Arcangelo" "San Michele" "San Niccolò" "San Paolo" "San Pasquale" "San Pietro Apostolo" "San Pietro di Alcantara" "San Pietro" "San Pio Quinto"
+	"San Sebastiano" "San Spiridione" "San Teodoro" "San Trifone" "San Vincenzo Ferrer" "San Vittore" "San Vittorio" "San Zaccaria" "Santa Amalia"
+	"Santa Anna" "Santa Barbara" "Santa Caterina" "Santa Chiara" "Santa Dorotea" "Santa Elena" "Santa Elisabetta" "Santa Francisco" "Santa Lucia" "Santa Maddalena"
+	"Santa Margherita" "Santa Maria Torre di Mar" "Santa Maria" "Santa Michele Arcangelo" "Santa Teresa" "Santa Virginia" "Sant'Alessandro" "Sant'Andrea" "Sant'Angelo"
+	"Sant'Eufemia" "Santissima Annunziata" "Santissima Concezione" "Santissima Trinità" "Santissimo Crocefisso" "Scala di Giacob" "Scudo della Fede" "Sibilla Europa"
+	"Signora del Belvedere" "Sol d'Oro" "Stella Maris" "Tomaso Francesco" "Toro Negro" "Tre Mani" "Tre Re" "Uomo Armato" "Uomo di Mare" "Valor Coronato"
+	"Venezia Trionfante" "Vergine Santa" "Virgo Potens" "Vittorio Emanuele" Achille Agile Aguila Alceste Aletto Amalia Amazzone Angelo Aquila Archimede Aretusa
+	Armellino Aurora Azzardo Azzardoso Baccana Barzotto Bastarda Bechignana Bellona Beroldo Braccio Brava Bucintoro Cacciatore Capitana Capri Caracciolo Carlo
+	Felice Carloforte Carolana Cerere Cigno Cingana Colombo Concezione Concordia Confidenzia Constanza Corona Costanza Cristina Cristo Croce Cupido Daino Determinada
+	Diamante Diana Diligenza Donzella Doria Ecate Elbigina Enea Eolo Ercole Eridano Etna Euridice Europa Falco Falcone Fama Fede Fedeltà Fenice Ferme Fiamma Fiorenza
+	Flora Fortuna Forza Fulmine Fuoco Furia Galantuomo Galatea Galatea Generoso Gerusalemme Giano Giasone Gioacchino Gioia Giove Giuditta Giustizia Gloria Grifona Gru
+	Guerriera Guiditta Guiscardo Gusmana Hardie Idra Idra Intrepido Invidia Ira Iride Jupiter Ketianana Lampreda Leone Leonessa Letiza Levriero Libertà Liguria Lomellina
+	Luna Lupa Maddalena Madonna Marchesa Margherita Medea Medusa Megera Mendoza Mercurio Minerva Monagina Monarca Mondo Mongibello Montagna Natività Nave Negrona
+	Neireide Nettuno Nino Ocasion Oliva Oltremare Pace Padrona Pallade Palma Partenope Passaro Patrona Perla Piemontese Pilastro Piramide Pisana Polonia Postiglione
+	Prima Pugliese Pylades Pynele Raggia Regina Roccafortis Rodi Roma Rondinella Rosa Ruggiero Sagittaria Samnita Scala Seconda Serena Sibilla Sicilia Signora
+	Simplon Sirena Sole Sparviero Speranza Stabia Staffetta Stromboli Suprema Tancredi Taranto Temperanza Terana Tigre Tirsi Torre Toscana Totusmundus Trionfo Tritone
+	Tronco Turca Urania Valor Veloce Vendicatore Venere Venetia Vesuvio Vigilante Vigilanza Vittoria Volpe Vulcano Zeffiro
+}
+
+army_names = {
+	"Armata di $PROVINCE$"
+}
+	
