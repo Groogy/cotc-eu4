@@ -1,7 +1,7 @@
 # Teutonic State
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 50 50 50 }
+color = { 102 105 104 }
 
 monarch_names = {
 	"Hugo #1" = 30
@@ -46,6 +46,7 @@ monarch_names = {
 	"Lorenz #0" = 0
 	"Matthias #0" = 0
 	"Michael #0" = 0
+	"Mose #0" = 0
 	"Paschalis #0" = 0
 	"Paul #0" = 0
 	"Peter #0" = 0
@@ -98,12 +99,13 @@ leader_names = {
 
 ship_names = {
 	Clothilda Claudia
-	Dorothea
-	Prussia	Danzig
+	Dorothea Danzig	
 	Elbing
-	Gottersweder
+	Gottersweder Galiläa.
 	Königsberg
-	Marienburg Mittenburg Mitau
+	Livonia
+	Marienburg Mittenburg Mitau "Maria von Nazaret" "Maria von Magdala" Mirjam
+	Prussia
 	Thorn
 	Windau
 	Goldingen
