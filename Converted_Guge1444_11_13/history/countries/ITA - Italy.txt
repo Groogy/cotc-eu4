@@ -4,7 +4,7 @@ add_government_reform = feudalism_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = western
-primary_culture = polish
+primary_culture = tuscan
 religion = catholic
 clear_scripted_personalities = yes
 capital = 115
@@ -16,6 +16,7 @@ capital = 115
 		adm = 3
 		dip = 3
 		mil = 4
+		culture = polish
 	}
 	add_ruler_personality = silver_tongue_personality
 }

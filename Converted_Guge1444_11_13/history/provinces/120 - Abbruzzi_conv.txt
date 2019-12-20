@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = PAP
 controller = PAP
 add_core = PAP
-culture = italian
+culture = neapolitan
 religion = catholic
 citysize = 2000
 add_permanent_claim = NAP
@@ -815,6 +815,7 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = PAP
 	controller = PAP
-	culture = italian
+	add_core = NAP
+	culture = neapolitan
 	religion = catholic
 }

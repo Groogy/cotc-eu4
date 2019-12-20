@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z21
 controller = Z21
 add_core = Z21
-culture = italian
+culture = piedmontese
 religion = catholic
 citysize = 2000
 add_permanent_claim = ITA
@@ -816,6 +816,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = Z21
 	controller = Z21
-	culture = italian
+	culture = piedmontese
 	religion = catholic
 }

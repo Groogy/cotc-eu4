@@ -15,9 +15,12 @@ east_slavic = {
 		primary = RUS
 		dynasty_names = { "Mikhailovich" "Andreievich" "Borisov" "Izyaslavich" "Rurikid" "Konstantinov" "Balashov" "Artamonovich" "Rumyantsev" "Naryshkin" "Poluektovich" "Sheremetev" "Valuyev" "Bryachislavich" "Igorevich" "Iziaslavich" "Rostislavich" "Vysheslavich" "Yaroslavich" "Davidovich" "Danilovich" "of Mologa" "of Nizhyn" "Turgenev" "Lukovic" "Borisov" "Artamonovich" "Bestuzhev-Ryumin" "of Vladimir" "Vsevolodovich" "Yaroslavich" "of Krasonye" "Demidov" "Valuyev" "Torivic" "Meshchersky" "of Skopin" "Yelesic" "Galitsyn" "of Suceava" "of Zikh" "Gdovich" "of Vecsovato" "Kholmich" "of Peschiera" "of Crema" "of Alessandria" "of Chiavenna" "of Lugano" "of Mologa" "of Romanov" "Nepluyev" "Lukovic" "Panin" "Zubvich" "Tikhich" "Turovi" "Yenikeyev" "of Meinier" }
 	}
+}
+
+south_slavic
 	carantanian = {
-		primary = SLO
-		dynasty_names = { "od Auersperg" }
+		#primary = SLO # SLO is SLOVAKIA. SLOVAKIA IS NOT SLOVENIA. STOP. NO.
+		dynasty_names = { Zovneski Celjski "od Auersperg" Brankovic }
 	}
 	bosnian = {
 		primary = BOS

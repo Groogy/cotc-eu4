@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = ITA
 controller = ITA
 add_core = ITA
-culture = italian
+culture = lombard
 religion = catholic
 citysize = 2000
 add_permanent_claim = Y79
@@ -816,6 +816,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = ITA
 	controller = ITA
-	culture = italian
+	culture = lombard
 	religion = catholic
 }

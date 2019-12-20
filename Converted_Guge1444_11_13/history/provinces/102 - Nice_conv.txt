@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Y40
 controller = Y40
 add_core = Y40
-culture = italian
+culture = ligurian
 religion = catholic
 citysize = 2000
 discovered_by = eastern
@@ -815,6 +815,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = Y40
 	controller = Y40
-	culture = italian
+	culture = ligurian
 	religion = catholic
 }

@@ -7,6 +7,7 @@
 
 # COLONIES KEEP HAPPENING
 833 = "Portus Elisabethae"
+1098 = "Sancta Helena"
 1177 = "Bona Spes"
 1179 = "Sinus Musculicus" # Mossel Bay, poor attempt at Latinizing "Bay of Mussels"
 1181 = "Natalis"

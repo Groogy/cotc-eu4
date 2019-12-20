@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = NAP
 controller = NAP
 add_core = NAP
-culture = italian
+culture = neapolitan
 religion = catholic
 citysize = 2000
 add_core = Y44
@@ -815,6 +815,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = NAP
 	controller = NAP
-	culture = italian
+	culture = neapolitan
 	religion = catholic
 }
