@@ -54,6 +54,7 @@
 162 = "Semmlin"
 163 = "Kreta"
 193 = "Freigrafschaft"
+204 = "Delfinat"
 205 = "Savoyen"
 206 = "Galicien"
 207 = "Asturien"

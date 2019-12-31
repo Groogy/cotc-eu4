@@ -80,15 +80,27 @@
 2975 = "Clèveri" # speculative. Catalan for Cleves is "Clèveris", and Catalan for Trier is "Trèveris". Occitan for Trier is "Trèveri", which is like the Catalan form but without the final -s.
 4383 = "L'Aia" # Den Haag
 
-# Spain
+# Spain & Portugal
+206 = "La Coronha"
+207 = "Astúrias"
 209 = "Biscaia"
+210 = "Navarra"
+211 = "Òsca"
 212 = "Girona"
 214 = "Saragossa"
+215 = "Valhadolid"
 219 = "Toleta"
 220 = "Valéncia"
+221 = "Múrcia"
+224 = "Sevilha"
+225 = "Còrdoa"
 227 = "Lisbona"
 333 = "Malhòrca"
+1745 = "Cantàbria"
+1749 = "Cadis"
+1750 = "Alacant"
 2987 = "Urgèl"
+2990 = "Teròl"
 4559 = "Menòrca"
 4560 = "Eivissa"
 
@@ -124,6 +136,19 @@
 2476 = "Sant Dídac"
 2516 = "Sant Dionisi" # Video games
 
+# Caribbean
+483 = "Illas Turcas"
+492 = "Pòrt Ric"
+494 = "Sant Cristòl"
+495 = "Antica"
+497 = "Dominica"
+498 = "Martinica"
+499 = "Santa Lúcia"
+500 = "Sant Vincenç"
+501 = "Barbat"
+502 = "Trinitat"
+1881 = "Sant Martin"
+
 # Mexico
 2647 = "Veracrotz"
 
@@ -137,3 +162,7 @@
 764 = "Sant Amarus"
 766 = "Sant Vicenç"
 2916 = "Riu Contas"
+
+367 = "Açòres" # Azores
+368 = "Madeira" # Madeira
+1096 = "Cap Verd" # Cape Verde
