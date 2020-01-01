@@ -131,8 +131,10 @@
 993 = "Montreial"
 994 = "Qebec"
 1000 = "Pòrt Odiló"
+2012 = "Fòrt Igin"
 2569 = "Menda"
 2570 = "Sant Jehan" # "Saint John", with an archaic form for "John"
+2571 = "Nòuhac" # New + -acum
 2573 = "Placencia"
 2577 = "Sét Isclas"
 2579 = "Rhodanius"
@@ -197,6 +199,9 @@
 2560 = "Bòrn"
 2561 = "Arcaishon"
 2562 = "Patzòbol" # Pax + -opolis, occitan-ized
+2563 = "Telesfòr"
+2564 = "Socoqés"
+2565 = "Vila Boeci"
 2566 = "Pòrt Bituitus"
 2567 = "Montalban"
 2639 = "La Clapa" # it's an area near Narbonne
@@ -206,6 +211,7 @@
 893 = "Nòva Bordèu" # Video games
 894 = "Castras" # arbitrary
 895 = "Los Arcansas"
+896 = "Anaclet"
 897 = "Pichon Pèire" # "Petite Pierre", what the hell even is that
 899 = "Monts als Arcs" # Monts aux Arcs
 900 = "Sant Loís" # Saint Louis, MO
@@ -240,11 +246,23 @@
 2530 = "Bilocci"
 
 # California
+862 = "Argelers" # Argelès-sur-Mer
+865 = "Pòrt de Califòrnia"
+866 = "La Patz"
 868 = "Los Àngels"
 869 = "Sant Lucia"
-2021 = "Sant Francés"
-2476 = "Sant Dídac"
+871 = "Sant Libèr"
+2021 = "Pòrt Casse" # "Port Oak"
+2616 = "Cosés" # Couzeix, a village near Limoges
+2620 = "Lo Rosarit" # El Rosarito
+2476 = "Sant Dídac" # San Diego
+2477 = "Eleutèri"
 4577 = "Riu Colorat"
+4634 = "Fòrt Cassiodor"
+4637 = "Sant Francés" # San Francisco
+4638 = "Olmat" # "Elm"
+4639 = "Sant Filip"
+4649 = "Guaimas" # Guaymas
 
 # Caribbean
 483 = "Illas Turcas"
@@ -269,12 +287,15 @@
 849 = "Aigapulchre" # The folk etymology of Acapulco is that it's derived from a(c)gua + pulchra, meaning "beautiful water". This is almost certainly false, but that won't stop me.
 852 = "Mèjic"
 858 = "Sant Teodard" # Saint Theodard, patron saint of Narbonne
+859 = "Sant Marçau" # Saint Martial of Limoges, patron saint of Limoges
+860 = "Jurnhac" # Jourgnac, a village a little south of Limoges
 881 = "Secors" # Socorro
 883 = "Sant Antoni" # San Antonio, Texas
 884 = "Baia Sant-Loís"
 888 = "Iscla de Malhat" # trying to do an Occitan equivalent of "Isla de Malhado", the first name for the Galveston area
 2498 = "Lo Pas" # El Paso
 2499 = "Riu Gran" # Rio Grande
+2627 = "Siguata" # Cihuatlan
 2630 = "Agde"
 2632 = "Sant Austremoni" # Saint Austremonius, patron saint of Clermont
 2633 = "Vila Peç"
@@ -282,6 +303,7 @@
 2641 = "Pòrt Alaric"
 2646 = "Sant Joan Batista"
 2647 = "Veracrotz" # Veracruz
+2648 = "Jopèi" # Yopi
 2649 = "Santa Reinelda" # Saint Reineldis, patron saint of Saintes, France
 2651 = "Sant Saurin" # Saint Severin, patron saint of Bordeaux
 2652 = "Los Batabils"
@@ -299,7 +321,9 @@
 4591 = "Gran Chauacá"
 4628 = "Barrella" # Catalan for the common Tumbleweed
 4643 = "Sant Loís de Tolosa" # Saint Louis of Toulouse is, ironically, not the patron saint of Toulouse.
+4646 = "Beinac" # Beynac, a village near Limoges
 4647 = "Sant Jan"
+4648 = "Festiac" # Feytiat, a village near Limoges
 
 # South America
 748 = "Betelèm"
