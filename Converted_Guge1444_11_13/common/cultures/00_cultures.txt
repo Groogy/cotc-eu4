@@ -1453,7 +1453,7 @@ french	= {
 			Guilhem Garcia Gerard Gui Grifon Gilbert Gregori Gaston
 			Isidor
 			Jordi Jaufré Joan Josep Jovin Juli Julian
-			Loís Lop Leon
+			Loís Lop Leon Laurenç
 			Miquel Marc Manases Martin Matfre Marçau
 			Nicetius Nicolau
 			Oton

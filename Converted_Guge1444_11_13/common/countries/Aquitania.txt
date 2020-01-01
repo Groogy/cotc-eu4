@@ -108,6 +108,7 @@ monarch_names = {
 	"Jovin #0" = 0
 	"Juli #0" = 0
 	"Julian #0" = 0
+	"Laurenç #0" = 0
 	"Leon #0" = 0
 	"Loís #0" = 0
 	"Lop #0" = 0

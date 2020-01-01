@@ -6,13 +6,8 @@
 2313 = "Antiochia"
 
 # COLONIES KEEP HAPPENING
-833 = "Portus Elisabethae"
-1098 = "Sancta Helena"
-1177 = "Bona Spes"
-1179 = "Sinus Musculicus" # Mossel Bay, poor attempt at Latinizing "Bay of Mussels"
-1181 = "Natalis"
-1306 = "Sanctus Thomas"
 
+# North North America
 868 = "Angelopolis"
 893 = "Novum Aurelianum"
 927 = "Sanctus Augustinus"
@@ -26,6 +21,7 @@
 2554 = "Mariana"
 2476 = "Sanctus Didacus"
 
+# Caribbean
 494 = "Sanctus Christophorus"
 495 = "Antiquus"
 498 = "Martinica"
@@ -34,18 +30,39 @@
 502 = "Trinitas"
 1881 = "Sanctus Martinus"
 
+# Mexico
+849 = "Aqua Pulchra"
+852 = "Temistitlana" # Latin for Tenochititlan
+2647 = "Vera Crux"
+
+# South America
 753 = "Flumen Magnum"
 756 = "Baia"
 761 = "Spiritus Sancti"
 762 = "Sanctus Thomas"
 765 = "Minarum Generalium"
 766 = "Sanctus Vicentius"
+775 = "Assumptio"
+776 = "Conceptio"
 778 = "Flumen Argenteum"
+781 = "Portus Desideratus"
+782 = "Terra Fuegianus"
 2837 = "Sancta Catalina"
 2848 = "Sancta Fides"
 2849 = "Rosarius"
 2850 = "Mons Videus"
 2857 = "Flumen Magnum Meridionalis"
 2868 = "Sanctus Antonius"
+2869 = "Florida Blanca"
 2878 = "Sancta Thecla"
+2891 = "Sanctus Antonius Magnensis"
+2894 = "Sanctus Iosephus"
 2911 = "Nativitas"
+
+# Africa
+833 = "Portus Elisabethae"
+1098 = "Sancta Helena"
+1177 = "Bona Spes"
+1179 = "Sinus Musculicus" # Mossel Bay, poor attempt at Latinizing "Bay of Mussels"
+1181 = "Natalis"
+1306 = "Sanctus Thomas"
