@@ -74,6 +74,7 @@ monarch_names = {
 	"Bonifaci #0" = 0
 	"Borel #0" = 0
 	"Boson #0" = 0
+	"Brunò #0" = 0
 	"Carles #0" = 0
 	"Centolh #0" = 0
 	"Claudi #0" = 0
@@ -124,13 +125,13 @@ monarch_names = {
 	"Pau #0" = 0
 	"Pèire #0" = 0
 	"Ponç #0" = 0
+	"Rafaèl #0" = 0
 	"Raimond #0" = 0
 	"Rambaud #0" = 0
 	"Raolf #0" = 0
 	"Renat #0" = 0
 	"Sancho #0" = 0
 	"Savarics #0" = 0
-	"Segui #0" = 0
 	"Sèrgi #0" = 0
 	"Sevèr #0" = 0
 	"Severin #0" = 0
@@ -156,47 +157,48 @@ monarch_names = {
 }
 
 leader_names = {
-	Agier "del Abatut" Atonis Alquerius Aymes Algais "dels Armes" "d'Aspel" "d'Apchièr" Anglada "d'Aurenja" "d'Arle" Alfaric "d'Aorlhac" Amorós
-	Bonsom Barravi Bares Barra Bonasias Baiulus "de Balencs" "de Blezon" Bonassa "de las Bordas" Baudrier Biron "de Bornelh" Brueis Brun Bèc "de la Bacalaria" Bachas
-	Cathena "de Calhavello" "de Cornelhano" Chaberti "de Cazalibus" "de Cabaretz" "de Castelbo" Castanh "de Corteta" Crosilhat Cailús
-	Domerc Danièl Delèris Delpastre Desporrins "de Diá"
-	Escrivan "d'Escorralha" Escartin
-	Fava "de Fulhonibus" Fontanas Fortis "lo Frizos" Fonsalada Faidit Flehutin "de Franguis" Fretpuch "de Fretel"
-	Gardas Guidonis "de Galhaco" "de Grepiaco" Gilaberti Goloens Gausmar Galhard Godolin Garchot
-	Hugonis
-	"de la Isla"
-	Jusep "dels Juratz" Javaloyès
-	Laneria "de Lomanha" "de Lhivro" "de Sant Leidier"
-	Mihasserius Mabres Macellarius "de Maro" "de Manso" "de Malleo" Mirs "de Malvezi" "de Maruèlh" "de Marselha" Marieton "de Miraval" "dau Melhau" Manzer
-	Odonis
-	Plura "de Pinu" Peyrolle Peletz "de Peirigorc" "de Porcairagues" Peirotet Prax "de Puèicibot"
+	Agier "del Abatut" Atonis Alquerius Aymes Algais "dels Armes" "d'Aspel" "d'Apchièr" Anglada "d'Aurenja" "d'Arle" Alfaric "d'Aorlhac" Amorós Audeguil Anouilh Amont "d'Arribans" "d'Aira" "d'Angressa" "d'Arbocava" "d'Arjusan" "d'Artés" "d'Artassen" "d'Aurelhan" Amalvi Andrio "d'Alegret" "d'Antisac" "d'Aspas" "d'Audemar" Astaychs Auriol
+	Bonsom Barravi Bares Barra Bonasias Baiulus "de Balencs" "de Blezon" Bonassa "de las Bordas" Baudrier Biron "de Bornelh" Brueis Brun Bèc "de la Bacalaria" Bachas Baysselance Berland "de Baroncelli" Brueis "de La Bohèira" "de Bascons" "de Basserclas" "de Bastenas" "de Belís" "de Biscarròssa" "de Borriòt" "del Bocau" "del Boy" "de Bonisso" Belona "del Bost" "dal Bugo" "de Bizols" Boysc "de la Boaria" Battaut Barrieya Blanquet Borgaugo Botas Bru "de de la Belenchia" "del Biro" "del Boich" "La Baylia" "de Bernutz" "del Bancutz" "de las Brossas" Besten Bonamor "de Binola"
+	Cathena "de Calhavello" "de Cornelhano" Chaberti "de Cazalibus" "de Cabaretz" "de Castelbo" Castanh "de Corteta" Crosilhat Cailús Camprat "de Casaus" "de Coincy" "de Calhavel" "de Castèths" "de Cledas" "de Canhòta" "de Castèthnau" "de Casalís" "de Creon" "de Costa" "del Chauze" "de Cassagra" Chopi Cruvelier Chablanc Chamban Charrada Chaumart Coyfet "de Combas" "de la Chalmia" "de la Costura" "del Chastanch" "del Cheyro"
+	Domerc Danièl Delèris Delpastre Desporrins "de Diá" Daney Delmas Devoluy "de Dacs" "de Donzac" "de Doasit" "de Dume" Dalhona Delprat Darrago Durant Dauriac Dolinier Delluc "del Deffes" Dornat
+	Escrivan "d'Escorralha" Escartin "d'Escalans" "d'Estiguarda" "d'Estivaus" "d'Èrm" "d'Eschirpel" "d'Eschalabo" "d'Espero" Estreguilh
+	Fava "de Fulhonibus" Fontanas Fortis "lo Frizos" Fonsalada Faidit Flehutin "de Franguis" Fretpuch "de Fretel" Furlan Favela "de Folquo" "de Feran" "de Fon Abesque" "dal Forn" "del Faysther"
+	Gardas Guidonis "de Galhaco" "de Grepiaco" Gilaberti Goloens Gausmar Galhard Godolin Garchot Guédiguian Giera "de Granada" "de Gojac" "de Gèuna" "de Galhèra" "de Gars" "de Gòs" "de Gots" "de La Granja" Garchot "de Gacami" "de Gastavi" "de Gauselm" "de Godorn" Gautier Girnaut Giraudo "de Gordo" Garel Gontran Guari
+	Hugonis "del Hrèishe" "de Havars" "de Hins" "de Hontans" "de Horcs Arriu" Huguet
+	"de la Isla" "d'Ishós"
+	Jusep "dels Juratz" Javaloyès "de Jòssa" "del Jaric" "de Jalat" Jaudo Jaubert Jantart Jalot
+	Laneria "de Lomanha" "de Lhivro" "de Sant Leidier" "de Linça" "de Laureda" "de Lon" "de Lesgòr" "del Lui" "de Loèr" "de Lorguolhia" "de Lórquen" "de Lussanhet" "de Laffon" "de Lagrava" "de Lasso" "de Layral" "de Lemozi" "de Lacostura" Lapeyrierya Lunaut "del Lacel" Lacrossa  "del Lassel" Lacrotz "de Luciart"
+	Mihasserius Mabres Macellarius "de Maro" "de Manso" "de Malleo" Mirs "de Malvezi" "de Maruèlh" "de Marselha" Marieton "de Miraval" "dau Melhau" Manzer Marquet "de Montanha" Molinaro "de Montuèg" "de Malhàs" "de Magesc" "de Marpaps" "de Mant" "de Maurias" "de 	Maseròlas" "de Mimbasta" "de Melhan" "de Miramont" "de Massanjas" "de Montsegur" "del Mont" "de Montgalhard" "de Montagut" "de Monthòrt" "de Manh" "de Manha" "de Merle" "de Mynho" "de Milhac" Malet Maurel Mazet Morla "de Marmoyschs" "de Mersier" Moschart Mico Mynhot Machabuey Milheyrol "del Marbot" Marenc
+	"de Nerbis" "de Nassiet" "de Nossa" "de Narròssa"
+	Odonis "d'Oriest" "d'Ondres" "d'Onard" "d'Òrcs" "d'Osort" "d'Òssagòr"
+	Plura "de Pinu" Peyrolle Peletz "de Peirigorc" "de Porcairagues" Peirotet Prax "de Puèicibot" Philippart Panhòl "de Parentís" "de Parlebòsc" "de Perquia" "de Pei" "de Pissòs" "de Polhon" "del Poi" "del Pi" "de Papasol" "de Pinocha" "del Prat" "del Pont" Pars Pinso "de Peyroni" Petitaut Pinel Pestel "de Perpezat"
 	"d'Orlhac"
-	"de Quersi"
-	Radulphus "de Roaxio" Raynes Riqueti Rulh "de Ruppe" "de Rippis" "de Roquis" "de Rabastens" "de Rocafolhs" Romanilha "deu Riu" Romanilha
-	"de Saissi" "de Sent Beat" "de Sent Prais" "de Salvanhac" "de Salanovat" "de Saleta" "de Sant Circ" "de Segret" "de Sanha"
-	Triarius Tolsa "del Truc" "de Tolosa" Talhaferri Telièr "de Trobar" "de Tintinhac"
-	Unautz "d'Ussel"
-	Vinhas Varest Vinas Vasconis "de Vals" Verlhac "de Ventadrn" Viaule "de Vilaret"
+	Quoms "de Quersi"
+	Radulphus "de Roaxio" Raynes Riqueti Rulh "de Ruppe" "de Rippis" "de Roquis" "de Rabastens" "de Rocafolhs" Romanilha "deu Riu" Romanilha "de Rouanel" "de Retjons" "de Ròcahòrt" "de Rambert" "de la Rocha" "de Rossel" "del Rat" Raleya Romyo "de la Rossia" Rulhos
+	Sepet "de Saissi" "de Sent Beat" "de Sent Prais" "de Salvanhac" "de Salanovat" "de Saleta" "de Sant Circ" "de Segret" "de Sanha" "de Sufren" "de Sèrralots" "de Sensac" "de Sent Anhet" "de Sent Avit" "de Sent Genh" "de Sent Jors" "de Sent Bertomiu" "de Sent Joan" "de Sent Julian" "de Sent Lon" "de Sent Loboèr" "de Sent Laurenç" "de Sent Martin" "de Sent Maurici" "de Sent Pandelon" "de Sent Sever" "de Saubrigas" "de Samadèth" "de Sent Jàguen" "de Saunhac" "de Sindèras" "de Sòrts" "de Sarlat" Segui "de Sirvento" Sechaval "de Samatias" "de Solier"
+	Triarius Tolsa "del Truc" "de Tolosa" Talhaferri Telièr "de Trobar" "de Tintinhac" "de Tèrcis" "de Tilh" "de Tetiu" "de Tòssa" "de Trensac" "de Toloseta" "de Temolat" Trotart "de la Tor" "de Temloat" Teysthendier "de Tornaffort" "de Telhac"
+	Unautz "d'Ussel" "d'Uishac" "d'Urgons"
+	Vinhas Varest Vinas Vasconis "de Vals" Verlhac "de Ventadrn" Viaule "de Vilaret" "de Vinhòlas" "de Vaths" "de Vergüei" "de Veirias" "del Vinhau" "de Vilanava" "de Vernh" Vigoros Vinharier Valat "de Vinhayrac" "de las Veyrieras"
 }
 
 ship_names = {
 	Armanhac Auvèrnhe Aquitània Aush Auloron Azalaís Aureòl "Aeneas Silvius" Agla Aire Arcalshon
-	Baiona Bearn Biàrritz Bigòrra Bordèu Bonafós Berenguela Bituitus Beatriz Balena Bisarrossa
-	Cornelha Cèrvi "La Canau" "Crotz de Tolosa"
+	Baiona Bearn Biàrritz Bigòrra Bordèu Bonafós Berenguela Bituitus Beatriz Balena Bisarrossa Bornazela Botille
+	Cornelha Cèrvi "La Canau" "Crotz de Tolosa" "Còr Sacrat"
 	"Duc de Tolosa" Doça Dacs
 	Engolmés Eliberris "L'Esparra"
-	Fois Folquet Frèdol
+	Fois Folquet Frèdol Focho
 	Garona Gasconha Gironda Guiana Gallia Guionetus Gothia Guillelmus Gondovald Gerberge Gislebertus "Gay Saber" "Genial de Gasconha"
 	Honoretus "Hunald d'Aquitània"
 	Immortal Inevitable Imbrandable Indefectible Invariable Incredible Independent Índia
 	Jacomardus Joana
-	Lemosin Lengadòc Liborna Lionés Luernios Liaupard Leon Liborna Lorda
-	"Marcus Miallus" Monstre Malhòrca Malastrós Mureth Mamisan
-	Novempopulània Narbonés Nemausus
+	Lemosin Lengadòc Liborna Lionés Luernios Liaupard Leon Liborna Lorda Labatut "Licgier de Bona Bocha"
+	Magdalena "Marcus Miallus" Monstre Malhòrca Malastrós Mureth Mamisan
+	Novempopulània Narbonés Nemausus "Nòsta Dama"
 	Pau Peiregòrd Pirenèus Provença Pelfort Perdigon
 	Quodvultdeus Ortès
-	Roergue Rosselhon Robertz Rotboald
-	Santonge Septimania "Santa Maria" "Sant Ròc" "Sant Agustin" "Sant Adrian" "Sant Ermengol" "Sant Martin" "Sant Omobon" "Sant Torquat" "Sant Retir" "Sant Geli" "Sant Sarnin" "Sant Onèst" "Sant Fermin" "Sant Joan" "Sant Jòrdi" "Sant Pèir" "Santa Reparata" "Santa Quitèira" Sibilia Superbus "Sant Sarnin" "Sant Selvi" Solac "Sant Gaudenç"
+	Roergue Rosselhon Robertz Rotboald Ramnolph
+	Santonge Septimania "Santa Maria" "Sant Ròc" "Sant Agustin" "Sant Adrian" "Sant Ermengol" "Sant Martin" "Sant Omobon" "Sant Torquat" "Sant Retir" "Sant Geli" "Sant Sarnin" "Sant Onèst" "Sant Fermin" "Sant Joan" "Sant Jòrdi" "Sant Pèir" "Santa Reparata" "Santa Quitèira" Sibilia Superbus "Sant Sarnin" "Sant Selvi" Solac "Sant Gaudenç" "Sant Nicolàs" "Sant Marçau" "Sant Pau" "Santa Crotz" "Sant Brunò" "Santa Eulalia" "Sant Rafaèl"
 	Trobador Tigre Thule Tarba
 	Violant Victòria Vielha
 }
