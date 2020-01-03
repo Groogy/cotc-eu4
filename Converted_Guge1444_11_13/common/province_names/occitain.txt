@@ -132,6 +132,7 @@
 987 = "Pomièira" # "Apple tree"
 988 = "Saug"
 989 = "Reivila"
+990 = "Tres-Rius"
 991 = "Cèlas"
 992 = "Lo Puèi"
 993 = "Montreial"
@@ -139,6 +140,7 @@
 995 = "Tadossac"
 997 = "Baia Roge"
 1000 = "Pòrt Odiló"
+1002 = "Emmaús"
 1003 = "Fòrt Sant-Loís"
 1004 = "Fòrt Santa-Anna"
 1005 = "Fòrt Borbon"
@@ -155,23 +157,32 @@
 2578 = "Iscla dels Perilhs"
 2579 = "Rhodanius"
 2580 = "Sant Victor"
+2581 = "Sant Africa" # Ironic!
 2582 = "Bas Sant-Laurenç"
 2584 = "Lop"
 2585 = "Briude"
 2586 = "Chalalher"
 2587 = "Andelac"
+2589 = "Sant Amanç"
 2670 = "Issarlés"
 2671 = "Sant Flor"
 
 # Colonial Eastern America
 922 = "Mobila"
 923 = "Pensacola"
+926 = "Antiòquia"
 927 = "Sant Agustin" # Saint Augustine, Florida
 928 = "Apalachee"
 929 = "Carlòbol" # Carles/Carolus + -opolis
+930 = "Guontier"
+931 = "Erau"
 932 = "Bèlfòrt"
+933 = "Jerico"
+935 = "Escandòrgue"
 936 = "Sidòbre"
 938 = "Castèl dels Pamlics"
+939 = "Casquinambalh"
+940 = "Loísvila"
 946 = "Toleta" # after Toledo, Ohio
 947 = "Punt Cedre" # Cedar Point
 948 = "Bel Riu"
@@ -181,6 +192,7 @@
 952 = "Medòc"
 953 = "Anabol" # "Anapolis", Occitan-ized
 954 = "Presquiniscla"
+956 = "Filadèlfia"
 957 = "Ciutat Plaja" # Beach City, not to be confused with Ocean Town
 958 = "Guenrohac" # Wenro + -hac
 959 = "Palunmanhe"
@@ -196,19 +208,29 @@
 970 = "Pòrt Comerç" # "Port Commerce"
 971 = "Gergovia"
 2010 = "Marmanda"
+2011 = "Silo"
 2013 = "Nòva Grussan"
 2023 = "Blanhac"
+2525 = "Carmauç"
 2533 = "Fòrt Chacat"
 2534 = "Vedastus"
+2535 = "Izarn"
 2536 = "Chequesta" # The first colonial name of Miami was 'Chequescha', after the nearby Tequesta people
 2537 = "Itchit" # Hitchiti, but Occitan-ized slightly
+2538 = "Pichona Camarga"
 2539 = "Nazaret"
+2540 = "Cauet"
 2543 = "Lo Maremme"
+2544 = "Nòu Leveson"
+2545 = "Betel"
 2546 = "Gramont"
 2547 = "La Magdalena"
+2548 = "Tutelo"
 2549 = "Commius"
 2550 = "Alienòr"
+2551 = "Monongalia"
 2552 = "Donasan"
+2553 = "Devés"
 2554 = "Blaiés"
 2555 = "Nòva Milhau"
 2558 = "Alèsia"
@@ -222,6 +244,7 @@
 2566 = "Pòrt Bituitus"
 2567 = "Montalban"
 2639 = "La Clapa" # it's an area near Narbonne
+4625 = "Parsiprestre"
 4626 = "Pòrt Iranjat" # "Port Orange"
 
 # Colonial Louisiana
@@ -348,6 +371,7 @@
 755 = "Escueyll" # 'Recife' just means 'reef' and so does this
 756 = "Baia"
 760 = "Pòrt Segur"
+761 = "Espirit Sant"
 762 = "Sant Thomé"
 763 = "Riu de Genièr"
 764 = "Sant Amarus"
