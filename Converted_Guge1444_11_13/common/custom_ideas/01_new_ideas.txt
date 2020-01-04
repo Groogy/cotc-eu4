@@ -55,10 +55,14 @@ new_idea_dip_modifiers = {
 	custom_idea_global_sailors_modifier = {
 		global_sailors_modifier = 0.1
 		chance = {
-			factor = 1
+			factor = 0.5
 			modifier = {
 				factor = 0
 				NOT = { num_of_ports = 3 }
+			}
+			modifier = {
+				factor = 2
+				NOT = { num_of_ports = 25 }
 			}
 		}
 	}
@@ -71,7 +75,7 @@ new_idea_dip_modifiers = {
 				NOT = { num_of_ports = 3 }
 			}
 			modifier = {
-				factor = 2
+				factor = 1.1
 				technology_group = western
 			}
 		}

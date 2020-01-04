@@ -925,3 +925,33 @@ MVA_ideas = {
 		always = no
 	}
 }
+
+BRB_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+FLA_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+GEL_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+CAS_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+hausa_ideas = {
+	trigger = {
+		always = no
+	}
+}
