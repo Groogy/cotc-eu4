@@ -1,6 +1,6 @@
-name = "Converted_Guge1444_11_13"
-path = "mod/Converted_Guge1444_11_13"
-user_dir = "Converted_Guge1444_11_13"
+name = "ConcertOfCreatives"
+path = "mod/ConcertOfCreatives"
+user_dir = "ConcertOfCreatives"
 disable_time_widget = yes
 normal_or_historical_nations = no
 supported_version = "1.29.3"
