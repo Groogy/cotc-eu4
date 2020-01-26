@@ -180,4 +180,5 @@
  generic_rebels_name: "$RELIGION$ Zealots"
  generic_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  generic_rebels_army: "$RELIGION$ Army"
- 
+ holy_state_reform: "Crusader State"
+ holy_state_reform_desc: "Our nation exists for one purpose: to reconquer and protect the Holy Land. We will do all in our power to defeat the infidels who would dare blaspheme against God and the Church. Deus vult!"

@@ -1,0 +1,37 @@
+EGY_ideas = {
+	start = {
+		land_morale = 0.1
+		discipline = 0.05
+	}
+	
+	bonus = {
+		num_accepted_cultures = 4
+	}
+	
+	trigger = {
+		tag = EGY
+	}
+	free = yes       #will be added at load.
+	
+	EGY_idea_1 = {
+		warscore_cost_vs_other_religion = -0.25
+	}
+	EGY_idea_2 = {
+		institution_spread_from_true_faith = 0.2
+	}
+	EGY_idea_3 = {
+		global_missionary_strength = 0.02
+	}
+	EGY_idea_4 = {
+		land_attrition = -0.4
+	}
+	EGY_idea_5 = {
+		missionaries = 1
+	}
+	EGY_idea_6 = {
+		global_unrest = -2
+	}
+	EGY_idea_7 = {
+		global_own_trade_power = 0.15
+	}
+}

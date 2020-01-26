@@ -29,3 +29,41 @@ saruhan_government = {
 		has_harem = yes
 	}
 }
+
+holy_state_reform = {
+	allow_normal_conversion = yes
+	legacy_equivalent = feudal_monarchy
+	icon = "religious_leader"
+	valid_for_nation_designer = yes
+	monastic = yes
+	nation_designer_trigger = {
+		religion = catholic
+	}
+	potential = {
+		OR = {
+			AND = {
+				tag = KOJ
+				NOT = { map_setup = map_setup_random }
+			}
+			#AND = {
+				tag = EGY
+			#	NOT = { map_setup = map_setup_random }
+			#}
+			AND = {
+				is_playing_custom_nation = yes
+				have_had_reform = holy_state_reform
+			}
+		}
+	}
+	trigger = {
+		religion = catholic
+	}
+	nation_designer_cost = 50
+	modifiers = {
+		tolerance_own = 1
+		manpower_recovery_speed = 0.15
+	}
+	ai = {
+		factor = 10
+	}
+}
