@@ -32,7 +32,6 @@ base_values = {
 
 colony_level = {
 	local_colonist_placement_chance = -0.02
-	local_colonial_growth = -1
 	local_tax_modifier = 0.04
 }
 
@@ -41,7 +40,7 @@ native_policy_hostile = {
 }
 
 tropical = {
-	local_colonial_growth = -20
+	local_colonial_growth = -15
 	supply_limit_modifier = -0.3
 	local_hostile_attrition = 2
 
@@ -51,7 +50,7 @@ tropical = {
 }
 
 arctic = {
-	local_colonial_growth = -20
+	local_colonial_growth = -15
 	supply_limit_modifier = -0.4
 	local_hostile_attrition = 1
 
@@ -62,7 +61,7 @@ arctic = {
 }
 
 arid = {
-	local_colonial_growth = -20
+	local_colonial_growth = -15
 	supply_limit_modifier = -0.2
 	local_hostile_attrition = 1
 
@@ -74,7 +73,7 @@ arid = {
 mild_winter = {
 	local_hostile_attrition = 1
 	supply_limit_modifier = -0.1
-	local_colonial_growth = -2
+	local_colonial_growth = -1
 
 	picture = "winter_mild"
 }
@@ -82,7 +81,7 @@ mild_winter = {
 normal_winter = {
 	local_hostile_attrition = 2
 	supply_limit_modifier = -0.2
-	local_colonial_growth = -4
+	local_colonial_growth = -2
 
 	picture = "winter_normal"
 }
@@ -90,7 +89,7 @@ normal_winter = {
 severe_winter = {
 	local_hostile_attrition = 3
 	supply_limit_modifier = -0.3
-	local_colonial_growth = -8
+	local_colonial_growth = -4
 
 	picture = "winter_severe"
 }
@@ -99,7 +98,7 @@ mild_monsoon = {
 	local_hostile_attrition = 1
 	local_hostile_movement_speed = -0.20
 	local_friendly_movement_speed = -0.20
-	local_colonial_growth = -2
+	local_colonial_growth = -1
 
 	picture = "monsoon_mild"
 }
@@ -108,7 +107,7 @@ normal_monsoon = {
 	local_hostile_attrition = 2
 	local_hostile_movement_speed = -0.25
 	local_friendly_movement_speed = -0.25
-	local_colonial_growth = -4
+	local_colonial_growth = -2
 
 	picture = "monsoon_normal"
 }
@@ -117,7 +116,7 @@ severe_monsoon = {
 	local_hostile_attrition = 3
 	local_hostile_movement_speed = -0.50
 	local_friendly_movement_speed = -0.50
-	local_colonial_growth = -8
+	local_colonial_growth = -4
 
 	picture = "monsoon_severe"
 }
