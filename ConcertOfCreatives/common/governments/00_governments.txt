@@ -28,6 +28,7 @@ monarchy = {
 				mandala_reform
 				revolutionary_empire_reform
 				saruhan_government
+				holy_state_reform
 			}
 		}
 		hereditary_vs_nobility = {
