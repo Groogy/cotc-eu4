@@ -980,6 +980,18 @@ colonial_colombia = {
 		}
 		name = "COLONIAL_COLOMBIA_Nou_Bordeles"
 	}
+	names = {
+		trigger = {
+			tag = SCO
+		}
+		name = "COLONIAL_COLOMBIA_Caledonia"
+	}
+	names = {
+		trigger = {
+			tag = FRA
+		}
+		name = "COLONIAL_COLOMBIA_France_Equinoxiale"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia"
@@ -1222,6 +1234,28 @@ colonial_brazil = {
 			tag = PAP
 		}
 		name = "COLONIAL_BRAZIL_Vera_Crux"
+	}
+	names = {
+		trigger = {
+			tag = FRA
+			any_owned_province = { # very Northern Brazil
+				OR = {
+					area = maranhao_area
+					area = grao_para_area
+					area = piaui_area
+					area = amapa_area
+					area = amazon_area
+					area = ceara_area
+				}
+			}
+		}
+		name = "COLONIAL_COLOMBIA_France_Equinoxiale" # yeah i know it says colonial_colombia, fight me
+	}
+	names = {
+		trigger = {
+			tag = FRA
+		}
+		name = "COLONIAL_BRAZIL_France_Antarctique"
 	}
 	names = {
 		trigger = {
