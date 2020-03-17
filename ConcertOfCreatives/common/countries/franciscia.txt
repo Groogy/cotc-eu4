@@ -1,0 +1,142 @@
+# Saint Francis / Francisiana?
+
+graphical_culture = westerngfx
+
+colonial_parent = GBR
+random_nation_chance = 0
+
+color = { 64 115 71 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+	plutocracy_ideas
+	diplomatic_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"John #0" = 40
+	"Thomas #0" = 35
+	"William #0" = 30
+	"Richard #0" = 25
+	"George #0" = 25
+	"Constantine #0" = 15
+	"Leo #0" = 15
+	"Daniel #0" = 10
+	"August #0" = 5
+	"Francis #0" = 5
+	
+	"Deborah #0" = -5
+	"Elizabeth #0" = -5
+	"Esther #0" = -5
+	"Mary #0" = -5
+
+	"Abraham #0" = 0
+	"Aloysius #0" = 0
+	"Augustine #0" = 0
+	"Bartholomew #0" = 0
+	"Benjamin #0" = 0
+	"Franklin #0" = 0
+	"Ezekiel #0" = 0
+	"Gabriel #0" = 0
+	"Gideon #0" = 0	
+	"Jabez #0" = 0
+	"Jeremiah #0" = 0
+	"Joel #0" = 0
+	"John #0" = 0
+	"Jonas #0" = 0
+	"Joseph #0" = 0
+	"Joshua #0" = 0
+	"Jubal #0" = 0
+	"Judah #0" = 0
+	"Lemuel #0" = 0
+	"Lorenzo #0" = 0
+	"Luke #0" = 0
+	"Mark #0" = 0
+	"Matthew #0" = 0
+	"Michael #0" = 0
+	"Moses #0" = 0
+	"Nahum #0" = 0
+	"Nathaniel #0" = 0
+	"Nicholas #0" = 0
+	"Noah #0" = 0
+	"Obadiah #0" = 0
+	"Patrick #0" = 0
+	"Paul #0" = 0
+	"Peter #0" = 0
+	"Roman #0" = 0
+	"Samuel #0" = 0
+	"Shadrach #0" = 0
+	"Silas #0" = 0
+	"Simon #0" = 0
+	"Solomon #0" = 0
+	"Thaddeus #0" = 0
+	"Theodore #0" = 0
+	"Timothy #0" = 0
+	"Walter #0" = 0
+	"Zabdiel #0" = 0
+	"Zachary #0" = 0
+	"Zephaniah #0" = 0
+}
+
+leader_names = {
+	Archer Armstrong Armistead
+	Brown Black Brimmer Bigelow Bridgham Burgess Barstow Barker Barnum
+	Chapman Cutter Cobb Curtis Custis Choate Curley
+	Davis Danforth Doyle Dyer Dunne Dunlop Downes
+	Fletcher Fleming
+	Green Gaston Granger Gainer
+	Hart Harrison Hayward Hadley Hoxton
+	Johnson Jacobson
+	Knowles Knight
+	Lyman Leavitt Lincoln
+	Martin Matthews Miller
+	Norcross Northcote
+	Otis Olney
+	Philips Parker Pierce Prince Palmer Potter
+	Quincy
+	Rice Rodman Robbins
+	Seaver Smith Shurtleff Shaftoe
+	Thompson Tiller Tucker Tanner
+	White Whitman Wells Wightman West Westwood Waterhouse
+}
+
+ship_names = {
+	"Archangel Gabriel" "Archangel Michael" Antelope Ardent
+	Cobra Charitable Covenant
+	Defender
+	"Fiery Sword" Fierce Freedom
+	Galilean
+	Invincible Incessant Independence
+	Jonah Jericho Jerusalem
+	Lionheart Leviathan Liberator Leopard
+	"Malice Towards None"
+	Panther Plantagenet Persistent Patriot
+	"Saint Francis" "Saint Paul" "Saint Peter" "Saint George" "Saint Mary" "Saint John" "Saint Matthew" "Saint Mark" "Saint Andrew" "Saint Patrick" "Saint Germanus" "Saint Stephen" "Saint Ignatius" "Saint Thomas" "Saint Christopher" "Saint Bartholomew" "Saint Remigius"
+	Stalwart Syrian Steadfast
+	Terror Tiger
+	Unicorn Union
+	Victory Visionary Virtuous
+	Warrior Wolf
+}

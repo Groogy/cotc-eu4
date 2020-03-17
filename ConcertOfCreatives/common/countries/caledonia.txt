@@ -1,0 +1,130 @@
+# Caledonia
+
+graphical_culture = westerngfx
+
+colonial_parent = SCO
+random_nation_chance = 0
+
+color = { 107 22 52 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"James #0" = 40
+	"Andrew #0" = 30
+	"Malcolm #0" = 30
+	"Robert #0" = 25
+	"Kenneth #0" = 25
+	"Alasdair #0" = 20
+	"Constantine #0" = 10
+	"William #0" = 10
+	
+	"Alexandra #0" = -5
+	"Catherine #0" = -5
+	"Sophia #0" = -5
+	
+	"Adam #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Benjamin #0" = 0
+	"Bonaventure #0" = 0
+	"Christian #0" = 0
+	"Christopher #0" = 0
+	"David #0" = 0
+	"Daniel #0" = 0
+	"Donald #0" = 0
+	"Duncan #0" = 0
+	"Edward #0" = 0
+	"Eugene #0" = 0
+	"Eustace #0" = 0
+	"Fergus #0" = 0
+	"Gabriel #0" = 0
+	"George #0" = 0
+	"Gilbert #0" = 0
+	"Godfrey #0" = 0
+	"Gordon #0" = 0
+	"Hannibal #0" = 0
+	"Hew #0" = 0
+	"John #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Mark #0" = 0
+	"Matthew #0" = 0
+	"Neil #0" = 0
+	"Nicholas #0" = 0
+	"Patrick #0" = 0
+	"Peter #0" = 0
+	"Paul #0" = 0
+	"Richard #0" = 0
+	"Samuel #0" = 0
+	"Seamus #0" = 0
+	"Theodore #0" = 0
+	"Thomas #0" = 0
+	"Walter #0" = 0
+}
+
+leader_names = {
+	Adair Abercromby Anstruther
+	Balfour Barclay Bannatyne Binning Bruce Blackburn Brown Borthwick Boyd Baron Borthwick Bell Barnbarroch
+	Cochrane Cockburn Craig Crichton Cunningham Colville Chiesley Campbell Carnegie
+	Dalrymple Dalgarno Davison Duncanson Dalyell Drummond
+	Elphinstone Erskine
+	Fleming Farquharson Fergushill Ferm FitzCharles Fletcher Forbes Forrester Foulis Fountainhall
+	Galt Geddes Gardiner Garnock Gibson Gledstanes Gowdie Graham Grant Gray
+	Hamilton Hume Hay Hepburn Hope Heriot Hart Hackston Howard
+	Inglis Ingram
+	Ker Kidd Keith
+	Leslie Lindsay Lauder Leslie Lindsay Livingston Lockhart Lom Lumsden Lyon Learnmonth Law Lichton
+	Murray Montgomerie Macaulay Macdonald Mackenzie Mackinnon Maclean Macpherson Menesius Mowatt Munro Murray Mylne
+	Naysmyth Nicolson Nithsdale
+	Ogilvie Oliphant
+	Pennycuik
+	Ruthven Ramsay Rattray Ross Row Rutherford
+	Scrymgeour Stewart Scotstarvit Seaton Simson Sinclair Spens Spottiswood Strachan Strang Sutherland Sydserf
+	Tarbrax Teviot Thomson Traquair Tullibardine Tucker
+	Urquhart
+	Vans
+	Wallace Weir Welwod Whitford Winchester Wilson
+	Young
+}
+
+ship_names = {
+	Adventure Aniel Antelope Ardent Ambitious
+	Cennalaph
+	Drest Domangart Diligent
+	Gormshuil Gilderoy Godscroft Gazelle "Grand Destiny"
+	Hector
+	Isobel Incessant
+	Lion Leader "Lady Grizel" "Lady Lilias" "Lady Winifred" Learned
+	Mungo
+	Nechtan "New Albany" "Noble Spirit" "Nova Britannia"
+	Persistent
+	Tiger
+	Unicorn
+	Wolf
+}

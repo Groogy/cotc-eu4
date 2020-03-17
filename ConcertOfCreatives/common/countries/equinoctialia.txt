@@ -1,0 +1,160 @@
+# Equinoxiale
+
+graphical_culture = westerngfx
+
+colonial_parent = FRA
+random_nation_chance = 0
+
+color = { 75  188  60 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"François #0" = 40
+	"Henri #0" = 35
+	"Charles #0" = 30
+	"Georges #0" = 25
+	"Nicolas #0" = 25
+	"Jean #0" = 20
+	"Étienne #0" = 20
+	"Gaston #0" = 10
+	
+	"Anne #0" = -5
+	"Beatrix #0" = -5
+	"Margaret #0" = -5
+	"Claudine #0" = -1
+	"Henriette #0" = -1
+	"Jacqueline #0" = -1
+	"Jeanne #0" = -1
+
+	"Alfred #0" = 0
+	"Alphonse #0" = 0
+	"Amaury #0" = 0
+	"André #0" = 0
+	"Antoine #0" = 0
+	"Arnaud #" = 0
+	"Augustin #0" = 0
+	"Barnabé #0" = 0
+	"Barthélemy #0" = 0
+	"Baudouin #0" = 0
+	"Bernard #0" = 0
+	"Binot #0" = 0
+	"Blaise #0" = 0
+	"César #0" = 0
+	"Charles-Nicolas #0" = 0
+	"Christophe #0" = 0
+	"Claude #0" = 0
+	"Côme #0" = 0
+	"Corbeyran #0" = 0
+	"Didier #0" = 0
+	"Eguinaire #0" = 0
+	"Gabriel #0" = 0
+	"Gaspard #0" = 0
+	"Gassot #0" = 0
+	"Gérard #0" = 0
+	"Gilbert #0" = 0
+	"Guillaume #0" = 0
+	"Guy #0" = 0
+	"Hercule #0" = 0
+	"Hervé #0" = 0
+	"Honorat #0" = 0
+	"Honoré #0" = 0
+	"Isaac #0" = 0
+	"Jacques #0" = 0
+	"Jérôme #0" = 0
+	"Joachim #0" = 0
+	"Joseph #0" = 0
+	"Joseph-François #0" = 0
+	"Jules #0" = 0
+	"Lancelot #0" = 0
+	"Laurent #0" = 0
+	"Louis #0" = 0
+	"Louis-Alphonse #0" = 0
+	"Louis-Marie #0" = 0
+	"Luc #0" = 0
+	"Marc #0" = 0
+	"Martin #0" = 0
+	"Mathieu #0" = 0
+	"Maximilien #0" = 0
+	"Melchior #0" = 0
+	"Michel #0" = 0
+	"Odet #0" = 0
+	"Odilon #0" = 0
+	"Philippe #0" = 0
+	"Pierre #0" = 0
+	"Polycarpe #0" = 0
+	"Richard #0" = 0
+	"Sébastien #0" = 0
+	"Sylvestre #0" = 0
+	"Tanneguy #0" = 0
+	"Thibault #0" = 0
+	"Thomas #0" = 0
+	"Victor #0" = 0
+}
+
+leader_names = {
+	Antheaume "d'Aubigné" Agache "d'Aubusson" "d'Alzonne"
+	Bardou Behot Bourdon Brunel Blount Belon Boutaud Boechat "de Boucaud" "du Bosc" "de Beauvais" "de Bourdeille" Bourgoing Bontemps
+	Carpentier Cossart Choppin Coulle Cueillart Cousin "de Civille" Chartrier Clément Cleutin Coton Cadéac Cujas Connan Carrault Coulomb
+	Durocher Dax Desprez Dolet "du Dros" Danfrie Desceliers Douaren Dupuy
+	Estienot Eveillart "de L'Estang"
+	Falaize Faber
+	Guedon Ganneron Garnier Gallerion "de Gadagne" Gaguin Guillemeau
+	Hebart Hérisson "de Hoyarçabal" Hallwyn "de l'Hôpital"
+	Jofre "de Joyeuse"
+	Loyseau Lafreri
+	Mallet Maboul Mahieu Moulu Mestrelle Michaëlis
+	Nel Nau
+	Ory
+	Pinel Pesson Pille Poitevin Pitanguy Piquet Paulmier "de Polverel" Pavillon Popincourt Peruçel Plantin Pelletier
+	Remon Rosée "de Randan" Richier "de Rupe" Rotz "de Rieux" Regnart Rincon Rogier Ramus Roussel
+	Sabat Sequenille Suplicy "de Saulx" Sauvage Statorius Secrétin Salicon
+	Troussu Tagliaferro "Du Tronchet" Tixier "Le Testu" Tiraqueau 
+	Vallet Vouges "de Vertus" Villart Vallès Vast Villon "de Valbelle" "de Villars" Vidoue Vigor Vatable Vinet
+}
+
+ship_names = {
+	Augustus Assuré Aventurier Attendant Actif "Arc en Ciel" Alcyon Adroit Amphitrite Avenant Africain Adélaïde
+	Beaufort Basque Bizzare Brutal
+	Constant "Cheval Marin" Changeant Croissant 
+	Dauphin
+	Éole Entendu Ecueil Emporté
+	Flamand Facheux Ferme Faucon Fidele
+	Galant Gaillard
+	Hasardeux 
+	Inconnu
+	Jules
+	Leger
+	Muretus Mercoeur Mignonne Marquis
+	Opiniâtre 
+	Poli
+	Redoubtable Railleuse Renommée
+	Solide Sirène Sylvie 
+	Trompeuse Trident Triton Thétis
+	Volontaire
+}
