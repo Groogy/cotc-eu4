@@ -203,22 +203,26 @@ spy_ideas = {
 		advisor_cost = -0.10
 	}	
 	
+	
 	agent_training = {
 		diplomats = 1		
 	}
 
 	vetting = {
 		global_spy_defence = 0.33
+		global_prov_trade_power_modifier = 0.10
+	}	
+	
+	additional_loyalist_recruitment = {
+		reduced_liberty_desire = 10
 	}
 
-	state_propaganda = {
-		ae_impact = -0.2
-	}
 	
 	claim_fabrication = {
 		fabricate_claims_cost = -0.25
-		can_fabricate_for_vassals = yes
 	}
+
+	
 	
 	privateers = {
 		embargo_efficiency = 0.25
@@ -227,6 +231,7 @@ spy_ideas = {
 	audit_checks = {
 		yearly_corruption = -0.1
 	}
+
 
 	ai_will_do = {
 		factor = 0.75
@@ -246,8 +251,8 @@ diplomatic_ideas = {
 	cabinet = {
 		diplomatic_upkeep = 1
 	}
-	grand_banquets = {
-		diplomats = 1
+	war_cabinet = {
+		war_exhaustion_cost = -0.33
 	}
 	benign_diplomats = {
 		improve_relation_modifier = 0.25
@@ -521,39 +526,143 @@ exploration_ideas = {
 			}
 		}
 		modifier = {
+			factor = 0.01
+			is_year = 1650
+		}
+		modifier = {
 			factor = 0.1
 			NOT = { has_institution = renaissance }
-			NOT = { tag = POR }
-			NOT = { tag = CAS }
+			NOT = { is_year = 1490 }
 		}
-		modifier = {
-			factor = 0.1
-			capital_scope = {
-				NOT = {
-					region = france_region
-					region = iberia_region
-					region = british_isles_region
-					region = low_countries_region
+		modifier = { # One Super Aggressive Colonizer (Portugal Analogue)
+			factor = 50
+			num_of_ports = 6
+			any_owned_province = {
+				any_province = {
+					has_province_modifier = "birthplace_of_the_renaissance"
+					continent = PREV
 				}
 			}
-			NOT = { technology_group = high_american }
+			NOT = {
+				any_country = {
+					has_idea_group = exploration_ideas
+				}
+			}
 		}
-		modifier = {
-			factor = 0.5
-			tag = ARA
-		}
-		modifier = {
-			factor = 0.1
-			NOT = { is_year = 1490 }
+		modifier = { # Aggressive Colonizers (Europe)
+			factor = 10
+			num_of_ports = 5
 			capital_scope = {
-				NOT = {
+				OR = {
 					region = iberia_region
+					region = british_isles_region
+				}
+			}
+			any_owned_province = {
+				any_province = {
+					has_province_modifier = "birthplace_of_the_renaissance"
+					continent = PREV
+				}
+			}
+		}
+		modifier = { # Aggressive Colonizers (Asia)
+			factor = 10
+			num_of_ports = 5
+			capital_scope = {
+				OR = {
+					region = coromandel_region
+					region = bengal_region
+					region = malaya_region
+					region = south_china_region
+				}
+			}
+			any_owned_province = {
+				any_province = {
+					has_province_modifier = "birthplace_of_the_renaissance"
+					continent = PREV
+				}
+			}
+		}
+		modifier = { # Aggressive Colonizers (Africa)
+			factor = 10
+			num_of_ports = 5
+			capital_scope = {
+				OR = {
+					region = horn_of_africa_region
+					region = guinea_region
+					region = maghreb_region
+					region = east_africa_region
+				}
+			}
+			any_owned_province = {
+				any_province = {
+					has_province_modifier = "birthplace_of_the_renaissance"
+					continent = PREV
+				}
+			}
+		}
+		modifier = { # Secondary Colonizers (Europe)
+			factor = 6
+			num_of_ports = 5
+			capital_scope = {
+				OR = {
+					region = france_region
+					region = low_countries_region
+					region = scandinavia_region	
+					region = italy_region
+					region = north_german_region
+					region = baltic_region
+				}
+			}
+			any_owned_province = {
+				any_province = {
+					has_province_modifier = "birthplace_of_the_renaissance"
+					continent = PREV
+				}
+			}
+		}
+		modifier = { # Secondary Colonizers (Asia)
+			factor = 6
+			num_of_ports = 5
+			capital_scope = {
+				OR = {
+					region = arabia_region
+					region = indo_china_region
+					region = japan_region
+					region = deccan_region
+					region = west_india_region
+					region = hindusthan_region
+				}
+			}
+			any_owned_province = {
+				any_province = {
+					has_province_modifier = "birthplace_of_the_renaissance"
+					continent = PREV
+				}
+			}
+		}
+		modifier = { # Secondary Colonizers (Africa)
+			factor = 6
+			num_of_ports = 5
+			capital_scope = {
+				OR = {
+					region = egypt_region
+					region = sahel_region
+					region = niger_region
+					region = kongo_region
+				}
+			}
+			any_owned_province = {
+				any_province = {
+					has_province_modifier = "birthplace_of_the_renaissance"
+					continent = PREV
 				}
 			}
 		}
 		modifier = {
 			factor = 10
 			technology_group = high_american
+			num_of_ports = 5
 		}
 		modifier = {
 			factor = 2.0
@@ -570,24 +679,6 @@ exploration_ideas = {
 		modifier = {
 			factor = 2.0
 			num_of_ports = 20
-		}
-		modifier = {
-			factor = 1000
-			OR = {
-				tag = POR
-				tag = CAS
-				tag = SPA
-			}
-		}
-		modifier = {
-			factor = 2
-			OR = {
-				tag = GBR
-				tag = NED
-				tag = ENG
-				tag = FRA
-				tag = KUR
-			}
 		}
 	}
 }
@@ -651,16 +742,6 @@ maritime_ideas = {
 		modifier = {
 			factor = 0.41
 			num_of_cities = 50
-		}
-
-		modifier = {
-			factor = 10
-			OR = {
-				has_reform = pirate_republic_reform
-				has_reform = pirate_kingdom
-				has_reform = war_against_the_world_government
-				has_reform = black_market_consortium_government
-			}
 		}
 	}
 }
@@ -778,20 +859,21 @@ expansion_ideas = {
 			}
 		}
 		modifier = {
-			factor = 5
-			OR = {
-				tag = CAS
-				tag = POR
-				tag = SPA
-			}
-		}
-		modifier = {
 			factor = 10
-			NOT = { has_dlc = "Third Rome" } # Has siberian frontier instead
-			tag = RUS
 			num_of_cities = 20
 			any_owned_province = {
-				has_empty_adjacent_province = yes
+				is_in_capital_area = yes
+				any_neighbor_province = {
+					is_empty = yes
+					OR = {
+						region = russia_region
+						region = ural_region
+						region = west_siberia_region
+						region = east_siberia_region
+						region = mongolia_region
+						region = central_asia_region
+					}
+				}
 			}
 		}
 		modifier = {
@@ -810,6 +892,21 @@ expansion_ideas = {
 				technology_group = western
 				technology_group = eastern
 				technology_group = muslim
+				technology_group = high_american
+				AND = {
+					technology_group = chinese
+					any_country = {
+						technology_group = chinese
+						has_institution = renaissance
+					}
+				}
+				AND = {
+					technology_group = indian
+					any_country = {
+						technology_group = indian
+						has_institution = renaissance
+					}
+				}
 			}
 		}
 	}
@@ -998,16 +1095,6 @@ naval_ideas = {
 		modifier = {
 			factor = 0.31
 			num_of_cities = 50
-		}
-
-		modifier = {
-			factor = 10
-			OR = {
-				has_reform = pirate_republic_reform
-				has_reform = pirate_kingdom
-				has_reform = war_against_the_world_government
-				has_reform = black_market_consortium_government
-			}
 		}
 	}
 }
